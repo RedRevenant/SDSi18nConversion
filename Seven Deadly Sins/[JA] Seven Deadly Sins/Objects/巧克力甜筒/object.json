@@ -1,0 +1,62 @@
+{
+    "Name": "SDS Chocolate cone", 
+    "Description": " ",
+    "TranslationKey": "SDS-chocolatecone-objects",
+    "Category": "Cooking", 
+    "Edibility": 60, 
+    "Price": 500, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 2,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": "SDS Chocolate pulp", 
+            "Count": 1
+        },
+        {
+            "Object": 245, 
+            "Count": 1
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "巧克力甜筒" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "它看上去不够显眼,但是巧克力的风味蕴含在其中,不要质疑它的美味与冰凉!" 
+    }
+}

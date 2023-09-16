@@ -1,0 +1,61 @@
+{
+    "Name": "SDS Winter Star Cake",
+    "Description": " ",
+    "TranslationKey": "SDS-winterstarcake-objects",
+    "Category": "Cooking", 
+    "Edibility": 70, 
+    "Price": 300, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 3,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": false,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+
+        {
+            "Object": 283, 
+            "Count": 1
+        },
+        {
+            "Object": -6, 
+            "Count": 1
+        },
+        {
+            "Object": -5, 
+            "Count": 1
+        }
+		],
+    "CanPurchase": false 
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "冬日星蛋糕"
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "看名字就知道它该在什么时候吃了,但它如此美味,就算不是冬日星节吃,也没有人会责怪."
+    }
+}

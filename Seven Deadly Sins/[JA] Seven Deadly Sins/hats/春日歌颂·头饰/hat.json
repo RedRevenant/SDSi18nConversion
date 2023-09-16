@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Song of Spring Headwear",
+  "Description": " ",
+  "TranslationKey": "SDS-songofspring-headwear",
+  "PurchasePrice": 1000,
+  "ShowHair": true,
+  "IgnoreHairstyleOffset": true,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "春日歌颂·头饰"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "头饰"
+    }
+}

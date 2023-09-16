@@ -1,0 +1,1847 @@
+{
+
+  "Shops": [
+//沙漠蔬菜店
+    {
+      "ShopName": "SDvegetables",
+      "StoreCurrency": "Money",
+      "CategoriesToSellHere":[ 
+        -5,
+        -6,
+		    -74,
+		    -75,
+		    -79,
+      ],
+      "Quote": "新鲜营养的蔬菜水果特价促销中！走过路过不要错过嘞——",
+      "MaxNumItemsSoldInStore": 2147483647,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 50,
+					"ItemNames":["Small Bird Egg"]
+				},
+      ],
+      "When": [
+        "t 1800 2400"
+      ],
+      "ClosedMessage": "营业时间18点到24点，摊位现在没有人，毯子上连根遗留的菜叶子都没有，没什么好看的。",
+      "LocalizedQuote": { "zh": "新鲜营养的蔬菜水果特价促销中！走过路过不要错过嘞——"},
+      "LocalizedClosedMessage": { "zh": "营业时间18点到24点，摊位现在没有人，毯子上连根遗留的菜叶子都没有，没什么好看的。"},
+    },
+//沙漠小蛇
+    {
+      "ShopName": "SDweapon",
+      "StoreCurrency": "Money",
+      "CategoriesToSellHere":[ 
+        -2,
+		-12,
+		-28,
+      ],
+      "Quote": "...要点什么。",
+      "MaxNumItemsSoldInStore": 2147483647,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS City transport"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Church transport"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Sea transport"]
+				},				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS cliff transport"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 7000,
+					"ItemNames":["SDS Chocolate Bunny"]
+				},
+
+      ],
+      "When": [
+        "t 600 1800"
+      ],
+      "ClosedMessage": "营业时间6点到18点。",
+      "LocalizedQuote": { "zh": "...要点什么。"},
+      "LocalizedClosedMessage": { "zh": "营业时间6点到18点。"},
+    },
+//沙漠饮料店
+    {
+      "ShopName": "SDdrink",
+      "StoreCurrency": "Money",
+      "CategoriesToSellHere":[ 
+        -79,
+      ],
+      "Quote": "用美味补充能量，Joja饮料，呵护您的身体。",
+      "MaxNumItemsSoldInStore": 10,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Coconut juice"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Frozen yoghurt"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 700,
+					"ItemNames":["SDS Red wine"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS cola"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 600,
+					"ItemNames":["SDS Screwdriver"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 300,
+					"ItemNames":["SDS Cotton Candy Coffee"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 800,
+					"ItemNames":["SDS Mojito"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 800,
+					"ItemNames":["SDS Nicroni"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Vanilla coffee"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 300,
+					"ItemNames":["SDS Long Island Iced Tea"]
+				},
+      ],
+      "When": [
+        "t 1800 2400"
+      ],
+      "ClosedMessage": "营业时间18点到24点，收银台的位置空空如也，看起来那位收银员人不在，或许是因为还没到上班的时间。",
+      "LocalizedQuote": { "zh": "用美味补充能量，Joja饮料，呵护您的身体。"},
+      "LocalizedClosedMessage": { "zh": "营业时间18点到24点，收银台的位置空空如也，看起来那位收银员人不在，或许是因为还没到上班的时间。"},
+    },
+//祖祖城超市
+    {
+      "ShopName": "SDCitysupermarket",
+      "StoreCurrency": "Money",
+      "Quote": "欢迎光临本城最大超市！热销商品特价促销中，客人请随意挑选！现在选购更有九折优惠喔！",
+      "MaxNumItemsSoldInStore": 15,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 50,
+					"ItemNames":["SDS Butter"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Super soft sweet bread"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Super soft sweet bread"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 700,
+					"ItemNames":["SDS Earth Cake"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Earth Cake"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 1200,
+					"ItemNames":["SDS Moon Cake"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Moon Cake"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Sugar-coated haws"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 400,
+					"ItemNames":["The stars thousand layers"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 210,
+					"ItemNames":["SDS Chocolate pulp"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate pulp"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 400,
+					"ItemNames":["SDS chocolate"]
+				},
+      ],
+      "When": [
+        "t 800 2300"
+      ],
+      "ClosedMessage": "营业时间8点到23点，这个点超市已经歇业了，还能看见琳琅满目的商品，当然，就算被诱惑了也不能做点什么，警察局就在旁边。",
+      "LocalizedQuote": { "zh": "欢迎光临本城最大超市！热销商品特价促销中，客人请随意挑选！现在选购更有九折优惠喔！"},
+      "LocalizedClosedMessage": { "zh": "营业时间8点到23点，这个点超市已经歇业了，还能看见琳琅满目的商品，当然，就算被诱惑了也不能做点什么，警察局就在旁边。"},
+    },
+//祖祖城超市机器区
+    {
+      "ShopName": "SDCitysupermarketF",
+      "StoreCurrency": "Money",
+      "Quote": "欢迎光临本城最大超市！热销商品特价促销中，客人请随意挑选！现在选购更有九折优惠喔！",
+      "MaxNumItemsSoldInStore": 2147483647,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 10000,
+					"ItemNames":["SDS Saucepan"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Saucepan"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 7000,
+					"ItemNames":["SDS Food steamer"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Food steamer"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 12000,
+					"ItemNames":["SDS Distiller"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 3500,
+					"ItemNames":["SDS Distiller"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 20000,
+					"ItemNames":["SDS Ice box"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Ice box"]
+				},
+				//搅拌机
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 10000,
+					"ItemNames":["SDS Agitator"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Agitator"]
+				},
+				
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Sander"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Sander"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Dry flower platform"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Dry flower platform"]
+				},
+				
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 11000,
+					"ItemNames":["SDS Coal-scuttle"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Coal-scuttle"]
+				},
+				
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": false,
+					"StockPrice": 10000,
+					"ItemNames":["SDS Smelting Furnace"]
+				},
+				{
+					"ItemType": "BigCraftable",
+					"IsRecipe": true,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Smelting Furnace"]
+				},
+      ],
+      "When": [
+        "t 800 2300"
+      ],
+      "ClosedMessage": "营业时间8点到23点，这个点超市已经歇业了，还能看见琳琅满目的商品，当然，就算被诱惑了也不能做点什么，警察局就在旁边。",
+      "LocalizedQuote": { "zh": "欢迎光临本城最大超市！热销商品特价促销中，客人请随意挑选！现在选购更有九折优惠喔！"},
+      "LocalizedClosedMessage": { "zh": "营业时间8点到23点，这个点超市已经歇业了，还能看见琳琅满目的商品，当然，就算被诱惑了也不能做点什么，警察局就在旁边。"},
+    },
+//祖祖城冰淇淋店
+    {
+      "ShopName": "SDIcecream",
+      "StoreCurrency": "Money",
+      "Quote": "您好！要试试甜美可口的冰淇淋吗！",
+      "MaxNumItemsSoldInStore": 10,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Colorful three-ball ice cream"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Colorful three-ball ice cream"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Strawberry pudding"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Strawberry pudding"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 400,
+					"ItemNames":["SDS Chocolate strawberry"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate strawberry"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 400,
+					"ItemNames":["SDS Strawberry Donut"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 400,
+					"ItemNames":["SDS Ice cream with filling"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Creme brulee"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Classic three-ball ice cream"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Classic three-ball ice cream"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 550,
+					"ItemNames":["SDS Chocolate popsicle"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate popsicle"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 450,
+					"ItemNames":["SDS Chocolate donut"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 450,
+					"ItemNames":["SDS Chocolate donut"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate cone"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate cone"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 1100,
+					"ItemNames":["SDS Jelly bean cone"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Jelly bean cone"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 180,
+					"ItemNames":["SDS Ice Cream Cone"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 300,
+					"ItemNames":["SDS Original donut"]
+				},
+      ],
+      "When": [
+        "t 1000 1800",
+      ],
+      "ClosedMessage": "营业时间10点到18点，看起来软软的、很可爱的冰淇淋店，一进来仿佛就激发了你对冰淇淋的食欲——虽然现在并不在店主的营业时间内。",
+      "LocalizedQuote": { "zh": "您好！要试试甜美可口的冰淇淋吗！"},
+      "LocalizedClosedMessage": { "zh": "营业时间10点到18点，看起来软软的、很可爱的冰淇淋店，一进来仿佛就激发了你对冰淇淋的食欲——虽然现在并不在店主的营业时间内。"},
+    },
+//祖祖城卷饼
+    {
+      "ShopName": "SDrollup",
+      "StoreCurrency": "Money",
+      "Quote": "欢迎关临…不是，我是说欢迎光临！",
+      "MaxNumItemsSoldInStore": 10,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 550,
+					"ItemNames":["SDS Blueberry Pie"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Blueberry Pie"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 550,
+					"ItemNames":["SDS Cherry Pie"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Cherry Pie"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 450,
+					"ItemNames":["SDS Original flavor pie"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Original flavor pie"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 600,
+					"ItemNames":["SDS Bear Burger"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Bear Burger"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 350,
+					"ItemNames":["SDS Bear Bread"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Bear Bread"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 850,
+					"ItemNames":["SDS Fortune cookies"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Courtesy Dog Cookie"]
+				},
+      ],
+      "When": [
+        "t 1000 1800",
+      ],
+      "ClosedMessage": "营业时间10点到18点，营业的窗口被关上了，车里似乎没有人在，看来今天已经打烊了。",
+      "LocalizedQuote": { "zh": "欢迎关临…不是，我是说欢迎光临！"},
+      "LocalizedClosedMessage": { "zh": "营业时间10点到18点，营业的窗口被关上了，车里似乎没有人在，看来今天已经打烊了。"},
+    },
+//兔子商店	
+    {
+      "ShopName": "SDRicehit",
+      "StoreCurrency": "Money",
+      "PortraitPath": "assets/SDRicehit.png",
+      "Quote": "今天有什么想要的吗？",
+      "MaxNumItemsSoldInStore": 10,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Unhappy Dog Cookies recipe"],
+					"When":["f Pelette 1500"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Happy Kitty Cookies recipe"],
+					"When":["f Lucas 1500"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Happy Dog Cookies recipe"],
+					"When":["f Arvey 1500"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Strawberry Bunny Cake recipe"]
+				},
+			//食谱
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Love Chocolate"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Love Chocolate",
+					"StockCurrencyStack":"1",
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Love Crisp"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Love Crisp",
+					"StockCurrencyStack":"1",
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Unhappy Dog Cookies"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Unhappy Dog Cookies",
+					"StockCurrencyStack":"1",
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Strawberry Love Crisp"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Strawberry Love Crisp",
+					"StockCurrencyStack":"1",
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Strawberry macaron"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Strawberry macaron",
+					"StockCurrencyStack":"1",
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Strawberry Bunny Cake"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Strawberry Bunny Cake",
+					"StockCurrencyStack":"1",
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Glutinous rice cake"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Glutinous rice cake",
+					"StockCurrencyStack":"1",
+				},			
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Egg Yolk Crisp"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Egg Yolk Crisp",
+					"StockCurrencyStack":"1",
+				},	
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Winter Star Cake"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Winter Star Cake",
+					"StockCurrencyStack":"1",
+				},					
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Happy Kitty Cookies"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Happy Kitty Cookies",
+					"StockCurrencyStack":"1",
+				},	
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Happy Dog Cookies"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Happy Dog Cookies",
+					"StockCurrencyStack":"1",
+				},	
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Blueberry Black Forest Cake"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Blueberry Black Forest Cake",
+					"StockCurrencyStack":"1",
+				},	
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Rhombic biscuit"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Rhombic biscuit",
+					"StockCurrencyStack":"1",
+				},	
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Vanilla Orange Cake"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Vanilla Orange Cake",
+					"StockCurrencyStack":"1",
+				},					
+      ],
+      "When": [
+        "t 900 2400",
+		"e 19215154",
+      ],
+      "ClosedMessage": "营业时间9点到24点哦，我也是要下班的。",
+      "LocalizedQuote": { "zh": "今天有什么想要的吗？"},
+      "LocalizedClosedMessage": { "zh": "营业时间9点到24点哦，我也是要下班的。"},
+    },
+//花店
+    {
+      "ShopName": "SDFlower",
+      "StoreCurrency": "Money",
+	  "CategoriesToSellHere": [-79,-80],
+      "Quote": "欢迎光临，你可以随便看看哦。",
+      "MaxNumItemsSoldInStore": 4,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+	            //种子
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Cream strawberry seeds"],
+					"When":["!z summer"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Tree peony seeds"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 230,
+					"ItemNames":["SDS Rugosa rose seeds"],
+					"When":["!z summer"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 300,
+					"ItemNames":["SDS Higanbana seeds"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 170,
+					"ItemNames":["SDS Chinese herbaceous peony seeds"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 150,
+					"ItemNames":["SDS lavender seeds"],
+					"When":["!z summer"],
+				},
+				//树种
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 14000,
+					"ItemNames":["SDS Fragrans sapling"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 7000,
+					"ItemNames":["SDS Cocoa bean sapling"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 16000,
+					"ItemNames":["SDS Stramonium sapling"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 12000,
+					"ItemNames":["SDS Night willow herb sapling"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 7500,
+					"ItemNames":["SDS Mangosteen sapling"]
+				},
+      ],
+      "When": [
+        "t 900 1800",
+      ],
+      "ClosedMessage": "现在已经打烊了，营业时间早上9点到下午6点。",
+      "LocalizedQuote": { "zh": "欢迎光临，你可以随便看看哦。"},
+      "LocalizedClosedMessage": { "zh": "现在已经打烊了，营业时间早上9点到下午6点。"},
+    },
+//服装店（沙漠）
+    {
+      "ShopName": "SDcoutureD",
+      "StoreCurrency": "Money",
+      "Quote": "诶呀，欢迎光临黑奴窝，你自己看吧，但别乱摸。",
+      "MaxNumItemsSoldInStore": 3,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Abyss Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 6500,
+					"ItemNames":["SDS Abyss Bottoms"]
+				},
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Celadon jade Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Celadon jade Bottoms"]
+				},
+
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2500,
+					"ItemNames":["SDS Rays Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Celadon jade Bottoms"]
+				},				
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Night Moon Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Night Moon Bottoms"]
+				},	
+
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Faraway Divine Realm Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Faraway Divine Realm Bottoms"]
+				},	
+      ],
+      "When": [
+        "t 1800 2400",
+		"p luoli",
+		],
+      "ClosedMessage": "嘿，我这里打烊了，工作时间18点到24点！",
+      "LocalizedQuote": { "zh": "诶呀，欢迎光临黑奴窝，你自己看吧，但别乱摸。"},
+      "LocalizedClosedMessage": { "zh": "嘿，我这里打烊了，工作时间18点到24点！"},
+    },
+//服装店
+    {
+      "ShopName": "SDcouture",
+      "StoreCurrency": "Money",
+      "Quote": "诶呀，欢迎光临，我会每天放入不同的衣服，你自己看吧，但别乱摸。",
+      "MaxNumItemsSoldInStore": 30,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				//沙漠
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Abyss Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 6500,
+					"ItemNames":["SDS Abyss Bottoms"]
+				},
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Celadon jade Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Celadon jade Bottoms"]
+				},
+
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2500,
+					"ItemNames":["SDS Rays Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Celadon jade Bottoms"]
+				},				
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Night Moon Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Night Moon Bottoms"]
+				},	
+
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Faraway Divine Realm Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Faraway Divine Realm Bottoms"]
+				},	
+				//城市
+				//四季
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Lampholder Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Lampholder Bottoms"]
+				},			
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Sleeping Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Sleeping Bottoms"]
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2500,
+					"ItemNames":["SDS Across The Clouds Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Across The Clouds Bottoms"]
+				},			
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Sweet Nursery Rhymes Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 10000,
+					"ItemNames":["SDS Sweet Nursery Rhymes Bottoms"]
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Wisteria Blossoming Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Wisteria Blossoming Bottoms"]
+				},
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 15000,
+					"ItemNames":["SDS Maltose Bottoms"]
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 10000,
+					"ItemNames":["SDS Maltose Clothing"]
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Maltose Headwear"]
+				},
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1000,
+					"ItemNames":["SDS White witch Clothing"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS White witch Bottoms"],
+					"When":["!z spring"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS White witch Headwear"],
+					"When":["!z spring"],
+				},	
+	
+	
+				//春
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Warm Spring Strolling Clothing"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS Warm Spring Strolling Bottoms"],
+					"When":["!z spring"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 300,
+					"ItemNames":["SDS Warm Spring Strolling Headwear"],
+					"When":["!z spring"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2500,
+					"ItemNames":["SDS Song of Spring Clothing"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Song of Spring Bottoms"],
+					"When":["!z spring"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Song of Spring Headwear"],
+					"When":["!z spring"],
+				},	
+				//夏天
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Summer Party Clothing"],
+					"When":["!z summer"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 10000,
+					"ItemNames":["SDS Summer Party Bottoms"],
+					"When":["!z summer"],
+				},	
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Wisteria Love Letters Headwear"],
+					"When":["!z summer"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Wisteria Love Letters Clothing"],
+					"When":["!z summer"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS Wisteria Love Letters Bottoms"],
+					"When":["!z summer"],
+				},	
+				
+				//秋天
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Autumn Imagination Clothing"],
+					"When":["!z fall"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Autumn Imagination Bottoms"],
+					"When":["!z fall"],
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 800,
+					"ItemNames":["SDS Autumn Imagination Headwear"],
+					"When":["!z fall"],
+				},	
+				
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2000,
+					"ItemNames":["SDS fallen leaves Clothing"],
+					"When":["!z fall"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 4000,
+					"ItemNames":["SDS fallen leaves Bottoms"],
+					"When":["!z fall"],
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS fallen leaves Headwear"],
+					"When":["!z fall"],
+				},	
+
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 2500,
+					"ItemNames":["SDS Black witch Clothing"],
+					"When":["!z fall"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Black witch Bottoms"],
+					"When":["!z fall"],
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Black witch Headwear"],
+					"When":["!z fall"],
+				},					
+				//冬天
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1500,
+					"ItemNames":["SDS Cocoa gingerbread Clothing"],
+					"When":["!z winter"],
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Cocoa gingerbread Bottoms"],
+					"When":["!z winter"],
+				},		
+
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 5000,
+					"ItemNames":["SDS Beloved gem Bottoms"],
+					"When":["!z winter"],
+				},	
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 3000,
+					"ItemNames":["SDS Beloved gem Clothing"],
+					"When":["!z winter"],
+				},		
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"StockPrice": 1000,
+					"ItemNames":["SDS Beloved gem Headwear"],
+					"When":["!z winter"],
+				},				
+				//兑换
+				
+				//深海遨游
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Deep Sea Travel Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS lavender",
+					"StockCurrencyStack":"5",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Deep Sea Travel Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS lavender",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Deep Sea Travel Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS lavender",
+					"StockCurrencyStack":"2",
+				},
+				
+				//青藤枝叶
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Sinomenium Acutum Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Fragrans",
+					"StockCurrencyStack":"5",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Sinomenium Acutum Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Fragrans",
+					"StockCurrencyStack":"12",
+				},
+				
+				//冬日临近
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Winter is approaching Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Mangosteen",
+					"StockCurrencyStack":"5",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Winter is approaching Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Mangosteen",
+					"StockCurrencyStack":"12",
+				},
+				
+				//奇幻梦境
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Fantasy dream Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS lavender",
+					"StockCurrencyStack":"5",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Fantasy dream Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS lavender",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Fantasy dream Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS lavender",
+					"StockCurrencyStack":"2",
+				},			
+				//午夜安眠
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Midnight sleep Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Midnight sleep Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"15",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Midnight sleep Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"5",
+				},
+				//白色花蕊
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS White pistil Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Chinese herbaceous peony",
+					"StockCurrencyStack":"3",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS White pistil Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Chinese herbaceous peony",
+					"StockCurrencyStack":"5",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS White pistil Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Chinese herbaceous peony",
+					"StockCurrencyStack":"1",
+				},			
+				//紫萝仙境
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Violet Wonderland Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Stramonium",
+					"StockCurrencyStack":"8",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Violet Wonderland Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Stramonium",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Violet Wonderland Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Stramonium",
+					"StockCurrencyStack":"3",
+				},	
+					//人鱼海浪
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Mermaid Waves Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Higanbana",
+					"StockCurrencyStack":"8",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Mermaid Waves Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Higanbana",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Mermaid Waves Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Higanbana",
+					"StockCurrencyStack":"3",
+				},	
+					//晴空
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Clear Sky Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Cream strawberry",
+					"StockCurrencyStack":"8",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Clear Sky Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Cream strawberry",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Clear Sky Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Cream strawberry",
+					"StockCurrencyStack":"3",
+				},		
+					//春与妖精
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Spring Goblin Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"8",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Spring Goblin Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Spring Goblin Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"3",
+				},	
+					//未知
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Unknown Clothing"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"10",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Unknown Bottoms"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"13",
+				},
+				{
+					"ItemType": "Clothing",
+					"IsRecipe": false,
+					"ItemNames":["SDS Unknown Headwear"],
+					"When":["e 19215105"],
+					"StockPrice": 10,
+					"StockItemCurrency": "SDS Night willow herb",
+					"StockCurrencyStack":"5",
+				},	
+				
+      ],
+      "When": [
+        "t 0900 1900",
+		"p luoli",
+		],
+      "ClosedMessage": "嘿，我这里打烊了，工作时间9点到19点！",
+      "LocalizedQuote": { "zh": "诶呀，欢迎光临，我会每天放入不同的衣服，你自己看吧，但别乱摸。"},
+      "LocalizedClosedMessage": { "zh": "嘿，我这里打烊了，工作时间9点到19点！"},
+    },
+//季节商店
+    {
+      "ShopName": "SDSeasonalS",
+      "StoreCurrency": "Money",
+      "Quote": "...",
+      "MaxNumItemsSoldInStore": 15,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+	  //春季
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Love Chocolate recipe"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 600,
+					"ItemNames":["SDS Chocolate Melaleuca"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate Melaleuca"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 550,
+					"ItemNames":["SDS Tiramisu"],
+					"When":["!z spring"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Tiramisu"],
+					"When":["!z spring"],
+				},
+	  //夏季
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 550,
+					"ItemNames":["SDS Chocolate pudding"],
+					"When":["!z summer"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Chocolate pudding"],
+					"When":["!z summer"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 850,
+					"ItemNames":["SDS Double Strawberry Cake"],
+					"When":["!z summer"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Double Strawberry Cake"],
+					"When":["!z summer"],
+				},	
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 1100,
+					"ItemNames":["SDS Star Blueberry Cake"],
+					"When":["!z summer"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Star Blueberry Cake"],
+					"When":["!z summer"],
+				},	
+	  //秋季
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 600,
+					"ItemNames":["SDS Drizzled cake"],
+					"When":["!z fall"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Drizzled cake"],
+					"When":["!z fall"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 450,
+					"ItemNames":["SDS Puppy cupcakes"],
+					"When":["!z fall"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Puppy cupcakes"],
+					"When":["!z fall"],
+				},	  
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 450,
+					"ItemNames":["SDS Egg Yolk Crisp recipe"],
+					"When":["!z fall"],
+				},	  
+	  //冬季
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 200,
+					"ItemNames":["SDS Candy cane"],
+					"When":["!z winter"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Candy cane"],
+					"When":["!z winter"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 300,
+					"ItemNames":["SDS Gingerbread cookie tree"],
+					"When":["!z winter"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Gingerbread cookie tree"],
+					"When":["!z winter"],
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 620,
+					"ItemNames":["SDS Love Crisp"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Love Crisp recipe"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 620,
+					"ItemNames":["SDS Strawberry Love Crisp"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Strawberry Love Crisp recipe"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": false,
+					"StockPrice": 500,
+					"ItemNames":["SDS Red Velvet Cake"]
+				},
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"StockPrice": 500,
+					"ItemNames":["SDS Red Velvet Cake"]
+				},
+      ],
+      "ClosedMessage": "...",
+      "LocalizedQuote": { "zh": "..."},
+      "LocalizedClosedMessage": { "zh": "..."},
+    },
+//矿洞店	
+    {
+      "ShopName": "SDmine",
+      "StoreCurrency": "Money",
+      "Quote": "...要点什么。",
+      "MaxNumItemsSoldInStore": 10,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Pan-fried mushroom"],
+					"StockItemCurrency": "SDS Mushroom",
+					"StockCurrencyStack":"5",
+				},
+      ],
+      "When": [
+        "t 0610 2400",
+      ],
+      "ClosedMessage": "...",
+      "LocalizedQuote": { "zh": "...要点什么。"},
+      "LocalizedClosedMessage": { "zh": "..."},
+    },
+//五歌
+    {
+      "ShopName": "SD5ge",
+      "StoreCurrency": "Money",
+      "Quote": "要点什么吗？",
+      "MaxNumItemsSoldInStore": 10,
+      "DefaultSellPriceMultiplier": 1.0,
+      "ItemStocks": [
+				{
+					"ItemType": "Object",
+					"IsRecipe": true,
+					"ItemNames":["SDS Pan-fried mushroom"],
+					"StockItemCurrency": "SDS Mushroom",
+					"StockCurrencyStack":"5",
+				},
+      ],
+      "When": [
+        "t 0610 2400",
+      ],
+      "ClosedMessage": "等到6点10分到24点再来找我。",
+      "LocalizedQuote": { "zh": "要点什么吗？"},
+      "LocalizedClosedMessage": { "zh": "等到6点10分到24点再来找我。"},
+    },
+
+  ],
+}

@@ -1,0 +1,44 @@
+{
+    "Name": "SDS Strawberry Donut", 
+    "Description": " ",
+    "TranslationKey": "SDS-strawberrydonut-objects",
+    "Category": "Cooking", 
+    "Edibility": 60, 
+    "Price": 400, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 400,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "草莓甜甜圈" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "诱人的草莓甜甜圈,吃起来和看上去一样甜蜜,要试试吗?" 
+    }
+}

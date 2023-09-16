@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Mermaid Waves Clothing",
+  "Description": " ",
+  "TranslationKey": "SDS-mermaidwaves-shirts",
+  "HasFemaleVariant": true,
+  "Price": 1000,
+  "Dyable": false,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "人鱼海浪·上衣"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "上衣"
+    }
+}

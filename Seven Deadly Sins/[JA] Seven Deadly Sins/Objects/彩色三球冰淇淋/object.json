@@ -1,0 +1,66 @@
+{
+    "Name": "SDS Colorful three-ball ice cream", 
+    "Description": " ",
+    "TranslationKey": "SDS-colorfulthreeballicecream-objects",
+    "Category": "Cooking", 
+    "Edibility": 65, 
+    "Price": 500, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 1,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 500
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 400, 
+            "Count": 1
+        },
+        {
+            "Object": 245, 
+            "Count": 1
+        },
+        {
+            "Object": -6, 
+            "Count": 1
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "彩色三球冰淇淋" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "瞧这漂亮的色彩,与那恰到好处要融化般的魅力...它会满足你的." 
+    }
+}

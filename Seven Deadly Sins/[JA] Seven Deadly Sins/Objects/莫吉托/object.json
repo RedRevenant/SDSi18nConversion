@@ -1,0 +1,44 @@
+{
+    "Name": "SDS Mojito", 
+    "Description": " ",
+    "TranslationKey": "SDS-mojito-objects",
+    "Category": "Cooking", 
+    "Edibility": 20, 
+    "Price": 800, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 2,
+        "MagnetRadius": 0,
+        "Speed": 1,
+        "Defense": 2,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDdrink",
+	"PurchasePrice": 800,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "莫吉托" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "非常有名的一杯酒,据说曾经是一款海盗饮品...它是早上饮用的酒品,真有海盗风格." 
+    }
+}

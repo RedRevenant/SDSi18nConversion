@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Across The Clouds Clothing",
+  "Description": " ",
+  "TranslationKey": "SDS-acrosstheclouds-shirts",
+  "HasFemaleVariant": true,
+  "Price": 2500,
+  "Dyable": false,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "云端彼岸·上衣"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "上衣"
+    }
+}

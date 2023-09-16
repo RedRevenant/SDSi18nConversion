@@ -1,0 +1,29 @@
+{
+    "Name": "SDS Glutinous rice cake recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-glutinousricecakerecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "糍粑食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将两份大米、一份茶叶、一份糖放入蒸笼中。" 
+    }
+}

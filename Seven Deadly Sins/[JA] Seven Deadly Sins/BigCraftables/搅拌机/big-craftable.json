@@ -1,0 +1,47 @@
+{
+    "Name": "SDS Agitator", 
+    "Description": " ",
+    "TranslationKey": "SDS-agitator",
+    "Price": 500, 
+    "ProvidesLight": true,
+    "ReserveExtraIndexCount": 2,  
+    "CanPurchase": true, 
+    "PurchaseFrom": "SDCitysupermarketF", 
+    "PurchasePrice": 10000, 
+    "PurchaseRequirements": null, 
+    "Recipe":
+    { 
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 787,
+            "Count": 1
+        },
+        {
+            "Object": 388, 
+            "Count": 200
+        },
+        {
+            "Object": 709, 
+            "Count": 20
+        },
+        {
+            "Object": 335, 
+            "Count": 5
+        }
+      ]
+    },
+        "IsDefault": false,
+        "CanPurchase": true, 
+        "PurchaseFrom": "SDCitysupermarketF",
+        "PurchasePrice": 2000,
+        "PurchaseRequirements": null, 
+        "NameLocalization": 
+        { 
+            "zh": "搅拌机"
+        },
+        "DescriptionLocalization": 
+        { 
+            "zh": "尽职尽责的将所有材料搅拌在一起，所有食材都会在里面得到融合，但最好不要放硬的东西进去。" 
+        }
+    }

@@ -1,0 +1,32 @@
+{
+    "Name": "SDS Happy Kitty Cookies recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-happykittycookiesrecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDRicehit",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "开心猫咪曲奇食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将三颗蓝莓、一块黄油、一份大麦粉放入烤箱中。" 
+    }
+}

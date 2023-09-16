@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Winter is approaching Clothing",
+  "Description": " ",
+  "TranslationKey": "SDS-winterisapproaching-shirts",
+  "HasFemaleVariant": true,
+  "Price": 1000,
+  "Dyable": false,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "冬日临近·上衣"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "上衣"
+    }
+}

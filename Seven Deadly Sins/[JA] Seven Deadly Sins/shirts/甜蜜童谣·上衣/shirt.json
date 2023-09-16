@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Sweet Nursery Rhymes Clothing",
+  "Description": " ",
+  "TranslationKey": "SDS-sweetnurseryrhymes-shirts",
+  "HasFemaleVariant": true,
+  "Price": 5000,
+  "Dyable": false,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "甜蜜童谣·上衣"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "上衣"
+    }
+}

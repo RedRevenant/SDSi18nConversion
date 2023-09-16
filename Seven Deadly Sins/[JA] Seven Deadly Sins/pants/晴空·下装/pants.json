@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Clear Sky Bottoms",
+  "Description": " ",
+  "TranslationKey": "SDS-clearsky-pants",
+  "Price": 1000,
+  "Dyable": false,
+  "DefaultColor": "255,255,255,0",
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "晴空·下装"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "一条裙子"
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "Name": "SDS Chocolate donut", 
+    "Description": " ",
+    "TranslationKey": "SDS-chocolatedonut-objects",
+    "Category": "Cooking", 
+    "Edibility": 60, 
+    "Price": 450, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 2,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 450,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": "SDS Chocolate pulp", 
+            "Count": 1
+        },
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "巧克力甜甜圈" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "涂抹了漂亮的巧克力涂层的甜甜圈,很好吃,胰岛素表示轻松应对,所以享受它吧." 
+    }
+}

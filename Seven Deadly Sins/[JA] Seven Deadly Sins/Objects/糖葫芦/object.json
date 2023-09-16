@@ -1,0 +1,44 @@
+{
+    "Name": "SDS Sugar-coated haws", 
+    "Description": " ",
+    "TranslationKey": "SDS-sugarcoatedhaws-objects",
+    "Category": "Cooking", 
+    "Edibility": 20, 
+    "Price": 200, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 200,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "糖葫芦" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "来自神秘东方的甜蜜小吃，小心不要吃太急，它安静等待着让吃的人享受属于它的美好。" 
+    }
+}

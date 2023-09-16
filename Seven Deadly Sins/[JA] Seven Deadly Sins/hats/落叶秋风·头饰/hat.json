@@ -1,0 +1,34 @@
+{
+  "Name": "SDS fallen leaves Headwear",
+  "Description": " ",
+  "TranslationKey": "SDS-fallenleaves-headwear",
+  "PurchasePrice": 500,
+  "ShowHair": true,
+  "IgnoreHairstyleOffset": true,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "落叶秋风·头饰"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "头饰"
+    }
+}

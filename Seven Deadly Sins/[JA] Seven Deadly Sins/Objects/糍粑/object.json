@@ -1,0 +1,55 @@
+{
+    "Name": "SDS Glutinous rice cake",
+    "Description": " ",
+    "TranslationKey": "SDS-glutinousricecake-objects",
+    "Category": "Cooking",
+    "Edibility": 20,
+    "Price": 200,
+    "CanSell": true,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": {
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+    "CanPurchase": false,
+    "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 423,
+                "Count": 2
+            },
+            {
+                "Object": 815,
+                "Count": 1
+            },
+            {
+                "Object": 245,
+                "Count": 1
+            }
+        ],
+        "CanPurchase": false
+    },
+    "GiftTastes": {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization": {
+        "zh": "糍粑"
+    },
+    "DescriptionLocalization": {
+        "zh": "使用糯米捣碎成泥后制成的食物,柔软,带有糯米独有的香气与风味."
+    }
+}

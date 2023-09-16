@@ -1,0 +1,610 @@
+{
+    /* Section: Big Craftables */
+
+    "SDS-goldenrabbit.name": "24k纯金兔子雕像",
+    "SDS-goldenrabbit.description": "据说是纯金锻造的兔子雕像，使用[天堂券]兑换，如果钱没有多到可以烧着玩，最好不要尝试融解它...你确定它是金的吗。",
+
+    "SDS-agitator.name": "搅拌机",
+    "SDS-agitator.description": "尽职尽责的将所有材料搅拌在一起，所有食材都会在里面得到融合，但最好不要放硬的东西进去。",
+    
+    "SDS-coalscuttle.name": "烤箱",
+    "SDS-coalscuttle.description": "多档位可调温度，自动定时功能以及绝对耐用的内胆，要小心在烤制完成时被它如火的热情烫伤。",
+    
+    "SDS-distiller.name": "蒸馏器",
+    "SDS-distiller.description": "用以提炼精制材料，如果操作不合适或许会爆炸——当然不会，来自joja荣誉出品。",
+
+    "SDS-dryflowerplatform.name": "干花台",
+    "SDS-dryflowerplatform.description": "用以进行干花制作的机器，可以保留花朵最美好的一面，记得正确操作以免失败",
+    
+    "SDS-icebox.name": "冰箱",
+    "SDS-icebox.description": "自带人性化ai提示的冰箱，来自joja的科技产品，内部冰冷，但设计绝对温暖，谁能拒绝这么可爱的电子产品呢？",
+
+    "SDS-sander.name": "打磨机",
+    "SDS-sander.description": "内部置有锋利刀片，可以将所有置入其中的坚硬材料磨制成碎片.....不会有人选择放进什么不该放的，对吧。",
+    
+    "SDS-saucepan.name": "煮锅",
+    "SDS-saucepan.description": "经典耐用的麦饭石煮锅，坚实可靠，适合任何需要煮食物的场合。",
+
+    "SDS-smeltingfurnace.name": "熔炉",
+    "SDS-smeltingfurnace.description": "用以在超高温环境下熔化材料的工具，尽管它足够安全，但不会有人想在使用期间碰它的。",
+    
+    "SDS-foodsteamer.name": "蒸笼",
+    "SDS-foodsteamer.description": "用优质木材制作而成的蒸笼，适合任何需要蒸熟食物的场合，简单耐用。",
+
+    /* Section: Crops */
+
+    "SDS-creamstrawberry-seeds.name": "奶油草莓种子",
+    "SDS-creamstrawberry-seeds.description": "夏天播种，8天成熟。",
+
+    "SDS-treepeony-seeds.name": "牡丹种子",
+    "SDS-treepeony-seeds.description": "春天播种，10天成熟。",
+
+    "SDS-rugosarose-seeds.name": "玫瑰种子",
+    "SDS-rugosarose-seeds.description": "夏天播种，10天成熟。",
+
+    "SDS-chineseherbaceouspeony-seeds.name": "芍药种子",
+    "SDS-chineseherbaceouspeony-seeds.description": "春天播种，8天成熟。",
+
+    "SDS-lavender-seeds.name": "薰衣草种子",
+    "SDS-lavender-seeds.description": "夏天播种，8天成熟。",
+
+    "SDS-higanbana-seeds.name": "彼岸花种子",
+    "SDS-higanbana-seeds.description": "春天播种，10天成熟",
+
+    /* Section: Fruit Trees */
+
+    "SDS-mangosteen-sapling.name": "山竹树苗",
+    "SDS-mangosteen-sapling.description": "28天成熟为成年山竹树。春天结果。只有在附近8块“地块”都空置的情况下才会成长。",
+
+    "SDS-cocoabean-sapling.name": "可可树苗",
+    "SDS-cocoabean-sapling.description": "28天成熟为成年可可树。夏天结果。只有在附近8块“地块”都空置的情况下才会成长。",
+
+    "SDS-fragrans-sapling.name": "桂花树苗",
+    "SDS-fragrans-sapling.description": "28天成熟为成年桂花树。秋天结果。只有在附近8块“地块”都空置的情况下才会成长。",
+
+    "SDS-nightwillowherb-sapling.name": "夜来香树苗",
+    "SDS-nightwillowherb-sapling.description": "28天成熟为成年夜来香树。春天结果。只有在附近8块“地块”都空置的情况下才会成长。",
+
+    "SDS-stramonium-sapling.name": "曼陀罗树苗",
+    "SDS-stramonium-sapling.description": "28天成熟为成年曼陀罗树。秋天结果。只有在附近8块“地块”都空置的情况下才会成长。",
+
+    /* Section: Hats */
+
+    "SDS-mermaidwaves-headwear.name": "人鱼海浪·头饰",
+    "SDS-mermaidwaves-headwear.description": "头饰",
+
+    "SDS-midnightsleep-headwear.name": "午夜安眠·头饰",
+    "SDS-midnightsleep-headwear.description": "头饰",
+
+    "SDS-fantasydream-headwear.name": "奇幻梦境·头饰",
+    "SDS-fantasydream-headwear.description": "头饰",
+
+    "SDS-belovedgem-headwear.name": "挚爱宝石·头饰",
+    "SDS-belovedgem-headwear.description": "头饰",
+
+    "SDS-springgoblin-headwear.name": "春与妖精·头饰",
+    "SDS-springgoblin-headwear.description": "头饰",
+
+    "SDS-songofspring-headwear.name": "春日歌颂·头饰",
+    "SDS-songofspring-headwear.description": "头饰",
+
+    "SDS-clearsky-headwear.name": "晴空·头饰",
+    "SDS-clearsky-headwear.description": "头饰",
+
+    "SDS-warmspringstrolling-headwear.name": "暖春漫步·头饰",
+    "SDS-warmspringstrolling-headwear.description": "头饰",
+
+    "SDS-unknown-headwear.name": "未知·头饰",
+    "SDS-unknown-headwear.description": "头饰",
+
+    "SDS-deepseatravel-headwear.name": "深海遨游·头饰",
+    "SDS-deepseatravel-headwear.description": "头饰",
+
+    "SDS-whitewitch-headwear.name": "白女巫·头饰",
+    "SDS-whitewitch-headwear.description": "头饰",
+
+    "SDS-whitepistil-headwear.name": "白色花蕊·头饰",
+    "SDS-whitepistil-headwear.description": "头饰",
+
+    "SDS-autumnimagination-headwear.name": "秋日畅想·头饰",
+    "SDS-autumnimagination-headwear.description": "头饰",
+
+    "SDS-violetwonderland-headwear.name": "紫罗仙境·头饰",
+    "SDS-violetwonderland-headwear.description": "头饰",
+    
+    "SDS-wisterialoveletters-headwear.name": "紫藤情书·头饰",
+    "SDS-wisterialoveletters-headwear.description": "头饰",
+
+    "SDS-fallenleaves-headwear.name": "落叶秋风·头饰",
+    "SDS-fallenleaves-headwear.description": "头饰",
+
+    "SDS-maltose-headwear.name": "麦芽糖·头饰",
+    "SDS-maltose-headwear.description": "头饰",
+
+    "SDS-blackwitch-headwear.name": "黑女巫·头饰",
+    "SDS-blackwitch-headwear.description": "头饰",
+
+    /* Section: Objects */
+
+    "SDS-glutinousricecake-objects.name": "糍粑",
+    "SDS-glutinousricecake-objects.description": "使用糯米捣碎成泥后制成的食物,柔软,带有糯米独有的香气与风味.",
+
+    "SDS-mojito-objects.name": "莫吉托",
+    "SDS-mojito-objects.description": "非常有名的一杯酒,据说曾经是一款海盗饮品...它是早上饮用的酒品,真有海盗风格.",
+
+    "SDS-creamstrawberry-objects.name": "奶油草莓",
+    "SDS-creamstrawberry-objects.description": "带有淡淡牛奶香味的淡色草莓，果肉紧实，口感香甜，适用于任何需要它的场合。",
+
+    "SDS-treepeony-objects.name": "牡丹",
+    "SDS-treepeony-objects.description": "层层叠叠的花瓣却绝不落俗，端庄而热情，仿佛锦绣织就的牡丹，在它盛放的时节，有谁能够夺走属于它的风姿？",
+
+    "SDS-nicroni-objects.name": "尼克罗尼",
+    "SDS-nicroni-objects.description": "喝下这一杯或许会让人怀疑人生......不过,总要勇于尝试.",
+
+    "SDS-supersoftsweetbread-objects.name": "超松软甜甜面包",
+    "SDS-supersoftsweetbread-objects.description": "有谁会不喜欢一份充满了谷物香气的超~松软面包？无论何时出现在何时的餐桌都不会显得意外。",
+
+    "SDS-longislandicedtea-objects.name": "长岛冰茶",
+    "SDS-longislandicedtea-objects.description": "看上去与红茶的色泽非常相似,但是千万别被它的外表与口感欺骗了,它会让无防备的人醉倒.",
+
+    "SDS-happykittycookies-objects.name": "开心猫咪曲奇",
+    "SDS-happykittycookies-objects.description": "猫咪为什么开心？这就和它们为什么生气一样是个未解之谜，但是现在，这个猫咪乐意为你带来甜蜜。",
+
+    "SDS-happykittycookiesrecipe-objects.name": "开心猫咪曲奇食谱",
+    "SDS-happykittycookiesrecipe-objects.description": "将三颗蓝莓、一块黄油、一份大麦粉放入烤箱中。",
+
+    "SDS-happydogcookies-objects.name": "开心小狗曲奇",
+    "SDS-happydogcookies-objects.description": "超——高兴的小狗正在兴奋等待为每一个人带去爱与甜蜜！所以要尝尝看吗？",
+
+    "SDS-happydogcookiesrecipe-objects.name": "开心小狗曲奇食谱",
+    "SDS-happydogcookiesrecipe-objects.description": "将一瓶蛋黄酱、一块黄油、一份大麦粉放入烤箱中。",
+
+    "SDS-cocoabean-objects.name": "可可豆",
+    "SDS-cocoabean-objects.description": "不同地区产出的可可豆会带有不同的风味，果香、烟熏、花香......为什么不试试看它会是什么味道呢？记得不要直接吃，需要配上奶类放进打磨机打磨。",
+
+    "SDS-cola-objects.name": "可乐",
+    "SDS-cola-objects.description": "没错,它就是你最熟悉的那一款可乐...你说joja蓝可乐?它们是兄弟,真的.",
+
+    "SDS-blueberrypie-objects.name": "蓝莓派",
+    "SDS-blueberrypie-objects.description": "紫色,并且同样神秘的隐藏着自己,为什么不试试看它的内心到底有多么甜蜜?",
+
+    "SDS-blueberryblackforestcake-objects.name": "蓝莓黑森林蛋糕",
+    "SDS-blueberryblackforestcake-objects.description": "酸甜的蓝莓配上甜蜜的巧克力，是哪个天才让它们碰撞在一起？但此刻，它们等待在一个人的口中再次相遇。",
+
+    "SDS-blueberryblackforestcakerecipe-objects.name": "蓝莓黑森林蛋糕食谱",
+    "SDS-blueberryblackforestcakerecipe-objects.description": "将三颗蓝莓、一块黄油、一份大麦粉、一颗任意蛋放入烤箱中。",
+
+    "SDS-rugosarose-objects.name": "玫瑰",
+    "SDS-rugosarose-objects.description": "热烈而安静的盛放的玫瑰，爱与美的永恒象征，它不在乎外界的评价，只独自绽放着属于自己的美丽。",
+
+    "SDS-cottoncandycoffee-objects.name": "棉花糖咖啡",
+    "SDS-cottoncandycoffee-objects.description": "一杯香浓的咖啡,如果一定要说有什么不同,它更加香甜,温暖,并且拥有一颗棉花糖作伴.",
+
+    "SDS-stramonium-objects.name": "曼陀罗",
+    "SDS-stramonium-objects.description": "既是香气浓烈的美丽花朵，也是伤人的毒物，但同时，它也是用以治病救人的药材，如何使用它的选择权并不在它的身上，所以无需怕它。",
+
+    "SDS-screwdriver-objects.name": "螺丝起子",
+    "SDS-screwdriver-objects.description": "不要被它的名字欺骗了,这杯酒酸甜爽口、清爽并带着微苦的清香,非常适合夏天解暑.",
+
+    "SDS-rhombicbiscuit-objects.name": "菱格饼干",
+    "SDS-rhombicbiscuit-objects.description": "有着独特的菱格图案的饼干,看上去就很有趣,吃上去也是一样的美好.",
+
+    "SDS-rhombicbiscuitrecipe-objects.name": "菱格饼干食谱",
+    "SDS-rhombicbiscuitrecipe-objects.description": "将一包大麦粉、三包糖、一份巧克力原浆放入烤箱中。",
+
+    "SDS-drizzledcake-objects.name": "淋面蛋糕",
+    "SDS-drizzledcake-objects.description": "名字听上去一般?但是它足够美味,淋上的面酱为它赋予了不同的风味.",
+
+    "SDS-redwine-objects.name": "红酒",
+    "SDS-redwine-objects.description": "一杯经典的红酒,使用最适合它的高脚杯装着,口味如何取决红酒的品质,不过杯子足够好看...反正高脚杯大多一个样.",
+
+    "SDS-redvelvetcake-objects.name": "红丝绒蛋糕",
+    "SDS-redvelvetcake-objects.description": "比起红丝绒，或许它更喜欢别人称呼它为一颗大大的心，美好、热情，随时准备被吃掉。",
+
+    "SDS-chineseherbaceouspeony-objects.name": "芍药",
+    "SDS-chineseherbaceouspeony-objects.description": "温柔而娇嫩，却绝不柔弱的花朵，温和的在丛中盛放，为世界增添一抹色彩。",
+
+    "SDS-mangosteen-objects.name": "山竹",
+    "SDS-mangosteen-objects.description": "小巧而富有营养的水果，更别提味道也是一等一的好，但要小心掰开的时候用力过头。",
+
+    "SDS-butter-objects.name": "黄油",
+    "SDS-butter-objects.description": "由牛奶或奶油的脂肪和蛋白质做成的乳制品",
+
+    "SDS-originalflavorpie-objects.name": "原味派",
+    "SDS-originalflavorpie-objects.description": "最经典的派,松脆的酥皮下是柔软的内心...真的会有人不好奇它中间隐藏着什么美好吗?",
+
+    "SDS-originaldonut-objects.name": "原味甜甜圈",
+    "SDS-originaldonut-objects.description": "朴实、经典、但足够美味,不要认为没有涂层的它就不够美味!",
+
+    "SDS-mooncake-objects.name": "月亮蛋糕",
+    "SDS-mooncake-objects.description": "像是月亮一样有着一些洞的蛋糕，绝对不是因为制作失败，它仍然甜蜜美好。",
+
+    "SDS-cherrypie-objects.name": "樱桃派",
+    "SDS-cherrypie-objects.description": "使用了樱桃制作而成的派,即使是酥皮也遮不住里面的甜蜜透露出诱惑的气息.",
+
+    "SDS-classicthreeballicecream-objects.name": "经典三球冰淇淋",
+    "SDS-classicthreeballicecream-objects.description": "一次只能许一个愿望?但这个冰淇淋可以满足三个口味的愿望!不必觉得过于贪心,只要小心吃太多!",
+
+    "SDS-gingerbreadcookietree-objects.name": "姜饼曲奇树",
+    "SDS-gingerbreadcookietree-objects.description": "有着多种多样的外表以及酥酥脆脆的口感,不易变质让它可以用来送给远方的亲友.",
+
+    "SDS-cremebrulee-objects.name": "焦糖布丁",
+    "SDS-cremebrulee-objects.description": "一款经典布丁,焦糖的香气让这份布丁成为了最经典的甜品之一,经典之所以是经典总是有原因的.",
+
+    "SDS-icecreamwithfilling-objects.name": "夹心冰淇淋",
+    "SDS-icecreamwithfilling-objects.description": "使用香甜绵软的饼干包裹住夹心的冰淇淋,拥有其它冰淇淋无法带给你的风味,足够巧思.",
+
+    "SDS-chocolate-objects.name": "巧克力",
+    "SDS-chocolate-objects.description": "最经典的块状巧克力,适合需要料理时掰开,或是馋嘴时掰下一块尝尝...尽管大多数人都会吃光.",
+
+    "SDS-chocolatebunny-objects.name": "巧克力兔子",
+    "SDS-chocolatebunny-objects.description": "一只黑化了的小兔子正在看着你，小心它捧在怀里的甜蜜爱心，它让人上瘾！",
+
+    "SDS-chocolatepulp-objects.name": "巧克力原浆",
+    "SDS-chocolatepulp-objects.description": "由可可果打磨而成的巧克力原浆，需要配上糖放入冰箱冷冻。但也可以直接喝。", 
+
+    "SDS-chocolatemelaleuca-objects.name": "巧克力千层酥",
+    "SDS-chocolatemelaleuca-objects.description": "甜蜜的巧克力味配上柔软而有趣的口感，作为一份甜点来说，它做到了自己该做的本职——可口而美妙。",
+
+    "SDS-chocolatecone-objects.name": "巧克力甜筒",
+    "SDS-chocolatecone-objects.description": "它看上去不够显眼,但是巧克力的风味蕴含在其中,不要质疑它的美味与冰凉!",
+
+    "SDS-chocolatedonut-objects.name": "巧克力甜甜圈",
+    "SDS-chocolatedonut-objects.description": "涂抹了漂亮的巧克力涂层的甜甜圈,很好吃,胰岛素表示轻松应对,所以享受它吧.",
+
+    "SDS-chocolatepopsicle-objects.name": "巧克力冰棍",
+    "SDS-chocolatepopsicle-objects.description": "在炎炎夏日中,既能享受冰凉,又能享受巧克力的香醇,哪个天才发明出来的它?",
+
+    "SDS-chocolatepudding-objects.name": "巧克力布丁",
+    "SDS-chocolatepudding-objects.description": "巧克力味的Q弹布丁，随时都保持着柔软与弹性，等待着被一个喜欢它的人吃掉。",
+
+    "SDS-tiramisu-objects.name": "提拉米苏",
+    "SDS-tiramisu-objects.description": "一份经典，但点缀了新颖浆果的提拉米苏，适合所有喜欢提拉米苏的人。",
+
+    "SDS-icecreamcone-objects.name": "甜筒",
+    "SDS-icecreamcone-objects.description": "最简单的甜筒,带给你最轻松的快乐,在它因为过于甜蜜融化之前接住它!",
+
+    "SDS-sugarcoatedhaws-objects.name": "糖葫芦",
+    "SDS-sugarcoatedhaws-objects.description": "来自神秘东方的甜蜜小吃，小心不要吃太急，它安静等待着让吃的人享受属于它的美好。",
+
+    "SDS-jellybeancone-objects.name": "糖豆甜筒",
+    "SDS-jellybeancone-objects.description": "洒了一些七彩糖豆作为装饰的甜筒,拥有不同的甜味以及多彩的外表.",
+
+    "SDS-earthcake-objects.name": "地球蛋糕",
+    "SDS-earthcake-objects.description": "为什么地球蛋糕和月亮蛋糕一样大？这是个问题，但不足以妨碍人品尝它厚实的松软口感。",
+
+    "SDS-eggyolkcrisp-objects.name": "蛋黄酥",
+    "SDS-eggyolkcrisp-objects.description": "用一整个蛋黄制成的厚实蛋黄酥，酥皮松脆而柔软，带来独特的口味体验。",
+
+    "SDS-eggyolkcrisprecipe-objects.name": "蛋黄酥食谱",
+    "SDS-eggyolkcrisprecipe-objects.description": "将一块黄油、一份任意蛋类、一份大麦粉、一份糖放入蒸笼中。",
+
+    "SDS-winterstarcake-objects.name": "冬日星蛋糕",
+    "SDS-winterstarcake-objects.description": "看名字就知道它该在什么时候吃了,但它如此美味,就算不是冬日星节吃,也没有人会责怪.",
+
+    "SDS-fragrans-objects.name": "桂花",
+    "SDS-fragrans-objects.description": "如果仔细看去，桂花的形状就像是一个十字架，它那独特带有一丝甜蜜的幽香总是悄悄的，在不经意间留在经过它的人身上。", 
+
+    "SDS-candycane-objects.name": "拐杖糖",
+    "SDS-candycane-objects.description": "看见它就会想起冬日星节...带给每一个人甜腻的糖味.",
+
+    "SDS-coconutjuice-objects.name": "椰子汁",
+    "SDS-coconutjuice-objects.description":"啊啊,没错,这就是一款仅仅是看见都会让人想起夏天的饮品,清爽可口.",
+
+    "SDS-courtesydogcookie-objects.name": "殷勤小狗曲奇",
+    "SDS-courtesydogcookie-objects.description":"虽然它没有表现出来开心，但是尾巴可藏不起来，它兴奋的期待着被任何人吃掉。",
+
+    "SDS-nightwillowherb-objects.name": "夜来香",
+    "SDS-nightwillowherb-objects.description":  "花极香，却只在夜间悄悄盛放，但别为了欣赏它的美丽与香气久久驻足于夜色之下，记住过犹不及。", 
+
+    "SDS-doublestrawberrycake-objects.name": "双层草莓巧蛋糕",
+    "SDS-doublestrawberrycake-objects.description":  "顾名思义，是草莓与巧克力共同构成的蛋糕陷阱，让人忍不住吃掉一口再一口。",
+
+    "SDS-panfriedmushroom-objects.name": "香煎香菇",
+    "SDS-panfriedmushroom-objects.description":"通过煎烤压榨出这枚香菇的所有香气后,洒上香料与汤,就成了这份美味.",
+
+    "SDS-mushroom-objects.name": "香菇",
+    "SDS-mushroom-objects.description": "一颗巨大的香菇,肥厚的伞盖看上去是如此多汁,请放心,它是无毒的种类,真的.",
+
+    "SDS-fragranttea-objects.name": "香茶",
+    "SDS-fragranttea-objects.description": "清香四溢,入口带有独特的茶叶微苦,但回味甘甜,清火去燥,适合任何需要一杯饮料的场合.",
+
+    "SDS-vanillacofffee-objects.name": "香草咖啡",
+    "SDS-vanillacofffee-objects.description": "加入了特殊的香草风味的咖啡,口味与普通咖啡有所不同,适合不太适应咖啡苦味的人群.",
+
+    "SDS-vanillaorangecake-objects.name": "香草甜橙蛋糕",
+    "SDS-vanillaorangecake-objects.description":"双份蛋糕，双份用量，双份甜蜜，为任何人带来双份快乐。",
+
+    "SDS-vanillaorangecakerecipe-objects.name": "香草甜橙蛋糕食谱",
+    "SDS-vanillaorangecakerecipe-objects.description": "将三颗橙子、一瓶枫糖浆、一份大麦粉放入烤箱中。",
+
+    "SDS-puppycupcakes-objects.name": "小狗纸杯蛋糕",
+    "SDS-puppycupcakes-objects.description": "一只可爱的小狗正看着你，但是别担心，它不会因为被吃掉而难过的，它随时爱你。",
+
+    "SDS-bearbread-objects.name": "小熊面包",
+    "SDS-bearbread-objects.description": "这是一份小熊面包，美好而可爱，随时准备着被吃掉——看不出来是小熊？再仔细观察一下。",
+
+    "SDS-bearburger-objects.name": "小熊汉堡",
+    "SDS-bearburger-objects.description": "做成了小熊的汉堡面包，不会让它更好吃，但是小熊爱每一个人。",
+
+    "SDS-starblueberrycake-objects.name": "星星蓝莓蛋糕",
+    "SDS-starblueberrycake-objects.description": "点缀着一颗可食用小星星的蓝莓蛋糕，柔软的酸甜会让人的味蕾彻底沉沦。",
+
+    "SDS-thestarsthousandlayers-objects.name": "星星千层",
+    "SDS-thestarsthousandlayers-objects.description":"仿佛小星星一样的千层蛋糕，如同星星一样耀眼的美味会让人沉浸在这种香甜中。", 
+
+    "SDS-fortunecookies-objects.name": "幸运饼干",
+    "SDS-fortunecookies-objects.description": "一种风味脆饼,香味浓郁,快拆开看看里面有没有一张纸条吧.",
+
+    "SDS-lavendar-objects.name": "薰衣草",
+    "SDS-lavendar-objects.description": "香气四溢的它总是被加入各种巧思之中，花茶、果酱、甚至于是某些食物之中，但在使用它前，静静欣赏薰衣草丛的美丽吧。", 
+
+    "SDS-lovechocolate-objects.name": "爱心巧克力",
+    "SDS-lovechocolate-objects.description": "一份被草莓味外壳紧紧包裹的巧克力爱心，吃掉外层酸甜的草莓，才能品尝到最纯粹的甜蜜。",
+
+    "SDS-lovechocolaterecipe-objects.name": "爱心巧克力食谱",
+    "SDS-lovechocolaterecipe-objects.description":"将一份巧克力、一颗草莓放入烤箱中。",
+
+    "SDS-lovecrisp-objects.name": "爱心酥",
+    "SDS-lovecrisp-objects.description": "被黑暗侵蚀的爱心——当然不是，它甜蜜而体贴，同时包容爱着甜口与原味的人。",
+
+    "SDS-lovecrisprecipe-objects.name": "爱心酥食谱",
+    "SDS-lovecrisprecipe-objects.description": "将一份巧克力、一包大麦粉、一块黄油放入烤箱中。",
+
+    "SDS-frozenyoghurt-objects.name": "冰冻酸奶",
+    "SDS-frozenyoghurt-objects.description":  "将酸奶处理后进行冷冻才能制成的制品,似乎还在散发着寒气,冷硬,但甜蜜.",
+
+    "SDS-higanbana-objects.name": "彼岸花",
+    "SDS-higanbana-objects.description": "似乎总有人认为这种花朵是不详的预兆，但彼岸花不在乎那些，它只是默默的盛放着，守望着每一个经过它身侧的人。", 
+
+    "SDS-unhappydogcookies-objects.name": "不开心小狗曲奇",
+    "SDS-unhappydogcookies-objects.description": "其实它没有不开心，只是因为天生这样，它非常乐意为每一个人带来快乐。",
+
+    "SDS-unhappydogcookiesrecipe-objects.name": "不开心小狗曲奇食谱",
+    "SDS-unhappydogcookiesrecipe-objects.description": "将一份糖、一块黄油、一份大麦粉放入烤箱中。",
+
+    "SDS-colorfulthreeballicecream-objects.name": "彩色三球冰淇淋",
+    "SDS-colorfulthreeballicecream-objects.description": "瞧这漂亮的色彩,与那恰到好处要融化般的魅力...它会满足你的.",
+
+    "SDS-strawberrymacaron-objects.name": "草莓马卡龙",
+    "SDS-strawberrymacaron-objects.description": "粉嫩的草莓味马卡龙，内馅充实，用料满足，作为下午茶甜点来说再好不过。",
+
+    "SDS-strawberrymacaronrecipe-objects.name": "草莓马卡龙食谱",
+    "SDS-strawberrymacaronrecipe-objects.description": "将一颗草莓、一块黄油、一份任意蛋类放入烤箱中。",
+
+    "SDS-strawberrybunnycake-objects.name": "草莓兔子蛋糕",
+    "SDS-strawberrybunnycake-objects.description": "谁能拒绝一只可爱的白色兔子顶着一颗草莓呢？它喜欢给人们带来甜蜜。",
+
+    "SDS-strawberrybunnycakerecipe-objects.name": "草莓兔子蛋糕食谱",
+    "SDS-strawberrybunnycakerecipe-objects.description": "将两颗草莓、一块黄油、一份任意蛋类、一份大麦粉放入烤箱中。",
+
+    "SDS-chocolatestrawberry-objects.name": "草莓巧克力",
+    "SDS-chocolatestrawberry-objects.description": "草莓的外壳下是甜蜜的巧克力,造型精巧,内心中的甜蜜与外表同样甜美.",
+
+    "SDS-strawberrydonut-objects.name": "草莓甜甜圈",
+    "SDS-strawberrydonut-objects.description":"诱人的草莓甜甜圈,吃起来和看上去一样甜蜜,要试试吗?",
+
+    "SDS-strawberrylovecrisp-objects.name": "草莓爱心酥",
+    "SDS-strawberrylovecrisp-objects.description": "小心！这颗爱心中香甜而美好的味道会让人沉迷于此。",
+
+    "SDS-strawberrylovecrisprecipe-objects.name": "草莓爱心酥食谱",
+    "SDS-strawberrylovecrisprecipe-objects.description": "将一颗草莓、一块黄油、一份大麦粉放入烤箱中。",
+
+    "SDS-strawberrypudding-objects.name": "草莓布丁",
+    "SDS-strawberrypudding-objects.description":"柔软的布丁上盖着一层草莓酱,仅仅是看着都会让人感受到布丁独有的弹力.",
+
+    "SDS-winterstarcakerecipe-objects.name":"冬日星蛋糕食谱",
+    "SDS-winterstarcakerecipe-objects.description":"将一颗冬青树、一份任意奶类、一份任意蛋类放入烤箱中。",
+
+    "SDS-clifftransport-objects.name":"天山传送图腾",
+    "SDS-clifftransport-objects.description":"一个奇怪的图腾，使用可以让你传送到天山。",
+
+    "SDS-churchtransport-objects.name":"教堂传送图腾",
+    "SDS-churchtransport-objects.description":"一个奇怪的图腾，使用可以让你传送到教堂。",
+
+    "SDS-seatransport-objects.name":"海底传送图腾",
+    "SDS-seatransport-objects.description":"一个奇怪的图腾，使用可以让你传送到海底。",
+
+    "SDS-citytransport-objects.name":"祖祖城中心传送图腾",
+    "SDS-citytransport-objects.description":"一个奇怪的图腾，使用可以让你传送到祖祖城中心。",
+
+    "SDS-glutinousricecakerecipe-objects.name":"糍粑食谱",
+    "SDS-glutinousricecakerecipe-objects.description":"将两份大米、一份茶叶、一份糖放入蒸笼中。",
+
+    /* Section: Pants */
+
+    "SDS-acrosstheclouds-pants.name": "云端彼岸·下装",
+    "SDS-acrosstheclouds-pants.description": "一条裙子",
+
+    "SDS-mermaidwaves-pants.name": "人鱼海浪·下装",
+    "SDS-mermaidwaves-pants.description": "一条裙子",
+
+    "SDS-winterisapproaching-pants.name": "冬日临近·下装",
+    "SDS-winterisapproaching-pants.description": "一条裙子",
+
+    "SDS-midnightsleep-pants.name": "午夜安眠·下装",
+    "SDS-midnightsleep-pants.description": "一条裙子",
+
+    "SDS-cocoagingerbread-pants.name": "可可姜饼·下装",
+    "SDS-cocoagingerbread-pants.description": "一条裙子",
+
+    "SDS-summerparty-pants.name": "夏日派对·下装",
+    "SDS-summerparty-pants.description": "一条裙子",
+
+    "SDS-nightmoon-pants.name": "夜月星河·下装",
+    "SDS-nightmoon-pants.description": "一条裙子",
+
+    "SDS-fantasydream-pants.name": "奇幻梦境·下装",
+    "SDS-fantasydream-pants.description": "一条裙子",
+
+    "SDS-sleeping-pants.name": "安眠守望·下装",
+    "SDS-sleeping-pants.description": "一条裙子",
+
+    "SDS-abyss-pants.name": "彼岸深渊·下装",
+    "SDS-abyss-pants.description": "一条裙子",
+
+    "SDS-lampholder-pants.name": "持灯者·下装",
+    "SDS-lampholder-pants.description": "一条裙子",
+
+    "SDS-belovedgem-pants.name": "挚爱宝石·下装",
+    "SDS-belovedgem-pants.description": "一条裙子",
+
+    "SDS-springgoblin-pants.name": "春与妖精·下装",
+    "SDS-springgoblin-pants.description": "一条裙子",
+
+    "SDS-songofspring-pants.name": "春日歌颂·下装",
+    "SDS-songofspring-pants.description": "一条裙子",
+
+    "SDS-clearsky-pants.name": "晴空·下装",
+    "SDS-clearsky-pants.description": "一条裙子",
+
+    "SDS-warmspringstrolling-pants.name": "暖春漫步·下装",
+    "SDS-warmspringstrolling-pants.description": "一条裙子",
+
+    "SDS-unknown-pants.name": "未知·下装",
+    "SDS-unknown-pants.description": "一条裙子",
+
+    "SDS-deepseatravel-pants.name": "深海遨游·下装",
+    "SDS-deepseatravel-pants.description": "一条裙子",
+
+    "SDS-sweetnurseryrhymes-pants.name": "甜蜜童谣·下装",
+    "SDS-sweetnurseryrhymes-pants.description": "一条裙子",
+
+    "SDS-whitewitch-pants.name": "白女巫·下装",
+    "SDS-whitewitch-pants.description": "一条裙子",
+
+    "SDS-whitepistil-pants.name": "白色花蕊·下装",
+    "SDS-whitepistil-pants.description": "一条裙子",
+
+    "SDS-autumnimagination-pants.name": "秋日畅想·下装",
+    "SDS-autumnimagination-pants.description": "一条裙子",
+
+    "SDS-violetwonderland-pants.name": "紫罗仙境·下装",
+    "SDS-violetwonderland-pants.description": "一条裙子",
+
+    "SDS-wisterialoveletters-pants.name": "紫藤情书·下装",
+    "SDS-wisterialoveletters-pants.description": "一条裙子",
+
+    "SDS-wisteriablossoming-pants.name": "紫藤繁花·下装",
+    "SDS-wisteriablossoming-pants.description": "一条裙子",
+
+    "SDS-fallenleaves-pants.name": "落叶秋风·下装",
+    "SDS-fallenleaves-pants.description": "一条裙子",
+
+    "SDS-farawaydivinerealm-pants.name": "远方神域·下装",
+    "SDS-farawaydivinerealm-pants.description": "一条裙子",
+
+    "SDS-rays-pants.name": "霞光·下装",
+    "SDS-rays-pants.description": "一条裙子",
+
+    "SDS-celadonjade-pants.name": "青石玉·下装",
+    "SDS-celadonjade-pants.description": "一条裙子",
+
+    "SDS-sinomeniumacutum-pants.name": "青藤枝叶·下装",
+    "SDS-sinomeniumacutum-pants.description": "一条裙子",
+
+    "SDS-maltose-pants.name": "麦芽糖·下装",
+    "SDS-maltose-pants.description": "一条裙子",
+
+    "SDS-blackwitch-pants.name": "黑女巫·下装",
+    "SDS-blackwitch-pants.description": "一条裙子",
+
+    /* Section: Shirts */
+
+    "SDS-acrosstheclouds-shirts.name": "云端彼岸·上衣",
+    "SDS-acrosstheclouds-shirts.description": "上衣",
+
+    "SDS-mermaidwaves-shirts.name": "人鱼海浪·上衣",
+    "SDS-mermaidwaves-shirts.description": "上衣",
+
+    "SDS-winterisapproaching-shirts.name": "冬日临近·上衣",
+    "SDS-winterisapproaching-shirts.description": "上衣",
+
+    "SDS-midnightsleep-shirts.name": "午夜安眠·上衣",
+    "SDS-midnightsleep-shirts.description": "上衣",
+
+    "SDS-cocoagingerbread-shirts.name": "可可姜饼·上衣",
+    "SDS-cocoagingerbread-shirts.description": "上衣",
+
+    "SDS-summerparty-shirts.name": "夏日派对·上衣",
+    "SDS-summerparty-shirts.description": "上衣",
+
+    "SDS-nightmoon-shirts.name": "夜月星河·上衣",
+    "SDS-nightmoon-shirts.description": "上衣",
+
+    "SDS-fantasydream-shirts.name": "奇幻梦境·上衣",
+    "SDS-fantasydream-shirts.description": "上衣",
+
+    "SDS-sleeping-shirts.name": "安眠守望·上衣",
+    "SDS-sleeping-shirts.description": "上衣",
+
+    "SDS-abyss-shirts.name": "彼岸深渊·上衣",
+    "SDS-abyss-shirts.description": "上衣",
+
+    "SDS-lampholder-shirts.name": "持灯者·上衣",
+    "SDS-lampholder-shirts.description": "上衣",
+
+    "SDS-belovedgem-shirts.name": "挚爱宝石·上衣",
+    "SDS-belovedgem-shirts.description": "上衣",
+
+    "SDS-springgoblin-shirts.name": "春与妖精·上衣",
+    "SDS-springgoblin-shirts.description": "上衣",
+
+    "SDS-songofspring-shirts.name": "春日歌颂·上衣",
+    "SDS-songofspring-shirts.description": "上衣",
+
+    "SDS-clearsky-shirts.name": "晴空·上衣",
+    "SDS-clearsky-shirts.description": "上衣",
+
+    "SDS-warmspringstrolling-shirts.name": "暖春漫步·上衣",
+    "SDS-warmspringstrolling-shirts.description": "上衣",
+
+    "SDS-unknown-shirts.name": "未知·上衣",
+    "SDS-unknown-shirts.description": "上衣",
+
+    "SDS-deepseatravel-shirts.name": "深海遨游·上衣",
+    "SDS-deepseatravel-shirts.description": "上衣",
+
+    "SDS-sweetnurseryrhymes-shirts.name": "甜蜜童谣·上衣",
+    "SDS-sweetnurseryrhymes-shirts.description": "上衣",
+
+    "SDS-whitewitch-shirts.name": "白女巫·上衣",
+    "SDS-whitewitch-shirts.description": "上衣",
+
+    "SDS-whitepistil-shirts.name": "白色花蕊·上衣",
+    "SDS-whitepistil-shirts.description": "上衣",
+
+    "SDS-autumnimagination-shirts.name": "秋日畅想·上衣",
+    "SDS-autumnimagination-shirts.description": "上衣",
+
+    "SDS-violetwonderland-shirts.name": "紫罗仙境·上衣",
+    "SDS-violetwonderland-shirts.description": "上衣",
+
+    "SDS-wisterialoveletters-shirts.name": "紫藤情书·上衣",
+    "SDS-wisterialoveletters-shirts.description": "上衣",
+
+    "SDS-wisteriablossoming-shirts.name": "紫藤繁花·上衣",
+    "SDS-wisteriablossoming-shirts.description": "上衣",
+    
+    "SDS-fallenleaves-shirts.name": "落叶秋风·上衣",
+    "SDS-fallenleaves-shirts.description": "上衣",
+
+    "SDS-farawaydivinerealm-shirts.name": "远方神域·上衣",
+    "SDS-farawaydivinerealm-shirts.description": "上衣",
+
+    "SDS-rays-shirts.name": "霞光·上衣",
+    "SDS-rays-shirts.description": "上衣",
+
+    "SDS-celadonjade-shirts.name": "青石玉·上衣",
+    "SDS-celadonjade-shirts.description": "上衣",
+
+    "SDS-sinomeniumacutum-shirts.name": "青藤枝叶·上衣",
+    "SDS-sinomeniumacutum-shirts.description": "上衣",
+
+    "SDS-maltose-shirts.name": "麦芽糖·上衣",
+    "SDS-maltose-shirts.description": "上衣",
+
+    "SDS-blackwitch-shirts.name": "黑女巫·上衣",
+    "SDS-blackwitch-shirts.description": "上衣"
+
+}

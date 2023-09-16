@@ -1,0 +1,44 @@
+{
+    "Name": "The stars thousand layers", 
+    "Description": " ",
+    "TranslationKey": "SDS-thestarsthousandlayers-objects",
+    "Category": "Cooking", 
+    "Edibility": 30, 
+    "Price": 400, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 1,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 3,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 350
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 400,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "星星千层" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "仿佛小星星一样的千层蛋糕，如同星星一样耀眼的美味会让人沉浸在这种香甜中。" 
+    }
+}

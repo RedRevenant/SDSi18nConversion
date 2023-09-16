@@ -1,0 +1,71 @@
+{
+    "Name": "SDS Earth Cake", 
+    "Description": " ",
+    "TranslationKey": "SDS-earthcake-objects",
+    "Category": "Cooking", 
+    "Edibility": 100, 
+    "Price": 700, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 1,
+        "Fishing": 1,
+        "Mining": 1,
+        "Luck": 2,
+        "Foraging": 0,
+        "MaxStamina": 1,
+        "MagnetRadius": 0,
+        "Speed": 1,
+        "Defense": 1,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 700,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": -5, 
+            "Count": 1
+        },
+        {
+            "Object": -6, 
+            "Count": 1
+        },
+        {
+            "Object": 258, 
+            "Count": 4
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "地球蛋糕" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "为什么地球蛋糕和月亮蛋糕一样大？这是个问题，但不足以妨碍人品尝它厚实的松软口感。" 
+    }
+}

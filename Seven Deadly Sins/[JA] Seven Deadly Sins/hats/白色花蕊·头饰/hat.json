@@ -1,0 +1,34 @@
+{
+  "Name": "SDS White pistil Headwear",
+  "Description": " ",
+  "TranslationKey": "SDS-whitepistil-headwear",
+  "PurchasePrice": 300,
+  "ShowHair": true,
+  "IgnoreHairstyleOffset": true,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "白色花蕊·头饰"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "头饰"
+    }
+}

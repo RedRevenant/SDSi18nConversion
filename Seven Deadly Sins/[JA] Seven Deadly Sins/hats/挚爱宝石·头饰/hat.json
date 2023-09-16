@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Beloved gem Headwear",
+  "Description": " ",
+  "TranslationKey": "SDS-belovedgem-headwear",
+  "PurchasePrice": 1000,
+  "ShowHair": true,
+  "IgnoreHairstyleOffset": true,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "挚爱宝石·头饰"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "头饰"
+    }
+}

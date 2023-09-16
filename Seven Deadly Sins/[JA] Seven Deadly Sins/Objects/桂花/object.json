@@ -1,0 +1,28 @@
+{
+    "Name": "SDS Fragrans", 
+    "Description": " ",
+    "TranslationKey": "SDS-fragrans-objects",
+    "Category": "Flower", 
+    "Edibility": -300,
+    "Price": 200,
+    "EdibleIsDrink": false,
+    "IsColored": false,
+    "CanPurchase":false,
+    "Recipe": null, 
+    "GiftTastes": 
+    {
+        "Love": [], 
+        "Like": [],
+        "Neutral": null, 
+        "Dislike": [], 
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "桂花" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "如果仔细看去，桂花的形状就像是一个十字架，它那独特带有一丝甜蜜的幽香总是悄悄的，在不经意间留在经过它的人身上。"
+    }
+}

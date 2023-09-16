@@ -1,0 +1,29 @@
+{
+    "Name": "SDS Egg Yolk Crisp recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-eggyolkcrisprecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "蛋黄酥食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将一块黄油、一份任意蛋类、一份大麦粉、一份糖放入蒸笼中。" 
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "Name": "SDS Rhombic biscuit recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-rhombicbiscuitrecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "菱格饼干食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将一包大麦粉、三包糖、一份巧克力原浆放入烤箱中。" 
+    }
+}

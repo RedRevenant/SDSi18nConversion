@@ -1,0 +1,44 @@
+{
+    "Name": "SDS Fortune cookies",
+    "Description": " ",
+    "TranslationKey": "SDS-fortunecookies-objects",
+    "Category": "Cooking", 
+    "Edibility": 30, 
+    "Price": 850, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 3,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 400
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 850,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "幸运饼干"
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "一种风味脆饼,香味浓郁,快拆开看看里面有没有一张纸条吧."
+    }
+}

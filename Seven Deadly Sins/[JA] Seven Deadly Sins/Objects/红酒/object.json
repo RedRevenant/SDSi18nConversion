@@ -1,0 +1,44 @@
+{
+    "Name": "SDS Red wine", 
+    "Description": " ",
+    "TranslationKey": "SDS-redwine-objects",
+    "Category": "Cooking", 
+    "Edibility": 20, 
+    "Price": 700, 
+	"CanSell": true,
+	"EdibleIsDrink": true,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDdrink",
+	"PurchasePrice": 700,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "红酒" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "一杯经典的红酒,使用最适合它的高脚杯装着,口味如何取决红酒的品质,不过杯子足够好看...反正高脚杯大多一个样." 
+    }
+}

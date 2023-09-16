@@ -1,0 +1,324 @@
+{
+  "Changes": [
+    //npc喜好
+    {
+      "Action": "EditData",
+      "Target": "Data/ConcessionTastes",
+      "Entries": {
+        "Lucas": {
+          "Name": "Lucas",
+          "LovedTags": [
+            "Jasmine Tea"
+          ],
+          "LikedTags": [
+            "Cappuccino Mousse Cake",
+            "Apple Slices"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
+        },
+        "Regla": {
+          "Name": "Regla",
+          "LovedTags": [
+            "Stardrop Sorbet"
+          ],
+          "LikedTags": [
+            "Panzanella Salad",
+            "Jawbreaker"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
+        },
+        "Garnet": {
+          "Name": "Garnet",
+          "LovedTags": [
+            "Star Cookie"
+          ],
+          "LikedTags": [
+            "Stardrop Sorbet",
+            "Ice Cream Sandwich"
+          ],
+          "DislikedTags": [
+            "Jasmine Tea",
+            "JojaCorn"
+          ]
+        },
+        "Albert": {
+          "Name": "Albert",
+          "LovedTags": [
+            "Stardrop Sorbet"
+          ],
+          "LikedTags": [
+            "Truffle Popcorn",
+            "Sour Slimes"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
+        },
+        "coffey": {
+          "Name": "coffey",
+          "LovedTags": [
+            "Panzanella Salad"
+          ],
+          "LikedTags": [
+            "Rock Candy",
+            "Salted Peanuts"
+          ],
+          "DislikedTags": [
+            "Sour Slimes",
+            "Star Cookie"
+          ]
+        },
+        "Hovsep": {
+          "Name": "Hovsep",
+          "LovedTags": [
+            "Ice Cream Sandwich"
+          ],
+          "LikedTags": [
+            "Jawbreaker",
+            "Cotton Candy"
+          ],
+          "DislikedTags": [
+            "Kale Smoothie",
+            "Nachos"
+          ]
+        },
+        "Wendy": {
+          "Name": "Wendy",
+          "LovedTags": [
+            "Cotton Candy"
+          ],
+          "LikedTags": [
+            "Cappuccino Mousse Cake",
+            "Jawbreaker"
+          ],
+          "DislikedTags": [
+            "Black Licorice",
+            "Hummus Snack Pack"
+          ]
+        },
+        "Uriel": {
+          "Name": "Uriel",
+          "LovedTags": [
+            "Cotton Candy"
+          ],
+          "LikedTags": [
+            "Jawbreaker",
+            "Star Cookie"
+          ],
+          "DislikedTags": [
+            "Personal Pizza",
+            "Salmon Burger"
+          ]
+        },
+        "Lane": {
+          "Name": "Lane",
+          "LovedTags": [
+            "Stardrop Sorbet"
+          ],
+          "LikedTags": [
+            "Ice Cream Sandwich",
+            "Star Cookie"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
+        },
+        "Rane": {
+          "Name": "Rane",
+          "LovedTags": [
+            "Ice Cream Sandwich"
+          ],
+          "LikedTags": [
+            "Star Cookie",
+            "Rock Candy"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
+        },
+        "Moore": {
+          "Name": "Moore",
+          "LovedTags": [
+            "Apple Slices"
+          ],
+          "LikedTags": [
+            "Cappuccino Mousse Cake",
+            "Black Licorice"
+          ],
+          "DislikedTags": [
+            "Chocolate Popcorn",
+            "JojaCorn"
+          ]
+        },
+        "Pelette": {
+          "Name": "Pelette",
+          "LovedTags": [
+            "Personal Pizza"
+          ],
+          "LikedTags": [
+            "Sour Slimes",
+            "Salmon Burger"
+          ],
+          "DislikedTags": [
+            "Panzanella Salad",
+            "Apple Slices"
+          ]
+        },
+        "Maria": {
+          "Name": "Maria",
+          "LovedTags": [
+            "Jasmine Tea"
+          ],
+          "LikedTags": [
+            "Cappuccino Mousse Cake",
+            "Sour Slimes"
+          ],
+          "DislikedTags": [
+            "Salmon Burger",
+            "Black Licorice"
+          ]
+        },
+        "luoli": {
+          "Name": "luoli",
+          "LovedTags": [
+            "Jawbreaker"
+          ],
+          "LikedTags": [
+            "Rock Candy",
+            "Apple Slices"
+          ],
+          "DislikedTags": [
+            "Sour Slimes",
+            "Black Licorice"
+          ]
+        },
+        "Teresa": {
+          "Name": "Teresa",
+          "LovedTags": [
+            "Jasmine Tea"
+          ],
+          "LikedTags": [
+            "Apple Slices",
+            "Panzanella Salad"
+          ],
+          "DislikedTags": [
+            "Salmon Burger",
+            "Black Licorice"
+          ]
+        },
+        "Arvey": {
+          "Name": "Arvey",
+          "LovedTags": [
+            "Salmon Burger"
+          ],
+          "LikedTags": [
+            "Personal Pizza",
+            "Popcorn"
+          ],
+          "DislikedTags": [
+            "Apple Slices",
+            "Black Licorice"
+          ]
+        },
+        "Edward": {
+          "Name": "Edward",
+          "LovedTags": [
+            "Joja Cola"
+          ],
+          "LikedTags": [
+            "JojaCorn",
+            "Hummus Snack Pack"
+          ],
+          "DislikedTags": [
+            "Kale Smoothie",
+            "Jawbreaker"
+          ]
+        },
+        "Raymond": {
+          "Name": "Raymond",
+          "LovedTags": [
+            "Apple Slices"
+          ],
+          "LikedTags": [
+            "Jawbreaker",
+            "Black Licorice"
+          ],
+          "DislikedTags": [
+            "Stardrop Sorbet",
+            "Popcorn"
+          ]
+        }
+      }
+    },
+    //婚后
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/AlbertMovieReactions.json, assets/Movie Dialogue/ArveyMovieReactions.json, assets/Movie Dialogue/CoffeyMovieReactions.json, assets/Movie Dialogue/EdwardMovieReactions.json, assets/Movie Dialogue/GarnetMovieReactions.json, assets/Movie Dialogue/HovsepMovieReactions.json, assets/Movie Dialogue/LaneMovieReactions.json, assets/Movie Dialogue/LucasMovieReactions.json, assets/Movie Dialogue/luoliMovieReactions.json, assets/Movie Dialogue/MariaMovieReactions.json, assets/Movie Dialogue/MooreMovieReactions.json, assets/Movie Dialogue/PeletteMovieReactions.json, assets/Movie Dialogue/RaneMovieReactions.json, assets/Movie Dialogue/RaymondMovieReactions.json, assets/Movie Dialogue/ReglaMovieReactions.json, assets/Movie Dialogue/TeresaMovieReactions.json,assets/Movie Dialogue/UrielMovieReactions.json , assets/Movie Dialogue/WendyMovieReactions.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/HovsepMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Hovsep": "Married"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/LaneMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Lane": "Married"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/LucasMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Abigail": "Lucas"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/MooreMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Moore": "Married"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/PeletteMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Pelette": "Married"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/RaneMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Rane": "Married"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/ReglaMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Regla": "Married"
+     }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/UrielMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Uriel": "Married"
+     }
+    }
+  ]
+}

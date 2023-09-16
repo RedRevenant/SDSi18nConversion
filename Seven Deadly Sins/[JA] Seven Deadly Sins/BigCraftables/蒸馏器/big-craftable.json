@@ -1,0 +1,47 @@
+{
+    "Name": "SDS Distiller", 
+    "Description": " ",
+    "TranslationKey": "SDS-distiller",
+    "Price": 700, 
+    "ProvidesLight": true,
+    "ReserveExtraIndexCount": 2,  
+    "CanPurchase": true, 
+    "PurchaseFrom": "SDCitysupermarketF", 
+    "PurchasePrice": 12000, 
+    "PurchaseRequirements": null, 
+    "Recipe":
+    { 
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 388,
+            "Count": 100
+        },
+        {
+            "Object": 336, 
+            "Count": 4
+        },
+        {
+            "Object": 337, 
+            "Count": 2
+        },
+        {
+            "Object": 338, 
+            "Count": 10
+        }
+      ]
+    },
+        "IsDefault": false,
+        "CanPurchase": true, 
+        "PurchaseFrom": "SDCitysupermarketF",
+        "PurchasePrice": 3500,
+        "PurchaseRequirements": null, 
+        "NameLocalization": 
+        { 
+            "zh": "蒸馏器"
+        },
+        "DescriptionLocalization": 
+        { 
+            "zh": "用以提炼精制材料，如果操作不合适或许会爆炸——当然不会，来自joja荣誉出品。" 
+        }
+    }

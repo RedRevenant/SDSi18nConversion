@@ -1,0 +1,41 @@
+{
+    "Name": "SDS Fragrant Tea", 
+    "Description": " ",
+    "TranslationKey": "SDS-fragranttea-objects",
+    "Category": "Cooking", 
+    "Edibility": -300, 
+    "Price": 200, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "香茶" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "清香四溢,入口带有独特的茶叶微苦,但回味甘甜,清火去燥,适合任何需要一杯饮料的场合." 
+    }
+}

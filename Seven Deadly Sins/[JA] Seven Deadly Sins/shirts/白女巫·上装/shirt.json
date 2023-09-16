@@ -1,0 +1,34 @@
+{
+  "Name": "SDS White witch Clothing",
+  "Description": " ",
+  "TranslationKey": "SDS-whitewitch-shirts",
+  "HasFemaleVariant": true,
+  "Price": 1000,
+  "Dyable": false,
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "白女巫·上衣"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "上衣"
+    }
+}

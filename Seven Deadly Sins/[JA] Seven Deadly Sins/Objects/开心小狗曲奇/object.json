@@ -1,0 +1,60 @@
+{
+    "Name": "SDS Happy Dog Cookies", 
+    "Description": " ",
+    "TranslationKey": "SDS-happydogcookies-objects",
+    "Category": "Cooking", 
+    "Edibility": 100, 
+    "Price": 450, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 2,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": false,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        },
+        {
+            "Object": 306, 
+            "Count": 1
+        }
+		],
+    "CanPurchase": false 
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "开心小狗曲奇" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "超——高兴的小狗正在兴奋等待为每一个人带去爱与甜蜜！所以要尝尝看吗？" 
+    }
+}

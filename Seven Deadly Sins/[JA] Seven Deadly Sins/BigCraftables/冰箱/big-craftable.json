@@ -1,0 +1,43 @@
+{
+    "Name": "SDS Ice box", 
+    "Description": " ",
+    "TranslationKey": "SDS-icebox",
+    "Price": 1000, 
+    "ProvidesLight": true,
+    "ReserveExtraIndexCount": 2,  
+    "CanPurchase": true, 
+    "PurchaseFrom": "SDCitysupermarketF", 
+    "PurchasePrice": 20000, 
+    "PurchaseRequirements": null, 
+    "Recipe":
+    { 
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 338, 
+            "Count": 20
+        },
+        {
+            "Object": 335, 
+            "Count": 5
+        },
+        {
+            "Object": 787, 
+            "Count": 2
+        }
+      ]
+    },
+        "IsDefault": false,
+        "CanPurchase": true, 
+        "PurchaseFrom": "SDCitysupermarketF",
+        "PurchasePrice": 4000,
+        "PurchaseRequirements": null, 
+        "NameLocalization": 
+        { 
+            "zh": "冰箱"
+        },
+        "DescriptionLocalization": 
+        { 
+            "zh": "自带人性化ai提示的冰箱，来自joja的科技产品，内部冰冷，但设计绝对温暖，谁能拒绝这么可爱的电子产品呢？" 
+        }
+    }

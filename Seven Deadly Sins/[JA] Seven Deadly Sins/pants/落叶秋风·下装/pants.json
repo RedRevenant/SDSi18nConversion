@@ -1,0 +1,34 @@
+{
+   "Name": "SDS fallen leaves Bottoms",
+   "Description": " ",
+   "TranslationKey": "SDS-fallenleaves-pants",
+   "Price": 4000,
+   "Dyable": false,
+   "DefaultColor": "255,255,255,0",
+   "NameLocalization": {
+      // "es": "",
+      // "ko": "",
+      // "de": "",
+      // "fr": "",
+      // "hu": "",
+      // "it": "",
+      // "ja": "",
+      // "pt": "",
+      // "ru": "",
+      // "tr": "",
+      "zh": "落叶秋风·下装"
+   },
+   "DescriptionLocalization": {
+      // "es": "",
+      // "ko": "",
+      // "de": "",
+      // "fr": "",
+      // "hu": "",
+      // "it": "",
+      // "ja": "",
+      // "pt": "",
+      // "ru": "",
+      // "tr": "",
+      "zh": "一条裙子"
+   }
+}

@@ -1,0 +1,32 @@
+{
+    "Name": "SDS Love Chocolate recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-lovechocolaterecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDSeasonalS",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "爱心巧克力食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将一份巧克力、一颗草莓放入烤箱中。" 
+    }
+}

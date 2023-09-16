@@ -1,0 +1,29 @@
+{
+    "Name": "SDS Winter Star Cake recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-winterstarcakerecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "冬日星蛋糕食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将一颗冬青树、一份任意奶类、一份任意蛋类放入烤箱中。" 
+    }
+}

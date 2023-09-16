@@ -1,0 +1,19 @@
+{
+    "Name": "SDS Cocoa bean sapling", 
+    "Product": "SDS Cocoa bean", 
+    "SaplingName": "SDS Cocoa bean sapling",
+    "SaplingDescription": "...",	
+	"SaplingTranslationKey": "SDS-cocoabean-sapling",
+    "Season": "summer", 
+    "SaplingPurchasePrice": 7000, 
+    "SaplingPurchaseFrom": "SDFlower", 
+    "SaplingPurchaseRequirements": null, 
+   "SaplingNameLocalization":
+    {
+        "zh": "可可树苗" 
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "zh": "28天成熟为成年可可树。夏天结果。只有在附近8块“地块”都空置的情况下才会成长。" 
+    }
+}

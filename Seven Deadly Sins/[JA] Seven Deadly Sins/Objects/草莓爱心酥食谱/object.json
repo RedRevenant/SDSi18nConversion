@@ -1,0 +1,32 @@
+{
+    "Name": "SDS Strawberry Love Crisp recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-strawberrylovecrisprecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDSeasonalL",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "草莓爱心酥食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将一颗草莓、一块黄油、一份大麦粉放入烤箱中。" 
+    }
+}

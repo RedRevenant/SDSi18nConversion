@@ -1,0 +1,19 @@
+{
+    "Name": "SDS Night willow herb sapling", 
+    "Product": "SDS Night willow herb", 
+    "SaplingName": "SDS Night willow herb sapling",
+    "SaplingDescription": "...",	
+	"SaplingTranslationKey": "SDS-nightwillowherb-sapling",
+    "Season": "spring", 
+    "SaplingPurchasePrice": 12000, 
+    "SaplingPurchaseFrom": "SDFlower", 
+    "SaplingPurchaseRequirements": null, 
+   "SaplingNameLocalization":
+    {
+        "zh": "夜来香树苗" 
+    },
+    "SaplingDescriptionLocalization":
+    {
+        "zh": "28天成熟为成年夜来香树。春天结果。只有在附近8块“地块”都空置的情况下才会成长。" 
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "Name": "SDS White witch Bottoms",
+  "Description": " ",
+  "TranslationKey": "SDS-whitewitch-pants",
+  "Price": 2000,
+  "Dyable": false,
+  "DefaultColor": "255,255,255,0",
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "白女巫·下装"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "一条裙子"
+    }
+}

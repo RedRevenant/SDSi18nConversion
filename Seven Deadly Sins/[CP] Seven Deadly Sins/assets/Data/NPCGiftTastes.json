@@ -1,0 +1,539 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "luoli": "{{i18n:Gift.Luoli.Love}}/348 400 233 62 373 424 72/{{i18n:Gift.Luoli.Like}}/84 74 797 344/{{i18n:Gift.Luoli.Dislike}}/303 60 769/{{i18n:Gift.Luoli.Hate}}/832 420 -20/{{i18n:Gift.Luoli.Neutral}}/768 446 254/",
+        "Regla": "{{i18n:Gift.Regla.Love}}/220 64 564 74/{{i18n:Gift.Regla.Like}}/210 446 -2 {{spacechase0.JsonAssets/ObjectId:SDS chocolate}}/{{i18n:Gift.Regla.Dislike}}/-4 -19 608 236 276/{{i18n:Gift.Regla.Hate}}/260 215 -20 -21/{{i18n:Gift.Regla.Neutral}}//",
+        "Maria": "{{i18n:Gift.Maria.Love}}/64 66 72 74 124 125 220 221 232 233 234 376 417 454 540 561 562 563 564 565 575 577 578 611 612 638 651 768 769/{{i18n:Gift.Maria.Like}}/203 305 309 310 311 308 535 536 537 749 238 414 604 731/{{i18n:Gift.Maria.Dislike}}/0 -4 -8 -15 -16 -19 -20 -21 -22 -24 78 92 110 111 112 142 152 153 157 169 168 105 170 171 172 247 265 374 378 380 397 403 419 420 423 684 721 725 726 766 767 772/{{i18n:Gift.Maria.Hate}}//{{i18n:Gift.Maria.Neutral}}//",
+        "Arvey": "{{i18n:Gift.Arvey.Love}}/201 393 237/{{i18n:Gift.Arvey.Like}}/136 715 130/{{i18n:Gift.Arvey.Dislike}}/-2/{{i18n:Gift.Arvey.Hate}}/-20 -75/{{i18n:Gift.Arvey.Neutral}}/-21 -79/",
+        "Teresa": "{{i18n:Gift.Teresa.Love}}/614 18/{{i18n:Gift.Teresa.Like}}/-75 -80/{{i18n:Gift.Teresa.Dislike}}/-79/{{i18n:Gift.Teresa.Hate}}/-20/{{i18n:Gift.Teresa.Neutral}}//",
+        "Coffey": "{{i18n:Gift.Coffey.Love}}/283 394 221/{{i18n:Gift.Coffey.Like}}/233 -80 402/{{i18n:Gift.Coffey.Dislike}}/398/{{i18n:Gift.Coffey.Hate}}/-4 -20 -19/{{i18n:Gift.Coffey.Neutral}}//",
+        "Garnet": "{{i18n:Gift.Garnet.Love}}/256 618/{{i18n:Gift.Garnet.Like}}/-7 -75/{{i18n:Gift.Garnet.Dislike}}/-5 -6/{{i18n:Gift.Garnet.Hate}}/-20 -19/{{i18n:Gift.Garnet.Neutral}}//",
+        "Raymond": "{{i18n:Gift.Raymond.Love}}/433 395/{{i18n:Gift.Raymond.Like}}/834 223 -79/{{i18n:Gift.Raymond.Dislike}}/-2 -12/{{i18n:Gift.Raymond.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.Raymond.Neutral}}//",
+        "peipei": "{{i18n:Gift.peipei.Love}}/433 395/{{i18n:Gift.peipei.Like}}/834 223 -79/{{i18n:Gift.peipei.Dislike}}/-2 -12/{{i18n:Gift.peipei.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.peipei.Neutral}}//"
+      }
+    },
+    //阿维
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Arvey.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Arvey.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Arvey.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Arvey.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "summer",
+        "Day": "5"
+      }
+    },
+    //特蕾莎
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Teresa.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Teresa.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Teresa.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Teresa.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "spring",
+        "Day": "13"
+      }
+    },
+    //艾伯特
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Albert": "{{i18n:Gift.Albert.Hearts1to2.Love}}/612 636 223/{{i18n:Gift.Albert.Hearts1to2.Like}}/233 634 635/{{i18n:Gift.Albert.Hearts1to2.Dislike}}/-4/{{i18n:Gift.Albert.Hearts1to2.Hate}}/-20 -19 410/{{i18n:Gift.Albert.Hearts1to2.Neutral}}//"
+      },
+      "When": {
+        "Hearts:Albert": "0,1,2"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Albert": "{{i18n:Gift.Albert.Hearts3to10.Love}}/612 636 223/{{i18n:Gift.Albert.Hearts3to10.Like}}/233 634 635/{{i18n:Gift.Albert.Hearts3to10.Dislike}}/-4/{{i18n:Gift.Albert.Hearts3to10.Hate}}/-20 -19 410/{{i18n:Gift.Albert.Hearts3to10.Neutral}}//"
+      },
+      "When": {
+        "Hearts:Albert": "3,4,5,6,7,8,9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Albert.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Albert.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Albert.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Albert.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "winter",
+        "Day": "16"
+      }
+    },
+    //温蒂
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Wendy": ".../233/.../-79 22/...//.../-20 -19 296 410/.../-4/"
+      },
+      "When": {
+        "Hearts:Wendy": "0,1,2"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Wendy": "{{i18n:Gift.Wendy.Hearts3to10.Love}}/233/{{i18n:Gift.Wendy.Hearts3to10.Like}}/-79 22/{{i18n:Gift.Wendy.Hearts3to10.Dislike}}//{{i18n:Gift.Wendy.Hearts3to10.Hate}}/-20 -19 296 410/{{i18n:Gift.Wendy.Hearts3to10.Neutral}}/-4/"
+      },
+      "When": {
+        "Hearts:Wendy": "3,4,5,6,7,8,9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Wendy.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Wendy.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Wendy.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Wendy.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "spring",
+        "Day": "23"
+      }
+    },
+    //科菲
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Coffey.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Coffey.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Coffey.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Coffey.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "fall",
+        "Day": "9"
+      }
+    },
+    //盖瑞特
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Garnet.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Garnet.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Garnet.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Garnet.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "spring",
+        "Day": "15"
+      }
+    },
+    //雷蒙德
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Raymond.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Raymond.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Raymond.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Raymond.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "spring",
+        "Day": "2"
+      }
+    },
+    //霍夫塞普
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Hovsep": "{{i18n:Gift.Hovsep.Hearts0to3.Love}}/265 797 233/{{i18n:Gift.Hovsep.Hearts0to3.Like}}/393 589/{{i18n:Gift.Hovsep.Hearts0to3.Dislike}}/-4/{{i18n:Gift.Hovsep.Hearts0to3.Hate}}/-22 -20/{{i18n:Gift.Hovsep.Hearts0to3.Neutral}}/-24/"
+      },
+      "When": {
+        "Hearts:Hovsep": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Hovsep": "{{i18n:Gift.Hovsep.Hearts4to7.Love}}/265 797 233/{{i18n:Gift.Hovsep.Hearts4to7.Like}}/393 589/{{i18n:Gift.Hovsep.Hearts4to7.Dislike}}/-4/{{i18n:Gift.Hovsep.Hearts4to7.Hate}}/-22 -20/{{i18n:Gift.Hovsep.Hearts4to7.Neutral}}/-24/"
+      },
+      "When": {
+        "Hearts:Hovsep": "4,5,6,7"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Hovsep": "{{i18n:Gift.Hovsep.Hearts8to9.Love}}/265 797 233/{{i18n:Gift.Hovsep.Hearts8to9.Like}}/393 589/{{i18n:Gift.Hovsep.Hearts8to9.Dislike}}/-4/{{i18n:Gift.Hovsep.Hearts8to9.Hate}}/-22 -20/{{i18n:Gift.Hovsep.Hearts8to9.Neutral}}/-24/"
+      },
+      "When": {
+        "Hearts:Hovsep": "8,9"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Hovsep": "{{i18n:Gift.Hovsep.Hearts10.Love}}/265 797 233/{{i18n:Gift.Hovsep.Hearts10.Like}}/393 589/{{i18n:Gift.Hovsep.Hearts10.Dislike}}/-4/{{i18n:Gift.Hovsep.Hearts10.Hate}}/-22 -20/{{i18n:Gift.Hovsep.Hearts10.Neutral}}/-24/"
+      },
+      "When": {
+        "Hearts:Hovsep": "10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Hovsep": "{{i18n:Gift.Hovsep.Hearts11to14.Love}}/265 797 233/{{i18n:Gift.Hovsep.Hearts11to14.Like}}/393 589/{{i18n:Gift.Hovsep.Hearts11to14.Dislike}}/-4/{{i18n:Gift.Hovsep.Hearts11to14.Hate}}/-22 -20/{{i18n:Gift.Hovsep.Hearts11to14.Neutral}}/-24/"
+      },
+      "When": {
+        "Hearts:Hovsep": "11,12,13,14"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Hovsep.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Hovsep.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Hovsep.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Hovsep.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "winter",
+        "Day": "2"
+      }
+    },
+    //Rane
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Rane": "{{i18n:Gift.Rane.Hearts0to3.Love}}/74 {{spacechase0.JsonAssets/ObjectId:SDS Frozen yoghurt}}/{{i18n:Gift.Rane.Hearts0to3.Like}}/282 -2 -24/{{i18n:Gift.Rane.Hearts0to3.Dislike}}//{{i18n:Gift.Rane.Hearts0to3.Hate}}/-19 -20/{{i18n:Gift.Rane.Hearts0to3.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Rane": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Rane": "{{i18n:Gift.Rane.Hearts4to8.Love}}/74 {{spacechase0.JsonAssets/ObjectId:SDS Frozen yoghurt}}/{{i18n:Gift.Rane.Hearts4to8.Like}}/282 -2 -24/{{i18n:Gift.Rane.Hearts4to8.Dislike}}//{{i18n:Gift.Rane.Hearts4to8.Hate}}/-19 -20/{{i18n:Gift.Rane.Hearts4to8.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Rane": "4,5,6,7,8"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Rane": "{{i18n:Gift.Rane.Hearts9to10.Love}}/74 {{spacechase0.JsonAssets/ObjectId:SDS Frozen yoghurt}}/{{i18n:Gift.Rane.Hearts9to10.Like}}/282 -2 -24/{{i18n:Gift.Rane.Hearts9to10.Dislike}}//{{i18n:Gift.Rane.Hearts9to10.Hate}}/-19 -20/{{i18n:Gift.Rane.Hearts9to10.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Rane": "9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4274": "{{i18n:BirthdayGift.Rane.NPC.cs.4274}}",
+        "NPC.cs.4276": "{{i18n:BirthdayGift.Rane.NPC.cs.4276}}",
+        "NPC.cs.4278": "{{i18n:BirthdayGift.Rane.NPC.cs.4278}}",
+        "NPC.cs.4280": "{{i18n:BirthdayGift.Rane.NPC.cs.4280}}"
+      },
+      "When": {
+        "Season": "summer",
+        "Day": "3"
+      }
+    },
+    //Lane
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lane": "{{i18n:Gift.Lane.Hearts0to3.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts0to3.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts0to3.Dislike}}/-24/{{i18n:Gift.Lane.Hearts0to3.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts0to3.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Lane": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lane": "{{i18n:Gift.Lane.Hearts4to8.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts4to8.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts4to8.Dislike}}/-24/{{i18n:Gift.Lane.Hearts4to8.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts4to8.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Lane": "4,5,6,7,8"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lane": "{{i18n:Gift.Lane.Hearts9to10.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts9to10.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts9to10.Dislike}}/-24/{{i18n:Gift.Lane.Hearts9to10.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts9to10.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Lane": "9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Lane.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Lane.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Lane.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Lane.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "summer",
+        "Day": "3"
+      }
+    },
+    //佩莱特
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Pelette": "{{i18n:Gift.Pelette.Hearts0to3.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Drizzled cake}} 109/{{i18n:Gift.Pelette.Hearts0to3.Like}}/224 -80 303/{{i18n:Gift.Pelette.Hearts0to3.Dislike}}/414/{{i18n:Gift.Pelette.Hearts0to3.Hate}}/-20 418/{{i18n:Gift.Pelette.Hearts0to3.Neutral}}/-24 -19/"
+      },
+      "When": {
+        "Hearts:Pelette": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Pelette": "{{i18n:Gift.Pelette.Hearts4to8.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Drizzled cake}} 109/{{i18n:Gift.Pelette.Hearts4to8.Like}}/224 -80 303/{{i18n:Gift.Pelette.Hearts4to8.Dislike}}/414/{{i18n:Gift.Pelette.Hearts4to8.Hate}}/-20 418/{{i18n:Gift.Pelette.Hearts4to8.Neutral}}/-24 -19/"
+      },
+      "When": {
+        "Hearts:Pelette": "4,5,6,7,8"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Pelette": "{{i18n:Gift.Pelette.Hearts9to10.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Drizzled cake}} 109/{{i18n:Gift.Pelette.Hearts9to10.Like}}/224 -80 303/{{i18n:Gift.Pelette.Hearts9to10.Dislike}}/414/{{i18n:Gift.Pelette.Hearts9to10.Hate}}/-20 418/{{i18n:Gift.Pelette.Hearts9to10.Neutral}}/-24 -19/"
+      },
+      "When": {
+        "Hearts:Pelette": "9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4274": "{{i18n:BirthdayGift.Pelette.NPC.cs.4274}}",
+        "NPC.cs.4276": "{{i18n:BirthdayGift.Pelette.NPC.cs.4276}}",
+        "NPC.cs.4278": "{{i18n:BirthdayGift.Pelette.NPC.cs.4278}}",
+        "NPC.cs.4280": "{{i18n:BirthdayGift.Pelette.NPC.cs.4280}}"
+      },
+      "When": {
+        "Season": "summer",
+        "Day": "14"
+      }
+    },
+    //卢卡斯
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lucas": "{{i18n:Gift.Lucas.Hearts0to3.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Night willow herb}} {{spacechase0.JsonAssets/ObjectId:SDS Red wine}}/{{i18n:Gift.Lucas.Hearts0to3.Like}}/234 258 597/{{i18n:Gift.Lucas.Hearts0to3.Dislike}}/-19 -2/{{i18n:Gift.Lucas.Hearts0to3.Hate}}/-20 -12/{{i18n:Gift.Lucas.Hearts0to3.Neutral}}/-80/"
+      },
+      "When": {
+        "Hearts:Lucas": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lucas": "{{i18n:Gift.Lucas.Hearts4to7.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Night willow herb}} {{spacechase0.JsonAssets/ObjectId:SDS Red wine}}/{{i18n:Gift.Lucas.Hearts4to7.Like}}/234 258 597/{{i18n:Gift.Lucas.Hearts4to7.Dislike}}/-19 -2/{{i18n:Gift.Lucas.Hearts4to7.Hate}}/-20 -12/{{i18n:Gift.Lucas.Hearts4to7.Neutral}}/-80/"
+      },
+      "When": {
+        "Hearts:Lucas": "4,5,6,7"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lucas": "{{i18n:Gift.Lucas.Hearts8to9.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Night willow herb}} {{spacechase0.JsonAssets/ObjectId:SDS Red wine}}/{{i18n:Gift.Lucas.Hearts8to9.Like}}/234 258 597/{{i18n:Gift.Lucas.Hearts8to9.Dislike}}/-19 -2/{{i18n:Gift.Lucas.Hearts8to9.Hate}}/-20 -12/{{i18n:Gift.Lucas.Hearts8to9.Neutral}}/-80/"
+      },
+      "When": {
+        "Hearts:Lucas": "8,9"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lucas": "{{i18n:Gift.Lucas.Hearts10.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Night willow herb}} {{spacechase0.JsonAssets/ObjectId:SDS Red wine}}/{{i18n:Gift.Lucas.Hearts10.Like}}/234 258 597/{{i18n:Gift.Lucas.Hearts10.Dislike}}/-19 -2/{{i18n:Gift.Lucas.Hearts10.Hate}}/-20 -12/{{i18n:Gift.Lucas.Hearts10.Neutral}}/-80/"
+      },
+      "When": {
+        "Hearts:Lucas": "10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Lucas": "{{i18n:Gift.Lucas.Hearts11to14.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Night willow herb}} {{spacechase0.JsonAssets/ObjectId:SDS Red wine}}/{{i18n:Gift.Lucas.Hearts11to14.Like}}/234 258 597/{{i18n:Gift.Lucas.Hearts11to14.Dislike}}/-19 -2/{{i18n:Gift.Lucas.Hearts11to14.Hate}}/-20 -12/{{i18n:Gift.Lucas.Hearts11to14.Neutral}}/-80/"
+      },
+      "When": {
+        "Hearts:Lucas": "11,12,13,14"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Lucas.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Lucas.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Lucas.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Lucas.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "fall",
+        "Day": "23"
+      }
+    },
+    //莫尔
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Moore": "{{i18n:Gift.Moore.Hearts0to3.Love}}/108 104 103 74/{{i18n:Gift.Moore.Hearts0to3.Like}}/769 768/{{i18n:Gift.Moore.Hearts0to3.Dislike}}/-7 -4/{{i18n:Gift.Moore.Hearts0to3.Hate}}/-19 -20/{{i18n:Gift.Moore.Hearts0to3.Neutral}}/-28/"
+      },
+      "When": {
+        "Hearts:Moore": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Moore": "{{i18n:Gift.Moore.Hearts4to8.Love}}/108 104 103 74/{{i18n:Gift.Moore.Hearts4to8.Like}}/769 768/{{i18n:Gift.Moore.Hearts4to8.Dislike}}/-7 -4/{{i18n:Gift.Moore.Hearts4to8.Hate}}/-19 -20/{{i18n:Gift.Moore.Hearts4to8.Neutral}}/-28/"
+      },
+      "When": {
+        "Hearts:Moore": "4,5,6,7,8"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Moore": "{{i18n:Gift.Moore.Hearts9to10.Love}}/108 104 103 74/{{i18n:Gift.Moore.Hearts9to10.Like}}/769 768/{{i18n:Gift.Moore.Hearts9to10.Dislike}}/-7 -4/{{i18n:Gift.Moore.Hearts9to10.Hate}}/-19 -20/{{i18n:Gift.Moore.Hearts9to10.Neutral}}/-28/"
+      },
+      "When": {
+        "Hearts:Moore": "9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Moore.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Moore.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Moore.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Moore.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "spring",
+        "Day": "18"
+      }
+    },
+    //乌列
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Uriel": "{{i18n:Gift.Uriel.Hearts0to3.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Coconut juice}} 939/{{i18n:Gift.Uriel.Hearts0to3.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts0to3.Dislike}}/395/{{i18n:Gift.Uriel.Hearts0to3.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts0to3.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Uriel": "0,1,2,3"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Uriel": "{{i18n:Gift.Uriel.Hearts4to7.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Coconut juice}} 939/{{i18n:Gift.Uriel.Hearts4to7.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts4to7.Dislike}}/395/{{i18n:Gift.Uriel.Hearts4to7.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts4to7.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Uriel": "4,5,6,7"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Uriel": "{{i18n:Gift.Uriel.Hearts8to9.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Coconut juice}} 939/{{i18n:Gift.Uriel.Hearts8to9.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts8to9.Dislike}}/395/{{i18n:Gift.Uriel.Hearts8to9.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts8to9.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Uriel": "8,9"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Uriel": "{{i18n:Gift.Uriel.Hearts10.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Coconut juice}} 939/{{i18n:Gift.Uriel.Hearts10.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts10.Dislike}}/395/{{i18n:Gift.Uriel.Hearts10.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts10.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Uriel": "10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Uriel": "{{i18n:Gift.Uriel.Hearts11to14.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Coconut juice}} 939/{{i18n:Gift.Uriel.Hearts11to14.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts11to14.Dislike}}/395/{{i18n:Gift.Uriel.Hearts11to14.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts11to14.Neutral}}/-12/"
+      },
+      "When": {
+        "Hearts:Uriel": "11,12,13,14"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4274": "{{i18n:BirthdayGift.Uriel.NPC.cs.4274}}",
+        "NPC.cs.4276": "{{i18n:BirthdayGift.Uriel.NPC.cs.4276}}",
+        "NPC.cs.4278": "{{i18n:BirthdayGift.Uriel.NPC.cs.4278}}",
+        "NPC.cs.4280": "{{i18n:BirthdayGift.Uriel.NPC.cs.4280}}"
+      },
+      "When": {
+        "Season": "winter",
+        "Day": "24"
+      }
+    }
+  ]
+}

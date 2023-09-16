@@ -1,0 +1,60 @@
+{
+    "Name": "SDS Strawberry Love Crisp", 
+    "Description": " ",
+    "TranslationKey": "SDS-strawberrylovecrisp-objects",
+    "Category": "Cooking", 
+    "Edibility": 60, 
+    "Price": 620, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 2,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": false,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 400, 
+            "Count": 1
+        },
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        }
+		],
+    "CanPurchase": false 
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "草莓爱心酥" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "小心！这颗爱心中香甜而美好的味道会让人沉迷于此。" 
+    }
+}

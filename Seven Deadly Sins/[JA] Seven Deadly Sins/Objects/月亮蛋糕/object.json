@@ -1,0 +1,70 @@
+{
+    "Name": "SDS Moon Cake", 
+    "Description": " ",
+    "TranslationKey": "SDS-mooncake-objects",
+    "Category": "Cooking", 
+    "Edibility": 100, 
+    "Price": 1200, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 2,
+        "Fishing": 0,
+        "Mining": 1,
+        "Luck": 3,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 1200,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": -5, 
+            "Count": 1
+        },
+        {
+            "Object": -6, 
+            "Count": 1
+        },
+        {
+            "Object": 834, 
+            "Count": 4
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "月亮蛋糕" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "像是月亮一样有着一些洞的蛋糕，绝对不是因为制作失败，它仍然甜蜜美好。" 
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "Name": "SDS Cocoa gingerbread Bottoms",
+  "Description": " ",
+  "TranslationKey": "SDS-cocoagingerbread-pants",
+  "Price": 3000,
+  "Dyable": false,
+  "DefaultColor": "255,255,255,0",
+  "NameLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "可可姜饼·下装"
+     },
+ "DescriptionLocalization": { 
+    // "es": "",
+    // "ko": "",
+    // "de": "",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": "",
+    // "ru": "",
+    // "tr": "",
+       "zh": "一条裙子"
+    }
+}

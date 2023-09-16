@@ -1,0 +1,32 @@
+{
+    "Name": "SDS Butter", 
+    "Description": " ",
+    "TranslationKey": "SDS-butter-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 100, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 150,
+	"PurchaseRequirements": null,
+    "GiftTastes":
+    {
+        "Love": ["Marnie"],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "黄油" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "由牛奶或奶油的脂肪和蛋白质做成的乳制品" 
+    }
+}

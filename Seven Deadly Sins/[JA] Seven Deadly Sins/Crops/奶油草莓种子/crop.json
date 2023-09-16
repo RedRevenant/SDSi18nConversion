@@ -1,0 +1,25 @@
+{
+	"Name": "SDS Cream strawberry seeds",
+	"Product": "SDS Cream strawberry",
+	"SeedName": "SDS Cream strawberry seeds",
+	"SeedDescription": "...",	
+	"SeedTranslationKey": "SDS-creamstrawberry-seeds",
+	"Type": "Flower",
+	"Seasons": ["summer"],
+	"Phases": [1,1,2,2,2],
+    "RegrowthPhase": 5,
+	"HarvestWithScythe": false,
+	"TrellisCrop": false,
+	"Colors": null,
+	"CanPurchase": true,
+	"SeedPurchasePrice": 200,
+	"SeedPurchaseFrom": "STF.SDFlower",
+    "SeedNameLocalization":
+    {
+        "zh": "奶油草莓种子"
+    },
+    "SeedDescriptionLocalization":
+    {
+        "zh": "夏天播种，8天成熟。" 
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "Name": "SDS Chocolate strawberry", 
+    "Description": " ",
+    "TranslationKey": "SDS-chocolatestrawberry-objects",
+    "Category": "Cooking", 
+    "Edibility": 30, 
+    "Price": 400, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 400,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 400, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Chocolate pulp", 
+            "Count": 1
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDIcecream",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "草莓巧克力" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "草莓的外壳下是甜蜜的巧克力,造型精巧,内心中的甜蜜与外表同样甜美." 
+    }
+}

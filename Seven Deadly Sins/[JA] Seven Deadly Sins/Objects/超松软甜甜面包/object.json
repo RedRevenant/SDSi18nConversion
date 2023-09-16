@@ -1,0 +1,66 @@
+{
+    "Name": "SDS Super soft sweet bread", 
+    "Description": " ",
+    "TranslationKey": "SDS-supersoftsweetbread-objects",
+    "Category": "Cooking", 
+    "Edibility": 50, 
+    "Price": 200, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 200,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        },
+        {
+            "Object": 245, 
+            "Count": 1
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDCitysupermarket",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "超松软甜甜面包" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "有谁会不喜欢一份充满了谷物香气的超~松软面包？无论何时出现在何时的餐桌都不会显得意外。" 
+    }
+}

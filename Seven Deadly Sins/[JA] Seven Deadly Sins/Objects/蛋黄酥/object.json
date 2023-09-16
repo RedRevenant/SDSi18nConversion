@@ -1,0 +1,64 @@
+{
+    "Name": "SDS Egg Yolk Crisp", 
+    "Description": " ",
+    "TranslationKey": "SDS-eggyolkcrisp-objects",
+    "Category": "Cooking", 
+    "Edibility": 40, 
+    "Price": 400, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 3,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 2,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 660
+    },
+	"CanPurchase": false,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": -5, 
+            "Count": 1
+        },
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        },
+        {
+            "Object": 245, 
+            "Count": 1
+        }
+		],
+    "CanPurchase": false 
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "蛋黄酥" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "用一整个蛋黄制成的厚实蛋黄酥，酥皮松脆而柔软，带来独特的口味体验。" 
+    }
+}

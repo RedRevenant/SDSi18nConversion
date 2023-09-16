@@ -1,0 +1,41 @@
+{
+    "Name": "SDS Mushroom", 
+    "Description": " ",
+    "TranslationKey": "SDS-mushroom-objects",
+    "Category": "Cooking", 
+    "Edibility": -300, 
+    "Price": 150, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 0
+    },
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "香菇" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "一颗巨大的香菇,肥厚的伞盖看上去是如此多汁,请放心,它是无毒的种类,真的" 
+    }
+}

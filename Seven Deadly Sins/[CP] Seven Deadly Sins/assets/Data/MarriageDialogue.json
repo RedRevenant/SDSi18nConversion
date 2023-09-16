@@ -1,0 +1,51 @@
+{
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueLucas, Characters/Dialogue/MarriageDialogueHovsep, Characters/Dialogue/MarriageDialogueUriel, Characters/Dialogue/MarriageDialogueMaria",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Lucas.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Lucas": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Hovsep.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Hovsep": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "Hovsep0": "{{i18n:MarriageDialogue.Engagement.Hovsep0}}",
+        "Hovsep1": "{{i18n:MarriageDialogue.Engagement.Hovsep1}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Uriel.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Uriel": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Dialogue/MarriageDialogue/Hovsep.json, assets/Dialogue/MarriageDialogue/Lucas.json, assets/Dialogue/MarriageDialogue/Maria.json, assets/Dialogue/MarriageDialogue/Uriel.json"
+    }
+  ]
+}

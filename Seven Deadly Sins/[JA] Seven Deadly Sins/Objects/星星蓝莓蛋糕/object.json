@@ -1,0 +1,70 @@
+{
+    "Name": "SDS Star Blueberry Cake", 
+    "Description": " ",
+    "TranslationKey": "SDS-starblueberrycake-objects",
+    "Category": "Cooking", 
+    "Edibility": 100, 
+    "Price": 1100, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 3,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 40,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 700
+    },
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDSeasonalS",
+	"PurchasePrice": 1100,
+	"PurchaseRequirements": null,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 258, 
+            "Count": 10
+        },
+        {
+            "Object": 246, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        },
+        {
+            "Object": 245, 
+            "Count": 1
+        }
+		],
+	"CanPurchase": true,
+	"PurchaseFrom": "STF.SDSeasonalS",
+	"PurchasePrice": 500,
+	"PurchaseRequirements": null
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "星星蓝莓蛋糕" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "点缀着一颗可食用小星星的蓝莓蛋糕，柔软的酸甜会让人的味蕾彻底沉沦。" 
+    }
+}

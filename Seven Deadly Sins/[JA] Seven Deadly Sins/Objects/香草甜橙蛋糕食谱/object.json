@@ -1,0 +1,29 @@
+{
+    "Name": "SDS Vanilla Orange Cake recipe", 
+    "Description": " ",
+    "TranslationKey": "SDS-vanillaorangecakerecipe-objects",
+    "Category": "Crafting", 
+    "Edibility": -300, 
+    "Price": 1, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"Recipe": null,
+	"EdibleBuffs": null,
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "香草甜橙蛋糕食谱" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "将三颗橙子、一瓶枫糖浆、一份大麦粉放入烤箱中。" 
+    }
+}

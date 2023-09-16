@@ -1,0 +1,28 @@
+{
+    "Name": "SDS Higanbana", 
+    "Description": " ",
+    "TranslationKey": "SDS-higanbana-objects",
+    "Category": "Flower", 
+    "Edibility": -300,
+    "Price": 400,
+    "EdibleIsDrink": false,
+    "IsColored": false,
+    "CanPurchase":false,
+    "Recipe": null, 
+    "GiftTastes": 
+    {
+        "Love": [], 
+        "Like": [],
+        "Neutral": null, 
+        "Dislike": [], 
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "彼岸花" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "似乎总有人认为这种花朵是不详的预兆，但彼岸花不在乎那些，它只是默默的盛放着，守望着每一个经过它身侧的人。"
+    }
+}

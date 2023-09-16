@@ -1,0 +1,28 @@
+{
+    "Name": "SDS Night willow herb", 
+    "Description": " ",
+    "TranslationKey": "SDS-nightwillowherb-objects",
+    "Category": "Flower", 
+    "Edibility": -300,
+    "Price": 160,
+    "EdibleIsDrink": false,
+    "IsColored": false,
+    "CanPurchase":false,
+    "Recipe": null, 
+    "GiftTastes": 
+    {
+        "Love": [], 
+        "Like": [],
+        "Neutral": null, 
+        "Dislike": [], 
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "夜来香" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "花极香，却只在夜间悄悄盛放，但别为了欣赏它的美丽与香气久久驻足于夜色之下，记住过犹不及。"
+    }
+}

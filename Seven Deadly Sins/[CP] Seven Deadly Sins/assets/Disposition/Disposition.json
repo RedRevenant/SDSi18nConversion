@@ -1,0 +1,52 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "data/NPCDispositions",
+			"Entries": {
+				"Lucas": "teen/polite/outgoing/neutral/male/datable/null/Town/fall 23//Custom_Lucashouse 22 9/{{i18n:NPCDispositions.Lucas}}",
+				"Pelette": "adult/rude/shy/neutral/male/not-datable/null/Town/summer 14//Custom_SDS.Phouse 8 6/{{i18n:NPCDispositions.Pelette}}",
+				"Uriel": "adult/rude/shy/neutral/male/datable/null/Town/winter 24//Custom_SDS.UrielHouse 25 8/{{i18n:NPCDispositions.Uriel}}",
+				"Moore": "adult/neutral/neutral/neutral/male/not-datable/null/Town/spring 18//Custom_SDS.Cavebase 20 12/{{i18n:NPCDispositions.Moore}}",
+				"Hovsep": "adult/polite/shy/neutral/male/datable/null/Town/winter 2//Custom_SDS.HHome 12 15/{{i18n:NPCDispositions.Hovsep}}",
+				//"Sariel": "teen/polite/outgoing/neutral/male/not-datable/null/Other/winter 15//Uhome 28 12/白井",
+				"Teresa": "teen/polite/outgoing/positive/female/not-datable/null/Desert/spring 13//Club 13 4/{{i18n:NPCDispositions.Teresa}}",
+				"Arvey": "teen/neutral/outgoing/positive/male/not-datable/null/Desert/summer 5//SandyHouse 32 19/{{i18n:NPCDispositions.Arvey}}",
+				"Raymond": "adult/polite/outgoing/neutral/male/not-datable/null/Town/spring 2//Custom_SDS.Churchroom 3 8/{{i18n:NPCDispositions.Raymond}}",
+				//"Siren": "adult/polite/outgoing/neutral/undefined/not-datable/null/Town/fall 27//Uhome 28 12/小塞",
+				//"Edward": "adult/polite/neutral/neutral/male/not-datable/null/Town/fall 3//Uhome 28 12/爱德华",
+				"Regla": "teen/neutral/shy/neutral/female/not-datable/null/Other/winter 13//Custom_SDS.RuiglaHome 19 7/{{i18n:NPCDispositions.Regla}}",
+				"Maria": "adult/polite/neutral/neutral/Undefined/datable/null/Other/spring 6//Custom_SDS.church 19 25/{{i18n:NPCDispositions.Maria}}",
+				"peipei": "child/polite/shy/neutral/male/not-datable/null/Other/winter 23//Custom_SDS.Phouse 3 14/{{i18n:NPCDispositions.peipei}}",
+				"Albert": "child/polite/outgoing/positive/male/not-datable/null/Town/winter 16//Custom_SDS.Churchroom 1 4/{{i18n:NPCDispositions.Albert}}",
+				"Coffey": "child/polite/outgoing/positive/male/not-datable/null/Town/fall 9//Custom_SDS.Churchroom 6 6/{{i18n:NPCDispositions.Coffey}}",
+				"Garnet": "child/polite/outgoing/positive/male/not-datable/null/Town/spring 15//Custom_SDS.Churchroom 8 3/{{i18n:NPCDispositions.Garnet}}",
+				"Wendy": "child/polite/shy/negative/female/not-datable/null/Town/spring 23//Custom_SDS.Churchroom 3 4/{{i18n:NPCDispositions.Wendy}}",
+				"luoli": "teen/polite/outgoing/positive/female/not-datable//Town/winter 19//Custom_SDS.LuoLihouse 7 7/{{i18n:NPCDispositions.luoli}}",
+				"Ge": "adult/neutral/neutral/neutral/female/not-datable/null/Other/null//Custom_SDS.ice_cream_shop 7 6/{{i18n:NPCDispositions.Ge}}"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "data/NPCDispositions",
+			"Entries": {
+				"Lane": "child/polite/outgoing/positive/male/not-datable/null/Desert/summer 6//Custom_SDS.RLHouse 9 4/{{i18n:NPCDispositions.Year1.Lane}}",
+				"Rane": "child/rude/outgoing/positive/male/not-datable/null/Desert/summer 6//Custom_SDS.RLHouse 3 5/{{i18n:NPCDispositions.Year1.Rane}}"
+			},
+			"When": {
+				"Year |contains=1": "true"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "data/NPCDispositions",
+			"Entries": {
+				"Lane": "teen/polite/outgoing/positive/male/not-datable/null/Desert/summer 6//Custom_SDS.RLHouse 9 4/{{i18n:NPCDispositions.Year2.Lane}}",
+				"Rane": "teen/rude/outgoing/positive/male/not-datable/null/Desert/summer 6//Custom_SDS.RLHouse 3 5/{{i18n:NPCDispositions.Year2.Rane}}"
+			},
+			"When": {
+				"Year |contains=1": "false"
+			}
+		}
+	]
+}

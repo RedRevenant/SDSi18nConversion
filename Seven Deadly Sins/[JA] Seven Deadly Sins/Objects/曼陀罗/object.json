@@ -1,0 +1,28 @@
+{
+    "Name": "SDS Stramonium", 
+    "Description": " ",
+    "TranslationKey": "SDS-stramonium-objects",
+    "Category": "Flower", 
+    "Edibility": -300,
+    "Price": 300,
+    "EdibleIsDrink": false,
+    "IsColored": false,
+    "CanPurchase":false,
+    "Recipe": null, 
+    "GiftTastes": 
+    {
+        "Love": [], 
+        "Like": [],
+        "Neutral": null, 
+        "Dislike": [], 
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "曼陀罗" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "既是香气浓烈的美丽花朵，也是伤人的毒物，但同时，它也是用以治病救人的药材，如何使用它的选择权并不在它的身上，所以无需怕它。"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "Name": "SDS Coal-scuttle", 
+    "Description": " ",
+    "TranslationKey": "SDS-coalscuttle",    
+    "Price": 500, 
+    "ProvidesLight": true,
+    "ReserveExtraIndexCount": 2,  
+    "CanPurchase": true, 
+    "PurchaseFrom": "SDCitysupermarketF", 
+    "PurchasePrice": 11000, 
+    "PurchaseRequirements": null, 
+    "Recipe":
+    { 
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 338,
+            "Count": 5
+        },
+        {
+            "Object": 335, 
+            "Count": 10
+        },
+        {
+            "Object": 787, 
+            "Count": 2
+        },
+        {
+            "Object": 390, 
+            "Count": 100
+        }
+      ]
+    },
+        "IsDefault": false,
+        "CanPurchase": true, 
+        "PurchaseFrom": "SDCitysupermarketF",
+        "PurchasePrice": 5000,
+        "PurchaseRequirements": null, 
+        "NameLocalization": 
+        { 
+            "zh": "烤箱"
+        },
+        "DescriptionLocalization": 
+        { 
+            "zh": "多档位可调温度，自动定时功能以及绝对耐用的内胆，要小心在烤制完成时被它如火的热情烫伤。" 
+        }
+    }

@@ -1,0 +1,56 @@
+{
+    "Name": "SDS Love Chocolate", 
+    "Description": " ",
+    "TranslationKey": "SDS-lovechocolate-objects",
+    "Category": "Cooking", 
+    "Edibility": 50, 
+    "Price": 600, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 0,
+        "Luck": 1,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 0,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 660
+    },
+	"CanPurchase": false,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": "SDS chocolate", 
+            "Count": 1
+        },
+        {
+            "Object": 400, 
+            "Count": 1
+        }
+		],
+    "CanPurchase": false 
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "爱心巧克力" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "一份被草莓味外壳紧紧包裹的巧克力爱心，吃掉外层酸甜的草莓，才能品尝到最纯粹的甜蜜。" 
+    }
+}

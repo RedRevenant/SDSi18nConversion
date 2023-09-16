@@ -1,0 +1,41 @@
+{
+    "Name": "SDS Chocolate Bunny", 
+    "Description": " ",
+    "TranslationKey": "SDS-chocolatebunny-objects",
+    "Category": "Cooking", 
+    "Edibility": 200, 
+    "Price": 7000, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 0,
+        "Mining": 3,
+        "Luck": 6,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 1,
+        "Defense": 6,
+        "Attack": 6,
+        "Duration": 700
+    },
+	"CanPurchase": false,
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "巧克力兔子" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "一只黑化了的小兔子正在看着你，小心它捧在怀里的甜蜜爱心，它让人上瘾！" 
+    }
+}

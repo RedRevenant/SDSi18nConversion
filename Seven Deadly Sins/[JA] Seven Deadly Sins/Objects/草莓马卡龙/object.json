@@ -1,0 +1,60 @@
+{
+    "Name": "SDS Strawberry macaron", 
+    "Description": " ",
+    "TranslationKey": "SDS-strawberrymacaron-objects",
+    "Category": "Cooking", 
+    "Edibility": 100, 
+    "Price": 700, 
+	"CanSell": true,
+	"EdibleIsDrink": false,
+	"EdibleBuffs":     
+	{
+        "Farming": 0,
+        "Fishing": 2,
+        "Mining": 1,
+        "Luck": 0,
+        "Foraging": 0,
+        "MaxStamina": 0,
+        "MagnetRadius": 0,
+        "Speed": 1,
+        "Defense": 0,
+        "Attack": 0,
+        "Duration": 600
+    },
+	"CanPurchase": false,
+    "Recipe": 
+    {
+        "ResultCount": 1, 
+        "Ingredients": [
+        {
+            "Object": 400, 
+            "Count": 1
+        },
+        {
+            "Object": "SDS Butter", 
+            "Count": 1
+        },
+        {
+            "Object": -5, 
+            "Count": 1
+        }
+		],
+    "CanPurchase": false 
+    },
+    "GiftTastes":
+    {
+        "Love": [],
+        "Like": [],
+        "Neutral": [],
+        "Dislike": [],
+        "Hate": []
+    },
+    "NameLocalization":
+    {
+        "zh": "草莓马卡龙" 
+    },
+    "DescriptionLocalization":
+    {
+        "zh": "粉嫩的草莓味马卡龙，内馅充实，用料满足，作为下午茶甜点来说再好不过。" 
+    }
+}
