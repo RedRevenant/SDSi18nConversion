@@ -434,7 +434,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "936": "FTchecks/50000/-300/Basic/{{i18n:ObjectInformation.936.Name}}/{{i18n:ObjectInformation.936.Name}}"
+        "936": "FTchecks/50000/-300/Basic/{{i18n:ObjectInformation.936.Name}}/{{i18n:ObjectInformation.936.Desc}}"
       }
     },
     {
@@ -458,7 +458,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "937": "OHTchecks/100000/-300/Basic/{{i18n:ObjectInformation.937.Name}}/{{i18n:ObjectInformation.937.Name}}"
+        "937": "OHTchecks/100000/-300/Basic/{{i18n:ObjectInformation.937.Name}}/{{i18n:ObjectInformation.937.Desc}}"
       }
     },
     {
@@ -482,7 +482,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "938": "THchecks/10000/-300/Basic/{{i18n:ObjectInformation.938.Name}}/{{i18n:ObjectInformation.938.Name}}"
+        "938": "THchecks/10000/-300/Basic/{{i18n:ObjectInformation.938.Name}}/{{i18n:ObjectInformation.938.Desc}}"
       }
     },
     {
@@ -506,7 +506,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "939": "Moonlayer/800/200/Cooking -7/{{i18n:ObjectInformation.939.Name}}/{{i18n:ObjectInformation.939.Name}}/food/4 0 0 0 4 0 0 0 0 0 0/900" //能量（食用性 × 2.5）和健康（食用性 × 1.125）600=7
+        "939": "Moonlayer/800/200/Cooking -7/{{i18n:ObjectInformation.939.Name}}/{{i18n:ObjectInformation.939.Desc}}/food/4 0 0 0 4 0 0 0 0 0 0/900" //能量（食用性 × 2.5）和健康（食用性 × 1.125）600=7
       }
     },
     {
@@ -530,7 +530,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "940": "PBiscuits/10/-5/Cooking -7/{{i18n:ObjectInformation.940.Name}}/{{i18n:i18n:ObjectInformation.940.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
+        "940": "PBiscuits/10/-5/Cooking -7/{{i18n:ObjectInformation.940.Name}}/{{i18n:ObjectInformation.940.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
       }
     },
     {
@@ -554,7 +554,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "941": "Orange Cake/500/100/Cooking -7/{{i18n:ObjectInformation.941.Name}}/{{i18n:i18n:ObjectInformation.941.Desc}} /food/0 0 0 0 0 0 0 0 0 0 0/0"
+        "941": "Orange Cake/500/100/Cooking -7/{{i18n:ObjectInformation.941.Name}}/{{i18n:ObjectInformation.941.Desc}} /food/0 0 0 0 0 0 0 0 0 0 0/0"
       }
     },
     {
@@ -578,7 +578,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "942": "Raw Beef/200/-300/Basic/{{i18n:ObjectInformation.942.Name}}/{{i18n:i18n:ObjectInformation.942.Desc}} "
+        "942": "Raw Beef/200/-300/Basic/{{i18n:ObjectInformation.942.Name}}/{{i18n:ObjectInformation.942.Desc}} "
       }
     },
     {
@@ -602,7 +602,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "943": "Beautifully wrapped candy/5000/50/Cooking -7/{{i18n:ObjectInformation.943.Name}}/{{i18n:i18n:ObjectInformation.943.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
+        "943": "Beautifully wrapped candy/5000/50/Cooking -7/{{i18n:ObjectInformation.943.Name}}/{{i18n:ObjectInformation.943.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
       }
     },
     {
@@ -626,7 +626,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "944": "Pelette's special cuisine/10/-20/Cooking -7/{{i18n:ObjectInformation.944.Name}}/{{i18n:i18n:ObjectInformation.944.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
+        "944": "Pelette's special cuisine/10/-20/Cooking -7/{{i18n:ObjectInformation.944.Name}}/{{i18n:ObjectInformation.944.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
       }
     },
     {
@@ -650,7 +650,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "945": "SDS Blue flash butterfly/0/-300/Basic -80/{{i18n:ObjectInformation.945.Name}}/{{i18n:i18n:ObjectInformation.945.Desc}}"
+        "945": "SDS Blue flash butterfly/0/-300/Basic -80/{{i18n:ObjectInformation.945.Name}}/{{i18n:ObjectInformation.945.Desc}}"
       }
     },
     {
@@ -674,7 +674,7 @@
       "Action": "EditData",
       "Target": "Data/ObjectInformation",
       "Entries": {
-        "946": "SDS Ice ling column/0/-300/Basic -80/{{i18n:ObjectInformation.946.Name}}/{{i18n:i18n:ObjectInformation.946.Desc}}"
+        "946": "SDS Ice ling column/0/-300/Basic -80/{{i18n:ObjectInformation.946.Name}}/{{i18n:ObjectInformation.946.Desc}}"
       }
     },
     {
