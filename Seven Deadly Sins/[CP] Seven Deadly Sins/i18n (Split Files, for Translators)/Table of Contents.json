@@ -98,25 +98,25 @@
                             [Hovsep (Marriage) Dialogue] Neutral
                             [Hovsep (Marriage) Dialogue] Bad
                             [Hovsep (Marriage) Dialogue] Holiday
-                    [Dialogue] Rane
-                        a. Rane (Odd Year)
-                            [Rane (Odd Year) Dialogue] Special
-                            [Rane (Odd Year) Dialogue] Rejection
-                            [Rane (Odd Year) Dialogue] Ginger Island Resort
-                            [Rane (Odd Year) Dialogue] Spring
-                            [Rane (Odd Year) Dialogue] Summer
-                            [Rane (Odd Year) Dialogue] Fall
-                            [Rane (Odd Year) Dialogue] Winter
-                            [Rane (Odd Year) Dialogue] Holiday
-                        b. Rane (Even Year)
-                            [Rane (Even Year) Dialogue] Special
-                            [Rane (Even Year) Dialogue] Rejection
-                            [Rane (Even Year) Dialogue] Ginger Island Resort
-                            [Rane (Even Year) Dialogue] Spring
-                            [Rane (Even Year) Dialogue] Summer
-                            [Rane (Even Year) Dialogue] Fall
-                            [Rane (Even Year) Dialogue] Winter
-                            [Rane (Even Year) Dialogue] Holiday
+                    [Dialogue] Lane
+                        a. Lane (Odd Year)
+                            [Lane (Odd Year) Dialogue] Special
+                            [Lane (Odd Year) Dialogue] Rejection
+                            [Lane (Odd Year) Dialogue] Ginger Island Resort
+                            [Lane (Odd Year) Dialogue] Spring
+                            [Lane (Odd Year) Dialogue] Summer
+                            [Lane (Odd Year) Dialogue] Fall
+                            [Lane (Odd Year) Dialogue] Winter
+                            [Lane (Odd Year) Dialogue] Holiday
+                        b. Lane (Even Year)
+                            [Lane (Even Year) Dialogue] Special
+                            [Lane (Even Year) Dialogue] Rejection
+                            [Lane (Even Year) Dialogue] Ginger Island Resort
+                            [Lane (Even Year) Dialogue] Spring
+                            [Lane (Even Year) Dialogue] Summer
+                            [Lane (Even Year) Dialogue] Fall
+                            [Lane (Even Year) Dialogue] Winter
+                            [Lane (Even Year) Dialogue] Holiday
                     [Dialogue] Lucas
                         a. Lucas (Odd Year)
                             [Lucas (Odd Year) Dialogue] Special
@@ -278,7 +278,7 @@
                 [Gift Tastes] Garnet
                 [Gift Tastes] Raymond
                 [Gift Tastes] Hovsep
-                [Gift Tastes] Rane
+                [Gift Tastes] Lane
                 [Gift Tastes] Rane
                 [Gift Tastes] Pelette
                 [Gift Tastes] Lucas
@@ -299,7 +299,7 @@
                     [Movie Reactions] Hovsep
                     [Movie Reactions] Regla
                     [Movie Reactions] Uriel
-                    [Movie Reactions] Rane
+                    [Movie Reactions] Lane
                     [Movie Reactions] Rane
                     [Movie Reactions] Moore
                     [Movie Reactions] Pelette
@@ -318,7 +318,7 @@
                     [Married Movie Reactions] Hovsep
                     [Married Movie Reactions] Regla
                     [Married Movie Reactions] Uriel
-                    [Married Movie Reactions] Rane
+                    [Married Movie Reactions] Lane
                     [Married Movie Reactions] Rane
                     [Married Movie Reactions] Moore
                     [Married Movie Reactions] Pelette
@@ -337,7 +337,7 @@
                     [Arvey Events] 10 Hearts
                 [NPC Events] Coffey
                     [Coffey Events] 4 Hearts
-                [NPC Events] Garnet Events
+                [NPC Events] Garnet
                     [Garnet Events] 2 Hearts
                     [Garnet Events] 4 Hearts
                 [NPC Events] Hovsep
