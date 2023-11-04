@@ -770,7 +770,6 @@
     "Dialogue.Lucas.EvenYears.winter_Sun10_Lu2old": "面对你的问题，我不会出现没办法的情况，无论是什么，只要是你想要的，倾尽所有我都会为你得到。$3#$b#毕竟我的一切都已经归你所有了，亲爱的。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Lucas (Even Year) Dialogue] After Marriage
-    //Note: Probably not a good idea to translate these for now when the game can't read these if they're in the before marriage dialogue file
     "Dialogue.Lucas.EvenYears.Rainy_Day_0_16200778": "%卢卡斯亲吻了一下你的唇边.#$b#那么,我随时等着你,甜心.$1#$b#早些来找我吧,无论你想要什么,我都能给你.$6",
     "Dialogue.Lucas.EvenYears.Rainy_Day_0_16200779": "好吧,虽然我很期待你能空出许多时间来,但是甜心的事业更重要.$0#$b#%卢卡斯对你眨眨眼睛.#$b#我想,我还是愿意等到晚上再来索要补偿的,亲爱的.$1",
     "Dialogue.Lucas.EvenYears.Rainy_Day_0_Lu1old": "%卢卡斯亲吻了一下你的唇边.#$b#那么,我随时等着你,甜心.$1#$b#早些来找我吧,无论你想要什么,我都能给你.$6",

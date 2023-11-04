@@ -472,7 +472,7 @@
     "Dialogue.Lane.EvenYears.fall_Tue6_16400508": "问这种没有回答的提问，也是客人的一种爱好呢。$0",
     "Dialogue.Lane.EvenYears.fall_Tue6_16400509": "看起来客人也很懂嘛~不过稍微上心也是一种乐趣哦，所以说凡事是要适度嘛。$1",
     "Dialogue.Lane.EvenYears.fall_Tue6_L2old": "问这种没有回答的提问，也是客人的一种爱好呢。$0",
-    "Dialogue.Lane.EvenYears.fall_Tue8": "欢迎再次来到神秘问答时间~，有请我们的嘉宾一号——星露谷的某位农场主！$1#$b#…好了，我们最最亲爱的客人现在对谁最感兴趣呢？话筒给您~￥5#$q 16400510/16400511/16400512 fall_Tue8_L2old#……#$r 16400510 0 fall_Tue8_16400510#Lane #$r 16400511 0 fall_Tue8_16400511#Rane #$r 16400512 0 fall_Tue8_16400512#小蛇",
+    "Dialogue.Lane.EvenYears.fall_Tue8": "欢迎再次来到神秘问答时间~，有请我们的嘉宾一号——星露谷的某位农场主！$1#$b#…好了，我们最最亲爱的客人现在对谁最感兴趣呢？话筒给您~$5#$q 16400510/16400511/16400512 fall_Tue8_L2old#……#$r 16400510 0 fall_Tue8_16400510#Lane #$r 16400511 0 fall_Tue8_16400511#Rane #$r 16400512 0 fall_Tue8_16400512#小蛇",
     "Dialogue.Lane.EvenYears.fall_Tue8_16400510": "哦呀，居然是主持人呢！真是大胆呢！$4",
     "Dialogue.Lane.EvenYears.fall_Tue8_16400511": "诶~$1",
     "Dialogue.Lane.EvenYears.fall_Tue8_16400512": "哎~$1",

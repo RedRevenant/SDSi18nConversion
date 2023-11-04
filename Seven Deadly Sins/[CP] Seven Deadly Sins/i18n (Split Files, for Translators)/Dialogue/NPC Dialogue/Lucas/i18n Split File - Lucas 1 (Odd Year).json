@@ -658,10 +658,10 @@
     "Dialogue.Lucas.OddYears.winter_Wed4_16200662": "甜心，我对我的欲望可是很坦诚的，我想你应该了解这一点不是吗?$1#$b#但或许在欲望之外，我也有不了解的东西。$3",
     "Dialogue.Lucas.OddYears.winter_Wed4_16200663": "......。是啊，只是软弱到无法面对自己的想法而已，不过试着去做个勇者的勇气可不是每个人都有的。#$b#告诉我，亲爱的，如果是你的话，你会怎么选择?$3",
     "Dialogue.Lucas.OddYears.winter_Wed4_Lu1old": "只是软弱到无法面对自己的想法而已，不过试着去做个勇者的勇气可不是每个人都有的。#$b#告诉我，亲爱的，如果是你的话，你会怎么选择?$3",
-    "Dialogue.Lucas.OddYears.winter_Wed6": "听说在冬天的时候，如果手中拿着热饮，告白的成功率会提高，你觉得呢?$3#$q 16200664/16200665 winter_Wed6_Lu1old#……#$r 16200664 0 winter_Wed6_16200664#不会吧。#$r 16200665 0 winter_Wed6_16200665#有可能。",
-    "Dialogue.Lucas.OddYears.winter_Wed6_16200664": "%卢卡斯递给你一杯热饮。#$b#我想也是，毕竟能够成功的前提是对方也喜欢自己才行。[395]$1",
-    "Dialogue.Lucas.OddYears.winter_Wed6_16200665": "%卢卡斯递给你一杯热饮。#$b#那么亲爱的......。别紧张，我可不会让你为难，我只想问你愿意留下来一会吗?仅仅只是在此刻，和我一起。[253]$6",
-    "Dialogue.Lucas.OddYears.winter_Wed6_Lu1old": "%卢卡斯递给你一杯热饮。#$b#那么亲爱的......。别紧张，我可不会让你为难，我只想问你愿意留下来一会吗?仅仅只是在此刻，和我一起。[253]$6",
+    "Dialogue.Lucas.winter_Wed6": "听说在冬天的时候，如果手中拿着热饮，告白的成功率会提高，你觉得呢?$3#$q 16200664/16200665 winter_Wed6_Lu1old#……#$r 16200664 0 winter_Wed6_16200664#不会吧。#$r 16200665 0 winter_Wed6_16200665#有可能。",
+    "Dialogue.Lucas.winter_Wed6_16200664": "%卢卡斯递给你一杯热饮。#$b#我想也是，毕竟能够成功的前提是对方也喜欢自己才行。[395]$1",
+    "Dialogue.Lucas.winter_Wed6_16200665": "%卢卡斯递给你一杯热饮。#$b#那么亲爱的......。别紧张，我可不会让你为难，我只想问你愿意留下来一会吗?仅仅只是在此刻，和我一起。[253]$6",
+    "Dialogue.Lucas.winter_Wed6_Lu1old": "%卢卡斯递给你一杯热饮。#$b#那么亲爱的......。别紧张，我可不会让你为难，我只想问你愿意留下来一会吗?仅仅只是在此刻，和我一起。[253]$6",    
     "Dialogue.Lucas.OddYears.winter_Wed8": "或许我可以把那个矿井的所有权买下来，然后安排人进行彻底的开发......#$q 16200666/16200667 winter_Wed8_Lu1old#……#$r 16200666 0 winter_Wed8_16200666#为什么?#$r 16200667 0 winter_Wed8_16200667#你要做什么?",
     "Dialogue.Lucas.OddYears.winter_Wed8_16200666": "甜心，当然是因为你耗费在里面的时间实在太多了，如果我将矿井开发出来的东西作为礼物送给你，作为让你轻松一点的回报，你会答应我的一个请求吗?$3#$b#什么请求?这个就必须暂且保密了，honey。$1",
     "Dialogue.Lucas.OddYears.winter_Wed8_16200667": "别紧张，亲爱的，我只是在想有什么办法能够让你的注意力更多的放在我身上，例如将一整个矿井的资源作为礼物......#$b#如何，你觉得心动吗?$1",
@@ -772,7 +772,6 @@
     "Dialogue.Lucas.OddYears.winter_Sun10_Lu1old": "人是一种拥有感性的动物，毕竟我期待着你的到来，却又贪婪的觉得与你相处的时间如此短暂。$3#$b#我想唯一的解决办法就是我们相处的时间变得更久，你觉得呢?$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Lucas (Odd Year) Dialogue] After Marriage
-    //Note: Probably not a good idea to translate these for now when the game can't read these if they're in the before marriage dialogue file
     "Dialogue.Lucas.OddYears.Rainy_Day_0_16200778": "%卢卡斯亲吻了一下你的唇边.#$b#那么,我随时等着你,甜心.$1#$b#早些来找我吧,无论你想要什么,我都能给你.$6",
     "Dialogue.Lucas.OddYears.Rainy_Day_0_16200779": "好吧,虽然我很期待你能空出许多时间来,但是甜心的事业更重要.$0#$b#%卢卡斯对你眨眨眼睛.#$b#我想,我还是愿意等到晚上再来索要补偿的,亲爱的.$1",
     "Dialogue.Lucas.OddYears.Rainy_Day_0_Lu1old": "%卢卡斯亲吻了一下你的唇边.#$b#那么,我随时等着你,甜心.$1#$b#早些来找我吧,无论你想要什么,我都能给你.$6",

@@ -69,7 +69,7 @@
     "Dialogue.Uriel.OddYears.spring_Mon_16000102": "好的，那么愿主保佑你，再见。$2",
     "Dialogue.Uriel.OddYears.spring_Mon_16000103": "那你还在这里待着做什么？$2",
     "Dialogue.Uriel.OddYears.spring_Mon_U1old": "那么愿主保佑你，再见。$2",
-    "Dialogue.Uriel.OddYears.spring_Mon2": "你没有其他事情要做？#$q 16000104/16000105  spring_Mon2_U1old#……#$r 16000104 0 spring_Mon2_16000104#没有。#$r 16000105 0 spring_Mon2_16000105#有。",
+    "Dialogue.Uriel.OddYears.spring_Mon2": "你没有其他事情要做？#$q 16000104/16000105 spring_Mon2_U1old#……#$r 16000104 0 spring_Mon2_16000104#没有。#$r 16000105 0 spring_Mon2_16000105#有。",
     "Dialogue.Uriel.OddYears.spring_Mon2_16000104": "我有，所以不要继续打扰我了。$2",
     "Dialogue.Uriel.OddYears.spring_Mon2_16000105": "所以你为什么要在这里你和我的时间？$2",
     "Dialogue.Uriel.OddYears.spring_Mon2_U1old": "我有，所以不要继续打扰我了。$2",
@@ -499,7 +499,7 @@
     "Dialogue.Uriel.OddYears.fall_Thu_16000518": "我对于这些东西并没有什么兴趣，你这么打探我的信息有什么意义？满足人类那膨胀的好奇心吗？$2",
     "Dialogue.Uriel.OddYears.fall_Thu_16000519": "不同的生物身上也有不同的气息，人类自然也有，只不过人类无法注意到那些隐秘的变化而已。$1",
     "Dialogue.Uriel.OddYears.fall_Thu_U1old": "不同的生物身上也有不同的气息，人类自然也有，只不过人类无法注意到那些隐秘的变化而已。$1",
-    "Dialogue.Uriel.OddYears.fall_Thu2": "如果有一天你失去了......不，没什么。$2#$b#%乌列扭过头。#$q 16000520/16000521 fall_Thu2_U1old#……#$r 16000520 0 fall_Thu2_15600520#你说什么？#$r 16000521 0 fall_Thu2_16000521#你总是喜欢说话说一半。",
+    "Dialogue.Uriel.OddYears.fall_Thu2": "如果有一天你失去了......不，没什么。$2#$b#%乌列扭过头。#$q 16000520/16000521 fall_Thu2_U1old#……#$r 16000520 0 fall_Thu2_16000520#你说什么？#$r 16000521 0 fall_Thu2_16000521#你总是喜欢说话说一半。",
     "Dialogue.Uriel.OddYears.fall_Thu2_16000520": "那些事情与你无关，天堂不会放任地狱的存在，而你，继续扮演好人类这一角色就足够了。$2",
     "Dialogue.Uriel.OddYears.fall_Thu2_16000521": "只是因为你还不需要知道的更多，聪明的家伙自然能推算明白，而你维持现在这样子的状态也不算坏事。$1",
     "Dialogue.Uriel.OddYears.fall_Thu2_U1old": "话说一半只是因为你还不需要知道的更多，聪明的家伙自然能推算明白，而你维持现在这样子的状态也不算坏事。$1",
@@ -712,7 +712,7 @@
     "Dialogue.Uriel.OddYears.winter_Fri6_16000716": "你想要我的羽毛？这倒是让我有些意外......。不过也像是你会做的事情。$4",
     "Dialogue.Uriel.OddYears.winter_Fri6_16000717": "你不知道？天使的羽毛包含了一部分来自天使自身的力量，对于某些家伙来说，天使的力量应当会很让人心动吧$5",
     "Dialogue.Uriel.OddYears.winter_Fri6_U1old": "天使的羽毛包含了一部分来自天使自身的力量，对于某些家伙来说，天使的力量应当会很让人心动吧$5#$e#你想要我的羽毛？这倒是让我有些意外......。不过也像是你会做的事情。$4",
-    "Dialogue.Uriel.OddYears.winter_Fri8": "你最好不要和风打架，就算你很厉害，风没伤到你，你伤风了，也会感冒。#$q 16000718/16000719 winter_Fri8_U1old#……#$r 16000717 0 winter_Fri8_16000717#......这是冷笑话吗？#$r 16000718 0 winter_Fri8_16000718#哈哈哈哈哈。",
+    "Dialogue.Uriel.OddYears.winter_Fri8":  "你最好不要和风打架，就算你很厉害，风没伤到你，你伤风了，也会感冒。#$q 16000718/16000719 winter_Fri8_U1old#……#$r 16000718 0 winter_Fri8_16000718#......这是冷笑话吗？#$r 16000719 0 winter_Fri8_16000719#哈哈哈哈哈。",
     "Dialogue.Uriel.OddYears.winter_Fri8_16000718": "%乌列蹙眉看着你。#$b#......这不像笑话吗？$2",
     "Dialogue.Uriel.OddYears.winter_Fri8_16000719": "......看来你很喜欢这些。$1",
     "Dialogue.Uriel.OddYears.winter_Fri8_U1old": "%乌列蹙眉看着你。#$b#......这不像笑话吗？$2",
@@ -771,8 +771,7 @@
     "Dialogue.Uriel.OddYears.winter_Sun10_16000769": "说不上感兴趣，只是觉得你的手艺很不错，城市里应当没什么人会做那些东西，你在星露谷示适应的很好。$4",
     "Dialogue.Uriel.OddYears.winter_Sun10_U1old": "说不上感兴趣，只是觉得你的手艺很不错，城市里应当没什么人会做那些东西，你在星露谷示适应的很好。$4",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-    //[Hovsep (Odd Year) Dialogue] After Marriage
-    //Note:  Probably not a good idea to translate these for now when the game can't read these if they're in the before marriage dialogue file
+    //[Uriel (Odd Year) Dialogue] After Marriage
     "Dialogue.Uriel.OddYears.Rainy_Day_0_16000800": "只是忽然觉得，回家这个词会让我感到一种难以言明的感情，有一种温暖的感觉......真奇怪，或许这就是人类如此向往家庭的原因？$1",
     "Dialogue.Uriel.OddYears.Rainy_Day_0_16000801": "我不希望你因为淋雨而生病......人类的身体很脆弱，我希望你能够健健康康的，不会因为这些事情而受到困扰。$1",
     "Dialogue.Uriel.OddYears.Rainy_Day_0_U1old": "只是忽然觉得，回家这个词会让我感到一种难以言明的感情，有一种温暖的感觉......真奇怪，或许这就是人类如此向往家庭的原因？$1",

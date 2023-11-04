@@ -177,7 +177,7 @@
     "Dialogue.Uriel.EvenYears.spring_Fri4_16000219": "只是提醒你而已。$2#$b#%乌列看上去不愿意再多说什么。",
     "Dialogue.Uriel.EvenYears.spring_Fri4_16000220": "没有人知道，神明自会有其安排......$1",
     "Dialogue.Uriel.EvenYears.spring_Fri4_U2old": "没有人知道表现是否会被打破，神明自会有其安排......$1",
-    "Dialogue.Uriel.EvenYears.spring_Fri6": "“愿你的光辉引领迷途者，愿圣洁的审判将有罪者打入地狱，我坚信着你的全能......”——乌列忽然伸手挡住了自己的脸侧，面色苍白的微微颤抖着，他看上去很痛苦。#$q 16000221/16000222 spring_Fri6_U2old#……#$r 16000221 0 spring_Fri6_16000221#你怎么了？#$r 16000222 0 spring_Fri6_16000222#这是什么？",
+    "Dialogue.Uriel.EvenYears.spring_Fri6":  "“愿你的光辉引领迷途者，愿圣洁的审判将有罪者打入地狱，我坚信着你的全能......”——乌列忽然伸手挡住了自己的脸侧，面色苍白的微微颤抖着，他看上去很痛苦。#$q 16000221/16000222 spring_Fri6_U2old#……#$r 16000221 0 spring_Fri6_16000221#你怎么了？#$r 16000222 0 spring_Fri6_16000222#这是什么？",
     "Dialogue.Uriel.EvenYears.spring_Fri6_16000221": "跟你...没有，关系......$3#$b#%乌列不再理你。",
     "Dialogue.Uriel.EvenYears.spring_Fri6_16000222": "与你...无关！$3#$b#%乌列喘息着。",
     "Dialogue.Uriel.EvenYears.spring_Fri6_U2old": "离开、这里——！$3#$b#%乌列克制不住的喘息着，他不再看向你。",
@@ -454,7 +454,7 @@
     "Dialogue.Uriel.EvenYears.fall_Tue4_16000486": "既然你还能好好的站在这里和我闲聊，想必那份不幸没能打倒你，人类有时总会太过脆弱，不过看来你还算不错。$1",
     "Dialogue.Uriel.EvenYears.fall_Tue4_16000487": "幸运的家伙，好好珍惜你度过的时间吧，毕竟不是所有人都能如此的好运。$1",
     "Dialogue.Uriel.EvenYears.fall_Tue4_U2old": "人类有时总会太过脆弱，不过看来你还算不错。$1",
-    "Dialogue.Uriel.EvenYears.fall_Tue6": "平淡没有波折的人生，以及会有快乐与悲伤起伏的生活，你更钟意哪一种？$1#$q 16000488/16000489 fall_Tue6_U2old#……#$r 16000488 0 fall_Tue6_16000488#平淡的生活。#$r 16000489 0 fall_Tue6_16000489#有起伏的生活。",
+    "Dialogue.Uriel.EvenYears.fall_Tue6":  "平淡没有波折的人生，以及会有快乐与悲伤起伏的生活，你更钟意哪一种？$1#$q 16000488/16000489 fall_Tue6_U2old#……#$r 16000488 0 fall_Tue6_16000488#平淡的生活。#$r 16000489 0 fall_Tue6_16000489#有起伏的生活。",
     "Dialogue.Uriel.EvenYears.fall_Tue6_16000488": "人们大多追求快乐，期望能够拥有更多，在这种环境中追求平淡的生活，该说你到底是没有野心还是充满了野心？毕竟不是谁都有能力过上那种生活。$1",
     "Dialogue.Uriel.EvenYears.fall_Tue6_16000489": "如果过于平淡，或许便是天堂所最愿意的接受的人，不过世间如此多的罪人，大多都是无法抑制自身欲望的家伙，那么你呢？你究竟只是追求快乐还是拥有更高的欲望？$1",
     "Dialogue.Uriel.EvenYears.fall_Tue6_U2old": "如果过于平淡，或许便是天堂所最愿意的接受的人，不过世间如此多的罪人，大多都是无法抑制自身欲望的家伙，那么你呢？你究竟只是追求快乐还是拥有更高的欲望？$1",
@@ -508,7 +508,7 @@
     "Dialogue.Uriel.EvenYears.fall_Thu6_16000536": "我应当和你说过天使并不需要与人类的羁绊，不过......$2#$b#%乌列瞥了你一眼。#$b#既然你总是自顾自的来，我想我也拦不住你。$6",
     "Dialogue.Uriel.EvenYears.fall_Thu6_16000537": "有时候我真是好奇你为什么在面对我时也有那么多的话。$2#$b#不过我现在还算有空，你说吧，我可以给你一点时间。$1",
     "Dialogue.Uriel.EvenYears.fall_Thu6_U2old": "我应当和你说过天使并不需要与人类的羁绊，不过......$2#$b#%乌列瞥了你一眼。#$b#既然你总是自顾自的来，我想我也拦不住你。$6",
-    "Dialogue.Uriel.EvenYears.fall_Thu8": "你养了宠物？#$q 16000538/16000539 fall_Thu8_U2old#……#$r 16000538 0 fall_Thu8_16000358#一只猫。#$r 16000539 0 fall_Thu8_16000539#一只狗。",
+    "Dialogue.Uriel.EvenYears.fall_Thu8":  "你养了宠物？#$q 16000538/16000539 fall_Thu8_U2old#……#$r 16000538 0 fall_Thu8_16000538#一只猫。#$r 16000539 0 fall_Thu8_16000539#一只狗。",
     "Dialogue.Uriel.EvenYears.fall_Thu8_16000538": "我看到过许多人对着猫的疯狂样子，你面对猫也会这样吗？我倒是有些好奇你是怎么对它的。$1",
     "Dialogue.Uriel.EvenYears.fall_Thu8_16000539": "狗？总会有人类大肆宣扬狗是如何的忠诚，你也是出于这个原因选择狗的吗？$1",
     "Dialogue.Uriel.EvenYears.fall_Thu8_U2old": "我看到过许多人对着宠物的疯狂样子，你面对宠物也会这样吗？我倒是有些好奇你是怎么对它的。$1",
@@ -630,7 +630,7 @@
     "Dialogue.Uriel.EvenYears.winter_Tue4_16000654": "那么再见。",
     "Dialogue.Uriel.EvenYears.winter_Tue4_16000655": "我认为这并没有意义，你应当将重心放在自己的事情上。",
     "Dialogue.Uriel.EvenYears.winter_Tue4_U2old": "我认为来见我并没有意义，你应当将重心放在自己的事情上。$2",
-    "Dialogue.Uriel.EvenYears.winter_Tue6": "你看上去有话想对我说？#$q 16000656/16000657 winter_Tue6_U2old#……#$r 16000656 0 winter_Tue6_16000656#想跟乌列聊聊天.#$r 16000657 0 winter_Tue6_16000657#乌列认为我是朋友了吗？",
+    "Dialogue.Uriel.EvenYears.winter_Tue6":  "你看上去有话想对我说？#$q 16000656/16000657 winter_Tue6_U2old#……#$r 16000656 0 winter_Tue6_16000656#想跟乌列聊聊天.#$r 16000657 0 winter_Tue6_16000657#乌列认为我是朋友了吗？",
     "Dialogue.Uriel.EvenYears.winter_Tue6_16000656": "你对我感兴趣？我并不认为天使的生活对人类来说有什么有趣的。$2",
     "Dialogue.Uriel.EvenYears.winter_Tue6_16000657": "天使并不需要和人类成为朋友......不过我想你并不会听进去，不是吗？$2",
     "Dialogue.Uriel.EvenYears.winter_Tue6_U2old": "你对我感兴趣？我并不认为天使的生活对人类来说有什么有趣的。$2",
@@ -768,8 +768,7 @@
     "Dialogue.Uriel.EvenYears.winter_Sun10_16000781": "如果如其他造物一般，或许当时的人类也无法得到偏爱，但是人类的复杂获取了宠爱的同时，这份不同也成为了让人类背负原罪离开伊甸园的原因。$1",
     "Dialogue.Uriel.EvenYears.winter_Sun10_U2old": "如果如其他造物一般，或许当时的人类也无法得到偏爱，但是人类的复杂获取了宠爱的同时，这份不同也成为了让人类背负原罪离开伊甸园的原因。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-    //[Hovsep (Even Year) Dialogue] After Marriage
-    //Note:  Probably not a good idea to translate these for now when the game can't read these if they're in the before marriage dialogue file
+    //[Uriel (Even Year) Dialogue] After Marriage
     "Dialogue.Uriel.EvenYears.Rainy_Day_0_16000800": "只是忽然觉得，回家这个词会让我感到一种难以言明的感情，有一种温暖的感觉......真奇怪，或许这就是人类如此向往家庭的原因？$1",
     "Dialogue.Uriel.EvenYears.Rainy_Day_0_16000801": "我不希望你因为淋雨而生病......人类的身体很脆弱，我希望你能够健健康康的，不会因为这些事情而受到困扰。$1",
     "Dialogue.Uriel.EvenYears.Rainy_Day_0_U1old": "只是忽然觉得，回家这个词会让我感到一种难以言明的感情，有一种温暖的感觉......真奇怪，或许这就是人类如此向往家庭的原因？$1",
