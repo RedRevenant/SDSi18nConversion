@@ -1,7 +1,7 @@
 {
       /* [Dialogue] Maria (Marriage) */
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Special
+      //[Maria (Marriage) Dialogue] Special
       "Dialogue.Maria.Marriage.patio_Maria": "这里能看见很多东西的哦，风景很好哦$1", //露台
       "Dialogue.Maria.Marriage.jobLeave_Maria": "早上好，你要出门了吗Darling？$1#$b#路上请注意安全$6",
       "Dialogue.Maria.Marriage.funLeave_Maria": "我要出去一趟哦，你自己一个人要小心哦Darling$1",
@@ -9,7 +9,7 @@
       "Dialogue.Maria.Marriage.funReturn_Maria": "我今天整理了一下家里的杂物，现在整洁多了吧？$1",
       "Dialogue.Maria.Marriage.spouseRoom_Maria": "待在这里很容易让人安心下来的哦，Darling要和我一起吗？$1",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Rainy
+      //[Maria (Marriage) Dialogue] Rainy
       "Dialogue.Maria.Marriage.Rainy_Day_1": "下雨了，外面会变得寒冷...Darling多穿一些再出去吧？$1",
       "Dialogue.Maria.Marriage.Rainy_Day_2": "外面的路会有些泥泞哦Darling$2#$b#一定要出去吗？我不是很想将你展现给其他人$3",
       "Dialogue.Maria.Marriage.Rainy_Day_3": "你今天看起来真完美$1#$b#晚上要记得早些回来哦$4",
@@ -22,7 +22,7 @@
       "Dialogue.Maria.Marriage.Rainy_Night_4": "今天的雨真是下了很久呢……$2#$b#希望Darling的身上没有被雨淋的太湿，这种天气有时真会很难办呢$0",
       "Dialogue.Maria.Marriage.Rainy_Night_5": "Darling，今天的天空一直是阴沉的，希望你没有遇见什么令你烦心的事情$2#$b#那么就让我们早些休息吧？$4",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Indoor
+      //[Maria (Marriage) Dialogue] Indoor
       "Dialogue.Maria.Marriage.Indoor_Day_0": "早安Darling$1#$b#今天的天气看起来很好不是吗？我很愿意倾听你今天一整天的计划$0",
       "Dialogue.Maria.Marriage.Indoor_Day_1": "如果可以花更长时间与你相处便再好不过了$1#$b#但我会为Darling的一整天而加油的$4",
       "Dialogue.Maria.Marriage.Indoor_Day_2": "Darling，你看起来睡得很好$1#$b#拥有足够的精力度过一整天是一件非常美妙的事情对吧？$6",
@@ -36,14 +36,14 @@
       "Dialogue.Maria.Marriage.Indoor_Night_4": "Darling，你真是太可爱了$1#$b#有时我都会忍不住的去拥抱你$4",
       "Dialogue.Maria.Marriage.Indoor_Night_5": "希望你能够减少和别人的接触……$2#$e#啊，不……没什么，或许我只是在低语对你的爱意$4",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Outdoor
+      //[Maria (Marriage) Dialogue] Outdoor
       "Dialogue.Maria.Marriage.Outdoor_0": "Darling，今天的天气真的很好$1#$b#我想我们可以一起散散步$0",
       "Dialogue.Maria.Marriage.Outdoor_1": "这里的风吹拂的很舒服，很容易便让人昏沉的头脑清醒过来$0",
       "Dialogue.Maria.Marriage.Outdoor_2": "能够看见你可爱的笑颜便是我一天最幸福的事情了$4",
       "Dialogue.Maria.Marriage.Outdoor_3": "要多注意休息和吃饭哦$1#$b#可不要再累晕过去了$2",
       "Dialogue.Maria.Marriage.Outdoor_4": "Darling，不要勉强自己哦$1#$b#如果有我能够帮上忙的就来找我$6",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Kids
+      //[Maria (Marriage) Dialogue] Kids
       "Dialogue.Maria.Marriage.OneKid_0": "尽管没那么熟练，但是我们会一起加油的对吧？$1", //%kid1
       "Dialogue.Maria.Marriage.OneKid_1": "%kid1一直都很听话，他很可爱$0",
       "Dialogue.Maria.Marriage.OneKid_2": "Darling可以放心的将%kid1教给我照顾哦，不必担心$6",
@@ -56,7 +56,7 @@
       "Dialogue.Maria.Marriage.TwoKids_3": "Darling，好在我们的孩子都很乖巧安静，也不会给我们多添麻烦$1",
       "Dialogue.Maria.Marriage.TwoKids_4": "Darling，你不要太辛苦了，我们的孩子我会照顾的$6",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Good
+      //[Maria (Marriage) Dialogue] Good
       "Dialogue.Maria.Marriage.Good_0": "Darling，你今天看起来真可爱$1#$b#%玛利亚捂嘴笑了起来",
       "Dialogue.Maria.Marriage.Good_1": "你送给我的吊坠是那样的漂亮$1#$b#我想我永远都不会忘记你向我求婚的那一日$4",
       "Dialogue.Maria.Marriage.Good_2": "Darling要多注意安全哦，我真的很担心你会受到伤害$2",
@@ -68,7 +68,7 @@
       "Dialogue.Maria.Marriage.Good_8": "Darling，想要与我去散散步吗？$1#$b#今天的天气很好对吧？",
       "Dialogue.Maria.Marriage.Good_9": "Darling喜欢我为你轻哼出的曲子？$1#$b#那真是我的幸福$4",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Neutral
+      //[Maria (Marriage) Dialogue] Neutral
       "Dialogue.Maria.Marriage.Neutral_0": "我会将我能够给予的全部交付于你，我们是相同的心情对吧？$1",
       "Dialogue.Maria.Marriage.Neutral_1": "你送我的吊坠真的很漂亮，有时我也会拿出来看看$4#$b#我不会忘记那一天的$6",
       "Dialogue.Maria.Marriage.Neutral_2": "我喜欢凝视着Darling那双眼眸$6#$b#因为Darling不论是哪里都很可爱$4",
@@ -80,7 +80,7 @@
       "Dialogue.Maria.Marriage.Neutral_8": "你会想和我待在一起一整天吗？$1#$b#我们可以去山上或是海边$0",
       "Dialogue.Maria.Marriage.Neutral_9": "我难以诉说对你的喜爱，但在你身边我真的很幸福$4",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Bad
+      //[Maria (Marriage) Dialogue] Bad
       "Dialogue.Maria.Marriage.Bad_0": "似乎有谁企图从我的身边夺走你……$2",
       "Dialogue.Maria.Marriage.Bad_1": "嗯……你还爱我对吗？$2#$b#或许只是太多人觊觎你了$3 ",
       "Dialogue.Maria.Marriage.Bad_2": "你是打算背叛我吗？$3#$b#我希望你不会那么做……我不确定会对你做出什么$2",
@@ -92,7 +92,7 @@
       "Dialogue.Maria.Marriage.Bad_8": "请别仰仗着我爱你就对我进行欺骗$3",
       "Dialogue.Maria.Marriage.Bad_9": "@，我愈发看不懂你的行为了……为什么要这样？$2",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-      //[Marriage (Marriage) Dialogue] Holiday
+      //[Maria (Marriage) Dialogue] Holiday
       "Dialogue.Maria.Marriage.spring_1": "新年快乐Darling，能够和你度过一整年是我最大的幸福$4",
       "Dialogue.Maria.Marriage.spring_12": "嗯，明天就是复活节了哦Darling，你要加油哦$1",
       "Dialogue.Maria.Marriage.spring_23": "我的Darling肯定只想和我一人共舞对吧？$4",

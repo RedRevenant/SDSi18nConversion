@@ -44,8 +44,18 @@
       }
     },
     {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Pelette.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Pelette": "Engaged, Married"
+      }
+    },
+    {
       "Action": "Include",
-      "FromFile": "assets/Dialogue/MarriageDialogue/Hovsep.json, assets/Dialogue/MarriageDialogue/Lucas.json, assets/Dialogue/MarriageDialogue/Maria.json, assets/Dialogue/MarriageDialogue/Uriel.json"
+      "FromFile": "assets/Dialogue/MarriageDialogue/Hovsep.json, assets/Dialogue/MarriageDialogue/Lucas.json, assets/Dialogue/MarriageDialogue/Maria.json, assets/Dialogue/MarriageDialogue/Pelette.json, assets/Dialogue/MarriageDialogue/Uriel.json"
     }
   ]
 }
