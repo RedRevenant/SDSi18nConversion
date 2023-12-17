@@ -7,7 +7,7 @@
         "Date": "1 spring Y1",
         "LetterBG": "SDS.letterBG.png",
         "WhichBG": 3,
-        "TextColor": -1, //Remove this line to use the default color. -1 = Dark Red, 0 = Black, 1 = Sky Blue, 2 = Red, 3 = Blue Violet, 4 = White, 5 = Orange Red, 6 = Lime Green, 7 = Cyan, 8 = Darkest Gray
+        "TextColor": -1,
         "UpperRightCloseButton": null
     },
     {
@@ -18,7 +18,18 @@
         "Date": "1 spring Y1",
         "LetterBG": "SDS.letterBG.png",
         "WhichBG": 3,
-        "TextColor": -1, //Remove this line to use the default color. -1 = Dark Red, 0 = Black, 1 = Sky Blue, 2 = Red, 3 = Blue Violet, 4 = White, 5 = Orange Red, 6 = Lime Green, 7 = Cyan, 8 = Darkest Gray
+        "TextColor": -1,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.notice5",
+        "GroupId": "SDS.notice5",
+        "Title": "SDS.notice5.Title",
+        "Text": "SDS.notice5.Text",
+        "Date": "1 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 3,
+        "TextColor": -1,
         "UpperRightCloseButton": null
     },
     //npc赠送食谱
