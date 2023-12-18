@@ -32,7 +32,13 @@
 				"Maria_spouse": "{{i18n:Festival.spring13.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.spring13.Arvey}}",
 				"Teresa": "{{i18n:Festival.spring13.Teresa}}",
-				"luoli": "{{i18n:Festival.spring13.luoli}}"
+				"luoli": "{{i18n:Festival.spring13.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.spring13.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.spring13.Siren}}",
+				"OTI": "{{i18n:Festival.spring13.OTI}}",
+				"Ngono": "{{i18n:Festival.spring13.Ngono}}",
+				"AMELE": "{{i18n:Festival.spring13.AMELE}}",
+				"Yolello": "{{i18n:Festival.spring13.Yolello}}"
 			}
 		},
 		//花舞节
@@ -67,7 +73,13 @@
 				"Maria_spouse": "{{i18n:Festival.spring24.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.spring24.Arvey}}",
 				"Teresa": "{{i18n:Festival.spring24.Teresa}}",
-				"luoli": "{{i18n:Festival.spring24.luoli}}"
+				"luoli": "{{i18n:Festival.spring24.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.spring24.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.spring24.Siren}}",
+				"OTI": "{{i18n:Festival.spring24.OTI}}",
+				"Ngono": "{{i18n:Festival.spring24.Ngono}}",
+				"AMELE": "{{i18n:Festival.spring24.AMELE}}",
+				"Yolello": "{{i18n:Festival.spring24.Yolello}}"
 			}
 		},
 		//月光水母起舞
@@ -102,7 +114,13 @@
 				"Maria_spouse": "{{i18n:Festival.summer28.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.summer28.Arvey}}",
 				"Teresa": "{{i18n:Festival.summer28.Teresa}}",
-				"luoli": "{{i18n:Festival.summer28.luoli}}"
+				"luoli": "{{i18n:Festival.summer28.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.summer28.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.summer28.Siren}}",
+				"OTI": "{{i18n:Festival.summer28.OTI}}",
+				"Ngono": "{{i18n:Festival.summer28.Ngono}}",
+				"AMELE": "{{i18n:Festival.summer28.AMELE}}",
+				"Yolello": "{{i18n:Festival.summer28.Yolello}}"
 			}
 		},
 		//夏威夷宴会
@@ -137,7 +155,13 @@
 				"Maria_spouse": "{{i18n:Festival.summer11.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.summer11.Arvey}}",
 				"Teresa": "{{i18n:Festival.summer11.Teresa}}",
-				"luoli": "{{i18n:Festival.summer11.luoli}}"
+				"luoli": "{{i18n:Festival.summer11.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.summer11.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.summer11.Siren}}",
+				"OTI": "{{i18n:Festival.summer11.OTI}}",
+				"Ngono": "{{i18n:Festival.summer11.Ngono}}",
+				"AMELE": "{{i18n:Festival.summer11.AMELE}}",
+				"Yolello": "{{i18n:Festival.summer11.Yolello}}"
 			}
 		},
 		//星露谷集会
@@ -172,7 +196,13 @@
 				"Maria_spouse": "{{i18n:Festival.fall16.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.fall16.Arvey}}",
 				"Teresa": "{{i18n:Festival.fall16.Teresa}}",
-				"luoli": "{{i18n:Festival.fall16.luoli}}"
+				"luoli": "{{i18n:Festival.fall16.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.fall16.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.fall16.Siren}}",
+				"OTI": "{{i18n:Festival.fall16.OTI}}",
+				"Ngono": "{{i18n:Festival.fall16.Ngono}}",
+				"AMELE": "{{i18n:Festival.fall16.AMELE}}",
+				"Yolello": "{{i18n:Festival.fall16.Yolello}}"
 			}
 		},
 		//万灵节
@@ -207,7 +237,13 @@
 				"Maria_spouse": "{{i18n:Festival.fall27.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.fall27.Arvey}}",
 				"Teresa": "{{i18n:Festival.fall27.Teresa}}",
-				"luoli": "{{i18n:Festival.fall27.luoli}}"
+				"luoli": "{{i18n:Festival.fall27.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.fall27.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.fall27.Siren}}",
+				"OTI": "{{i18n:Festival.fall27.OTI}}",
+				"Ngono": "{{i18n:Festival.fall27.Ngono}}",
+				"AMELE": "{{i18n:Festival.fall27.AMELE}}",
+				"Yolello": "{{i18n:Festival.fall27.Yolello}}"
 			}
 		},
 		//冰雪节
@@ -242,7 +278,13 @@
 				"Maria_spouse": "{{i18n:Festival.winter8.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.winter8.Arvey}}",
 				"Teresa": "{{i18n:Festival.winter8.Teresa}}",
-				"luoli": "{{i18n:Festival.winter8.luoli}}"
+				"luoli": "{{i18n:Festival.winter8.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.winter8.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.winter8.Siren}}",
+				"OTI": "{{i18n:Festival.winter8.OTI}}",
+				"Ngono": "{{i18n:Festival.winter8.Ngono}}",
+				"AMELE": "{{i18n:Festival.winter8.AMELE}}",
+				"Yolello": "{{i18n:Festival.winter8.Yolello}}"
 			}
 		},
 		//冬日星盛宴
@@ -277,7 +319,13 @@
 				"Maria_spouse": "{{i18n:Festival.winter25.Maria_spouse}}",
 				"Arvey": "{{i18n:Festival.winter25.Arvey}}",
 				"Teresa": "{{i18n:Festival.winter25.Teresa}}",
-				"luoli": "{{i18n:Festival.winter25.luoli}}"
+				"luoli": "{{i18n:Festival.winter25.luoli}}",
+				"EdwardSDS": "{{i18n:Festival.winter25.EdwardSDS}}",
+				"Siren": "{{i18n:Festival.winter25.Siren}}",
+				"OTI": "{{i18n:Festival.winter25.OTI}}",
+				"Ngono": "{{i18n:Festival.winter25.Ngono}}",
+				"AMELE": "{{i18n:Festival.winter25.AMELE}}",
+				"Yolello": "{{i18n:Festival.winter25.Yolello}}"
 			}
 		}
 	]
