@@ -119,6 +119,35 @@
                 "19215169/f Uriel 2500/x SDSUriel10": "null"
             }
         },
+        //佩莱特
+        {
+            "Action": "EditData",
+            "Target": "Data/mail",
+            "Entries": {
+                "SDSPelette10": "{{i18n:Mail.SDSPelette10}}"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Farm",
+            "Entries": {
+                "19215179/f Pelette 2500/x SDSPelette10": "null"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/mail",
+            "Entries": {
+                "SDSPelette14": "{{i18n:Mail.SDSPelette14}}"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Farm",
+            "Entries": {
+                "19215183/f Pelette 3500/x SDSPelette14": "null"
+            }
+        },
         //剧情任务
         {
             "Action": "EditData",
@@ -174,7 +203,7 @@
         {
             "LogName": "Load Blanks for Events at Custom Locations + Desert",
             "Action": "Load",
-            "Target": "Data/Events/Desert, Data/Events/Custom_SDS.couture, Data/Events/Custom_SDS.City, Data/Events/Custom_SDS.TeresaHome, Data/Events/Club, Data/Events/Custom_SDS.church, Data/Events/Custom_Lucashouse, Data/Events/Custom_SDS.Lucasoffice, Data/Events/Custom_SDS.Lucas9, Data/Events/Custom_SDS.HHome, Data/Events/Custom_SDS.sea, Data/Events/Custom_SDS.ricehit, Data/Events/Custom_SDS.cliff, Data/Events/Custom_SDS.UrielHouse",
+            "Target": "Data/Events/Desert, Data/Events/Custom_SDS.couture, Data/Events/Custom_SDS.City, Data/Events/Custom_SDS.TeresaHome, Data/Events/Club, Data/Events/Custom_SDS.church, Data/Events/Custom_Lucashouse, Data/Events/Custom_SDS.Lucasoffice, Data/Events/Custom_SDS.Lucas9, Data/Events/Custom_SDS.HHome, Data/Events/Custom_SDS.sea, Data/Events/Custom_SDS.ricehit, Data/Events/Custom_SDS.cliff, Data/Events/Custom_SDS.UrielHouse, Data/Events/Custom_SDS.Phouse",
             "FromFile": "assets/Data/Empty.json"
         },
         {

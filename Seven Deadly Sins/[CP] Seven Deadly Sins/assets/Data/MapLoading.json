@@ -1,0 +1,210 @@
+{
+    "Changes": [
+        //室内家具
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture",
+            "FromFile": "Maps/TileSheets/SDSfurniture.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture2",
+            "FromFile": "Maps/TileSheets/SDSfurniture2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture3",
+            "FromFile": "Maps/TileSheets/SDSfurniture3.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.church",
+            "FromFile": "Maps/TileSheets/SDS.church.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSSchoolfurniture",
+            "FromFile": "Maps/TileSheets/SDSSchoolfurniture.png"
+        },
+        //矿洞
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.cave",
+            "FromFile": "Maps/TileSheets/SDS.cave.png"
+        },
+        //整体室外
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_SDSmap",
+            "FromFile": "Maps/TileSheets/spring_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_SDSmap",
+            "FromFile": "Maps/TileSheets/summer_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_SDSmap",
+            "FromFile": "Maps/TileSheets/fall_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_SDSmap",
+            "FromFile": "Maps/TileSheets/winter_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Desert",
+            "FromFile": "Maps/TileSheets/SDS.Desert.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.City",
+            "FromFile": "Maps/TileSheets/SDS.City.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.sea",
+            "FromFile": "Maps/TileSheets/SDS.sea.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.cliff.outdoorsTileSheet",
+            "FromFile": "Maps/TileSheets/SDS.cliff.outdoorsTileSheet.png"
+        },
+        //背景动图
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.nigh_sky_1",
+            "FromFile": "Maps/TileSheets/SDS.nigh_sky_1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.seawave",
+            "FromFile": "Maps/TileSheets/SDS.seawave.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.nigh_sky2",
+            "FromFile": "Maps/TileSheets/SDS.nigh_sky2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSmeteor",
+            "FromFile": "Maps/TileSheets/SDSmeteor.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSstarrysky",
+            "FromFile": "Maps/TileSheets/SDSstarrysky.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.trends",
+            "FromFile": "Maps/TileSheets/SDS.trends.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.sky_1",
+            "FromFile": "Maps/TileSheets/SDS.sky_1.png"
+        },
+        //CG
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas4",
+            "FromFile": "Maps/CG/SDS.Lucas4.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas6",
+            "FromFile": "Maps/CG/SDS.Lucas6.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas9",
+            "FromFile": "Maps/CG/SDS.Lucas9.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas10",
+            "FromFile": "Maps/CG/SDS.Lucas10.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas14",
+            "FromFile": "Maps/CG/SDS.Lucas14.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria2",
+            "FromFile": "Maps/CG/SDS.Maria2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria4.1",
+            "FromFile": "Maps/CG/SDS.Maria4.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria4.2",
+            "FromFile": "Maps/CG/SDS.Maria4.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria6",
+            "FromFile": "Maps/CG/SDS.Maria6.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria8",
+            "FromFile": "Maps/CG/SDS.Maria8.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria10.1",
+            "FromFile": "Maps/CG/SDS.Maria10.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria10.2",
+            "FromFile": "Maps/CG/SDS.Maria10.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette10.1",
+            "FromFile": "Maps/CG/SDS.Pelette10.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette10.2",
+            "FromFile": "Maps/CG/SDS.Pelette10.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette3",
+            "FromFile": "Maps/CG/SDS.Pelette3.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette14",
+            "FromFile": "Maps/CG/SDS.Pelette14.png"
+        },
+        //声明
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.statement1",
+            "FromFile": "Maps/CG/SDS.statement1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.statement2",
+            "FromFile": "Maps/CG/SDS.statement2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.statement3",
+            "FromFile": "Maps/CG/SDS.statement3.png"
+        }
+    ]
+}

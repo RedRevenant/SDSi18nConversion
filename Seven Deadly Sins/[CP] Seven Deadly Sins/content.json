@@ -20,6 +20,46 @@
       "Name": "Custom_SDS.Cavebase",
       "FromMapFile": "Maps/SDS.Cavebase.tmx"
     },
+    {
+      "Name": "Custom_SDS.Cave1",
+      "FromMapFile": "Maps/Cave/SDS.Cave1.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave2",
+      "FromMapFile": "Maps/Cave/SDS.Cave2.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave3",
+      "FromMapFile": "Maps/Cave/SDS.Cave3.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave4",
+      "FromMapFile": "Maps/Cave/SDS.Cave4.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave5",
+      "FromMapFile": "Maps/Cave/SDS.Cave5.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave6",
+      "FromMapFile": "Maps/Cave/SDS.Cave6.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave7",
+      "FromMapFile": "Maps/Cave/SDS.Cave7.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave8",
+      "FromMapFile": "Maps/Cave/SDS.Cave8.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave9",
+      "FromMapFile": "Maps/Cave/SDS.Cave9.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Cave10",
+      "FromMapFile": "Maps/Cave/SDS.Cave10.tmx"
+    },
     //城镇
     {
       "Name": "Custom_SDS.Phouse",
@@ -182,6 +222,35 @@
     {
       "Name": "Custom_SDS.Maria10.2",
       "FromMapFile": "Maps/CG/SDS.Maria10.2.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Pelette10.1",
+      "FromMapFile": "Maps/CG/SDS.Pelette10.1.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Pelette10.2",
+      "FromMapFile": "Maps/CG/SDS.Pelette10.2.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Pelette3",
+      "FromMapFile": "Maps/CG/SDS.Pelette3.tmx"
+    },
+    {
+      "Name": "Custom_SDS.Pelette14",
+      "FromMapFile": "Maps/CG/SDS.Pelette14.tmx"
+    },
+    //声明
+    {
+      "Name": "Custom_SDS.statement1",
+      "FromMapFile": "Maps/CG/SDS.statement1.tmx"
+    },
+    {
+      "Name": "Custom_SDS.statement2",
+      "FromMapFile": "Maps/CG/SDS.statement2.tmx"
+    },
+    {
+      "Name": "Custom_SDS.statement3",
+      "FromMapFile": "Maps/CG/SDS.statement3.tmx"
     }
   ],
   "Changes": [
@@ -226,84 +295,17 @@
       "Action": "Include",
       "FromFile": "assets/Data/Mapdescription.json"
     },
+    //特殊对话
+    {
+      "LogName": "Special dialogue",
+      "Action": "Include",
+      "FromFile": "assets/Data/Specialdialogue.json"
+    },
     //人物动作
     {
-      "Action": "EditData",
-      "Target": "Data/animationDescriptions",
-      "Entries": {
-        "Teresa_Sweep": "20/20 20 20 21 21 21 22 22 22 23 23 23/23/",
-        "Teresa_Work": "16/16 16 16 16 16 17 17 17 17/17/Strings\\animationDescriptions:Teresa_Work",
-        "Teresa_Fruit": "24/24 24 24 24 24/24/",
-        "Arvey_Medicine": "20/20 20 20 21 21 21 22 22 22/22/",
-        "Arvey_EC": "23/23 23 23 23 23 23 23 23 24 24 24 24 24/24/",
-        "Arvey_EC1": "25/25 25 25/25/",
-        "Arvey_Sitdown": "26/26 26 26/26/",
-        "Arvey_Clothing": "16/16 16 16 16/16/",
-        "Hovsep_SitEC": "21/21 21 21 21 21 22 22 22 22 22 23 23 23 23 23/23/",
-        "Hovsep_Reading": "19/19 19/19/",
-        "Hovsep_Sit": "24/24 24/24/",
-        "Hovsep_Working": "27/27 27/27/",
-        "Hovsep_Pick": "34/34 34 34 34 35 35 35 35/35/",
-        "Hovsep_Cook": "32/32 32 32 32 33 33 33 33/33/",
-        "Coffey_Mirror": "16/16 16 16 16 16 17 17 17 17 17 18 18 18 18 18 19 19 19 19 /19/Strings\\animationDescriptions:Coffey_Mirror",
-        "Coffey_Skip": "20/20 20 21 21 22 22 23 23/23/",
-        "Coffey_Clamp": "24/24 24 24 24 24 25 25 25 25 25/25/",
-        "Garnet_Reading": "18/18 18 18 18 18 18 18 18 18 18 18 18 18/18/Strings\\animationDescriptions:Garnet_Reading",
-        "Garnet_Write": "28/28 28 28 28 28 29 29 29 29 29/29/",
-        "Garnet_Sweep": "20/20 20 20 21 21 21 22 22 22 23 23 23/23/",
-        "Garnet_Rub": "24/24 24 24 24 25 25 25 25 26 26 26 26 27 27 27 27/27/",
-        "Wendy_Sit": "16/16 16 16/16/",
-        "Wendy_Read": "19/19 19 19/19/",
-        "Albert_Skip": "16/16 16 17 17 18 18 19 19/19/",
-        "Albert_Clamp": "21/21 21 21 21 21 22 22 22 22 22/22/",
-        "Lane_Gather": "16/16 16 16 16 16 17 17 17 17 17/17/",
-        "Lane_Gather1": "22/22 22 22 22 22 23 23 23 23 23/23/",
-        "Lane_Medicine": "20/20 20 20 20 20 21 21 21 21 21 21 21/21/",
-        "Lane_Speak": "18/18 18 18 18 18 19 19 19 19 19/19/",
-        "Lane_Sit": "24/24 24/24/",
-        "Lane_Phone": "25/25 25 25 25 26 26 26 26/26/",
-        "Lane_Doze": "34/34 34 35 35 36 36 37 37 38 38 39 39 38 38 37 37 36 36 35 35 34 34/34/",
-        "Rane_Phone": "16/16 16 16 16 16 17 17 17 17 17/17/",
-        "Rane_Speak": "18/18 18 18 18 18 19 19 19 19 19/19/",
-        "Rane_Fiddle": "20/20 20 20 20 20 20 21 21 21 21 21 21/21/",
-        "Rane_Phone1": "24/24 24 24 24 24 25 25 25 25 25/25/",
-        "Rane_Phone2": "22/22 22 22 22 22 23 23 23 23 23/23/",
-        "Lucas_Rectification": "16/16 16 16 16 16 17 17 17 17 17/17/",
-        "Lucas_Document": "18/18 18 18 18 18 19 19 19 19 19/19/",
-        "Lucas_Document1": "26/26 26 26 26 26 27 27 27 27 27/27/",
-        "Lucas_Drink": "20/20 20 20 20 20 21 21 21 21 21 22 22 22 22 22 23 23 23 23 23/23/",
-        "Lucas_Drink1": "32/32 32 32 32 32 33 33 33 33 33 34 34 34 34 34 35 35 35 35 35/35/",
-        "Lucas_Phone": "36/36 36 36 36 36 37 37 37 37 37 38 38 38 38 38/38/",
-        "Lucas_sleep": "39/39 39/39/",
-        "Lucas_Book": "40/40 40 40 40 40 41 41 41 41 42 42 42 42 42/42",
-        "Pelette_Book": "16/16 16 16 16 16 17 17 17 17 17 17 17 17 17/17/",
-        "Pelette_Knife": "18/18 18 18 18 18 19 19 19 19 19/19/",
-        "Pelette_Cook": "24/24 24 24 24 24 25 25 25 25 25/25/",
-        "Pelette_Cook1": "26/26 26 26 26 26 27 27 27 27 27/27/",
-        "Pelette_Blankly": "20/20 20/20/",
-        "Pelette_Animal": "40/40 40 40 40 41 41 41 41 42 42 42 42 43 43 43 43/43/",
-        "Pelette_Quarrel": "57/57 57 57 57 58 58 58 58 59 59 59 59/59/",
-        "Pelette_Flowerl": "40/40 40 40 40 40 41 41 41 41 41/41/",
-        "Pelette_Flowerr": "52/52 52 52 52 52 53 53 53 53 53/53/",
-        "Pelette_Drink": "54/54 54 54 54 55 55 55 55 56 56 56 56 55 55 55 55 54 54 54 54/54/",
-        "Pelette_Exercise": "33/33 33 34 34 35 35 36 36 37 37 38 38 39 39/39/Strings\\animationDescriptions:Pelette_Exercise",
-        "Uriel_Pray": "16/16 16 16 16 17 17 17 17 18 18 18 18 19 19 19 19/19/",
-        "Uriel_Notes": "20/20 20 20 20 21 21 21 21 22 22 22 22 23 23 23 23/23/",
-        "Uriel_Notes1": "24/24 24 24 24 25 25 25 25/25/",
-        "Uriel_Notes2": "32/32 32 32 32 33 33 33 33/33/",
-        "Uriel_Notes3": "34/34 34 34 34 35 35 35 35/35/",
-        "Uriel_Muse": "36/36 36 36 36 37 37 37 37 38 38 38 38 39 39 39 39/39/"
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Strings/animationDescriptions",
-      "Entries": {
-        "Teresa_Work": "{{i18n:AnimDesc.Teresa_Work}}",
-        "Coffey_Mirror": "{{i18n:AnimDesc.Coffey_Mirror}}",
-        "Garnet_Reading": "{{i18n:Garnet_Reading}}",
-        "Pelette_Exercise": "{{i18n:Pelette_Exercise}}"
-      }
+      "LogName": "Special dialogue",
+      "Action": "Include",
+      "FromFile": "assets/Data/AnimationDescriptions.json"
     },
     //原版替换
     {
@@ -363,7 +365,8 @@
         "Lucas": "SDS.SpouseRooms/0",
         "Hovsep": "SDS.SpouseRooms/1",
         "Maria": "SDS.SpouseRooms/2",
-        "Uriel": "SDS.SpouseRooms/3"
+        "Uriel": "SDS.SpouseRooms/3",
+        "Pelette": "SDS.SpouseRooms/4"
       }
     },
     {
@@ -379,7 +382,8 @@
         "Lucas": "SDS.SpousePatios/0",
         "Hovsep": "SDS.SpousePatios/1",
         "Maria": "SDS.SpousePatios/2",
-        "Uriel": "SDS.SpousePatios/3"
+        "Uriel": "SDS.SpousePatios/3",
+        "Pelette": "SDS.SpousePatios/4"
       }
     },
     {
@@ -414,340 +418,9 @@
     },
     //新增物品
     {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Checks.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 0,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "936": "FTchecks/50000/-300/Basic/{{i18n:ObjectInformation.936.Name}}/{{i18n:ObjectInformation.936.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Checks.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 16,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "937": "OHTchecks/100000/-300/Basic/{{i18n:ObjectInformation.937.Name}}/{{i18n:ObjectInformation.937.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Checks.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 32,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "938": "THchecks/10000/-300/Basic/{{i18n:ObjectInformation.938.Name}}/{{i18n:ObjectInformation.938.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Moon layer.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 48,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "939": "Moonlayer/800/200/Cooking -7/{{i18n:ObjectInformation.939.Name}}/{{i18n:ObjectInformation.939.Desc}}/food/4 0 0 0 4 0 0 0 0 0 0/900" //能量（食用性 × 2.5）和健康（食用性 × 1.125）600=7
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Biscuits.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 64,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "940": "PBiscuits/10/-5/Cooking -7/{{i18n:ObjectInformation.940.Name}}/{{i18n:ObjectInformation.940.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Orange Cake.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 80,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "941": "Orange Cake/500/100/Cooking -7/{{i18n:ObjectInformation.941.Name}}/{{i18n:ObjectInformation.941.Desc}} /food/0 0 0 0 0 0 0 0 0 0 0/0"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Raw Beef.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 96,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "942": "Raw Beef/200/-300/Basic/{{i18n:ObjectInformation.942.Name}}/{{i18n:ObjectInformation.942.Desc}} "
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Beautifully wrapped candy.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 112,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "943": "Beautifully wrapped candy/5000/50/Cooking -7/{{i18n:ObjectInformation.943.Name}}/{{i18n:ObjectInformation.943.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/Pelette's special cuisine.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 128,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "944": "Pelette's special cuisine/10/-20/Cooking -7/{{i18n:ObjectInformation.944.Name}}/{{i18n:ObjectInformation.944.Desc}}/food/0 0 0 0 0 0 0 0 0 0 0/0"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/SDS Blue flash butterfly.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 144,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "945": "SDS Blue flash butterfly/0/-300/Basic -80/{{i18n:ObjectInformation.945.Name}}/{{i18n:ObjectInformation.945.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/SDS Ice ling column.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 160,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "946": "SDS Ice ling column/0/-300/Basic -80/{{i18n:ObjectInformation.946.Name}}/{{i18n:ObjectInformation.946.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/SDS Branch.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 176,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "947": "SDS Branch/0/-300/Basic -80/{{i18n:ObjectInformation.947.Name}}/{{i18n:ObjectInformation.947.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/SDS Pine nut.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 192,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "948": "SDS Pine nut/0/-300/Basic -80/{{i18n:ObjectInformation.948.Name}}/{{i18n:ObjectInformation.948.Desc}}"
-      }
-    },
-    {
-      "Action": "EditImage",
-      "Target": "Maps/springobjects",
-      "FromFile": "assets/Objects/SDS Pine nut.png",
-      "FromArea": {
-        "X": 0,
-        "Y": 0,
-        "Width": 16,
-        "Height": 16
-      },
-      "ToArea": {
-        "X": 208,
-        "Y": 624,
-        "Width": 16,
-        "Height": 16
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/ObjectInformation",
-      "Entries": {
-        "949": "SDS eggshell/0/-300/Basic -80/{{i18n:ObjectInformation.949.Name}}/{{i18n:ObjectInformation.949.Desc}}"
-      }
+      "LogName": "Object Information",
+      "Action": "Include",
+      "FromFile": "assets/Data/ObjectInformation.json"
     },
     //NPC用家具
     {
@@ -778,175 +451,10 @@
       "FromFile": "assets/Monsters/GooJi_Rabbit.png"
     },
     //图块加载
-    //室内家具
     {
-      "Action": "Load",
-      "Target": "Maps/SDSfurniture",
-      "FromFile": "Maps/TileSheets/SDSfurniture.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDSfurniture2",
-      "FromFile": "Maps/TileSheets/SDSfurniture2.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDSfurniture3",
-      "FromFile": "Maps/TileSheets/SDSfurniture3.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.church",
-      "FromFile": "Maps/TileSheets/SDS.church.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDSSchoolfurniture",
-      "FromFile": "Maps/TileSheets/SDSSchoolfurniture.png"
-    },
-    //矿洞
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.cave",
-      "FromFile": "Maps/TileSheets/SDS.cave.png"
-    },
-    //整体室外
-    {
-      "Action": "Load",
-      "Target": "Maps/spring_SDSmap",
-      "FromFile": "Maps/TileSheets/spring_SDSmap.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/summer_SDSmap",
-      "FromFile": "Maps/TileSheets/summer_SDSmap.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/fall_SDSmap",
-      "FromFile": "Maps/TileSheets/fall_SDSmap.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/winter_SDSmap",
-      "FromFile": "Maps/TileSheets/winter_SDSmap.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Desert",
-      "FromFile": "Maps/TileSheets/SDS.Desert.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.City",
-      "FromFile": "Maps/TileSheets/SDS.City.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.sea",
-      "FromFile": "Maps/TileSheets/SDS.sea.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.cliff.outdoorsTileSheet",
-      "FromFile": "Maps/TileSheets/SDS.cliff.outdoorsTileSheet.png"
-    },
-    //背景动图
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.nigh_sky_1",
-      "FromFile": "Maps/TileSheets/SDS.nigh_sky_1.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.seawave",
-      "FromFile": "Maps/TileSheets/SDS.seawave.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.nigh_sky2",
-      "FromFile": "Maps/TileSheets/SDS.nigh_sky2.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDSmeteor",
-      "FromFile": "Maps/TileSheets/SDSmeteor.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDSstarrysky",
-      "FromFile": "Maps/TileSheets/SDSstarrysky.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.trends",
-      "FromFile": "Maps/TileSheets/SDS.trends.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.sky_1",
-      "FromFile": "Maps/TileSheets/SDS.sky_1.png"
-    },
-    //CG
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Lucas4",
-      "FromFile": "Maps/CG/SDS.Lucas4.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Lucas6",
-      "FromFile": "Maps/CG/SDS.Lucas6.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Lucas9",
-      "FromFile": "Maps/CG/SDS.Lucas9.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Lucas10",
-      "FromFile": "Maps/CG/SDS.Lucas10.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Lucas14",
-      "FromFile": "Maps/CG/SDS.Lucas14.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria2",
-      "FromFile": "Maps/CG/SDS.Maria2.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria4.1",
-      "FromFile": "Maps/CG/SDS.Maria4.1.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria4.2",
-      "FromFile": "Maps/CG/SDS.Maria4.2.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria6",
-      "FromFile": "Maps/CG/SDS.Maria6.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria8",
-      "FromFile": "Maps/CG/SDS.Maria8.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria10.1",
-      "FromFile": "Maps/CG/SDS.Maria10.1.png"
-    },
-    {
-      "Action": "Load",
-      "Target": "Maps/SDS.Maria10.2",
-      "FromFile": "Maps/CG/SDS.Maria10.2.png"
+      "LogName": "Maps",
+      "Action": "Include",
+      "FromFile": "assets/Data/MapLoading.json"
     }
   ]
 }
