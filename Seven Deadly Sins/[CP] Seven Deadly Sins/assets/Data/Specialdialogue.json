@@ -1,0 +1,11 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/ExtraDialogue",
+			"Entries": {
+				"ExtraDialogue_Town_DumpsterDiveComment_peipei": "{{i18n:SpecialDialogue.ExtraDialogue_Town_DumpsterDiveComment_peipei}}"
+			}
+		}
+	]
+}
