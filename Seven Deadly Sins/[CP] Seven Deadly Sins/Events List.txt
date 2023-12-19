@@ -74,4 +74,16 @@ Uriel 6 Hearts - Sunny Day -- Forest
 Uriel 8 Hearts -- Tianshan
 Uriel 9 Hearts - Sunny Day - 10:00 to 14:00 -- Forest
 Uriel 10 hearts - After receiving the letter -- Uriel's House
-【Pellet】
+【Pelette】
+Pelette 2 Hearts - 6:30 to 10:30 - Sunny - Town
+Pelette 3 Hearts - 11:00 to 15:00 - Sunny - Seen 2 Hearts - Forest
+Pelette 4 Hearts-18:00 to 23:00-Sunny-3 Hearts--Forest
+Pelette 6 hearts-10 o'clock to 15 o'clock-Seen 4 hearts -- Pelette's house
+Pelette 8 Hearts-12 o'clock to 16 o'clock-sunny day-Seen 8 Hearts -- forest
+Pelette 10 Hearts -- Letter
+Pelette 10 hearts-12 o'clock to 18 o'clock-after receiving the letter-Seen 10 Hearts-- Pelette's house
+Pelette 14 Hearts -- Letter
+Pelette 14 hearts-15 o'clock to 20 o'clock-after receiving the letter-Pellet's house
+【Pei Pei】
+{19215177} Pellet 1 heart-10 o'clock to 15 o'clock-sunny day-town
+{19215176} Pellet 4 hearts-Bah 3 hearts-12 to 15 o'clock-sunny day-passing 19215177 -- town
