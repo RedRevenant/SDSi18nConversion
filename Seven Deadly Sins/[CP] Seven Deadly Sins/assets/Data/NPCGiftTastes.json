@@ -12,7 +12,13 @@
         "Coffey": "{{i18n:Gift.Coffey.Love}}/283 394 221/{{i18n:Gift.Coffey.Like}}/233 -80 402/{{i18n:Gift.Coffey.Dislike}}/398/{{i18n:Gift.Coffey.Hate}}/-4 -20 -19/{{i18n:Gift.Coffey.Neutral}}//",
         "Garnet": "{{i18n:Gift.Garnet.Love}}/256 618/{{i18n:Gift.Garnet.Like}}/-7 -75/{{i18n:Gift.Garnet.Dislike}}/-5 -6/{{i18n:Gift.Garnet.Hate}}/-20 -19/{{i18n:Gift.Garnet.Neutral}}//",
         "Raymond": "{{i18n:Gift.Raymond.Love}}/433 395/{{i18n:Gift.Raymond.Like}}/834 223 -79/{{i18n:Gift.Raymond.Dislike}}/-2 -12/{{i18n:Gift.Raymond.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.Raymond.Neutral}}//",
-        "peipei": "{{i18n:Gift.peipei.Love}}/433 395/{{i18n:Gift.peipei.Like}}/834 223 -79/{{i18n:Gift.peipei.Dislike}}/-2 -12/{{i18n:Gift.peipei.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.peipei.Neutral}}//"
+        "peipei": "{{i18n:Gift.peipei.Love}}/433 395/{{i18n:Gift.peipei.Like}}/834 223 -79/{{i18n:Gift.peipei.Dislike}}/-2 -12/{{i18n:Gift.peipei.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.peipei.Neutral}}//",
+        "EdwardSDS": "{{i18n:Gift.Edward.Love}}/395 253 260/{{i18n:Gift.Edward.Like}}/-4 398 410/{{i18n:Gift.Edward.Dislike}}/346 248/{{i18n:Gift.Edward.Hate}}/-20 -80/{{i18n:Gift.Edward.Neutral}}/-75 408/",
+        "Siren": "{{i18n:Gift.Siren.Love}}/394 104 74 72/{{i18n:Gift.Siren.Like}}/-2 -80 416/{{i18n:Gift.Siren.Dislike}}/-4/{{i18n:Gift.Siren.Hate}}/-20 -21/{{i18n:Gift.Siren.Hate}}/372 459/",
+        "AMELE": "{{i18n:Gift.AMELE.Love}}/-2 -5 -8 -74 613 634 635 636 637 638 254 245 238 239/{{i18n:Gift.AMELE.Like}}/593 -79 -81 -26 417 408/{{i18n:Gift.AMELE.Dislike}}/-4 -27 436 426 431/{{i18n:Gift.AMELE.Hate}}/396 384 382 386 341 -20 -12 -23 334 335 336 337/{{i18n:Gift.AMELE.Neutral}}/397 270 259 258/",
+        "Ngono": "{{i18n:Gift.Ngono.Love}}/-28 -75 -79 -80 18 64 88 118 125 232/{{i18n:Gift.Ngono.Like}}/287 -4 -5 -8 -74 -81 278 296 373 397/{{i18n:Gift.Ngono.Dislike}}/-27 -26 -2 398 408 424 436/{{i18n:Gift.Ngono.Hate}}/456 459 400 393/{{i18n:Gift.Ngono.Neutral}}/288 297 272/",
+        "Yolello": "{{i18n:Gift.Yolello.Love}}/-96 -2 -8 125 225 228 230/{{i18n:Gift.Yolello.Like}}/348 376 417 -26/{{i18n:Gift.Yolello.Dislike}}/-75 -79 -81 -80 -27/{{i18n:Gift.Yolello.Hate}}/-20 -24 -5 -4 -7 -12 -14 -15 -16 -17 -18 -19 -23/{{i18n:Gift.Yolello.Neutral}}/397/",
+        "OTI": "{{i18n:Gift.OTI.Love}}/-79 -81 -75 -26 -8 -7 184 186 197 258/{{i18n:Gift.OTI.Like}}/-4 -5 -2 -16 -23 259 70 78 80/{{i18n:Gift.OTI.Dislike}}/-20 -21 -19 -18 -12/{{i18n:Gift.OTI.Hate}}/-80 -74 94 90 64 66 123/{{i18n:Gift.OTI.Neutral}}/397/"
       }
     },
     //阿维
@@ -270,6 +276,41 @@
         "Day": "3"
       }
     },
+    //Sariel
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Sariel": "{{i18n:Gift.Sariel.Hearts0to5.Love}}/126 127 {{spacechase0.JsonAssets/ObjectId:SDS Cream strawberry}} {{spacechase0.JsonAssets/ObjectId:SDS Strawberry pudding}} {{spacechase0.JsonAssets/ObjectId:SDS Chocolate strawberry}} {{spacechase0.JsonAssets/ObjectId:SDS Strawberry Donut}}/{{i18n:Gift.Sariel.Hearts0to5.Like}}/107 308 349 237 637/{{i18n:Gift.Sariel.Hearts0to5.Dislike}}/-4 -19/{{i18n:Gift.Sariel.Hearts0to5.Hate}}/436 438 167 219 260 274 446/{{i18n:Gift.Sariel.Hearts0to5.Neutral}}/577 104/"
+      },
+      "When": {
+        "Hearts:Sariel": "0,1,2,3,4,5"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Sariel": "{{i18n:Gift.Sariel.Hearts6to10.Love}}/126 127 {{spacechase0.JsonAssets/ObjectId:SDS Cream strawberry}} {{spacechase0.JsonAssets/ObjectId:SDS Strawberry pudding}} {{spacechase0.JsonAssets/ObjectId:SDS Chocolate strawberry}} {{spacechase0.JsonAssets/ObjectId:SDS Strawberry Donut}}/{{i18n:Gift.Sariel.Hearts6to10.Like}}/107 308 349 237 637/{{i18n:Gift.Sariel.Hearts6to10.Dislike}}/-4 -19/{{i18n:Gift.Sariel.Hearts6to10.Hate}}/436 438 167 219 260 274 446/{{i18n:Gift.Sariel.Hearts6to10.Neutral}}/577 104/"
+      },
+      "When": {
+        "Hearts:Sariel": "6,7,8,9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.4275": "{{i18n:BirthdayGift.Sariel.NPC.cs.4275}}",
+        "NPC.cs.4277": "{{i18n:BirthdayGift.Sariel.NPC.cs.4277}}",
+        "NPC.cs.4279": "{{i18n:BirthdayGift.Sariel.NPC.cs.4279}}",
+        "NPC.cs.4281": "{{i18n:BirthdayGift.Sariel.NPC.cs.4281}}"
+      },
+      "When": {
+        "Season": "winter",
+        "Day": "15"
+      }
+    },
     //Lane
     {
       "Action": "EditData",
@@ -344,6 +385,16 @@
       },
       "When": {
         "Hearts:Pelette": "9,10"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Pelette": "{{i18n:Gift.Pelette.Hearts11to14.Love}}/{{spacechase0.JsonAssets/ObjectId:SDS Drizzled cake}} 109/{{i18n:Gift.Pelette.Hearts11to14.Like}}/224 -80 303/{{i18n:Gift.Pelette.Hearts11to14.Dislike}}/414/{{i18n:Gift.Pelette.Hearts11to14.Hate}}/-20 418/{{i18n:Gift.Pelette.Hearts11to14.Neutral}}/-24 -19/"
+      },
+      "When": {
+        "Hearts:Pelette": "11,12,13,14"
       }
     },
     {
