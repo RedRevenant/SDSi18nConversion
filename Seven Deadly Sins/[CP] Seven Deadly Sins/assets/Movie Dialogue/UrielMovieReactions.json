@@ -9,7 +9,7 @@
                     "Reactions": [
                         {
                             "Tag": "spring_movie_0",
-                            "Response": "like",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -32,7 +32,7 @@
                         },
                         {
                             "Tag": "summer_movie_0",
-                            "Response": "like",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -78,7 +78,7 @@
                         },
                         {
                             "Tag": "winter_movie_0",
-                            "Response": "like",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -170,7 +170,7 @@
                         },
                         {
                             "Tag": "winter_movie_1",
-                            "Response": "love",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {

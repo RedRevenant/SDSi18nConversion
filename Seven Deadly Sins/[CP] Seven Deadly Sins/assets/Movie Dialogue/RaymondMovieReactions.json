@@ -32,7 +32,7 @@
                         },
                         {
                             "Tag": "summer_movie_0",
-                            "Response": "like",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -55,7 +55,7 @@
                         },
                         {
                             "Tag": "fall_movie_0",
-                            "Response": "dislike",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -101,7 +101,7 @@
                         },
                         {
                             "Tag": "spring_movie_1",
-                            "Response": "dislike",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -170,7 +170,7 @@
                         },
                         {
                             "Tag": "winter_movie_1",
-                            "Response": "love",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {

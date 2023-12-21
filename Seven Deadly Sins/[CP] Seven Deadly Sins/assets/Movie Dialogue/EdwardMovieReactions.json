@@ -4,12 +4,12 @@
             "Action": "EditData",
             "Target": "Data/MoviesReactions",
             "Entries": {
-                "Edward": {
+                "EdwardSDS": {
                     "NPCName": "Edward",
                     "Reactions": [
                         {
                             "Tag": "spring_movie_0",
-                            "Response": "love",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -32,7 +32,7 @@
                         },
                         {
                             "Tag": "summer_movie_0",
-                            "Response": "love",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -55,7 +55,7 @@
                         },
                         {
                             "Tag": "fall_movie_0",
-                            "Response": "dislike",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -124,7 +124,7 @@
                         },
                         {
                             "Tag": "summer_movie_1",
-                            "Response": "love",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -147,7 +147,7 @@
                         },
                         {
                             "Tag": "fall_movie_1",
-                            "Response": "dislike",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {

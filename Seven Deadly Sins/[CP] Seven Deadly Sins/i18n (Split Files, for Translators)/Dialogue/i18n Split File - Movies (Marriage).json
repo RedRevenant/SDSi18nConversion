@@ -263,6 +263,39 @@
     /*~*~*~*/
     "MarriageMoviesReactions.Pelette.winter_movie_1.BeforeMovie.Text": "能在结婚之后和你一起来看这部片子，我很开心，我想我不论看多少次，都会是这样的反应吧？$1",
     "MarriageMoviesReactions.Pelette.winter_movie_1.DuringMovie.Text": "……哦，真不错。$1#$b#%佩莱特看起来的确很喜欢这部片子。",
-    "MarriageMoviesReactions.Pelette.winter_movie_1.AfterMovie.Text": "或许，我们之间的相处，也可以做成一部黑白电影。我是说，在我们各自的脑子里，它们总是在不断回放不是吗？……一想起这些事，我甚至都忍不住要对你露出微笑了，啊…真是。现在真是幸福。$1"
+    "MarriageMoviesReactions.Pelette.winter_movie_1.AfterMovie.Text": "或许，我们之间的相处，也可以做成一部黑白电影。我是说，在我们各自的脑子里，它们总是在不断回放不是吗？……一想起这些事，我甚至都忍不住要对你露出微笑了，啊…真是。现在真是幸福。$1",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Married Movie Reactions] Sariel
+    "MarriageMoviesReactions.Sariel.spring_movie_0.BeforeMovie.Text": "来了？我买了一些吃的，等会进去之后应该会送到座椅那边。……还有别的想要的吗？没有的话你先进去吧，我去结个账。$1",
+    "MarriageMoviesReactions.Sariel.spring_movie_0.DuringMovie.Text": "……。#$b#%白丼一边看着电影，一边咔嚓咔嚓吃着爆米花，但下一秒，香甜的爆米花也喂到了你的嘴边。",
+    "MarriageMoviesReactions.Sariel.spring_movie_0.AfterMovie.Text": "还算不错吧。虽然已经看过很多遍了。人类总喜欢励志片，我能理解。$9",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.summer_movie_0.BeforeMovie.Text": "你要吃点什么吗，我去买吧？除了吃的还要饮料对吗，我记着的。$9",
+    "MarriageMoviesReactions.Sariel.summer_movie_0.DuringMovie.Text": "……。#$b#%白丼全神贯注看着电影，但他还是时不时抽空将手里的食物，自己一口，你一口的轮流喂着。",
+    "MarriageMoviesReactions.Sariel.summer_movie_0.AfterMovie.Text": "回去之后我们可以去打一下这个游戏，……对，我记得我买了双人版的。如果你感兴趣的话，和我说一声就好。$1",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.fall_movie_0.BeforeMovie.Text": "虽然这个电影通篇都是假的，但是你要是想看看真的，我下次可以向你展示。……好了，我去给你买点吃的。$1",
+    "MarriageMoviesReactions.Sariel.fall_movie_0.DuringMovie.Text": "…………。#$b#%白丼一边看着电影，一边咔嚓咔嚓吃着不知道哪里掏出来的薯片。#$b#%哦，原来是番茄味的。吃掉递过来的薯片，你这么想着。",
+    "MarriageMoviesReactions.Sariel.fall_movie_0.AfterMovie.Text": "薯片吃完了，我计算的很好，现在我们可以回家了。今晚你想吃什么？我去买菜？$9",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.winter_movie_0.BeforeMovie.Text": "以前对这个题材没什么兴趣，但现在或许会好一点。……我应该不会睡着。",
+    "MarriageMoviesReactions.Sariel.winter_movie_0.DuringMovie.Text": "……zZ……zzZ。#$b#%白丼还是睡着了。",
+    "MarriageMoviesReactions.Sariel.winter_movie_0.AfterMovie.Text": "啊。睡着了。……不能怪我。它真的太无聊了。$9",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.spring_movie_1.BeforeMovie.Text": "有时候我在想……算了，电影结束之后再告诉你吧。",
+    "MarriageMoviesReactions.Sariel.spring_movie_1.DuringMovie.Text": "……。#$b#%白丼滋滋地喝着椰子汁。",
+    "MarriageMoviesReactions.Sariel.spring_movie_1.AfterMovie.Text": "话题回到电影之前，我想说的是，你要是对那个岛屿感兴趣的话，我们就出去度假吧？我已经找到它的位置了。$1",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.summer_movie_1.BeforeMovie.Text": "我还是觉得这个电影才是最有趣的，你想知道为什么吗？@？$1",
+    "MarriageMoviesReactions.Sariel.summer_movie_1.DuringMovie.Text": "……。…………。$1#$b#%白丼看得津津有味，甚至在吃下了更多爆米花的同时，还不忘分享给你。",
+    "MarriageMoviesReactions.Sariel.summer_movie_1.AfterMovie.Text": "因为我觉得恶心的东西变得更恶心了，是一件非常很有趣的事情。你不这么觉得吗？$1#$b#……虽然我不记得我为什么讨厌人类了，但我本能的记得，人类就是这个丑恶的存在。#$b#如果我不拒绝，那么，它们就会永无止境地趴在你的身上，就这样吃喝拉撒下去。",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.fall_movie_1.BeforeMovie.Text": "你会觉得害怕吗。感觉你会害怕。……你害怕为什么还要看这个？$0#$b#%白丼看起来有些疑惑。",
+    "MarriageMoviesReactions.Sariel.fall_movie_1.DuringMovie.Text": "………。#$b#%白丼咔嚓咔嚓吃着爆米花，随后他突然安静了下来。片刻之后，一个带着奶油甜味香气的香软东西，连同勺子一起抵上了你的嘴唇。",
+    "MarriageMoviesReactions.Sariel.fall_movie_1.AfterMovie.Text": "吃点甜的东西，会让你的脑子放松下来。……下次要是害怕，你直接抱着我的手臂也是可以的。$9",
+    /*~*~*~*/
+    "MarriageMoviesReactions.Sariel.winter_movie_1.BeforeMovie.Text": "……这个，这个，还有这个。外带可以吗？#$b#%白丼十分礼貌地正在前台点东西。",
+    "MarriageMoviesReactions.Sariel.winter_movie_1.DuringMovie.Text": "…………。#$b#%白丼聚精会神吃着东西，他的咀嚼声始终伴随着整部电影的开头与结尾，不轻也不重。",
+    "MarriageMoviesReactions.Sariel.winter_movie_1.AfterMovie.Text": "填饱了一点点肚子，十分里打个一分吧？好了，现在我们回去吧——手给我。$9#$b#%说完白丼牵住了你的手，你感受到了白丼温热的体温。"
     /*-----------------------------------------------------------------------------------------------------------*/
 }

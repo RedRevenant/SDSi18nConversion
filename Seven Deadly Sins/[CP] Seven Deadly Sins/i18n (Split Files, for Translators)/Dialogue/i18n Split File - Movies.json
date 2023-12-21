@@ -593,7 +593,72 @@
     /*~*~*~*/
     "MovieReaction.Raymond.winter_movie_1.BeforeMovie.Text": "这里什么时候建了一座电影院？怪不得那几个孩子这几天总是说什么电影…果然还是你们年轻人的消息灵通啊。$1",
     "MovieReaction.Raymond.winter_movie_1.DuringMovie.Text": "%教父看的很认真，时不时还会微微点点头，似乎挺喜欢这部电影的。",
-    "MovieReaction.Raymond.winter_movie_1.AfterMovie.Text": "很新奇的体验，想不到我这么大年纪了还能看一次电影，谢谢你孩子，这真令人开心。$1"
+    "MovieReaction.Raymond.winter_movie_1.AfterMovie.Text": "很新奇的体验，想不到我这么大年纪了还能看一次电影，谢谢你孩子，这真令人开心。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Movie Reactions] Sariel
+    "MovieReaction.Sariel.spring_movie_0.BeforeMovie.Text": "你来了？来了就进去吧，进去之前记得给我买一份星之蛋糕。$1",
+    "MovieReaction.Sariel.spring_movie_0.DuringMovie.Text": "……。#$b#%白丼一边看着电影，一边咔嚓咔嚓吃着爆米花，他似乎对有白来的食物更感兴趣。",
+    "MovieReaction.Sariel.spring_movie_0.AfterMovie.Text": "拜拜。看完了就散伙吧，刚好我还有事要去做。$0",
+    /*~*~*~*/
+    "MovieReaction.Sariel.summer_movie_0.BeforeMovie.Text": "来了？真是来得有够慢的，快点进去吧。……我这次要吃布丁，给我买。$9",
+    "MovieReaction.Sariel.summer_movie_0.DuringMovie.Text": "……。#$b#%白丼全神贯注看着电影，似乎对于游戏类题材的东西，还算感兴趣。因为他全程居然没吃东西。",
+    "MovieReaction.Sariel.summer_movie_0.AfterMovie.Text": "结束了？结束了我就回去了。哦，对，谢谢你邀请我来看电影。人类要讲求礼貌。$1",
+    /*~*~*~*/
+    "MovieReaction.Sariel.fall_movie_0.BeforeMovie.Text": "……。$6#$b#%白丼似乎在看海报，并且一边看，一边往嘴里塞着吃的。",
+    "MovieReaction.Sariel.fall_movie_0.DuringMovie.Text": "…………。#$b#%白丼一边看着电影，一边咔嚓咔嚓吃着爆米花。",
+    "MovieReaction.Sariel.fall_movie_0.AfterMovie.Text": "最后一句很不错，恐吓得十分到位，除此之外的内容似乎看起来都是假的。……无聊。$0",
+    /*~*~*~*/
+    "MovieReaction.Sariel.winter_movie_0.BeforeMovie.Text": "我对这个题材的电影不怎么感兴趣。等等我会睡觉。",
+    "MovieReaction.Sariel.winter_movie_0.DuringMovie.Text": "……zZ。#$b#%白丼真的在睡觉。",
+    "MovieReaction.Sariel.winter_movie_0.AfterMovie.Text": "哈啊——……结束了？那、拜拜，我回去了。$0",
+    /*~*~*~*/
+    "MovieReaction.Sariel.spring_movie_1.BeforeMovie.Text": "今天我要吃椰子相关的热带类型的食物，帮我点。……出去的时候我再给你钱。$0",
+    "MovieReaction.Sariel.spring_movie_1.DuringMovie.Text": "……。#$b#%白丼时不时看一眼电影，但更多的时间他一直在吃东西。",
+    "MovieReaction.Sariel.spring_movie_1.AfterMovie.Text": "谢谢，很开心，拜拜。$1#$b#…………。$0#$b#你真打算找我要钱？$0",
+    /*~*~*~*/
+    "MovieReaction.Sariel.summer_movie_1.BeforeMovie.Text": "哈……这个，还真是……$1#$b#%白丼似乎在看海报，并且发出了对它很感兴趣的嘀咕声。",
+    "MovieReaction.Sariel.summer_movie_1.DuringMovie.Text": "……。…………。$1#$b#%白丼一边吃着什么，一边在笑，你觉得那是一种看起来非常愉悦地表情。",
+    "MovieReaction.Sariel.summer_movie_1.AfterMovie.Text": "难得不错的电影，恶心的人类发展到那种地步还真是有够让人发笑的。果然恶心到了极致就只剩下好笑了。$9",
+    /*~*~*~*/
+    "MovieReaction.Sariel.fall_movie_1.BeforeMovie.Text": "在你来之前我看了一眼简介，这部给我感觉还不错，所以——别等了，进去吧。哦，对了，顺带的、我要吃蛋糕。$1",
+    "MovieReaction.Sariel.fall_movie_1.DuringMovie.Text": "………。#$b#%白丼咔嚓咔嚓吃着爆米花，随后又灌了一口可乐。",
+    "MovieReaction.Sariel.fall_movie_1.AfterMovie.Text": "和想想种不一样，没那么有趣。拍摄手法太过庸俗——毕竟是实拍记录一样的东西。$0",
+    /*~*~*~*/
+    "MovieReaction.Sariel.winter_movie_1.BeforeMovie.Text": "经典老片我很喜欢，或许值得一看，毕竟看你们人类的变化史，就和看虫子的进化一样恶心又有趣。$1",
+    "MovieReaction.Sariel.winter_movie_1.DuringMovie.Text": "…………。#$b#%白丼对着电影内容流露出了几分痴呆，他似乎并不想看这种类型的电影。",
+    "MovieReaction.Sariel.winter_movie_1.AfterMovie.Text": "和想的不一样。真没意思。$3",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Movie Reactions] Siren
+    "MovieReaction.Siren.spring_movie_0.BeforeMovie.Text": "虽然认识字，但是认识的不多，这个名字叫什么？‘电影’的话我知道！是播放器的统称对吧？$1",
+    "MovieReaction.Siren.spring_movie_0.DuringMovie.Text": "哎呀，好可爱。姐姐我好喜欢这个。$4#$b#%塞壬看起来兴致勃勃的。",
+    "MovieReaction.Siren.spring_movie_0.AfterMovie.Text": "谢谢你请我看电影！@！你人真好！下次还可以再邀请我吗？我真的好喜欢~。$1",
+    /*~*~*~*/
+    "MovieReaction.Siren.summer_movie_0.BeforeMovie.Text": "来之前小塞说这个是一部游戏题材的电影，姐姐我也好想打游戏啊，可是游戏机什么的到水里就坏掉了。所以一次都没有玩到过呢……真是遗憾！$2",
+    "MovieReaction.Siren.summer_movie_0.DuringMovie.Text": "哦！！$1#$b#%塞壬被射击画面吓了一跳，但是随后还是看起来非常开心。",
+    "MovieReaction.Siren.summer_movie_0.AfterMovie.Text": "这个画面让我想起了许久之前人鱼岛附近的海盗们呢，他们也是这样boom——一下的！不过我不大喜欢啦，因为其实还挺吓鱼的。$2",
+    /*~*~*~*/
+    "MovieReaction.Siren.fall_movie_0.BeforeMovie.Text": "哎呀，@，今天我们看什么？姐姐我已经等不及了！$4",
+    "MovieReaction.Siren.fall_movie_0.DuringMovie.Text": "…………。$3#$b#%塞壬看起来十分的不安。",
+    "MovieReaction.Siren.fall_movie_0.AfterMovie.Text": "这个电影好吓鱼啊……，原来还有这样子的电影吗？呜啊，姐姐我被吓到了。不过我出来之后又想了想——还好它们看起来不会待在水里！$2",
+    /*~*~*~*/
+    "MovieReaction.Siren.winter_movie_0.BeforeMovie.Text": "说起来前台好像可以买东西吃诶，@，你有什么想吃的吗？姐姐我想吃蛋糕~！$1",
+    "MovieReaction.Siren.winter_movie_0.DuringMovie.Text": "…。$0#$b#%塞壬看起来对这部电影全神贯注。",
+    "MovieReaction.Siren.winter_movie_0.AfterMovie.Text": "………哦，亲爱的………！我的天呐……。呜，好感人的电影，姐姐我要哭出来了。要不是水母老师说人鱼不能在人前哭出来，我差点就憋不住了！$2",
+    /*~*~*~*/
+    "MovieReaction.Siren.spring_movie_1.BeforeMovie.Text": "这个地方……怎么有点眼熟。$0#$b#%塞壬好像在看宣传海报上面的图例。",
+    "MovieReaction.Siren.spring_movie_1.DuringMovie.Text": "噢！我知道这里是哪里了……！哇，难怪这么眼熟。$1",
+    "MovieReaction.Siren.spring_movie_1.AfterMovie.Text": "@！那里不就是隔壁那个无人岛吗？！对吧，对吧，姐姐我说的对吧？！$4#$b#%塞壬十分激动地和你分享了它的发现。",
+    /*~*~*~*/
+    "MovieReaction.Siren.summer_movie_1.BeforeMovie.Text": "？$0#$b#%塞壬似乎在看电影的海报，它看起来对上面的主人公形象有些困惑。",
+    "MovieReaction.Siren.summer_movie_1.DuringMovie.Text": "………。#$b#%塞壬静静地看着电影屏幕。",
+    "MovieReaction.Siren.summer_movie_1.AfterMovie.Text": "呃，嗯，所以……我们看了个啥？$2",
+    /*~*~*~*/
+    "MovieReaction.Siren.fall_movie_1.BeforeMovie.Text": "……刚刚在你来之前我去看了一下电影海报，哇啊，那个宣传封面图！真的有点不妙了吧！？$2",
+    "MovieReaction.Siren.fall_movie_1.DuringMovie.Text": "……………哦…呜啊。$3#$b#%塞壬发出了奇怪的声音，它看起来很害怕，似乎是很不喜欢这个电影。$1",
+    "MovieReaction.Siren.fall_movie_1.AfterMovie.Text": "@。姐姐我现在要郑重的告诉你！那个电影！——下次我绝对不要再看了！$3",
+    /*~*~*~*/
+    "MovieReaction.Siren.winter_movie_1.BeforeMovie.Text": "你来啦，哎呀，那我们赶紧进去吧！我听小塞说这个电影很好看的诶？$1",
+    "MovieReaction.Siren.winter_movie_1.DuringMovie.Text": "哇啊……$4#$b#%塞壬看起来像是很喜欢这部片子。",
+    "MovieReaction.Siren.winter_movie_1.AfterMovie.Text": "这部电影给我的感觉很像小美人鱼里的感觉，该怎么说呢。哎，是爱吗？$4"
     /*-----------------------------------------------------------------------------------------------------------*/
 }

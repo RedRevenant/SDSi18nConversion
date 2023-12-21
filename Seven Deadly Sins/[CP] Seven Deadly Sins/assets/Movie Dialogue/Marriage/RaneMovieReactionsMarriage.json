@@ -9,7 +9,7 @@
                     "Reactions": [
                         {
                             "Tag": "spring_movie_0",
-                            "Response": "like",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -32,7 +32,7 @@
                         },
                         {
                             "Tag": "summer_movie_0",
-                            "Response": "like",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -55,7 +55,7 @@
                         },
                         {
                             "Tag": "fall_movie_0",
-                            "Response": "dislike",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -78,7 +78,7 @@
                         },
                         {
                             "Tag": "winter_movie_0",
-                            "Response": "like",
+                            "Response": "dislike",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -101,7 +101,7 @@
                         },
                         {
                             "Tag": "spring_movie_1",
-                            "Response": "dislike",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
@@ -123,7 +123,7 @@
                             "ID": "reaction_6"
                         },
                         {
-                            "Tag": "summer_movie_1",
+                            "Tag": "hate",
                             "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
@@ -147,7 +147,7 @@
                         },
                         {
                             "Tag": "fall_movie_1",
-                            "Response": "dislike",
+                            "Response": "hate",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {

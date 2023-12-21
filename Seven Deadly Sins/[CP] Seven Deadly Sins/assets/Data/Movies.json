@@ -229,7 +229,7 @@
             "Black Licorice"
           ]
         },
-        "Edward": {
+        "EdwardSDS": {
           "Name": "Edward",
           "LovedTags": [
             "Joja Cola"
@@ -241,6 +241,20 @@
           "DislikedTags": [
             "Kale Smoothie",
             "Jawbreaker"
+          ]
+        },
+        "Siren": {
+          "Name": "Siren",
+          "LovedTags": [
+            "Apple Slices"
+          ],
+          "LikedTags": [
+            "Cotton Candy",
+            "Ice Cream Sandwich"
+          ],
+          "DislikedTags": [
+            "Salted Peanuts",
+            "Salmon Burger"
           ]
         },
         "Raymond": {
@@ -256,69 +270,90 @@
             "Stardrop Sorbet",
             "Popcorn"
           ]
+        },
+        "Sariel": {
+          "Name": "Sariel",
+          "LovedTags": [
+            "Jasmine Tea"
+          ],
+          "LikedTags": [
+            "Ice Cream Sandwich",
+            "Fries"
+          ],
+          "DislikedTags": [
+            "Black Licorice",
+            "Popcorn"
+          ]
         }
       }
     },
     //婚后
     {
       "Action": "Include",
-      "FromFile": "assets/Movie Dialogue/AlbertMovieReactions.json, assets/Movie Dialogue/ArveyMovieReactions.json, assets/Movie Dialogue/CoffeyMovieReactions.json, assets/Movie Dialogue/EdwardMovieReactions.json, assets/Movie Dialogue/GarnetMovieReactions.json, assets/Movie Dialogue/HovsepMovieReactions.json, assets/Movie Dialogue/LaneMovieReactions.json, assets/Movie Dialogue/LucasMovieReactions.json, assets/Movie Dialogue/luoliMovieReactions.json, assets/Movie Dialogue/MariaMovieReactions.json, assets/Movie Dialogue/MooreMovieReactions.json, assets/Movie Dialogue/PeletteMovieReactions.json, assets/Movie Dialogue/RaneMovieReactions.json, assets/Movie Dialogue/RaymondMovieReactions.json, assets/Movie Dialogue/ReglaMovieReactions.json, assets/Movie Dialogue/TeresaMovieReactions.json,assets/Movie Dialogue/UrielMovieReactions.json , assets/Movie Dialogue/WendyMovieReactions.json"
+      "FromFile": "assets/Movie Dialogue/AlbertMovieReactions.json, assets/Movie Dialogue/ArveyMovieReactions.json, assets/Movie Dialogue/CoffeyMovieReactions.json, assets/Movie Dialogue/EdwardMovieReactions.json, assets/Movie Dialogue/GarnetMovieReactions.json, assets/Movie Dialogue/HovsepMovieReactions.json, assets/Movie Dialogue/LaneMovieReactions.json, assets/Movie Dialogue/LucasMovieReactions.json, assets/Movie Dialogue/luoliMovieReactions.json, assets/Movie Dialogue/MariaMovieReactions.json, assets/Movie Dialogue/MooreMovieReactions.json, assets/Movie Dialogue/PeletteMovieReactions.json, assets/Movie Dialogue/RaneMovieReactions.json, assets/Movie Dialogue/RaymondMovieReactions.json, assets/Movie Dialogue/ReglaMovieReactions.json, assets/Movie Dialogue/TeresaMovieReactions.json,assets/Movie Dialogue/UrielMovieReactions.json , assets/Movie Dialogue/WendyMovieReactions.json, assets/Movie Dialogue/SarielMovieReactions.json, assets/Movie Dialogue/SirenMovieReactions.json"
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/HovsepMovieReactionsMarriage.json",
       "When": {
         "Relationship:Hovsep": "Married"
-     }
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/LaneMovieReactionsMarriage.json",
       "When": {
         "Relationship:Lane": "Married"
-     }
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/LucasMovieReactionsMarriage.json",
       "When": {
         "Relationship:Abigail": "Lucas"
-     }
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/MooreMovieReactionsMarriage.json",
       "When": {
         "Relationship:Moore": "Married"
-     }
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/PeletteMovieReactionsMarriage.json",
       "When": {
         "Relationship:Pelette": "Married"
-     }
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/RaneMovieReactionsMarriage.json",
       "When": {
         "Relationship:Rane": "Married"
-     }
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/ReglaMovieReactionsMarriage.json",
       "When": {
         "Relationship:Regla": "Married"
-     }
+      }
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Movie Dialogue/Marriage/SarielMovieReactionsMarriage.json",
+      "When": {
+        "Relationship:Sariel": "Married"
+      }
     },
     {
       "Action": "Include",
       "FromFile": "assets/Movie Dialogue/Marriage/UrielMovieReactionsMarriage.json",
       "When": {
         "Relationship:Uriel": "Married"
-     }
+      }
     }
   ]
 }

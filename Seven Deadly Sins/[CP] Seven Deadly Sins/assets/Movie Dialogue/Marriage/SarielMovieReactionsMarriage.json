@@ -4,8 +4,8 @@
             "Action": "EditData",
             "Target": "Data/MoviesReactions",
             "Entries": {
-                "luoli": {
-                    "NPCName": "luoli",
+                "Sariel": {
+                    "NPCName": "Sariel",
                     "Reactions": [
                         {
                             "Tag": "spring_movie_0",
@@ -15,63 +15,63 @@
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.spring_movie_0.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.spring_movie_0.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.spring_movie_0.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.spring_movie_0.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.spring_movie_0.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.spring_movie_0.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_2"
                         },
                         {
                             "Tag": "summer_movie_0",
-                            "Response": "love",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.summer_movie_0.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.summer_movie_0.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.summer_movie_0.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.summer_movie_0.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.summer_movie_0.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.summer_movie_0.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_3"
                         },
                         {
                             "Tag": "fall_movie_0",
-                            "Response": "dislike",
+                            "Response": "love",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.fall_movie_0.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.fall_movie_0.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.fall_movie_0.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.fall_movie_0.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.fall_movie_0.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.fall_movie_0.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_4"
@@ -84,17 +84,17 @@
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.winter_movie_0.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.winter_movie_0.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.winter_movie_0.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.winter_movie_0.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.winter_movie_0.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.winter_movie_0.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_5"
@@ -107,40 +107,40 @@
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.spring_movie_1.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.spring_movie_1.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.spring_movie_1.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.spring_movie_1.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.spring_movie_1.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.spring_movie_1.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_6"
                         },
                         {
                             "Tag": "summer_movie_1",
-                            "Response": "love",
+                            "Response": "like",
                             "Whitelist": [],
                             "SpecialResponses": {
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.summer_movie_1.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.summer_movie_1.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.summer_movie_1.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.summer_movie_1.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.summer_movie_1.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.summer_movie_1.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_7"
@@ -153,17 +153,17 @@
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.fall_movie_1.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.fall_movie_1.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.fall_movie_1.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.fall_movie_1.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.fall_movie_1.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.fall_movie_1.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_8"
@@ -176,17 +176,17 @@
                                 "BeforeMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.winter_movie_1.BeforeMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.winter_movie_1.BeforeMovie.Text}}"
                                 },
                                 "DuringMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.winter_movie_1.DuringMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.winter_movie_1.DuringMovie.Text}}"
                                 },
                                 "AfterMovie": {
                                     "ResponsePoint": null,
                                     "Script": "",
-                                    "Text": "{{i18n:MoviesReactions.luoli.winter_movie_1.AfterMovie.Text}}"
+                                    "Text":"{{i18n:MarriageMoviesReactions.Sariel.winter_movie_1.AfterMovie.Text}}"
                                 }
                             },
                             "ID": "reaction_9"
