@@ -17,17 +17,17 @@
    "Dialogue.Regla.give_pendant": "……反正再怎么说，你也还是不听劝。$3#$b#%苪格拉轻叹口气，清了清嗓子。#$b#那么，我就接受吧，看在你这么诚恳的份上。$16",
    "Dialogue.Regla.stardrop_gift": "这个东西给你，似乎是能增长体力的东西，对你的工作也许会有帮助。$1",
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-   //[Regla Dialogue] Ginger Island Resort [Currently a placeholder]        
-   "Dialogue.Regla.Resort": "",
-   "Dialogue.Regla.Resort_Bar": "",
-   "Dialogue.Regla.Resort_Chair": "",
-   "Dialogue.Regla.Resort_Dance": "",
-   "Dialogue.Regla.Resort_Entering": "",
-   "Dialogue.Regla.Resort_Leaving": "",
-   "Dialogue.Regla.Resort_Shore": "",
-   "Dialogue.Regla.Resort_Towel": "",
-   "Dialogue.Regla.Resort_Umbrella": "",
-   "Dialogue.Regla.Resort_Wander": "",
+   //[Regla Dialogue] Ginger Island Resort      
+   "Dialogue.Regla.Resort": "度假……真是个久违又有点怀念的词语啊。",        
+   "Dialogue.Regla.Resort_Bar": "希望能看到想买的东西……$1",        
+   "Dialogue.Regla.Resort_Chair": "果然很热，暂时就在这边呆着好了。$3",        
+   "Dialogue.Regla.Resort_Dance": "？看我做什么，我是没什么加入进去的想法……$5",        
+   "Dialogue.Regla.Resort_Entering": "热带海岛……希望准备的东西都能派上用场。$1",        
+   "Dialogue.Regla.Resort_Leaving": "虽然娱乐设施比较一般，不过这里似乎还有其他东西……以后再多来几趟吧。$3",        
+   "Dialogue.Regla.Resort_Shore": "海风果然很舒服...喜欢大海没什么奇怪的吧？我只是不太喜欢海里的东西而已。$1",
+   "Dialogue.Regla.Resort_Towel": "阳光果然很强啊，得赶紧涂点防晒的东西才行……$3",        
+   "Dialogue.Regla.Resort_Umbrella": "来这边却待在这里虽然有点奇怪，不过也没什么不好的吧？你也要在这边避避太阳吗？$0",        
+   "Dialogue.Regla.Resort_Wander": "火山，丛林……不错，还挺有意思的。$1",
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Regla Dialogue] Rejection        
    "Dialogue.Regla.rejectNPCA": "抱歉，我还没有这方面的想法。$3",

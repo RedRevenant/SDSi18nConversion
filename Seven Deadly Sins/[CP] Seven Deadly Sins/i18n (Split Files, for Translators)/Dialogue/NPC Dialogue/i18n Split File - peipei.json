@@ -1,6 +1,25 @@
 {
   /* [Dialogue] peipei */
   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] Special
+  "Dialogue.peipei.joja_Begin": "嗷嗷！嗷？$1",
+  "Dialogue.peipei.movieTheater": "嗷嗷嗷！嗷嗷！$1",
+  "Dialogue.peipei.MovieInvitation": "嗷嗷！#$b#%呸呸看上去很开心。",
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] Rejection
+  "Dialogue.peipei.refusal_knownA": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_knownB": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_botherA": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_botherB": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_no_heartsA": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_no_heartsB": "嗷嗷。$2",
+  /*~*~*~*/
+  "Dialogue.peipei.rejectNPCA": "嗷嗷？$2",
+  "Dialogue.peipei.rejectNPCB": "嗷嗷。$2",
+  "Dialogue.peipei.reject_two_heartA": "嗷嗷。$2",
+  "Dialogue.peipei.reject_two_heartB": "嗷嗷。$2",
+  "Dialogue.peipei.reject_four_heartA": "嗷嗷。$2",
+  "Dialogue.peipei.reject_four_heartB": "嗷嗷。$2",
   //[peipei Dialogue] General/Spring
   "Dialogue.peipei.Mon": "嗷嗷，嗷呜。$0#$b#%呸呸正在翻垃圾桶。#$b#%它似乎翻到了什么。#$b#嗷嗷！！[194 195 196 197 198 199 200 201 202 203 204 206 207 208 209 210 211 212 213 214 220 221 227 228 230 231 233 232 234]$1",
   "Dialogue.peipei.Mon2": "嗷，嗷嗷……$0#$b#%呸呸在你周围走来走去。",
