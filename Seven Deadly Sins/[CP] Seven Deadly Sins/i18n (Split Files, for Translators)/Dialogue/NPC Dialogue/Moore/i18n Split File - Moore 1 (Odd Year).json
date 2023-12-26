@@ -27,17 +27,16 @@
     "Dialogue.Moore.OddYears.stardrop_gift": "收下吧，@。我会陪着你直到死亡的来临。然后铭记着这段只属于你我二人的时间……永远、永远。$5",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Moore (Odd Year) Dialogue] Ginger Island Resort
-    //Note: Currently a Placeholder
-    "Dialogue.Moore.OddYears.Resort": "偶尔我也会晒晒太阳，这边或许会不错。",
-    "Dialogue.Moore.OddYears.Resort_Bar": "……椰子？",
+    "Dialogue.Moore.OddYears.Resort": "偶尔我也会晒晒太阳，这边或许会不错。$1",
+    "Dialogue.Moore.OddYears.Resort_Bar": "……椰子？$2",
     "Dialogue.Moore.OddYears.Resort_Chair": "比起待在室外，我还是更喜欢室内。",
     "Dialogue.Moore.OddYears.Resort_Dance": "我对跳舞没兴趣。",
-    "Dialogue.Moore.OddYears.Resort_Entering": "——我想任何人都有享乐的权利。至于理由的真假，你自己慢慢揣测吧。",
-    "Dialogue.Moore.OddYears.Resort_Leaving": "很遗憾，观察对象并没有其他的行动……真是一趟毫无收获的外出。#$b#好了。现在该回去了。",
-    "Dialogue.Moore.OddYears.Resort_Shore": "有些人见到了海就跟回到了自己的家一样，真是满脸写着白痴跟欢乐，哦，这两个东西不分家。我忘记了。",
+    "Dialogue.Moore.OddYears.Resort_Entering": "——我想任何人都有享乐的权利。至于理由的真假，你自己慢慢揣测吧。$4",
+    "Dialogue.Moore.OddYears.Resort_Leaving": "很遗憾，观察对象并没有其他的行动……真是一趟毫无收获的外出。$2#$b#好了。现在该回去了。$0",
+    "Dialogue.Moore.OddYears.Resort_Shore": "有些人见到了海就跟回到了自己的家一样，真是满脸写着白痴跟欢乐，哦，这两个东西不分家。我忘记了。$5",
     "Dialogue.Moore.OddYears.Resort_Towel": "zzZ……",
     "Dialogue.Moore.OddYears.Resort_Umbrella": "太晒了。",
-    "Dialogue.Moore.OddYears.Resort_Wander": "这里挺隐蔽的，我很喜欢。",
+    "Dialogue.Moore.OddYears.Resort_Wander": "这里挺隐蔽的，我很喜欢。$2",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Moore (Odd Year) Dialogue] Rejection
     "Dialogue.Moore.OddYears.rejectNPCA": "花？别送给我。#$b#听不懂潜台词是滚吗？$3",
@@ -585,10 +584,10 @@
     "Dialogue.Moore.OddYears.fall_Sat4": "你要是好奇我一直如何观察你们的，或许我会告诉你也说不定。你想知道吗？@。$1#$q 16100595/16100598 fall_Sat4_M1old#……#$r 16100595 0 fall_Sat4_16100595#想！#$r 16100598 0 fall_Sat4_16100598#需要什么代价吗？",
     "Dialogue.Moore.OddYears.fall_Sat4_16100595": "那凑过来让你看一眼吧？来。$1#$b#%说着莫尔摊开了掌心，你确定要查看吗？#$q 16100596/16100597 fall_Sat4_16100595_M1old#……#$r 16100596 0 fall_Sat4_16100596#（是）#$r 16100597 0 fall_Sat4_16100597#（否）",
     "Dialogue.Moore.OddYears.fall_Sat4_16100596": "%你凑过去一看，一块乳白色的鹅卵石静静躺在莫尔的掌心，它看起来是那么的普通，简直就跟普通的鹅卵石没有区别。#$b#嗤……$1#$b#%你听见了莫尔的笑声，你现在反应了过来，原来是自己被耍了。",
-    "Dialogue.Moore.OddYears.fall_Sat4_M1old": "看来你深知如何与恶魔打交道，但我并不是那群低等的家伙。$0#$b#只可惜，这次的机会你已经完全的错过了，啊啊，可真是遗憾。$2",
-    "Dialogue.Moore.OddYears.fall_Sat4_16100597": "是吗？难得我想告诉你一些有趣的画面。真是遗憾。$0#$b#%莫尔自然地收起了手掌，就这么隔开了你的视线。",
+    "Dialogue.Moore.OddYears.fall_Sat4_16100595_M1old": "%你凑过去一看，一块乳白色的鹅卵石静静躺在莫尔的掌心，它看起来是那么的普通，简直就跟普通的鹅卵石没有区别。#$b#嗤……$1#$b#%你听见了莫尔的笑声，你现在反应了过来，原来是自己被耍了。",
+    "Dialogue.Moore.OddYears.fall_Sat4_16100597": "是吗？难得我想告你一些有趣的画面。诉真是遗憾。$0#$b#%莫尔自然地收起了手掌，就这么隔开了你的视线。",
     "Dialogue.Moore.OddYears.fall_Sat4_16100598": "看来你深知如何与恶魔打交道，但我并不是那群低等的家伙。$0#$b#只可惜，这次的机会你已经完全的错过了，啊啊，可真是遗憾。$2",
-    "Dialogue.Moore.OddYears.fall_Sat4_16100595_M1old": "%你凑过去一看，一块乳白色的鹅卵石静静躺在莫尔的掌心，它看起来是那么的普通，简直就跟普通的鹅卵石没有区别。#$b#嗤……$1#$b#%你听见了莫尔的笑声，你现在反应了过来，原来是自己被耍了。",    
+    "Dialogue.Moore.OddYears.fall_Sat4_16100595_M1old": "%你凑过去一看，一块乳白色的鹅卵石静静躺在莫尔的掌心，它看起来是那么的普通，简直就跟普通的鹅卵石没有区别。#$b#嗤……$1#$b#%你听见了莫尔的笑声，你现在反应了过来，原来是自己被耍了。",
     "Dialogue.Moore.OddYears.fall_Sat6": "……那家伙似乎把自己当作恶魔了。也是。毕竟脑袋都坏成那样了？哈。照着这个进度下去，接下来崩坏的就差不多是……了。$4#$q 16100599/16100600 fall_Sat6_M1old#……#$r 16100599 0 fall_Sat6_16100599#在说谁？#$r 16100600 0 fall_Sat6_16100600#接下来？",
     "Dialogue.Moore.OddYears.fall_Sat6_16100599": "某个住在森林里的家伙。$0",
     "Dialogue.Moore.OddYears.fall_Sat6_16100600": "显而易见的事情，是他的身体。你知道天使在人类的世界里待久了，最终会变成什么吗？$2#$b#——或许我以后会告诉你。$1",
@@ -756,7 +755,7 @@
     "Dialogue.Moore.OddYears.winter_Sat8_16100745": "……。#$b#我不信任你。",
     "Dialogue.Moore.OddYears.winter_Sat8_16100746": "……。#$b#没什么。$2",
     "Dialogue.Moore.OddYears.winter_Sat8_M1old": "……。#$b#没什么。$2",
-    "Dialogue.Moore.OddYears.winter_Sat10": "一条巨大的黑蛇盘在原本莫尔所在的地方，排列美丽的鳞片在光下泛着银灰的冷光。它的脑袋静静搭在最中间，尾巴绕在外圈。根据脑袋上小小一块的疤痕，你分辨出这个大家伙就是莫尔。但它是如此的巨大，你根本无法做到和它交流搭话，因为你不确定隔这么远它到底能不能听见。#$b#%还是明天再来吧。",
+    "Dialogue.Moore.OddYears.winter_Sat10": "%一条巨大的黑蛇盘在原本莫尔所在的地方，排列美丽的鳞片在光下泛着银灰的冷光。它的脑袋静静搭在最中间，尾巴绕在外圈。#$b#%根据脑袋上小小一块的疤痕，你分辨出这个大家伙就是莫尔。但它是如此的巨大，你根本无法做到和它交流搭话，因为你不确定隔这么远它到底能不能听见。#$b#%还是明天再来吧。",
     /*~*~*~*/
     "Dialogue.Moore.OddYears.winter_Sun": "他们打算玩过家家游戏吗？哈。真是越来越蠢了。$1#$q 16100751/16100752 winter_Sun_M1old#……#$r 16100751 0 winter_Sun_16100751#他们？#$r 16100752 0 winter_Sun_16100752#过家家挺好玩的。",
     "Dialogue.Moore.OddYears.winter_Sun_16100751": "……。",

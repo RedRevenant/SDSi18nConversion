@@ -15,6 +15,18 @@
         "Dialogue.Maria.give_pendant": "Darling，果然我们是天生一对，我爱你……。$4",
         "Dialogue.Maria.stardrop_gift": "请收下这个吧Darling，这是我特意为了你而准备的。$1#$b#我爱你，在这世间仅有你合适它。",
         /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        //[Maria Dialogue] Resort
+        "Dialogue.Maria.Resort_Entering": "@，你也来度假吗？需要我给你涂一些防晒霜吗？$1",
+        "Dialogue.Maria.Resort_Leaving": "不要在太阳下待太久哦，可是会被晒伤的。$0",
+        "Dialogue.Maria.Resort_Shore": "小心脚下会有碎石哦。$1#$b#要是被划伤了可不好呢，$2",
+        "Dialogue.Maria.Resort_Dance": "想要和我一起跳舞吗？$1",
+        "Dialogue.Maria.Resort_Chair": "这座岛有很多值得去看的地方呢，@要和我一起吗？$0",
+        "Dialogue.Maria.Resort_Bar": "嗯……请不要摄入太多的酒精哦，我并不想让旁人看见你脸红的模样。$1",
+        "Dialogue.Maria.Resort": "不要离开我太远哦，我怕会找不到你。$0",
+        "Dialogue.Maria.Resort_Towel": "@要和我在这里躺一会吗？$1",
+        "Dialogue.Maria.Resort_Umbrella": "在伞下就不怕被晒伤了呢，@要和我在这里待一会吗？$1",
+        "Dialogue.Maria.Resort_Wander": "想要和我四处走走吗？$1#$b#我想和@一起逛这座岛。$0",
+        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         //[Maria Dialogue] Holiday
         "Dialogue.Maria.danceRejection": "现在还不是我们共舞的时刻啊……$2#$b#希望我不会坏了你的兴致。$3",
         "Dialogue.Maria.spring_1_2": "新年快乐，感谢你陪我度过的这一年", //新年

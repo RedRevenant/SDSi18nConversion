@@ -27,17 +27,16 @@
     "Dialogue.Moore.EvenYears.stardrop_gift": "收下吧,@。我会陪着你直到死亡的来临。然后铭记着这段只属于你我二人的时间……永远、永远。$5",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Moore (Even Year) Dialogue] Ginger Island Resort
-    //Note: Currently a Placeholder
-    "Dialogue.Moore.EvenYears.Resort": "偶尔我也会晒晒太阳，这边或许会不错。",
-    "Dialogue.Moore.EvenYears.Resort_Bar": "……椰子?",
+    "Dialogue.Moore.EvenYears.Resort": "偶尔我也会晒晒太阳，这边或许会不错。$1",
+    "Dialogue.Moore.EvenYears.Resort_Bar": "……椰子？$2",
     "Dialogue.Moore.EvenYears.Resort_Chair": "比起待在室外，我还是更喜欢室内。",
     "Dialogue.Moore.EvenYears.Resort_Dance": "我对跳舞没兴趣。",
-    "Dialogue.Moore.EvenYears.Resort_Entering": "——我想任何人都有享乐的权利。至于理由的真假，你自己慢慢揣测吧。",
-    "Dialogue.Moore.EvenYears.Resort_Leaving": "很遗憾，观察对象并没有其他的行动……真是一趟毫无收获的外出。#$b#好了。现在该回去了。",
-    "Dialogue.Moore.EvenYears.Resort_Shore": "有些人见到了海就跟回到了自己的家一样，真是满脸写着白痴跟欢乐，哦，这两个东西不分家。我忘记了。",
+    "Dialogue.Moore.EvenYears.Resort_Entering": "——我想任何人都有享乐的权利。至于理由的真假，你自己慢慢揣测吧。$4",
+    "Dialogue.Moore.EvenYears.Resort_Leaving": "很遗憾，观察对象并没有其他的行动……真是一趟毫无收获的外出。$2#$b#好了。现在该回去了。$0",
+    "Dialogue.Moore.EvenYears.Resort_Shore": "有些人见到了海就跟回到了自己的家一样，真是满脸写着白痴跟欢乐，哦，这两个东西不分家。我忘记了。$5",
     "Dialogue.Moore.EvenYears.Resort_Towel": "zzZ……",
     "Dialogue.Moore.EvenYears.Resort_Umbrella": "太晒了。",
-    "Dialogue.Moore.EvenYears.Resort_Wander": "这里挺隐蔽的，我很喜欢。",
+    "Dialogue.Moore.EvenYears.Resort_Wander": "这里挺隐蔽的，我很喜欢。$2",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Moore (Even Year) Dialogue] Rejection
     "Dialogue.Moore.EvenYears.rejectNPCA": "花?别送给我。#$b#听不懂潜台词是滚吗?$3",
