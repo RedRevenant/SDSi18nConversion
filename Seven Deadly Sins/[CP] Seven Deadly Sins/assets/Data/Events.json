@@ -207,6 +207,11 @@
             "FromFile": "assets/Data/Empty.json"
         },
         {
+            "LogName": "Ricehit Notification",
+            "Action": "Include",
+            "FromFile": "assets/Events/Ricehit Notification Event.json"
+        },
+        {
             "LogName": "Edited Vanilla Events",
             "Action": "Include",
             "FromFile": "assets/Events/Edited Vanilla Events.json"
@@ -260,6 +265,16 @@
             "LogName": "Maria Heart Events",
             "Action": "Include",
             "FromFile": "assets/Events/Heart Events - Maria.json"
+        },
+        {
+            "LogName": "Pelette Heart Events",
+            "Action": "Include",
+            "FromFile": "assets/Events/Heart Events - Pelette.json"
+        },
+        {
+            "LogName": "Peipei Heart Events",
+            "Action": "Include",
+            "FromFile": "assets/Events/Heart Events - Peipei.json"
         },
         {
             "LogName": "Teresa Heart Events",

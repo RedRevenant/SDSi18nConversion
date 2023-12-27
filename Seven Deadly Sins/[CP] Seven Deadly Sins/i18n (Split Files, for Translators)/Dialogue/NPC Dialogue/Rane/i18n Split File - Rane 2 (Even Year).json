@@ -51,17 +51,16 @@
     "Dialogue.Rane.EvenYears.refusal_no_heartsB": "我想La他肯定也很烦你吧。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Rane (Even Year) Dialogue] Ginger Island Resort
-    //Note: Currently a Placeholder
-    "Dialogue.Rane.EvenYears.Resort": "赌场老板也需要放假",
-    "Dialogue.Rane.EvenYears.Resort_Bar": "买点什么好呢...就冰淇淋吧！",
-    "Dialogue.Rane.EvenYears.Resort_Chair": "现在，我要躺下去了",
-    "Dialogue.Rane.EvenYears.Resort_Dance": "我不想跳舞",
-    "Dialogue.Rane.EvenYears.Resort_Entering": "我打算给自己放个假",
-    "Dialogue.Rane.EvenYears.Resort_Leaving": "一个不错的假期。但和沙漠感觉没什么区别...都一样的晒",
-    "Dialogue.Rane.EvenYears.Resort_Shore": "是海呢，笨蛋肯定很喜欢",
-    "Dialogue.Rane.EvenYears.Resort_Towel": "...La——你也过来晒一晒！（躺平晒太阳ing）",
-    "Dialogue.Rane.EvenYears.Resort_Umbrella": "La说我晒得比他黑了一个色号，建议我最近别晒了",
-    "Dialogue.Rane.EvenYears.Resort_Wander": "荒岛勘探中~",
+    "Dialogue.Rane.EvenYears.Resort": "赌场老板也需要放假。$1",
+    "Dialogue.Rane.EvenYears.Resort_Bar": "买点什么好呢...就冰淇淋吧！$1",
+    "Dialogue.Rane.EvenYears.Resort_Chair": "现在，我要躺下去了。$3",
+    "Dialogue.Rane.EvenYears.Resort_Dance": "我不想跳舞。$6",
+    "Dialogue.Rane.EvenYears.Resort_Entering": "我打算给自己放个假。",
+    "Dialogue.Rane.EvenYears.Resort_Leaving": "一个不错的假期。但和沙漠感觉没什么区别...都一样的晒。$1",
+    "Dialogue.Rane.EvenYears.Resort_Shore": "是海呢，笨蛋肯定很喜欢。$3",
+    "Dialogue.Rane.EvenYears.Resort_Towel": "...La——你也过来晒一晒！（躺平晒太阳ing）$1",
+    "Dialogue.Rane.EvenYears.Resort_Umbrella": "La说我晒得比他黑了一个色号，建议我最近别晒了。$5",
+    "Dialogue.Rane.EvenYears.Resort_Wander": "荒岛勘探中~$3",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Rane (Even Year) Dialogue] Spring
     "Dialogue.Rane.EvenYears.spring_Mon": "@来了，有发现什么不一样的地方了吗？你的眼睛不是摆设的话，肯定能够发现吧？$1#$q 15400127/15400128/15400129 spring_Mon_R2old#...#$r 15400127 0 spring_Mon_15400127#Lane也长大了！ #$r 15400128 0 spring_Mon_15400128#果然和Lane一模一样 #$r 15400129 0 spring_Mon_15400129#多了支烟杆",
@@ -633,7 +632,7 @@
     "Dialogue.Rane.EvenYears.winter_Tue2_15400696": "比起问我上新了什么东西，不如自己去下面的店里看看。$1",
     "Dialogue.Rane.EvenYears.winter_Tue2_15400697": "啊~啊，最烦直接要答案的人了。 $1",
     "Dialogue.Rane.EvenYears.winter_Tue2_R2old": "比起问我上新了什么东西，不如自己去下面的店里看看。$1",
-    "Dialogue.Rane.EvenYears.winter_Tue4": "(打哈欠)$9#$q 15400698/15400699 winter_Tue4_R2old#...#$r 15400698 0 winter_Tue4_15400698#(跟着一起打哈欠) #$r 15400699 0 winter_Tue4_15400699#Rane看起来很困，昨天没休息好吗？",
+    "Dialogue.Rane.EvenYears.winter_Tue4": "(打哈欠)$5#$q 15400698/15400699 winter_Tue4_R2old#...#$r 15400698 0 winter_Tue4_15400698#(跟着一起打哈欠) #$r 15400699 0 winter_Tue4_15400699#Rane看起来很困，昨天没休息好吗？",
     "Dialogue.Rane.EvenYears.winter_Tue4_15400698": "？$1#$b#%Rane瞥了你一眼，拿出手帕丢给了你",
     "Dialogue.Rane.EvenYears.winter_Tue4_15400699": "没，只是无聊...等下班实在是太无趣了。$1",
     "Dialogue.Rane.EvenYears.winter_Tue4_R2old": "没，只是无聊...等下班实在是太无趣了。$1",

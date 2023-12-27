@@ -1,0 +1,11 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/Events/FarmHouse",
+      "Entries": {
+        "1851747778": "sad_kid/-1000 -1000/farmer 500 500 0/skippable/pause 500/globalFade/viewport -1000 -1000/changeLocation Custom_SDS.statement1/viewport 22 11/pause 4000/message \"mod版权声明1\"/pause 500/viewport -1000 -1000/globalFade/changeLocation Custom_SDS.statement2/viewport 22 11/pause 4000/message \"mod版权声明2\"/pause 500/viewport -1000 -1000/globalFade/changeLocation Custom_SDS.statement3/viewport 22 11/pause 4000/message \"mod版权声明3\"/pause 500/end"
+      }
+    }
+  ]
+}
