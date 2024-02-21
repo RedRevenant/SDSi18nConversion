@@ -20,6 +20,7 @@
   "Dialogue.peipei.reject_two_heartB": "嗷嗷。$2",
   "Dialogue.peipei.reject_four_heartA": "嗷嗷。$2",
   "Dialogue.peipei.reject_four_heartB": "嗷嗷。$2",
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
   //[peipei Dialogue] General/Spring
   "Dialogue.peipei.Mon": "嗷嗷，嗷呜。$0#$b#%呸呸正在翻垃圾桶。#$b#%它似乎翻到了什么。#$b#嗷嗷！！[194 195 196 197 198 199 200 201 202 203 204 206 207 208 209 210 211 212 213 214 220 221 227 228 230 231 233 232 234]$1",
   "Dialogue.peipei.Mon2": "嗷，嗷嗷……$0#$b#%呸呸在你周围走来走去。",
