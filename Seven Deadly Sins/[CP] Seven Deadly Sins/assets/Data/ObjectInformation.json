@@ -312,30 +312,6 @@
             "Entries": {
                 "948": "SDS Pine nut/0/-300/Basic -80/{{i18n:ObjectInformation.948.Name}}/{{i18n:ObjectInformation.948.Desc}}"
             }
-        },
-        {
-            "Action": "EditImage",
-            "Target": "Maps/springobjects",
-            "FromFile": "assets/Objects/SDS Pine nut.png",
-            "FromArea": {
-                "X": 0,
-                "Y": 0,
-                "Width": 16,
-                "Height": 16
-            },
-            "ToArea": {
-                "X": 208,
-                "Y": 624,
-                "Width": 16,
-                "Height": 16
-            }
-        },
-        {
-            "Action": "EditData",
-            "Target": "Data/ObjectInformation",
-            "Entries": {
-                "949": "SDS eggshell/0/-300/Basic -80/{{i18n:ObjectInformation.949.Name}}/{{i18n:ObjectInformation.949.Desc}}"
-            }
         }
     ]
 }
