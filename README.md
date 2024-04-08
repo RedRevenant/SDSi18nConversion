@@ -6,5 +6,6 @@ Download files and replace the original text with mine when prompted. <br />
 Also, please give credit to me if you decide to translate SDS off of this! <br />
  <br />
 A note: the default.json file is not up to date, so if you decide to translate off this, use the split files! <br />
-Also, please don't create terrible and unedited machine translations while using this, I'll be super upset if you do! <br />
+Please don't create terrible and unedited machine translations while using this, I'll be super upset if you do! <br />
+Also, please don't repost my conversion, just link to it! <br />
 IN THE PROCESS OF UPDATING TO THE RECENT VERSION (FOR SDV VERSION 1.6)
