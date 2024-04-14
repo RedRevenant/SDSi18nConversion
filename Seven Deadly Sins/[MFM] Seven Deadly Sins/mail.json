@@ -51,7 +51,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Strawberry macaron recipe",
+                "Name": "SDS_StrawberrymacaronRecipe",
                 "Index": 78,
                 "Stack": 1
             }
@@ -75,7 +75,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Blueberry Black Forest Cake recipe",
+                "Name": "SDS_BlueberryBlackForestCakeRecipe",
                 "Index": 78,
                 "Stack": 1
             }
@@ -99,7 +99,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Rhombic biscuit recipe",
+                "Name": "SDS_RhombicbiscuitRecipe",
                 "Index": 78,
                 "Stack": 1
             }
@@ -123,7 +123,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Glutinous rice cake recipe",
+                "Name": "SDS_GlutinousricecakeRecipe",
                 "Index": 78,
                 "Stack": 1
             }
@@ -147,7 +147,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Vanilla Orange Cake recipe",
+                "Name": "SDS_VanillaOrangeCakeRecipe",
                 "Index": 78,
                 "Stack": 1
             }
@@ -170,7 +170,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Winter Star Cake recipe",
+                "Name": "SDS_WinterStarCakeRecipe",
                 "Index": 78,
                 "Stack": 1
             }
@@ -200,7 +200,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Rugosa rose",
+                "Name": "SDS_Rugosarose",
                 "Index": 78,
                 "Stack": 1
             }
@@ -260,7 +260,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Rugosa rose",
+                "Name": "SDS_Rugosarose",
                 "Index": 78,
                 "Stack": 1
             }
@@ -375,7 +375,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Vanilla coffee",
+                "Name": "SDS_Vanillacoffee",
                 "Index": 78,
                 "Stack": 1
             }
@@ -405,7 +405,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Creme brulee",
+                "Name": "SDS_Cremebrulee",
                 "Index": 78,
                 "Stack": 1
             }
@@ -446,7 +446,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Night willow herb",
+                "Name": "SDS_Nightwillowherb",
                 "Index": 78,
                 "Stack": 1
             }
@@ -509,7 +509,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Blue flash butterfly",
+                "Name": "SDS_Blueflashbutterfly",
                 "Index": 78,
                 "Stack": 1
             }
@@ -605,7 +605,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Rugosa rose",
+                "Name": "SDS_Rugosarose",
                 "Index": 78,
                 "Stack": 1
             }
@@ -624,7 +624,7 @@
         "Attachments": [
             {
                 "Type": "Object",
-                "Name": "SDS Chinese herbaceous peony",
+                "Name": "SDS_Chineseherbaceouspeony",
                 "Index": 78,
                 "Stack": 1
             }

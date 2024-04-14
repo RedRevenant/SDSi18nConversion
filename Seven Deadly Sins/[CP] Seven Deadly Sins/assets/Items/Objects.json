@@ -1,0 +1,3340 @@
+{
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+			"FromFile": "assets/Objects/{{TargetWithoutPath}}.png"
+		},
+		//物品
+		//五万支票
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_FTchecks": {
+					"Name": "SDS_FTchecks",
+					"Displayname": "{{i18n:Item.Object1.DisplayName}}",
+					"Description": "{{i18n:Item.Object1.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 50000,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 82
+				}
+			}
+		},
+		//十万支票
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_OHTchecks": {
+					"Name": "SDS_OHTchecks",
+					"Displayname": "{{i18n:Item.Object2.DisplayName}}",
+					"Description": "{{i18n:Item.Object2.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 100000,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 82
+				}
+			}
+		},
+		//一万支票
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_THchecks": {
+					"Name": "SDS_THchecks",
+					"Displayname": "{{i18n:Item.Object3.DisplayName}}",
+					"Description": "{{i18n:Item.Object3.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 10000,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 82
+				}
+			}
+		},
+		//蓝闪蝶
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Blueflashbutterfly": {
+					"Name": "SDS_Blueflashbutterfly",
+					"Displayname": "{{i18n:Item.Object4.DisplayName}}",
+					"Description": "{{i18n:Item.Object4.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 100,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 100
+				}
+			}
+		},
+		//冰凌柱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Icelingcolumn": {
+					"Name": "SDS_Icelingcolumn",
+					"Displayname": "{{i18n:Item.Object5.DisplayName}}",
+					"Description": "{{i18n:Item.Object5.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 100,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 101
+				}
+			}
+		},
+		//树枝
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Branch": {
+					"Name": "SDS_Branch",
+					"Displayname": "{{i18n:Item.Object6.DisplayName}}",
+					"Description": "{{i18n:Item.Object6.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 100,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 102
+				}
+			}
+		},
+		//松子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Pinenut": {
+					"Name": "SDS_Pinenut",
+					"Displayname": "{{i18n:Item.Object7.DisplayName}}",
+					"Description": "{{i18n:Item.Object7.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 100,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 103
+				}
+			}
+		},
+		//传送
+		//海底传送图腾
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Seatransport": {
+					"Name": "SDS_Seatransport",
+					"Displayname": "{{i18n:Item.Object8.DisplayName}}",
+					"Description": "{{i18n:Item.Object8.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 500,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 21
+				}
+			}
+		},
+		//教堂传送图腾
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Churchtransport": {
+					"Name": "SDS_Churchtransport",
+					"Displayname": "{{i18n:Item.Object9.DisplayName}}",
+					"Description": "{{i18n:Item.Object9.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 500,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 27
+				}
+			}
+		},
+		//天山传送图腾
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_clifftransport": {
+					"Name": "SDS_clifftransport",
+					"Displayname": "{{i18n:Item.Object10.DisplayName}}",
+					"Description": "{{i18n:Item.Object10.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 500,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 59
+				}
+			}
+		},
+		//祖祖城中心传送图腾
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Citytransport": {
+					"Name": "SDS_Citytransport",
+					"Displayname": "{{i18n:Item.Object11.DisplayName}}",
+					"Description": "{{i18n:Item.Object11.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 500,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 81
+				}
+			}
+		},
+		//大型生肉
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_RawBeef": {
+					"Name": "SDS_RawBeef",
+					"Displayname": "{{i18n:Item.Object12.DisplayName}}",
+					"Description": "{{i18n:Item.Object12.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 200,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 86
+				}
+			}
+		},
+		//材料
+		//黄油
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Butter": {
+					"Name": "SDS_Butter",
+					"Displayname": "{{i18n:Item.Object13.DisplayName}}",
+					"Description": "{{i18n:Item.Object13.Description}}",
+					"Type": "objects",
+					"Category": -6,
+					"Price": 100,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 1
+				}
+			}
+		},
+		//巧克力
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_chocolate": {
+					"Name": "SDS_chocolate",
+					"Displayname": "{{i18n:Item.Object14.DisplayName}}",
+					"Description": "{{i18n:Item.Object14.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 50,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 45
+				}
+			}
+		},
+		//巧克力原浆
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chocolatepulp": {
+					"Name": "SDS_Chocolatepulp",
+					"Displayname": "{{i18n:Item.Object15.DisplayName}}",
+					"Description": "{{i18n:Item.Object15.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 210,
+					"Edibility": 5,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 48
+				}
+			}
+		},
+		//香菇
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Mushroom": {
+					"Name": "SDS_Mushroom",
+					"Displayname": "{{i18n:Item.Object16.DisplayName}}",
+					"Description": "{{i18n:Item.Object16.Description}}",
+					"Type": "objects",
+					"Category": -6,
+					"Price": 150,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 64
+				}
+			}
+		},
+		//花
+		//彼岸花
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Higanbana": {
+					"Name": "SDS_Higanbana",
+					"Displayname": "{{i18n:Item.Object17.DisplayName}}",
+					"Description": "{{i18n:Item.Object17.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 400,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 4
+				}
+			}
+		},
+		//彼岸花种子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_HiganbanaSeeds": {
+					"Name": "SDS_HiganbanaSeeds",
+					"Displayname": "{{i18n:Item.Object18.DisplayName}}",
+					"Description": "{{i18n:Item.Object18.Description}}",
+					"Type": "Seeds",
+					"Category": -74,
+					"Price": 300,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 89
+				}
+			}
+		},
+		//桂花
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Fragrans": {
+					"Name": "SDS_Fragrans",
+					"Displayname": "{{i18n:Item.Object19.DisplayName}}",
+					"Description": "{{i18n:Item.Object19.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 200,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 20
+				}
+			}
+		},
+		//桂花树苗
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_FragransSapling": {
+					"Name": "SDS_FragransSapling",
+					"Displayname": "{{i18n:Item.Object20.DisplayName}}",
+					"Description": "{{i18n:Item.Object20.Description}}",
+					"Type": "Basic",
+					"Category": -74,
+					"Price": 14000,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 95
+				}
+			}
+		},
+		//可可豆
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Cocoabean": {
+					"Name": "SDS_Cocoabean",
+					"Displayname": "{{i18n:Item.Object21.DisplayName}}",
+					"Description": "{{i18n:Item.Object21.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 140,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 31
+				}
+			}
+		},
+		//可可树苗
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_CocoabeanSapling": {
+					"Name": "SDS_CocoabeanSapling",
+					"Displayname": "{{i18n:Item.Object22.DisplayName}}",
+					"Description": "{{i18n:Item.Object22.Description}}",
+					"Type": "Basic",
+					"Category": -74,
+					"Price": 7000,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 96
+				}
+			}
+		},
+		//曼陀罗
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Stramonium": {
+					"Name": "SDS_Stramonium",
+					"Displayname": "{{i18n:Item.Object23.DisplayName}}",
+					"Description": "{{i18n:Item.Object23.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 300,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 38
+				}
+			}
+		},
+		//曼陀罗树苗
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StramoniumSapling": {
+					"Name": "SDS_StramoniumSapling",
+					"Displayname": "{{i18n:Item.Object24.DisplayName}}",
+					"Description": "{{i18n:Item.Object24.Description}}",
+					"Type": "Basic",
+					"Category": -74,
+					"Price": 16000,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 97
+				}
+			}
+		},
+		//玫瑰
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Rugosarose": {
+					"Name": "SDS_Rugosarose",
+					"Displayname": "{{i18n:Item.Object25.DisplayName}}",
+					"Description": "{{i18n:Item.Object25.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 300,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 39
+				}
+			}
+		},
+		//玫瑰种子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_RugosaroseSeeds": {
+					"Name": "SDS_RugosaroseSeeds",
+					"Displayname": "{{i18n:Item.Object26.DisplayName}}",
+					"Description": "{{i18n:Item.Object26.Description}}",
+					"Type": "Seeds",
+					"Category": -74,
+					"Price": 230,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 90
+				}
+			}
+		},
+		//牡丹
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Treepeony": {
+					"Name": "SDS_Treepeony",
+					"Displayname": "{{i18n:Item.Object27.DisplayName}}",
+					"Description": "{{i18n:Item.Object27.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 300,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 42
+				}
+			}
+		},
+		//牡丹种子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_TreepeonySeeds": {
+					"Name": "SDS_TreepeonySeeds",
+					"Displayname": "{{i18n:Item.Object28.DisplayName}}",
+					"Description": "{{i18n:Item.Object28.Description}}",
+					"Type": "Seeds",
+					"Category": -74,
+					"Price": 210,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 91
+				}
+			}
+		},
+		//奶油草莓
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Creamstrawberry": {
+					"Name": "SDS_Creamstrawberry",
+					"Displayname": "{{i18n:Item.Object29.DisplayName}}",
+					"Description": "{{i18n:Item.Object29.Description}}",
+					"Type": "objects",
+					"Category": -79,
+					"Price": 200,
+					"Edibility": 20,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 43
+				}
+			}
+		},
+		//奶油草莓种子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_CreamstrawberrySeeds": {
+					"Name": "SDS_CreamstrawberrySeeds",
+					"Displayname": "{{i18n:Item.Object30.DisplayName}}",
+					"Description": "{{i18n:Item.Object30.Description}}",
+					"Type": "Seeds",
+					"Category": -74,
+					"Price": 200,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 92
+				}
+			}
+		},
+		//山竹
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Mangosteen": {
+					"Name": "SDS_Mangosteen",
+					"Displayname": "{{i18n:Item.Object31.DisplayName}}",
+					"Description": "{{i18n:Item.Object31.Description}}",
+					"Type": "objects",
+					"Category": -79,
+					"Price": 150,
+					"Edibility": 15,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 53
+				}
+			}
+		},
+		//山竹树苗
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_MangosteenSapling": {
+					"Name": "SDS_MangosteenSapling",
+					"Displayname": "{{i18n:Item.Object32.DisplayName}}",
+					"Description": "{{i18n:Item.Object32.Description}}",
+					"Type": "Basic",
+					"Category": -74,
+					"Price": 7500,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 98
+				}
+			}
+		},
+		//芍药
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chineseherbaceouspeony": {
+					"Name": "SDS_Chineseherbaceouspeony",
+					"Displayname": "{{i18n:Item.Object33.DisplayName}}",
+					"Description": "{{i18n:Item.Object33.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 220,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 54
+				}
+			}
+		},
+		//芍药种子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_ChineseherbaceouspeonySeeds": {
+					"Name": "SDS_ChineseherbaceouspeonySeeds",
+					"Displayname": "{{i18n:Item.Object34.DisplayName}}",
+					"Description": "{{i18n:Item.Object34.Description}}",
+					"Type": "Seeds",
+					"Category": -74,
+					"Price": 170,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 93
+				}
+			}
+		},
+		//薰衣草
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_lavender": {
+					"Name": "SDS_lavender",
+					"Displayname": "{{i18n:Item.Object35.DisplayName}}",
+					"Description": "{{i18n:Item.Object35.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 200,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 72
+				}
+			}
+		},
+		//薰衣草种子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_lavenderSeeds": {
+					"Name": "SDS_lavenderSeeds",
+					"Displayname": "{{i18n:Item.Object36.DisplayName}}",
+					"Description": "{{i18n:Item.Object36.Description}}",
+					"Type": "Seeds",
+					"Category": -74,
+					"Price": 150,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 94
+				}
+			}
+		},
+		//夜来香
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Nightwillowherb": {
+					"Name": "SDS_Nightwillowherb",
+					"Displayname": "{{i18n:Item.Object37.DisplayName}}",
+					"Description": "{{i18n:Item.Object37.Description}}",
+					"Type": "objects",
+					"Category": -80,
+					"Price": 160,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 74
+				}
+			}
+		},
+		//夜来香树苗
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_NightwillowherbSapling": {
+					"Name": "SDS_NightwillowherbSapling",
+					"Displayname": "{{i18n:Item.Object38.DisplayName}}",
+					"Description": "{{i18n:Item.Object38.Description}}",
+					"Type": "Basic",
+					"Category": -74,
+					"Price": 12000,
+					"Edibility": -300,
+					"IsDrink": false,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 99
+				}
+			}
+		},
+		//食物
+		//爱心巧克力
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Lovechocolate": {
+					"Name": "SDS_Lovechocolate",
+					"Displayname": "{{i18n:Item.Object39.DisplayName}}",
+					"Description": "{{i18n:Item.Object39.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 50,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 660,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 1,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 0
+				}
+			}
+		},
+		//爱心巧克力食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_LovechocolateRecipe": {
+					"Name": "SDS_LovechocolateRecipe",
+					"Displayname": "{{i18n:Item.Object40.DisplayName}}",
+					"Description": "{{i18n:Item.Object40.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//爱心酥
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_LoveCrisp": {
+					"Name": "SDS_LoveCrisp",
+					"Displayname": "{{i18n:Item.Object41.DisplayName}}",
+					"Description": "{{i18n:Item.Object41.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 620,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 1,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 3
+				}
+			}
+		},
+		//爱心酥食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_LoveCrispRecipe": {
+					"Name": "SDS_LoveCrispRecipe",
+					"Displayname": "{{i18n:Item.Object42.DisplayName}}",
+					"Description": "{{i18n:Item.Object42.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//冰冻酸奶
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Frozenyoghurt": {
+					"Name": "SDS_Frozenyoghurt",
+					"Displayname": "{{i18n:Item.Object43.DisplayName}}",
+					"Description": "{{i18n:Item.Object43.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 620,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 660,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 2,
+							"Attack": 0,
+							"Defense": 2,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 5
+				}
+			}
+		},
+		//不开心小狗曲奇
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_UnhappyDogCookies": {
+					"Name": "SDS_UnhappyDogCookies",
+					"Displayname": "{{i18n:Item.Object44.DisplayName}}",
+					"Description": "{{i18n:Item.Object44.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 40,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 660,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 1,
+							"Attack": 2,
+							"Defense": 2,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 6
+				}
+			}
+		},
+		//不开心小狗曲奇食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_UnhappyDogCookiesRecipe": {
+					"Name": "SDS_UnhappyDogCookiesRecipe",
+					"Displayname": "{{i18n:Item.Object45.DisplayName}}",
+					"Description": "{{i18n:Item.Object45.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//彩色三球冰淇淋
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Colorfulthree-ballicecream": {
+					"Name": "SDS_Colorfulthree-ballicecream",
+					"Displayname": "{{i18n:Item.Object46.DisplayName}}",
+					"Description": "{{i18n:Item.Object46.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 65,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 500,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 1,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 7
+				}
+			}
+		},
+		//草莓爱心酥
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StrawberryLoveCrisp": {
+					"Name": "SDS_StrawberryLoveCrisp",
+					"Displayname": "{{i18n:Item.Object47.DisplayName}}",
+					"Description": "{{i18n:Item.Object47.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 620,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 2,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 8
+				}
+			}
+		},
+		//草莓爱心酥食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StrawberryLoveCrispRecipe": {
+					"Name": "SDS_StrawberryLoveCrispRecipe",
+					"Displayname": "{{i18n:Item.Object48.DisplayName}}",
+					"Description": "{{i18n:Item.Object48.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//草莓布丁
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Strawberrypudding": {
+					"Name": "SDS_Strawberrypudding",
+					"Displayname": "{{i18n:Item.Object49.DisplayName}}",
+					"Description": "{{i18n:Item.Object49.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 9
+				}
+			}
+		},
+		//草莓马卡龙
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Strawberrymacaron": {
+					"Name": "SDS_Strawberrymacaron",
+					"Displayname": "{{i18n:Item.Object50.DisplayName}}",
+					"Description": "{{i18n:Item.Object50.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 700,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 2,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 1
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 10
+				}
+			}
+		},
+		//草莓马卡龙食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StrawberrymacaronRecipe": {
+					"Name": "SDS_StrawberrymacaronRecipe",
+					"Displayname": "{{i18n:Item.Object51.DisplayName}}",
+					"Description": "{{i18n:Item.Object51.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//草莓巧克力
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chocolatestrawberry": {
+					"Name": "SDS_Chocolatestrawberry",
+					"Displayname": "{{i18n:Item.Object52.DisplayName}}",
+					"Description": "{{i18n:Item.Object52.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 2,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 11
+				}
+			}
+		},
+		//草莓甜甜圈
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StrawberryDonut": {
+					"Name": "SDS_StrawberryDonut",
+					"Displayname": "{{i18n:Item.Object53.DisplayName}}",
+					"Description": "{{i18n:Item.Object53.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 12
+				}
+			}
+		},
+		//草莓兔子蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StrawberryBunnyCake": {
+					"Name": "SDS_StrawberryBunnyCake",
+					"Displayname": "{{i18n:Item.Object54.DisplayName}}",
+					"Description": "{{i18n:Item.Object54.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 1100,
+					"Edibility": 110,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 660,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 4,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 13
+				}
+			}
+		},
+		//草莓兔子蛋糕食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StrawberryBunnyCakeRecipe": {
+					"Name": "SDS_StrawberryBunnyCakeRecipe",
+					"Displayname": "{{i18n:Item.Object55.DisplayName}}",
+					"Description": "{{i18n:Item.Object55.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//超松软甜甜面包
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Supersoftsweetbread": {
+					"Name": "SDS_Supersoftsweetbread",
+					"Displayname": "{{i18n:Item.Object56.DisplayName}}",
+					"Description": "{{i18n:Item.Object56.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 50,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 14
+				}
+			}
+		},
+		//糍粑
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Glutinousricecake": {
+					"Name": "SDS_Glutinousricecake",
+					"Displayname": "{{i18n:Item.Object57.DisplayName}}",
+					"Description": "{{i18n:Item.Object57.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 20,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 15
+				}
+			}
+		},
+		//糍粑食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_GlutinousricecakeRecipe": {
+					"Name": "SDS_GlutinousricecakeRecipe",
+					"Displayname": "{{i18n:Item.Object58.DisplayName}}",
+					"Description": "{{i18n:Item.Object58.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//蛋黄酥
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_EggYolkCrisp": {
+					"Name": "SDS_EggYolkCrisp",
+					"Displayname": "{{i18n:Item.Object59.DisplayName}}",
+					"Description": "{{i18n:Item.Object59.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 40,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 660,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 3,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 16
+				}
+			}
+		},
+		//蛋黄酥食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_EggYolkCrispRecipe": {
+					"Name": "SDS_EggYolkCrispRecipe",
+					"Displayname": "{{i18n:Item.Object60.DisplayName}}",
+					"Description": "{{i18n:Item.Object60.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//地球蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_EarthCake": {
+					"Name": "SDS_EarthCake",
+					"Displayname": "{{i18n:Item.Object61.DisplayName}}",
+					"Description": "{{i18n:Item.Object61.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 700,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 1,
+							"FishingLevel": 1,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 1,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 1
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 17
+				}
+			}
+		},
+		//冬日星蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_WinterStarCake": {
+					"Name": "SDS_WinterStarCake",
+					"Displayname": "{{i18n:Item.Object62.DisplayName}}",
+					"Description": "{{i18n:Item.Object62.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 70,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 3,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 18
+				}
+			}
+		},
+		//冬日星蛋糕食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_WinterStarCakeRecipe": {
+					"Name": "SDS_WinterStarCakeRecipe",
+					"Displayname": "{{i18n:Item.Object63.DisplayName}}",
+					"Description": "{{i18n:Item.Object63.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//拐杖糖
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Candycane": {
+					"Name": "SDS_Candycane",
+					"Displayname": "{{i18n:Item.Object64.DisplayName}}",
+					"Description": "{{i18n:Item.Object64.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 19
+				}
+			}
+		},
+		//红酒
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Redwine": {
+					"Name": "SDS_Redwine",
+					"Displayname": "{{i18n:Item.Object65.DisplayName}}",
+					"Description": "{{i18n:Item.Object65.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 700,
+					"Edibility": 20,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 22
+				}
+			}
+		},
+		//红丝绒蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_RedVelvetCake": {
+					"Name": "SDS_RedVelvetCake",
+					"Displayname": "{{i18n:Item.Object66.DisplayName}}",
+					"Description": "{{i18n:Item.Object66.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 500,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 3,
+							"MiningLevel": 3,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 23
+				}
+			}
+		},
+		//夹心冰淇淋
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Icecreamwithfilling": {
+					"Name": "SDS_Icecreamwithfilling",
+					"Displayname": "{{i18n:Item.Object67.DisplayName}}",
+					"Description": "{{i18n:Item.Object67.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 50,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 24
+				}
+			}
+		},
+		//姜饼曲奇树
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Gingerbreadcookietree": {
+					"Name": "SDS_Gingerbreadcookietree",
+					"Displayname": "{{i18n:Item.Object68.DisplayName}}",
+					"Description": "{{i18n:Item.Object68.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 25
+				}
+			}
+		},
+		//焦糖布丁
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Cremebrulee": {
+					"Name": "SDS_Cremebrulee",
+					"Displayname": "{{i18n:Item.Object69.DisplayName}}",
+					"Description": "{{i18n:Item.Object69.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 26
+				}
+			}
+		},
+		//经典三球冰淇淋
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Classicthree-ballicecream": {
+					"Name": "SDS_Classicthree-ballicecream",
+					"Displayname": "{{i18n:Item.Object70.DisplayName}}",
+					"Description": "{{i18n:Item.Object70.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 2000,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 2,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 28
+				}
+			}
+		},
+		//开心猫咪曲奇
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_HappyKittyCookies": {
+					"Name": "SDS_HappyKittyCookies",
+					"Displayname": "{{i18n:Item.Object71.DisplayName}}",
+					"Description": "{{i18n:Item.Object71.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 40,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 29
+				}
+			}
+		},
+		//开心猫咪曲奇食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_HappyKittyCookiesRecipe": {
+					"Name": "SDS_HappyKittyCookiesRecipe",
+					"Displayname": "{{i18n:Item.Object72.DisplayName}}",
+					"Description": "{{i18n:Item.Object72.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//开心小狗曲奇
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_HappyDogCookies": {
+					"Name": "SDS_HappyDogCookies",
+					"Displayname": "{{i18n:Item.Object73.DisplayName}}",
+					"Description": "{{i18n:Item.Object73.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 450,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 30
+				}
+			}
+		},
+		//开心小狗曲奇食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_HappyDogCookiesRecipe": {
+					"Name": "SDS_HappyDogCookiesRecipe",
+					"Displayname": "{{i18n:Item.Object74.DisplayName}}",
+					"Description": "{{i18n:Item.Object74.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//可乐
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_cola": {
+					"Name": "SDS_cola",
+					"Displayname": "{{i18n:Item.Object75.DisplayName}}",
+					"Description": "{{i18n:Item.Object75.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 10,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 32
+				}
+			}
+		},
+		//蓝莓黑森林蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_BlueberryBlackForestCake": {
+					"Name": "SDS_BlueberryBlackForestCake",
+					"Displayname": "{{i18n:Item.Object76.DisplayName}}",
+					"Description": "{{i18n:Item.Object76.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 650,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 3,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 33
+				}
+			}
+		},
+		//蓝莓黑森林蛋糕食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_BlueberryBlackForestCakeRecipe": {
+					"Name": "SDS_BlueberryBlackForestCakeRecipe",
+					"Displayname": "{{i18n:Item.Object77.DisplayName}}",
+					"Description": "{{i18n:Item.Object77.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//蓝莓派
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_BlueberryPie": {
+					"Name": "SDS_BlueberryPie",
+					"Displayname": "{{i18n:Item.Object78.DisplayName}}",
+					"Description": "{{i18n:Item.Object78.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 550,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 34
+				}
+			}
+		},
+		//淋面蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Drizzledcake": {
+					"Name": "SDS_Drizzledcake",
+					"Displayname": "{{i18n:Item.Object79.DisplayName}}",
+					"Description": "{{i18n:Item.Object79.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 80,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 3,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 35
+				}
+			}
+		},
+		//菱格饼干
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Rhombicbiscuit": {
+					"Name": "SDS_Rhombicbiscuit",
+					"Displayname": "{{i18n:Item.Object80.DisplayName}}",
+					"Description": "{{i18n:Item.Object80.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 800,
+					"Edibility": 80,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 2,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 36
+				}
+			}
+		},
+		//菱格饼干食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_RhombicbiscuitRecipe": {
+					"Name": "SDS_RhombicbiscuitRecipe",
+					"Displayname": "{{i18n:Item.Object81.DisplayName}}",
+					"Description": "{{i18n:Item.Object81.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//螺丝起子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Screwdriver": {
+					"Name": "SDS_Screwdriver",
+					"Displayname": "{{i18n:Item.Object82.DisplayName}}",
+					"Description": "{{i18n:Item.Object82.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 20,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 700,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 2,
+							"MagneticRadius": 2,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 37
+				}
+			}
+		},
+		//棉花糖咖啡
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_CottonCandyCoffee": {
+					"Name": "SDS_CottonCandyCoffee",
+					"Displayname": "{{i18n:Item.Object83.DisplayName}}",
+					"Description": "{{i18n:Item.Object83.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 25,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 40
+				}
+			}
+		},
+		//莫吉托
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Mojito": {
+					"Name": "SDS_Mojito",
+					"Displayname": "{{i18n:Item.Object84.DisplayName}}",
+					"Description": "{{i18n:Item.Object84.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 800,
+					"Edibility": 20,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 2,
+							"MagneticRadius": 2,
+							"MaxStamina": 0,
+							"Speed": 1
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 41
+				}
+			}
+		},
+		//尼克罗尼
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Nicroni": {
+					"Name": "SDS_Nicroni",
+					"Displayname": "{{i18n:Item.Object85.DisplayName}}",
+					"Description": "{{i18n:Item.Object85.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 800,
+					"Edibility": 5,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 2,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 35,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 44
+				}
+			}
+		},
+		//巧克力冰棍
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chocolatepopsicle": {
+					"Name": "SDS_Chocolatepopsicle",
+					"Displayname": "{{i18n:Item.Object86.DisplayName}}",
+					"Description": "{{i18n:Item.Object86.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 550,
+					"Edibility": 90,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 2,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 30,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 46
+				}
+			}
+		},
+		//巧克力布丁
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chocolatepudding": {
+					"Name": "SDS_Chocolatepudding",
+					"Displayname": "{{i18n:Item.Object87.DisplayName}}",
+					"Description": "{{i18n:Item.Object87.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 550,
+					"Edibility": 40,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 47
+				}
+			}
+		},
+		//巧克力千层酥
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_ChocolateMelaleuca": {
+					"Name": "SDS_ChocolateMelaleuca",
+					"Displayname": "{{i18n:Item.Object88.DisplayName}}",
+					"Description": "{{i18n:Item.Object88.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 70,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 2,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 49
+				}
+			}
+		},
+		//巧克力甜甜圈
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chocolatedonut": {
+					"Name": "SDS_Chocolatedonut",
+					"Displayname": "{{i18n:Item.Object89.DisplayName}}",
+					"Description": "{{i18n:Item.Object89.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 450,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 2,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 50
+				}
+			}
+		},
+		//巧克力甜筒
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Chocolatecone": {
+					"Name": "SDS_Chocolatecone",
+					"Displayname": "{{i18n:Item.Object90.DisplayName}}",
+					"Description": "{{i18n:Item.Object90.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 500,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 2,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 51
+				}
+			}
+		},
+		//巧克力兔子
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_ChocolateBunny": {
+					"Name": "SDS_ChocolateBunny",
+					"Displayname": "{{i18n:Item.Object91.DisplayName}}",
+					"Description": "{{i18n:Item.Object91.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 7000,
+					"Edibility": 200,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 700,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 6,
+							"MiningLevel": 3,
+							"Attack": 6,
+							"Defense": 6,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 1
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 52
+				}
+			}
+		},
+		//双层草莓巧蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_DoubleStrawberryCake": {
+					"Name": "SDS_DoubleStrawberryCake",
+					"Displayname": "{{i18n:Item.Object92.DisplayName}}",
+					"Description": "{{i18n:Item.Object92.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 850,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 2,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 55
+				}
+			}
+		},
+		//糖豆甜筒
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Jellybeancone": {
+					"Name": "SDS_Jellybeancone",
+					"Displayname": "{{i18n:Item.Object93.DisplayName}}",
+					"Description": "{{i18n:Item.Object93.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 1100,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 3,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 1,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 56
+				}
+			}
+		},
+		//糖葫芦
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Sugar-coatedhaws": {
+					"Name": "SDS_Sugar-coatedhaws",
+					"Displayname": "{{i18n:Item.Object94.DisplayName}}",
+					"Description": "{{i18n:Item.Object94.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 20,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 57
+				}
+			}
+		},
+		//提拉米苏
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Tiramisu": {
+					"Name": "SDS_Tiramisu",
+					"Displayname": "{{i18n:Item.Object95.DisplayName}}",
+					"Description": "{{i18n:Item.Object95.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 550,
+					"Edibility": 80,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 1,
+							"FishingLevel": 2,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 58
+				}
+			}
+		},
+		//甜筒
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_IceCreamCone": {
+					"Name": "SDS_IceCreamCone",
+					"Displayname": "{{i18n:Item.Object96.DisplayName}}",
+					"Description": "{{i18n:Item.Object96.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 180,
+					"Edibility": 15,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 60
+				}
+			}
+		},
+		//香草咖啡
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Vanillacoffee": {
+					"Name": "SDS_Vanillacoffee",
+					"Displayname": "{{i18n:Item.Object97.DisplayName}}",
+					"Description": "{{i18n:Item.Object97.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 1500,
+					"Edibility": 100,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 4,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 61
+				}
+			}
+		},
+		//香草甜橙蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_VanillaOrangeCake": {
+					"Name": "SDS_VanillaOrangeCake",
+					"Displayname": "{{i18n:Item.Object98.DisplayName}}",
+					"Description": "{{i18n:Item.Object98.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 800,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 700,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 3,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 2
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 62
+				}
+			}
+		},
+		//香草甜橙蛋糕食谱
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_VanillaOrangeCakeRecipe": {
+					"Name": "SDS_VanillaOrangeCakeRecipe",
+					"Displayname": "{{i18n:Item.Object99.DisplayName}}",
+					"Description": "{{i18n:Item.Object99.Description}}",
+					"Type": "objects",
+					"Category": -26,
+					"Price": 1,
+					"Edibility": -300,
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 2
+				}
+			}
+		},
+		//香茶
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Fragranttea": {
+					"Name": "SDS_Fragranttea",
+					"Displayname": "{{i18n:Item.Object100.DisplayName}}",
+					"Description": "{{i18n:Item.Object100.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 10,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 63
+				}
+			}
+		},
+		//香煎香菇
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Pan-friedmushroom": {
+					"Name": "SDS_Pan-friedmushroom",
+					"Displayname": "{{i18n:Item.Object101.DisplayName}}",
+					"Description": "{{i18n:Item.Object101.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 250,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 65
+				}
+			}
+		},
+		//小狗纸杯蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Puppycupcakes": {
+					"Name": "SDS_Puppycupcakes",
+					"Displayname": "{{i18n:Item.Object102.DisplayName}}",
+					"Description": "{{i18n:Item.Object102.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 450,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 1,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 2,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 66
+				}
+			}
+		},
+		//小熊汉堡
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_BearBurger": {
+					"Name": "SDS_BearBurger",
+					"Displayname": "{{i18n:Item.Object103.DisplayName}}",
+					"Description": "{{i18n:Item.Object103.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 600,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 67
+				}
+			}
+		},
+		//小熊面包
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_BearBread": {
+					"Name": "SDS_BearBread",
+					"Displayname": "{{i18n:Item.Object104.DisplayName}}",
+					"Description": "{{i18n:Item.Object104.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 350,
+					"Edibility": 70,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 3,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 1,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 68
+				}
+			}
+		},
+		//星星蓝莓蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_StarBlueberryCake": {
+					"Name": "SDS_StarBlueberryCake",
+					"Displayname": "{{i18n:Item.Object105.DisplayName}}",
+					"Description": "{{i18n:Item.Object105.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 1100,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 700,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 3,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 1,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 40,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 69
+				}
+			}
+		},
+		//星星千层
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_starsthousandlayers": {
+					"Name": "SDS_starsthousandlayers",
+					"Displayname": "{{i18n:Item.Object106.DisplayName}}",
+					"Description": "{{i18n:Item.Object106.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 400,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 350,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 1,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 3,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 40,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 70
+				}
+			}
+		},
+		//幸运饼干
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Fortunecookies": {
+					"Name": "SDS_Fortunecookies",
+					"Displayname": "{{i18n:Item.Object107.DisplayName}}",
+					"Description": "{{i18n:Item.Object107.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 850,
+					"Edibility": 30,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 400,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 3,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 40,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 71
+				}
+			}
+		},
+		//椰子汁
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Coconutjuice": {
+					"Name": "SDS_Coconutjuice",
+					"Displayname": "{{i18n:Item.Object108.DisplayName}}",
+					"Description": "{{i18n:Item.Object108.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 2000,
+					"Edibility": 50,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 73
+				}
+			}
+		},
+		//殷勤小狗曲奇
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_CourtesyDogCookie": {
+					"Name": "SDS_CourtesyDogCookie",
+					"Displayname": "{{i18n:Item.Object109.DisplayName}}",
+					"Description": "{{i18n:Item.Object109.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 200,
+					"Edibility": 25,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 75
+				}
+			}
+		},
+		//樱桃派
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_CherryPie": {
+					"Name": "SDS_CherryPie",
+					"Displayname": "{{i18n:Item.Object110.DisplayName}}",
+					"Description": "{{i18n:Item.Object110.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 550,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 76
+				}
+			}
+		},
+		//原味派
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Originalflavorpie": {
+					"Name": "SDS_Originalflavorpie",
+					"Displayname": "{{i18n:Item.Object111.DisplayName}}",
+					"Description": "{{i18n:Item.Object111.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 450,
+					"Edibility": 60,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 77
+				}
+			}
+		},
+		//原味甜甜圈
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Originaldonut": {
+					"Name": "SDS_Originaldonut",
+					"Displayname": "{{i18n:Item.Object112.DisplayName}}",
+					"Description": "{{i18n:Item.Object112.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 50,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 78
+				}
+			}
+		},
+		//月亮蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_MoonCake": {
+					"Name": "SDS_MoonCake",
+					"Displayname": "{{i18n:Item.Object113.DisplayName}}",
+					"Description": "{{i18n:Item.Object113.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 1200,
+					"Edibility": 100,
+					"IsDrink": false,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 2,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 3,
+							"MiningLevel": 1,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 79
+				}
+			}
+		},
+		//长岛冰茶
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_LongIslandIcedTea": {
+					"Name": "SDS_LongIslandIcedTea",
+					"Displayname": "{{i18n:Item.Object114.DisplayName}}",
+					"Description": "{{i18n:Item.Object114.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 300,
+					"Edibility": 50,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 600,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 1,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 80
+				}
+			}
+		},
+		//月亮千层
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Moonlayer": {
+					"Name": "SDS_Moonlayer",
+					"Displayname": "{{i18n:Item.Object115.DisplayName}}",
+					"Description": "{{i18n:Item.Object115.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 800,
+					"Edibility": 200,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 900,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 4,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 4,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 83
+				}
+			}
+		},
+		//佩莱特分给大家的焦黑饼干
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_PBiscuits": {
+					"Name": "SDS_PBiscuits",
+					"Displayname": "{{i18n:Item.Object116.DisplayName}}",
+					"Description": "{{i18n:Item.Object116.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 10,
+					"Edibility": -5,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 84
+				}
+			}
+		},
+		//香橙蛋糕
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_OrangeCake": {
+					"Name": "SDS_OrangeCake",
+					"Displayname": "{{i18n:Item.Object117.DisplayName}}",
+					"Description": "{{i18n:Item.Object117.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 500,
+					"Edibility": 100,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 85
+				}
+			}
+		},
+		//包装精美的糖果
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Beautifullywrappedcandy": {
+					"Name": "SDS_Beautifullywrappedcandy",
+					"Displayname": "{{i18n:Item.Object118.DisplayName}}",
+					"Description": "{{i18n:Item.Object118.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 5000,
+					"Edibility": 50,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 87
+				}
+			}
+		},
+		//佩莱特特制料理
+		{
+			"Action": "EditData",
+			"Target": "Data/Objects",
+			"Entries": {
+				"SDS_Pelettespecialcuisine": {
+					"Name": "SDS_Pelettespecialcuisine",
+					"Displayname": "{{i18n:Item.Object119.DisplayName}}",
+					"Description": "{{i18n:Item.Object119.Description}}",
+					"Type": "objects",
+					"Category": -7,
+					"Price": 10,
+					"Edibility": -20,
+					"IsDrink": true,
+					"Buff": {
+						"Duration": 0,
+						"IsDebuff": false,
+						"CustomAttributes": {
+							"FarmingLevel": 0,
+							"FishingLevel": 0,
+							"ForagingLevel": 0,
+							"LuckLevel": 0,
+							"MiningLevel": 0,
+							"Attack": 0,
+							"Defense": 0,
+							"MagneticRadius": 0,
+							"MaxStamina": 0,
+							"Speed": 0
+						}
+					},
+					"Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+					"SpriteIndex": 88
+				}
+			}
+		}
+	]
+}

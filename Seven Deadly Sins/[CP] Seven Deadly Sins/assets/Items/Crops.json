@@ -1,0 +1,125 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Crops",
+            "Entries": {
+				//彼岸花
+                "SDS_HiganbanaSeeds": {
+                    "Seasons": [
+                        "spring"
+                    ],
+                    "DaysInPhase": [
+                        2,
+                        4,
+                        4,
+                        4,
+                    ],
+                    "RegrowDays": -1,
+                    "IsRaised": false,
+                    "HarvestItemId": "SDS_Higanbana",
+                    "HarvestMethod": "Grab",
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+                    "SpriteIndex": 0,
+                },
+				//玫瑰
+                "SDS_RugosaroseSeeds": {
+                    "Seasons": [
+                        "Summer"
+                    ],
+                    "DaysInPhase": [
+                        2,
+                        2,
+                        4,
+                        2,
+                    ],
+                    "RegrowDays": -1,
+                    "IsRaised": false,
+                    "HarvestItemId": "SDS_Rugosarose",
+                    "HarvestMethod": "Grab",
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+                    "SpriteIndex": 1,
+                },
+				//牡丹
+                "SDS_TreepeonySeeds": {
+                    "Seasons": [
+                        "spring"
+                    ],
+                    "DaysInPhase": [
+                        1,
+                        4,
+                        3,
+                        2,
+                    ],
+                    "RegrowDays": -1,
+                    "IsRaised": false,
+                    "HarvestItemId": "SDS_Treepeony",
+                    "HarvestMethod": "Grab",
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+                    "SpriteIndex": 2,
+                },
+				//奶油草莓
+                "SDS_CreamstrawberrySeeds": {
+                    "Seasons": [
+                        "summer"
+                    ],
+                    "DaysInPhase": [
+                        1,
+                        1,
+                        2,
+                        2,
+						2,
+                    ],
+                    "RegrowDays": 3,
+                    "IsRaised": false,
+                    "HarvestItemId": "SDS_Creamstrawberry",
+                    "HarvestMethod": "Grab",
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+                    "SpriteIndex": 3,
+                },
+				//芍药
+                "SDS_ChineseherbaceouspeonySeeds": {
+                    "Seasons": [
+                        "spring"
+                    ],
+                    "DaysInPhase": [
+                        1,
+                        2,
+                        3,
+                        2,
+                    ],
+                    "RegrowDays": -1,
+                    "IsRaised": false,
+                    "HarvestItemId": "SDS_Chineseherbaceouspeony",
+                    "HarvestMethod": "Grab",
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+                    "SpriteIndex": 4,
+                },
+				//薰衣草
+                "SDS_lavenderSeeds": {
+                    "Seasons": [
+                        "summer"
+                    ],
+                    "DaysInPhase": [
+                        1,
+                        2,
+                        2,
+                        2,
+                    ],
+                    "RegrowDays": -1,
+                    "IsRaised": false,
+                    "HarvestItemId": "SDS_lavender",
+                    "HarvestMethod": "Grab",
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+                    "SpriteIndex": 5,
+                },
+			},
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/ricehit.SevenDeadlySinsCP/Crops",
+            "FromFile": "assets/Objects/Crops.png",
+        },
+
+    ]
+}

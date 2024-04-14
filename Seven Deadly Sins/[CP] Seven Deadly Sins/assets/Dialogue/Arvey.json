@@ -6,6 +6,11 @@
          "Entries": {
             "Introduction": "{{i18n:Dialogue.Arvey.Introduction}}",
             "spring_1_2": "{{i18n:Dialogue.Arvey.spring_1_2}}",
+            "AcceptBirthdayGift_Loved": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Loved}}",
+            "AcceptBirthdayGift_Liked": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Liked}}",
+            "AcceptBirthdayGift_Neutral": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Neutral}}",
+            "AcceptBirthdayGift_Disliked": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Disliked}}",
+            "AcceptBirthdayGift_Hated": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Hated}}",
             "Mon": "{{i18n:Dialogue.Arvey.Mon}}",
             "Mon2": "{{i18n:Dialogue.Arvey.Mon2}}",
             "Mon4": "{{i18n:Dialogue.Arvey.Mon4}}",

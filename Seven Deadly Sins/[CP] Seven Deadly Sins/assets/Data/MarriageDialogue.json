@@ -43,6 +43,27 @@
         "Relationship:Uriel": "Engaged, Married"
       }
     },
+  
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Rane.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Rane": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Lane.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Lane": "Engaged, Married"
+      }
+    },
     {
       "Action": "EditData",
       "Target": "Strings/StringsFromCSFiles",

@@ -6,6 +6,11 @@
          "Entries": {
             "Introduction": "{{i18n:Dialogue.Teresa.Introduction}}",
             "spring_1_2": "{{i18n:Dialogue.Teresa.spring_1_2}}",
+            "AcceptBirthdayGift_Loved": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Loved}}",
+            "AcceptBirthdayGift_Liked": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Liked}}",
+            "AcceptBirthdayGift_Neutral": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Neutral}}",
+            "AcceptBirthdayGift_Disliked": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Disliked}}",
+            "AcceptBirthdayGift_Hated": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Hated}}",
             "Mon": "{{i18n:Dialogue.Teresa.Mon}}",
             "Mon2": "{{i18n:Dialogue.Teresa.Mon2}}",
             "Mon4": "{{i18n:Dialogue.Teresa.Mon4}}",
