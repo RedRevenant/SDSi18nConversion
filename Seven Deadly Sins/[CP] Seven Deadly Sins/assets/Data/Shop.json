@@ -1,26 +1,634 @@
 {
-  "Changes": [
-    {
-      "Action": "EditData",
-      "Target": "Data/Shops",
-      "Entries": {
-		//沙漠小蛇
-        "SDweapon": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDweaponOpen",
-									"Dialogue": "{{i18n:Shop.SDweapon.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDweapon.ClosedMessage}}"
-						}
-					],
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Shops",
+            "Entries": {
+                //沙漠服装店
+                "SDcoutureD": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDcoutureD",
+                                    "Dialogue": "{{i18n:Shop.SDcoutureD.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDcoutureD.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": [
+                        //彼岸深渊
+                        {
+                            "Id": "SDS.AbyssClothing",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_AbyssClothing"
+                        },
+                        {
+                            "Id": "SDS.AbyssBottoms",
+                            "Price": 6500,
+                            "ItemId": "(S)SDS_AbyssBottoms"
+                        },
+                        //青石玉
+                        {
+                            "Id": "SDS.CeladonjadeClothing",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_CeladonjadeClothing"
+                        },
+                        {
+                            "Id": "SDS.CeladonjadeBottoms",
+                            "Price": 4000,
+                            "ItemId": "(S)SDS_CeladonjadeBottoms"
+                        },
+                        //霞光
+                        {
+                            "Id": "SDS.RaysClothing",
+                            "Price": 2500,
+                            "ItemId": "(S)SDS_RaysClothing"
+                        },
+                        {
+                            "Id": "SDS.RaysBottoms",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_RaysBottoms"
+                        },
+                        //夜月星河
+                        {
+                            "Id": "SDS.NightMoonClothing",
+                            "Price": 1500,
+                            "ItemId": "(S)SDS_NightMoonClothing"
+                        },
+                        {
+                            "Id": "SDS.NightMoonBottoms",
+                            "Price": 3000,
+                            "ItemId": "(S)SDS_NightMoonBottoms"
+                        },
+                        //远方神域
+                        {
+                            "Id": "SDS.FarawayDivineRealmClothing",
+                            "Price": 500,
+                            "ItemId": "(S)SDS_FarawayDivineRealmClothing"
+                        },
+                        {
+                            "Id": "SDS.FarawayDivineRealmBottoms",
+                            "Price": 1500,
+                            "ItemId": "(S)SDS_FarawayDivineRealmBottoms"
+                        }
+                    ]
+                },
+                //城市服装店		
+                "SDcouture": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDcouture",
+                                    "Dialogue": "{{i18n:Shop.SDcoutureD.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDcoutureD.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": [
+                        //持灯者
+                        {
+                            "Id": "SDS.LampholderClothing",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_LampholderClothing"
+                        },
+                        {
+                            "Id": "SDS.LampholderBottoms",
+                            "Price": 4000,
+                            "ItemId": "(S)SDS_LampholderBottoms"
+                        },
+                        //安眠守望
+                        {
+                            "Id": "SDS.SleepingClothing",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_SleepingClothing"
+                        },
+                        {
+                            "Id": "SDS.SleepingBottoms",
+                            "Price": 4000,
+                            "ItemId": "(S)SDS_SleepingBottoms"
+                        },
+                        //云端彼岸
+                        {
+                            "Id": "SDS.AcrossTheCloudsClothing",
+                            "Price": 2500,
+                            "ItemId": "(S)SDS_AcrossTheCloudsClothing"
+                        },
+                        {
+                            "Id": "SDS.AcrossTheCloudsBottoms",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_AcrossTheCloudsBottoms"
+                        },
+                        //甜蜜童谣
+                        {
+                            "Id": "SDS.SweetNurseryRhymesClothing",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_SweetNurseryRhymesClothing"
+                        },
+                        {
+                            "Id": "SDS.SweetNurseryRhymesBottoms",
+                            "Price": 10000,
+                            "ItemId": "(S)SDS_SweetNurseryRhymesBottoms"
+                        },
+                        //紫藤繁花
+                        {
+                            "Id": "SDS.WisteriaBlossomingClothing",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_WisteriaBlossomingClothing"
+                        },
+                        {
+                            "Id": "SDS.WisteriaBlossomingBottoms",
+                            "Price": 4000,
+                            "ItemId": "(S)SDS_WisteriaBlossomingBottoms"
+                        },
+                        //麦芽糖
+                        {
+                            "Id": "SDS.MaltoseClothing",
+                            "Price": 10000,
+                            "ItemId": "(S)SDS_MaltoseClothing"
+                        },
+                        {
+                            "Id": "SDS.MaltoseBottoms",
+                            "Price": 15000,
+                            "ItemId": "(S)SDS_MaltoseBottoms"
+                        },
+                        {
+                            "Id": "SDS.MaltoseHeadwear",
+                            "Price": 4000,
+                            "ItemId": "(H)SDS_MaltoseHeadwear"
+                        },
+                        //春
+                        //白女巫
+                        {
+                            "Id": "SDS.WhitewitchClothing",
+                            "Price": 1000,
+                            "ItemId": "(S)SDS_WhitewitchClothing",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.WhitewitchBottoms",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_WhitewitchBottoms",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.WhitewitchHeadwear",
+                            "Price": 500,
+                            "ItemId": "(H)SDS_WhitewitchHeadwear",
+                            "Condition": "SEASON spring"
+                        },
+                        //暖春漫步
+                        {
+                            "Id": "SDS.WarmSpringStrollingClothing",
+                            "Price": 1000,
+                            "ItemId": "(S)SDS_WarmSpringStrollingClothing",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.WarmSpringStrollingBottoms",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_WarmSpringStrollingBottoms",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.WarmSpringStrollingHeadwear",
+                            "Price": 300,
+                            "ItemId": "(H)SDS_WarmSpringStrollingHeadwear",
+                            "Condition": "SEASON spring"
+                        },
+                        //春日歌颂
+                        {
+                            "Id": "SDS.SongofSpringClothing",
+                            "Price": 2500,
+                            "ItemId": "(S)SDS_SongofSpringClothing",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.SongofSpringBottoms",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_SongofSpringBottoms",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.SongofSpringHeadwear",
+                            "Price": 1000,
+                            "ItemId": "(H)SDS_SongofSpringHeadwear",
+                            "Condition": "SEASON spring"
+                        },
+                        //夏
+                        //夏日派对
+                        {
+                            "Id": "SDS.SummerPartyClothing",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_SummerPartyClothing",
+                            "Condition": "SEASON summer"
+                        },
+                        {
+                            "Id": "SDS.SummerPartyBottoms",
+                            "Price": 10000,
+                            "ItemId": "(S)SDS_SummerPartyBottoms",
+                            "Condition": "SEASON summer"
+                        },
+                        //紫藤情书
+                        {
+                            "Id": "SDS.WisteriaLoveLettersClothing",
+                            "Price": 3000,
+                            "ItemId": "(S)SDS_WisteriaLoveLettersClothing",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.WisteriaLoveLettersBottoms",
+                            "Price": 4000,
+                            "ItemId": "(S)SDS_WisteriaLoveLettersBottoms",
+                            "Condition": "SEASON spring"
+                        },
+                        {
+                            "Id": "SDS.WisteriaLoveLettersHeadwear",
+                            "Price": 1000,
+                            "ItemId": "(H)SDS_WisteriaLoveLettersHeadwear",
+                            "Condition": "SEASON spring"
+                        },
+                        //秋
+                        //秋日畅想
+                        {
+                            "Id": "SDS.AutumnImaginationClothing",
+                            "Price": 1500,
+                            "ItemId": "(S)SDS_AutumnImaginationClothing",
+                            "Condition": "SEASON fall"
+                        },
+                        {
+                            "Id": "SDS.AutumnImaginationBottoms",
+                            "Price": 3000,
+                            "ItemId": "(S)SDS_AutumnImaginationBottoms",
+                            "Condition": "SEASON fall"
+                        },
+                        {
+                            "Id": "SDS.AutumnImaginationHeadwear",
+                            "Price": 800,
+                            "ItemId": "(H)SDS_AutumnImaginationHeadwear",
+                            "Condition": "SEASON fall"
+                        },
+                        //落叶秋风
+                        {
+                            "Id": "SDS.fallenleavesClothing",
+                            "Price": 2000,
+                            "ItemId": "(S)SDS_fallenleavesClothing",
+                            "Condition": "SEASON fall"
+                        },
+                        {
+                            "Id": "SDS.fallenleavesBottoms",
+                            "Price": 4000,
+                            "ItemId": "(S)SDS_fallenleavesBottoms",
+                            "Condition": "SEASON fall"
+                        },
+                        {
+                            "Id": "SDS.fallenleavesHeadwear",
+                            "Price": 500,
+                            "ItemId": "(H)SDS_fallenleavesHeadwear",
+                            "Condition": "SEASON fall"
+                        },
+                        //黑女巫
+                        {
+                            "Id": "SDS.BlackwitchClothing",
+                            "Price": 2500,
+                            "ItemId": "(S)SDS_BlackwitchClothing",
+                            "Condition": "SEASON fall"
+                        },
+                        {
+                            "Id": "SDS.BlackwitchBottoms",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_BlackwitchBottoms",
+                            "Condition": "SEASON fall"
+                        },
+                        {
+                            "Id": "SDS.BlackwitchHeadwear",
+                            "Price": 1000,
+                            "ItemId": "(H)SDS_BlackwitchHeadwear",
+                            "Condition": "SEASON fall"
+                        },
+                        //冬
+                        //可可姜饼
+                        {
+                            "Id": "SDS.CocoagingerbreadClothing",
+                            "Price": 1500,
+                            "ItemId": "(S)SDS_CocoagingerbreadClothing",
+                            "Condition": "SEASON winter"
+                        },
+                        {
+                            "Id": "SDS.CocoagingerbreadBottoms",
+                            "Price": 3000,
+                            "ItemId": "(S)SDS_CocoagingerbreadBottoms",
+                            "Condition": "SEASON winter"
+                        },
+                        //挚爱宝石
+                        {
+                            "Id": "SDS.BelovedgemClothing",
+                            "Price": 3000,
+                            "ItemId": "(S)SDS_BelovedgemClothing",
+                            "Condition": "SEASON winter"
+                        },
+                        {
+                            "Id": "SDS.BelovedgemBottoms",
+                            "Price": 5000,
+                            "ItemId": "(S)SDS_BelovedgemBottoms",
+                            "Condition": "SEASON winter"
+                        },
+                        {
+                            "Id": "SDS.BelovedgemHeadwear",
+                            "Price": 1000,
+                            "ItemId": "(H)SDS_BelovedgemHeadwear",
+                            "Condition": "SEASON winter"
+                        },
+                        //兑换
+                        //深海遨游
+                        {
+                            "Id": "SDS.DeepSeaTravelClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_DeepSeaTravelClothing",
+                            "TradeItemId": "SDS_Blueflashbutterfly",
+                            "TradeItemAmount": 5,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.DeepSeaTravelBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_DeepSeaTravelBottoms",
+                            "TradeItemId": "SDS_Blueflashbutterfly",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.DeepSeaTravelHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_DeepSeaTravelHeadwear",
+                            "TradeItemId": "SDS_Blueflashbutterfly",
+                            "TradeItemAmount": 2,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //青藤枝叶
+                        {
+                            "Id": "SDS.SinomeniumAcutumClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_SinomeniumAcutumClothing",
+                            "TradeItemId": "SDS_Fragrans",
+                            "TradeItemAmount": 5,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.SinomeniumAcutumBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_SinomeniumAcutumBottoms",
+                            "TradeItemId": "SDS_Fragrans",
+                            "TradeItemAmount": 12,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //冬日临近
+                        {
+                            "Id": "SDS.WinterisapproachingClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_WinterisapproachingClothing",
+                            "TradeItemId": "SDS_Mangosteen",
+                            "TradeItemAmount": 5,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.WinterisapproachingBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_WinterisapproachingBottoms",
+                            "TradeItemId": "SDS_Mangosteen",
+                            "TradeItemAmount": 12,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //奇幻梦境
+                        {
+                            "Id": "SDS.FantasydreamClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_FantasydreamClothing",
+                            "TradeItemId": "SDS_lavender",
+                            "TradeItemAmount": 5,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.FantasydreamBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_FantasydreamBottoms",
+                            "TradeItemId": "SDS_lavender",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.FantasydreamHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_FantasydreamHeadwear",
+                            "TradeItemId": "SDS_lavender",
+                            "TradeItemAmount": 2,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //午夜安眠
+                        {
+                            "Id": "SDS.MidnightsleepClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_MidnightsleepClothing",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.MidnightsleepBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_MidnightsleepBottoms",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 15,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.MidnightsleepHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_MidnightsleepHeadwear",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 5,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //白色花蕊
+                        {
+                            "Id": "SDS.WhitepistilClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_WhitepistilClothing",
+                            "TradeItemId": "SDS_Chineseherbaceouspeony",
+                            "TradeItemAmount": 3,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.WhitepistilBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_WhitepistilBottoms",
+                            "TradeItemId": "SDS_Chineseherbaceouspeony",
+                            "TradeItemAmount": 5,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.WhitepistilHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_WhitepistilHeadwear",
+                            "TradeItemId": "SDS_Chineseherbaceouspeony",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //紫萝仙境
+                        {
+                            "Id": "SDS.VioletWonderlandClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_VioletWonderlandClothing",
+                            "TradeItemId": "SDS_Stramonium",
+                            "TradeItemAmount": 8,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.VioletWonderlandBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_VioletWonderlandBottoms",
+                            "TradeItemId": "SDS_Stramonium",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.VioletWonderlandHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_VioletWonderlandHeadwear",
+                            "TradeItemId": "SDS_Stramonium",
+                            "TradeItemAmount": 3,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //人鱼海浪
+                        {
+                            "Id": "SDS.MermaidWavesClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_MermaidWavesClothing",
+                            "TradeItemId": "SDS_Higanbana",
+                            "TradeItemAmount": 8,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.MermaidWavesBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_MermaidWavesBottoms",
+                            "TradeItemId": "SDS_Higanbana",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.MermaidWavesHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_MermaidWavesHeadwear",
+                            "TradeItemId": "SDS_Higanbana",
+                            "TradeItemAmount": 3,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //晴空
+                        {
+                            "Id": "SDS.ClearSkyClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_ClearSkyClothing",
+                            "TradeItemId": "SDS_Creamstrawberry",
+                            "TradeItemAmount": 8,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.ClearSkyBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_ClearSkyBottoms",
+                            "TradeItemId": "SDS_Creamstrawberry",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.ClearSkyHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_ClearSkyHeadwear",
+                            "TradeItemId": "SDS_Creamstrawberry",
+                            "TradeItemAmount": 3,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //春与妖精
+                        {
+                            "Id": "SDS.SpringGoblinClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_SpringGoblinClothing",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 8,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.SpringGoblinBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_SpringGoblinBottoms",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.SpringGoblinHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_SpringGoblinHeadwear",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 3,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        //未知
+                        {
+                            "Id": "SDS.UnknownClothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_UnknownClothing",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 10,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.UnknownBottoms",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_UnknownBottoms",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 13,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        },
+                        {
+                            "Id": "SDS.UnknownHeadwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_UnknownHeadwear",
+                            "TradeItemId": "SDS_Nightwillowherb",
+                            "TradeItemAmount": 15,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19215105"
+                        }
+                    ]
+                },
+                //沙漠小蛇
+                "SDweapon": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDweaponOpen",
+                                    "Dialogue": "{{i18n:Shop.SDweapon.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDweapon.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.Seatransport",
@@ -46,26 +654,61 @@
                             "Id": "SDS.ChocolateBunny",
                             "Price": 7000,
                             "ItemId": "(O)SDS_ChocolateBunny"
+                        },
+                        {
+                            "Id": "SDS.DragonTooth",
+                            "Price": 2000,
+                            "ItemId": "(O)852"
+                        },
+                        {
+                            "Id": "SDS.DwarfScrollI",
+                            "Price": 3000,
+                            "ItemId": "(O)96"
+                        },
+                        {
+                            "Id": "SDS.DwarfScrollII",
+                            "Price": 9000,
+                            "ItemId": "(O)97"
+                        },
+                        {
+                            "Id": "SDS.DwarfScrollIII",
+                            "Price": 18000,
+                            "ItemId": "(O)98"
+                        },
+                        {
+                            "Id": "SDS.DwarfScrollIV",
+                            "Price": 21000,
+                            "ItemId": "(O)99"
+                        },
+                        {
+                            "Id": "SDS.BatWing",
+                            "Price": 1200,
+                            "ItemId": "(O)767"
+                        },
+                        {
+                            "Id": "SDS.RefinedQuartz",
+                            "Price": 1500,
+                            "ItemId": "(O)338"
                         }
                     ]
-		},
-		//沙漠饮料店
-        "SDdrink": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDdrinkOpen",
-									"Dialogue": "{{i18n:Shop.SDdrink.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDdrink.ClosedMessage}}"
-						}
-					],
+                },
+                //沙漠饮料店
+                "SDdrink": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDdrinkOpen",
+                                    "Dialogue": "{{i18n:Shop.SDdrink.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDdrink.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.Coconutjuice",
@@ -118,24 +761,24 @@
                             "ItemId": "(O)SDS_LongIslandIcedTea"
                         }
                     ]
-		},		
-		//祖祖城超市
-        "SDCitysupermarket": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDCitysupermarketOpen",
-									"Dialogue": "{{i18n:Shop.SDCitysupermarket.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDCitysupermarket.ClosedMessage}}"
-						}
-					],
+                },
+                //祖祖城超市
+                "SDCitysupermarket": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDCitysupermarketOpen",
+                                    "Dialogue": "{{i18n:Shop.SDCitysupermarket.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDCitysupermarket.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.Butter",
@@ -151,7 +794,7 @@
                             "Id": "SDS.SupersoftsweetbreadRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Supersoftsweetbread",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.EarthCake",
@@ -162,7 +805,7 @@
                             "Id": "SDS.EarthCakeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_EarthCake",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.MoonCake",
@@ -173,7 +816,7 @@
                             "Id": "SDS.MoonCakeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_MoonCake",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Sugar-coatedhaws",
@@ -194,7 +837,7 @@
                             "Id": "SDS.ChocolatepulpRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Chocolatepulp",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.chocolate",
@@ -202,24 +845,24 @@
                             "ItemId": "(O)SDS_chocolate"
                         }
                     ]
-		},
-		//祖祖城超市机器区
-        "SDCitysupermarketF": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDCitysupermarketFOpen",
-									"Dialogue": "{{i18n:Shop.SDCitysupermarketF.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDCitysupermarketF.ClosedMessage}}"
-						}
-					],
+                },
+                //祖祖城超市机器区
+                "SDCitysupermarketF": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDCitysupermarketFOpen",
+                                    "Dialogue": "{{i18n:Shop.SDCitysupermarketF.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDCitysupermarketF.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.Icebox",
@@ -266,26 +909,25 @@
                             "Price": 10000,
                             "ItemId": "(BC)SDS_Saucepan"
                         }
-
                     ]
-		},
-		//祖祖城冰淇淋店
-        "SDIcecream": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDIcecreamOpen",
-									"Dialogue": "{{i18n:Shop.SDIcecream.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDIcecream.ClosedMessage}}"
-						}
-					],
+                },
+                //祖祖城冰淇淋店
+                "SDIcecream": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDIcecreamOpen",
+                                    "Dialogue": "{{i18n:Shop.SDIcecream.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDIcecream.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.Colorfulthree-ballicecream",
@@ -296,7 +938,7 @@
                             "Id": "SDS.Colorfulthree-ballicecreamRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Colorfulthree-ballicecream",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Strawberrypudding",
@@ -307,7 +949,7 @@
                             "Id": "SDS.StrawberrypuddingRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Strawberrypudding",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Chocolatestrawberry",
@@ -318,7 +960,7 @@
                             "Id": "SDS.ChocolatestrawberryRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Chocolatestrawberry",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.StrawberryDonut",
@@ -344,7 +986,7 @@
                             "Id": "SDS.Classicthree-ballicecreamRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Classicthree-ballicecream",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Chocolatepopsicle",
@@ -355,7 +997,7 @@
                             "Id": "SDS.ChocolatepopsicleRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Chocolatepopsicle",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Chocolatedonut",
@@ -366,7 +1008,7 @@
                             "Id": "SDS.ChocolatedonutRecipe",
                             "Price": 450,
                             "ItemId": "(O)SDS_Chocolatedonut",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Chocolatecone",
@@ -377,7 +1019,7 @@
                             "Id": "SDS.ChocolateconeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Chocolatecone",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Jellybeancone",
@@ -388,7 +1030,7 @@
                             "Id": "SDS.JellybeanconeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Jellybeancone",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.IceCreamCone",
@@ -400,26 +1042,25 @@
                             "Price": 300,
                             "ItemId": "(O)SDS_Originaldonut"
                         }
-						
                     ]
-		},
-		//祖祖城卷饼
-        "SDrollup": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDrollupOpen",
-									"Dialogue": "{{i18n:Shop.SDrollup.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDrollup.ClosedMessage}}"
-						}
-					],
+                },
+                //祖祖城卷饼
+                "SDrollup": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDrollupOpen",
+                                    "Dialogue": "{{i18n:Shop.SDrollup.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDrollup.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.BlueberryPie",
@@ -430,7 +1071,7 @@
                             "Id": "SDS.BlueberryPieRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_BlueberryPie",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.CherryPie",
@@ -441,7 +1082,7 @@
                             "Id": "SDS.CherryPieRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_CherryPie",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Originalflavorpie",
@@ -452,7 +1093,7 @@
                             "Id": "SDS.OriginalflavorpieRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Originalflavorpie",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.BearBurger",
@@ -463,7 +1104,7 @@
                             "Id": "SDS.BearBurgerRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_BearBurger",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.BearBread",
@@ -474,7 +1115,7 @@
                             "Id": "SDS.BearBreadRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_BearBread",
-							"IsRecipe": true
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Fortunecookies",
@@ -487,42 +1128,42 @@
                             "ItemId": "(O)SDS_CourtesyDogCookie"
                         }
                     ]
-		},
-		//兔子商店
-        "SDRicehit": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDRicehitOpen",
-									"Dialogue": "{{i18n:Shop.SDRicehit.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDRicehit.ClosedMessage}}"
-						}
-					],
+                },
+                //兔子商店
+                "SDRicehit": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDRicehitOpen",
+                                    "Dialogue": "{{i18n:Shop.SDRicehit.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDRicehit.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.UnhappyDogCookiesRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_UnhappyDogCookiesRecipe",
-							"Condition": "PLAYER_FRIENDSHIP_POINTS Current Pelette 1500"
+                            "Condition": "PLAYER_FRIENDSHIP_POINTS Current Pelette 1500"
                         },
                         {
                             "Id": "SDS.HappyKittyCookiesRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_HappyKittyCookiesRecipe",
-							"Condition": "PLAYER_FRIENDSHIP_POINTS Current Lucas 1500"
+                            "Condition": "PLAYER_FRIENDSHIP_POINTS Current Lucas 1500"
                         },
                         {
                             "Id": "SDS.HappyDogCookiesRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_HappyDogCookiesRecipe",
-							"Condition": "PLAYER_FRIENDSHIP_POINTS Current Arvey 1500"
+                            "Condition": "PLAYER_FRIENDSHIP_POINTS Current Arvey 1500"
                         },
                         {
                             "Id": "SDS.StrawberryBunnyCakeRecipe",
@@ -533,157 +1174,157 @@
                             "Id": "SDS.Lovechocolate",
                             "Price": 10,
                             "ItemId": "(O)SDS_Lovechocolate",
-							"TradeItemId": "SDS_Lovechocolate",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_Lovechocolate",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.LoveCrisp",
                             "Price": 10,
                             "ItemId": "(O)SDS_LoveCrisp",
-							"TradeItemId": "SDS_LoveCrisp",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_LoveCrisp",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.UnhappyDogCookies",
                             "Price": 10,
                             "ItemId": "(O)SDS_UnhappyDogCookies",
-							"TradeItemId": "SDS_UnhappyDogCookies",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_UnhappyDogCookies",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.StrawberryLoveCrisp",
                             "Price": 10,
                             "ItemId": "(O)SDS_StrawberryLoveCrisp",
-							"TradeItemId": "SDS_StrawberryLoveCrisp",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_StrawberryLoveCrisp",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Strawberrymacaron",
                             "Price": 10,
                             "ItemId": "(O)SDS_Strawberrymacaron",
-							"TradeItemId": "SDS_Strawberrymacaron",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_Strawberrymacaron",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.StrawberryBunnyCake",
                             "Price": 10,
                             "ItemId": "(O)SDS_StrawberryBunnyCake",
-							"TradeItemId": "SDS_StrawberryBunnyCake",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_StrawberryBunnyCake",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Glutinousricecake",
                             "Price": 10,
                             "ItemId": "(O)SDS_Glutinousricecake",
-							"TradeItemId": "SDS_Glutinousricecake",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_Glutinousricecake",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.EggYolkCrisp",
                             "Price": 10,
                             "ItemId": "(O)SDS_EggYolkCrisp",
-							"TradeItemId": "SDS_EggYolkCrisp",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_EggYolkCrisp",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.WinterStarCake",
                             "Price": 10,
                             "ItemId": "(O)SDS_WinterStarCake",
-							"TradeItemId": "SDS_WinterStarCake",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_WinterStarCake",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.HappyKittyCookies",
                             "Price": 10,
                             "ItemId": "(O)SDS_HappyKittyCookies",
-							"TradeItemId": "SDS_HappyKittyCookies",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_HappyKittyCookies",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.HappyDogCookies",
                             "Price": 10,
                             "ItemId": "(O)SDS_HappyDogCookies",
-							"TradeItemId": "SDS_HappyDogCookies",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_HappyDogCookies",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.BlueberryBlackForestCake",
                             "Price": 10,
                             "ItemId": "(O)SDS_BlueberryBlackForestCake",
-							"TradeItemId": "SDS_BlueberryBlackForestCake",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_BlueberryBlackForestCake",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.Rhombicbiscuit",
                             "Price": 10,
                             "ItemId": "(O)SDS_Rhombicbiscuit",
-							"TradeItemId": "SDS_Rhombicbiscuit",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_Rhombicbiscuit",
+                            "IsRecipe": true
                         },
                         {
                             "Id": "SDS.VanillaOrangeCake",
                             "Price": 10,
                             "ItemId": "(O)SDS_VanillaOrangeCake",
-							"TradeItemId": "SDS_VanillaOrangeCake",
-							"IsRecipe": true
+                            "TradeItemId": "SDS_VanillaOrangeCake",
+                            "IsRecipe": true
                         }
                     ]
-		},
-		//花店
-        "SDFlower": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDFlowerOpen",
-									"Dialogue": "{{i18n:Shop.SDFlower.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDFlower.ClosedMessage}}"
-						}
-					],
+                },
+                //花店
+                "SDFlower": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDFlowerOpen",
+                                    "Dialogue": "{{i18n:Shop.SDFlower.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDFlower.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
                         {
                             "Id": "SDS.HiganbanaSeeds",
                             "Price": 300,
                             "ItemId": "(O)SDS_HiganbanaSeeds",
-							"Condition": "SEASON spring"
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.RugosaroseSeeds",
                             "Price": 230,
                             "ItemId": "(O)SDS_RugosaroseSeeds",
-							"Condition": "SEASON summer"
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.TreepeonySeeds",
                             "Price": 200,
                             "ItemId": "(O)SDS_TreepeonySeeds",
-							"Condition": "SEASON spring"
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.CreamstrawberrySeeds",
                             "Price": 200,
                             "ItemId": "(O)SDS_CreamstrawberrySeeds",
-							"Condition": "SEASON summer"
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.ChineseherbaceouspeonySeeds",
                             "Price": 170,
                             "ItemId": "(O)SDS_ChineseherbaceouspeonySeeds",
-							"Condition": "SEASON spring"
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.lavenderSeeds",
                             "Price": 150,
                             "ItemId": "(O)SDS_lavenderSeeds",
-							"Condition": "SEASON summer"
+                            "Condition": "SEASON summer"
                         },
-						//树苗
+                        //树苗
                         {
                             "Id": "SDS.FragransSapling",
                             "Price": 14000,
@@ -709,202 +1350,199 @@
                             "Price": 12000,
                             "ItemId": "(O)SDS_NightwillowherbSapling"
                         }
-
-						]
-		},	
-		//季节商店
-        "SDSeasonalS": {
-					"Owners": [
-						{
-							"Name": "None",
-							"Dialogues": [
-								{
-									"Id": "SDS.SDSeasonalSOpen",
-									"Dialogue": "{{i18n:Shop.SDSeasonalS.Dialogue}}"
-								}
-							]
-						},
-						{
-							"Name": "None",
-							"Dialogue": "{{i18n:Shop.SDSeasonalS.ClosedMessage}}"
-						}
-					],
+                    ]
+                },
+                //季节商店
+                "SDSeasonalS": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDSeasonalSOpen",
+                                    "Dialogue": "{{i18n:Shop.SDSeasonalS.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "Dialogue": "{{i18n:Shop.SDSeasonalS.ClosedMessage}}"
+                        }
+                    ],
                     "Items": [
-						//春季
+                        //春季
                         {
                             "Id": "SDS.LovechocolateRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_LovechocolateRecipe",
-							"Condition": "SEASON spring"
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.ChocolateMelaleuca",
                             "Price": 600,
                             "ItemId": "(O)SDS_ChocolateMelaleuca",
-							"Condition": "SEASON spring"
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.ChocolateMelaleucaRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_ChocolateMelaleuca",
-							"IsRecipe": true,
-							"Condition": "SEASON spring"
+                            "IsRecipe": true,
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.Tiramisu",
                             "Price": 550,
                             "ItemId": "(O)SDS_Tiramisu",
-							"Condition": "SEASON spring"
+                            "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.TiramisuRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Tiramisu",
-							"IsRecipe": true,
-							"Condition": "SEASON spring"
+                            "IsRecipe": true,
+                            "Condition": "SEASON spring"
                         },
-						//夏季
+                        //夏季
                         {
                             "Id": "SDS.Chocolatepudding",
                             "Price": 550,
                             "ItemId": "(O)SDS_Chocolatepudding",
-							"Condition": "SEASON summer"
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.ChocolatepuddingRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Chocolatepudding",
-							"IsRecipe": true,
-							"Condition": "SEASON summer"
+                            "IsRecipe": true,
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.DoubleStrawberryCake",
                             "Price": 850,
                             "ItemId": "(O)SDS_DoubleStrawberryCake",
-							"Condition": "SEASON summer"
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.DoubleStrawberryCakeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_DoubleStrawberryCake",
-							"IsRecipe": true,
-							"Condition": "SEASON summer"
+                            "IsRecipe": true,
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.StarBlueberryCake",
                             "Price": 1100,
                             "ItemId": "(O)SDS_StarBlueberryCake",
-							"Condition": "SEASON summer"
+                            "Condition": "SEASON summer"
                         },
                         {
                             "Id": "SDS.StarBlueberryCakeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_StarBlueberryCake",
-							"IsRecipe": true,
-							"Condition": "SEASON summer"
+                            "IsRecipe": true,
+                            "Condition": "SEASON summer"
                         },
-						//秋季
+                        //秋季
                         {
                             "Id": "SDS.Drizzledcake",
                             "Price": 600,
                             "ItemId": "(O)SDS_Drizzledcake",
-							"Condition": "SEASON fall"
+                            "Condition": "SEASON fall"
                         },
                         {
                             "Id": "SDS.DrizzledcakeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Drizzledcake",
-							"IsRecipe": true,
-							"Condition": "SEASON fall"
+                            "IsRecipe": true,
+                            "Condition": "SEASON fall"
                         },
                         {
                             "Id": "SDS.Puppycupcakes",
                             "Price": 450,
                             "ItemId": "(O)SDS_Puppycupcakes",
-							"Condition": "SEASON fall"
+                            "Condition": "SEASON fall"
                         },
                         {
                             "Id": "SDS.PuppycupcakesRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Puppycupcakes",
-							"IsRecipe": true,
-							"Condition": "SEASON fall"
+                            "IsRecipe": true,
+                            "Condition": "SEASON fall"
                         },
                         {
                             "Id": "SDS.EggYolkCrispRecipe",
                             "Price": 450,
                             "ItemId": "(O)SDS_EggYolkCrispRecipe",
-							"Condition": "SEASON fall"
+                            "Condition": "SEASON fall"
                         },
-						//冬季
+                        //冬季
                         {
                             "Id": "SDS.Candycane",
                             "Price": 200,
                             "ItemId": "(O)SDS_Candycane",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.CandycaneRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Candycane",
-							"IsRecipe": true,
-							"Condition": "SEASON winter"
+                            "IsRecipe": true,
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.Gingerbreadcookietree",
                             "Price": 300,
                             "ItemId": "(O)SDS_Gingerbreadcookietree",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.GingerbreadcookietreeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_Gingerbreadcookietree",
-							"IsRecipe": true,
-							"Condition": "SEASON winter"
+                            "IsRecipe": true,
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.LoveCrisp",
                             "Price": 620,
                             "ItemId": "(O)SDS_LoveCrisp",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.LoveCrispRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_LoveCrispRecipe",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.StrawberryLoveCrisp",
                             "Price": 620,
                             "ItemId": "(O)SDS_StrawberryLoveCrisp",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.StrawberryLoveCrispRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_StrawberryLoveCrispRecipe",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.RedVelvetCake",
                             "Price": 500,
                             "ItemId": "(O)SDS_RedVelvetCake",
-							"Condition": "SEASON winter"
+                            "Condition": "SEASON winter"
                         },
                         {
                             "Id": "SDS.RedVelvetCakeRecipe",
                             "Price": 500,
                             "ItemId": "(O)SDS_RedVelvetCake",
-							"IsRecipe": true,
-							"Condition": "SEASON winter"
+                            "IsRecipe": true,
+                            "Condition": "SEASON winter"
                         }
                     ]
-		
-		
-      }
-	  }
-		}
-  ]
+                }
+            }
+        }
+    ]
 }

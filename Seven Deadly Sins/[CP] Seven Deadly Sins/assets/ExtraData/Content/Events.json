@@ -204,7 +204,7 @@
         {
             "LogName": "Load Blanks for Events at Custom Locations + Desert",
             "Action": "Load",
-            "Target": "Data/Events/Desert, Data/Events/Custom_SDS.couture, Data/Events/Custom_SDS.City, Data/Events/Custom_SDS.TeresaHome, Data/Events/Club, Data/Events/Custom_SDS.church, Data/Events/Custom_Lucashouse, Data/Events/Custom_SDS.Lucasoffice, Data/Events/Custom_SDS.Lucas9, Data/Events/Custom_SDS.HHome, Data/Events/Custom_SDS.sea, Data/Events/Custom_SDS.ricehit, Data/Events/Custom_SDS.cliff, Data/Events/Custom_SDS.UrielHouse, Data/Events/Custom_SDS.Phouse",
+            "Target": "Data/Events/Desert, Data/Events/Custom_SDS.couture, Data/Events/Custom_SDS.City, Data/Events/Custom_SDS.TeresaHome, Data/Events/Club, Data/Events/Custom_SDS.church, Data/Events/Custom_Lucashouse, Data/Events/Custom_SDS.Lucasoffice, Data/Events/Custom_SDS.Lucas9, Data/Events/Custom_SDS.HHome, Data/Events/Custom_SDS.sea, Data/Events/Custom_SDS.ricehit, Data/Events/Custom_SDS.cliff, Data/Events/Custom_SDS.UrielHouse, Data/Events/Custom_SDS.Phouse, Data/Events/Cabin",
             "FromFile": "assets/Data/Empty.json"
         },
         {

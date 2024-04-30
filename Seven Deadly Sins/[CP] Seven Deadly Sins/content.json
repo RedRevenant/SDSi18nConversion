@@ -482,117 +482,6 @@
       "Target": "Characters/passer2",
       "FromFile": "assets/sprites/passer2.png"
     },
-    //剧情加载
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Desert",
-      "FromFile": "assets/Events/Desert.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.couture",
-      "FromFile": "assets/Events/Custom_SDS.couture.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.City",
-      "FromFile": "assets/Events/Custom_SDS.City.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.TeresaHome",
-      "FromFile": "assets/Events/Custom_SDS.TeresaHome.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Club",
-      "FromFile": "assets/Events/Club.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.church",
-      "FromFile": "assets/Events/Custom_SDS.church.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_Lucashouse",
-      "FromFile": "assets/Events/Custom_Lucashouse.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.Lucasoffice",
-      "FromFile": "assets/Events/Custom_SDS.Lucasoffice.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.Lucas9",
-      "FromFile": "assets/Events/Custom_SDS.Lucas9.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.HHome",
-      "FromFile": "assets/Events/Custom_SDS.HHome.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.sea",
-      "FromFile": "assets/Events/Custom_SDS.sea.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.ricehit",
-      "FromFile": "assets/Events/Custom_SDS.ricehit.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.cliff",
-      "FromFile": "assets/Events/Custom_SDS.cliff.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.UrielHouse",
-      "FromFile": "assets/Events/Custom_SDS.UrielHouse.xnb"
-    },
-    {
-      "Action": "Load",
-      "Target": "Data/Events/Custom_SDS.Phouse",
-      "FromFile": "assets/Events/Custom_SDS.Phouse.xnb"
-    },
-    {
-      "LogName": "SandyHouse event",
-      "Action": "Include",
-      "FromFile": "assets/Events/SandyHouse.json"
-    },
-    {
-      "LogName": "Town event",
-      "Action": "Include",
-      "FromFile": "assets/Events/Town.json"
-    },
-    {
-      "LogName": "FarmHouse event",
-      "Action": "Include",
-      "FromFile": "assets/Events/FarmHouse.json"
-    },
-    {
-      "LogName": "Forest event",
-      "Action": "Include",
-      "FromFile": "assets/Events/Forest.json"
-    },
-    {
-      "LogName": "Saloon event",
-      "Action": "Include",
-      "FromFile": "assets/Events/Saloon.json"
-    },
-    {
-      "LogName": "Mountain event",
-      "Action": "Include",
-      "FromFile": "assets/Events/Mountain.json"
-    },
-    {
-      "LogName": "ArchaeologyHouse event",
-      "Action": "Include",
-      "FromFile": "assets/Events/ArchaeologyHouse.json"
-    },
     //人物立绘加载
     {
       "LogName": "NPC Portraits",
@@ -693,6 +582,18 @@
     {
       "Action": "Include",
       "FromFile": "assets/Items/BigCraftables.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Items/Hats.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Items/Pants.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Items/Shirts.json"
     },
     //商店
     {
