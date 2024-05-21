@@ -316,7 +316,7 @@
     "Dialogue.Hovsep.OddYears.summer_Sat6": "我之前在路边采集了些葡萄，是你需要的吗？$1#$q 15300390/15300391 summer_Sat6_H1old#...#$r 15300390 0 summer_Sat6_15300390#当然，谢谢你 #$r 15300391 0 summer_Sat6_15300391#谢谢，但是不用了",
     "Dialogue.Hovsep.OddYears.summer_Sat6_15300390": "不客气，那我之后整理一些送过去，也不会耽误你的工作。$8",
     "Dialogue.Hovsep.OddYears.summer_Sat6_15300391": "唔，那就分一些给莱纳斯和文森特好了...$7",
-    "Dialogue.Hovsep.OddYears.summer_Sat6_H1old": "不客气，那我之后整理一些送过去，也不会耽误你的工作。$8", //ps浆果
+    "Dialogue.Hovsep.OddYears.summer_Sat6_H1old": "不客气，那我之后整理一些送过去，也不会耽误你的工作。$8",
     "Dialogue.Hovsep.OddYears.summer_Sat8": "听说夏天的时候，还有室外BBQ这种娱乐方式，你有参加过吗？$9#$q 15300392/15300393 summer_Sat8_H1old#...#$r 15300392 0 summer_Sat8_15300392#参与过吧，还挺有趣的 #$r 15300393 0 summer_Sat8_15300393#没有，说实话并不感兴趣",
     "Dialogue.Hovsep.OddYears.summer_Sat8_15300392": "唔，既然你很感兴趣的话...欸？啊，不，没什么。$11",
     "Dialogue.Hovsep.OddYears.summer_Sat8_15300393": "那，你对那些料理感兴趣吗？Lane那边说不定会有...$9",

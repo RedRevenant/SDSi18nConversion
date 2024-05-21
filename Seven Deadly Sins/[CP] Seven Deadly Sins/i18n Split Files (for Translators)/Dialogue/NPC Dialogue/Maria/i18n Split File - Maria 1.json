@@ -3,17 +3,19 @@
         /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         //[Maria Dialogue] Special
         "Dialogue.Maria.Introduction": "你是新来的吧？$1#$b#我也是哦，我叫玛利亚，让我们互相关照吧？$1",
-        "Dialogue.Maria.breakUp": "%玛利亚轻轻叹了口气。#$b#尽管他什么也没说，但你还是能够从他美丽的脸上感觉到失望。",
+        "Dialogue.Maria.breakUp": "%玛利亚轻轻叹了口气。#$b#%尽管他什么也没说，但你还是能够从他美丽的脸上感觉到失望。",
         "Dialogue.Maria.divorced": "@……你还有什么想要说的吗？$2#$b#%玛利亚移开视线。",
         "Dialogue.Maria.dumped_Guys": "我认为我需要冷静下来……我暂时不想看见@。$2",
         "Dialogue.Maria.secondChance_Guys": "无论@做错了什么我都会原谅@的。$1#$b#但是我不希望再发生这样的事情呢……。",
         "Dialogue.Maria.joja_Begin": "@，你加入了JOJA吗？$0#$b#那么往后请加油哦。$1",
         "Dialogue.Maria.movieTheater": "@会邀请我一同观看电影吗？$1",
         "Dialogue.Maria.MovieInvitation": "我当然愿意与@同行！$1",
-        "Dialogue.Maria.give_flowersA": "我等待这一刻以及很久了……@。$4",
-        "Dialogue.Maria.give_flowersB": "我真开心我们是心意相通的，@。$4",
+        "Dialogue.Maria.AcceptBouquet": "我真开心我们是心意相通的，@。$4",
         "Dialogue.Maria.give_pendant": "Darling，果然我们是天生一对，我爱你……。$4",
-        "Dialogue.Maria.stardrop_gift": "请收下这个吧Darling，这是我特意为了你而准备的。$1#$b#我爱你，在这世间仅有你合适它。",
+        "Dialogue.Maria.SpouseStardrop": "请收下这个吧Darling，这是我特意为了你而准备的。$1#$b#我爱你，在这世间仅有你合适它。",
+        "Dialogue.Maria.DumpsterDiveComment": "你想要什么我可以帮你的。$2",
+        "Dialogue.Maria.GreenRain": "天气还真是多变……@不如在教堂里待到雨停吧？$1#$b#这样的天气什么都做不了不是吗？",
+        "Dialogue.Maria.AcceptGift_(O)StardropTea": "你要把这样的东西送给我吗？谢谢你@！$1",
         /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         //[Maria Dialogue] Resort
         "Dialogue.Maria.Resort_Entering": "@，你也来度假吗？需要我给你涂一些防晒霜吗？$1",
@@ -37,7 +39,7 @@
         "Dialogue.Maria.fall_15": "你一定准备好展会要展示出来的东西了吧？$1#$b#我会为你加油的$0", //展览会前一天
         "Dialogue.Maria.fall_26": "周围充斥着南瓜的气味呢$1#$b#很不错不是吗？$6", //万灵节前一天
         "Dialogue.Maria.winter_7": "要多穿些衣服哦，生病了有人要担心的$1", //冰雪节前一天
-        "Dialogue.Maria.winter_24": "我为我的'秘密朋友'准备了一份神奇的礼物，真希望他会希望$6", //冬日星节日前一天
+        "Dialogue.Maria.winter_24": "我为我的'秘密朋友'准备了一份神奇的礼物，真希望他会喜欢$6", //冬日星节日前一天
         "Dialogue.Maria.SpouseFlowerDanceAccept_Maria": "如果是@的请求当然没问题哦。$1#$b#我十分愿意与你共舞。$4",
         /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         //[Maria Dialogue] Rejection

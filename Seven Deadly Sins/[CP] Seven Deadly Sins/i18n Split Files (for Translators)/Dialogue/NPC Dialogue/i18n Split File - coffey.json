@@ -5,6 +5,10 @@
    "Dialogue.Coffey.Introduction": "嗯...你是新来的吧，是从哪里来的？城里？我叫科菲。$0#$b#真令人好奇~$1",
    "Dialogue.Coffey.spring_1_2": "真好！又是新的一年，今年也要漂漂亮亮的！$1",
    "Dialogue.Coffey.fall_9": "哼哼~今天是我生日哦！教父会给我准备可爱的蛋糕，我要和大家一起吃！$1",
+   "Dialogue.Coffey.DumpsterDiveComment": "快住手！那很脏的！！$2",
+   "Dialogue.Coffey.GreenRain": "天空变得好奇怪…你会害怕吗？$2",
+   "Dialogue.Coffey.MovieInvitation": "太棒了，我超想看一次电影的。$1",
+   "Dialogue.Coffey.AcceptGift_(O)StardropTea": "太棒啦！你的品味很不错嘛，我超喜欢这份礼物。$1",	
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Coffey Dialogue] Birthday Gift
    "Dialogue.Coffey.AcceptBirthdayGift_Loved": "真是个超棒的生日礼物！谢谢你记得我的生日，还给我这么好的礼物~$1",

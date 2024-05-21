@@ -15,10 +15,12 @@
                 "joja_Begin": "{{i18n:Dialogue.Hovsep.joja_Begin}}",
                 "movieTheater": "{{i18n:Dialogue.Hovsep.movieTheater}}",
                 "MovieInvitation": "{{i18n:Dialogue.Hovsep.MovieInvitation}}",
-                "give_flowersA": "{{i18n:Dialogue.Hovsep.give_flowersA}}",
-                "give_flowersB": "{{i18n:Dialogue.Hovsep.give_flowersB}}",
+                "AcceptBouquet": "{{i18n:Dialogue.Hovsep.AcceptBouquet}}",
                 "give_pendant": "{{i18n:Dialogue.Hovsep.give_pendant}}",
-                "stardrop_gift": "{{i18n:Dialogue.Hovsep.stardrop_gift}}",
+                "SpouseStardrop": "{{i18n:Dialogue.Hovsep.SpouseStardrop}}",
+                "AcceptGift_(O)StardropTea": "{{i18n:Dialogue.Hovsep.AcceptGift_(O)StardropTea}}",
+                "DumpsterDiveComment": "{{i18n:Dialogue.Hovsep.DumpsterDiveComment}}",
+                "GreenRain": "{{i18n:Dialogue.Hovsep.GreenRain}}",
                 "rejectNPCA": "{{i18n:Dialogue.Hovsep.rejectNPCA}}",
                 "rejectNPCB": "{{i18n:Dialogue.Hovsep.rejectNPCB}}",
                 "reject_two_heartA": "{{i18n:Dialogue.Hovsep.reject_two_heartA}}",
@@ -62,18 +64,6 @@
                 "patio_Hovsep_15300770": "{{i18n:Dialogue.Hovsep.Marriage.patio_Hovsep_15300770}}",
                 "patio_Hovsep_15300771": "{{i18n:Dialogue.Hovsep.Marriage.patio_Hovsep_15300771}}",
                 "patio_Hovsep_H1old": "{{i18n:Dialogue.Hovsep.Marriage.patio_Hovsep_H1old}}",
-                "jobLeave_Hovsep_15300772": "{{i18n:Dialogue.Hovsep.Marriage.jobLeave_Hovsep_15300772}}",
-                "jobLeave_Hovsep_15300773": "{{i18n:Dialogue.Hovsep.Marriage.jobLeave_Hovsep_15300773}}",
-                "jobLeave_Hovsep_H1old": "{{i18n:Dialogue.Hovsep.Marriage.jobLeave_Hovsep_H1old}}",
-                "funLeave_Hovsep_15300774": "{{i18n:Dialogue.Hovsep.Marriage.funLeave_Hovsep_15300774}}",
-                "funLeave_Hovsep_15300775": "{{i18n:Dialogue.Hovsep.Marriage.funLeave_Hovsep_15300775}}",
-                "funLeave_Hovsep_H1old": "{{i18n:Dialogue.Hovsep.Marriage.funLeave_Hovsep_H1old}}",
-                "jobReturn_Hovsep_15300776": "{{i18n:Dialogue.Hovsep.Marriage.jobReturn_Hovsep_15300776}}",
-                "jobReturn_Hovsep_15300777": "{{i18n:Dialogue.Hovsep.Marriage.jobReturn_Hovsep_15300777}}",
-                "jobReturn_Hovsep_H1old": "{{i18n:Dialogue.Hovsep.Marriage.jobReturn_Hovsep_H1old}}",
-                "funReturn_Hovsep_15300778": "{{i18n:Dialogue.Hovsep.Marriage.funReturn_Hovsep_15300778}}",
-                "funReturn_Hovsep_15300779": "{{i18n:Dialogue.Hovsep.Marriage.funReturn_Hovsep_15300779}}",
-                "funReturn_Hovsep_H1old": "{{i18n:Dialogue.Hovsep.Marriage.funReturn_Hovsep_H1old}}",
                 "spouseRoom_Hovsep_15300780": "{{i18n:Dialogue.Hovsep.Marriage.spouseRoom_Hovsep_15300780}}",
                 "spouseRoom_Hovsep_15300781": "{{i18n:Dialogue.Hovsep.Marriage.spouseRoom_Hovsep_15300781}}",
                 "spouseRoom_Hovsep_H1old": "{{i18n:Dialogue.Hovsep.Marriage.spouseRoom_Hovsep_H1old}}",
@@ -333,7 +323,7 @@
             },
             "When": {
                 "Spouse": "Hovsep"
-        }
+            }
         },
         {
             "Action": "EditData",

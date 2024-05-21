@@ -3,9 +3,7 @@
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
       //[Maria (Marriage) Dialogue] Special
       "Dialogue.Maria.Marriage.patio_Maria": "这里能看见很多东西的哦，风景很好哦$1", //露台
-      "Dialogue.Maria.Marriage.jobLeave_Maria": "早上好，你要出门了吗Darling？$1#$b#路上请注意安全$6",
       "Dialogue.Maria.Marriage.funLeave_Maria": "我要出去一趟哦，你自己一个人要小心哦Darling$1",
-      "Dialogue.Maria.Marriage.jobReturn_Maria": "你今天度过怎样的一天呢？能说给我听吗？$4",
       "Dialogue.Maria.Marriage.funReturn_Maria": "我今天整理了一下家里的杂物，现在整洁多了吧？$1",
       "Dialogue.Maria.Marriage.spouseRoom_Maria": "待在这里很容易让人安心下来的哦，Darling要和我一起吗？$1",
       /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/

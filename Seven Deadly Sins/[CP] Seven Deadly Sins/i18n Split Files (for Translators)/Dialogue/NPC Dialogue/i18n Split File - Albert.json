@@ -5,6 +5,10 @@
    "Dialogue.Albert.Introduction": "%意外的，男孩警惕地盯着你并没有开口，为了证明自己不是坏人，你后退了几步。",
    "Dialogue.Albert.spring_1_2": "温蒂肯定又要说什么丧气话了，这怎么行！新的一年新的开始！$1",
    "Dialogue.Albert.winter_16": "我不需要什么生日礼物...教父和朋友们能陪着我就好！$1",
+   "Dialogue.Albert.DumpsterDiveComment": "噫！你为什么要翻垃圾桶。$3#$b#……你是不是没饭吃？$2",
+   "Dialogue.Albert.GreenRain": "神父告诉我们不要害怕，乖乖待在屋子里，不管怎样我都要保护教堂的大家。$3",
+   "Dialogue.Albert.MovieInvitation": "电影？谢谢你我会去的。$1",
+   "Dialogue.Albert.AcceptGift_(O)StardropTea": "谢谢你,我很喜欢。$1",
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Albert Dialogue] Birthday Gift
    "Dialogue.Albert.AcceptBirthdayGift_Loved": "谢谢你,我很喜欢。$1",

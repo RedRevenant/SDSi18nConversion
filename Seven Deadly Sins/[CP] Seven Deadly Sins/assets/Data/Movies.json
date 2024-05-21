@@ -284,13 +284,55 @@
             "Black Licorice",
             "Popcorn"
           ]
+        },
+        "Annika": {
+          "Name": "Annika",
+          "LovedTags": [
+            "Jasmine Tea"
+          ],
+          "LikedTags": [
+            "Apple Slices",
+            "Panzanella Salad"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
+        },
+        "Arkwright": {
+          "Name": "Arkwright",
+          "LovedTags": [
+            "Jawbreaker"
+          ],
+          "LikedTags": [
+            "Salmon Burger",
+            "Cotton Candy"
+          ],
+          "DislikedTags": [
+            "Hummus Snack Pack",
+            "Salted Peanuts"
+          ]
+        },
+        "Xenia": {
+          "Name": "Xenia",
+          "LovedTags": [
+            "Ice Cream Sandwich"
+          ],
+          "LikedTags": [
+            "Panzanella Salad",
+            "Jawbreaker"
+          ],
+          "DislikedTags": [
+            "Joja Cola",
+            "JojaCorn"
+          ]
         }
       }
     },
     //婚后
     {
       "Action": "Include",
-      "FromFile": "assets/ExtraData/Movies/AlbertMovieReactions.json, assets/ExtraData/Movies/ArveyMovieReactions.json, assets/ExtraData/Movies/CoffeyMovieReactions.json, assets/ExtraData/Movies/EdwardMovieReactions.json, assets/ExtraData/Movies/GarnetMovieReactions.json, assets/ExtraData/Movies/HovsepMovieReactions.json, assets/ExtraData/Movies/LaneMovieReactions.json, assets/ExtraData/Movies/LucasMovieReactions.json, assets/ExtraData/Movies/luoliMovieReactions.json, assets/ExtraData/Movies/MariaMovieReactions.json, assets/ExtraData/Movies/MooreMovieReactions.json, assets/ExtraData/Movies/PeletteMovieReactions.json, assets/ExtraData/Movies/RaneMovieReactions.json, assets/ExtraData/Movies/RaymondMovieReactions.json, assets/ExtraData/Movies/ReglaMovieReactions.json, assets/ExtraData/Movies/TeresaMovieReactions.json,assets/ExtraData/Movies/UrielMovieReactions.json , assets/ExtraData/Movies/WendyMovieReactions.json, assets/ExtraData/Movies/SarielMovieReactions.json, assets/ExtraData/Movies/SirenMovieReactions.json"
+      "FromFile": "assets/ExtraData/Movies/AlbertMovieReactions.json, assets/ExtraData/Movies/AnnikaMovieReactions.json, assets/ExtraData/Movies/ArkwrightMovieReactions.json, assets/ExtraData/Movies/ArveyMovieReactions.json, assets/ExtraData/Movies/CoffeyMovieReactions.json, assets/ExtraData/Movies/EdwardMovieReactions.json, assets/ExtraData/Movies/GarnetMovieReactions.json, assets/ExtraData/Movies/HovsepMovieReactions.json, assets/ExtraData/Movies/LaneMovieReactions.json, assets/ExtraData/Movies/LucasMovieReactions.json, assets/ExtraData/Movies/luoliMovieReactions.json, assets/ExtraData/Movies/MariaMovieReactions.json, assets/ExtraData/Movies/MooreMovieReactions.json, assets/ExtraData/Movies/PeletteMovieReactions.json, assets/ExtraData/Movies/RaneMovieReactions.json, assets/ExtraData/Movies/RaymondMovieReactions.json, assets/ExtraData/Movies/ReglaMovieReactions.json, assets/ExtraData/Movies/TeresaMovieReactions.json,assets/ExtraData/Movies/UrielMovieReactions.json , assets/ExtraData/Movies/WendyMovieReactions.json, assets/ExtraData/Movies/SarielMovieReactions.json, assets/ExtraData/Movies/SirenMovieReactions.json, assets/ExtraData/Movies/XeniaMovieReactions.json"
     },
     {
       "Action": "Include",

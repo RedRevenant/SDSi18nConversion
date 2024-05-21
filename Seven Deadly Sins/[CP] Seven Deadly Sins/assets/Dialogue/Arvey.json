@@ -6,6 +6,9 @@
          "Entries": {
             "Introduction": "{{i18n:Dialogue.Arvey.Introduction}}",
             "spring_1_2": "{{i18n:Dialogue.Arvey.spring_1_2}}",
+            "GreenRain": "{{i18n:Dialogue.Arvey.GreenRain}}",
+            "MovieInvitation": "{{i18n:Dialogue.Arvey.MovieInvitation}}",
+            "AcceptGift_(O)StardropTea": "{{i18n:Dialogue.Arvey.AcceptGift_(O)StardropTea}}",            
             "AcceptBirthdayGift_Loved": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Loved}}",
             "AcceptBirthdayGift_Liked": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Liked}}",
             "AcceptBirthdayGift_Neutral": "{{i18n:Dialogue.Arvey.AcceptBirthdayGift_Neutral}}",

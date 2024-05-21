@@ -18,10 +18,9 @@
     "Dialogue.Rane.joja_Begin_15400106": "开~个~玩~笑$1",
     "Dialogue.Rane.joja_Begin_15400107": "真的假的？事到如今？...好吧，不妨直接告诉你好了：La生气了。所以我也生气了。$1#$e#今天不想跟你讲话，走开。$1",
     "Dialogue.Rane.joja_Begin_R1old": "...好吧，不妨直接告诉你好了：La生气了。所以我也生气了。$1#$e#今天不想跟你讲话，走开。$1",
-    "Dialogue.Rane.give_flowersA": "是花诶，给我一个人的吗？还是说La也有？...$1",
-    "Dialogue.Rane.give_flowersB": "Ra非常乐意~！我收。$1#$b#好的，你没机会反悔了。$4",
+    "Dialogue.Rane.AcceptBouquet": "是花诶，给我一个人的吗？还是说La也有？...$1",
     "Dialogue.Rane.give_pendant": "诶，好高兴哦，可是你分清楚谁是谁了吗？——你现在送的这个人，真的是你所爱的那个人吗？$2#$e#...好吧。但其实无论是哪个，我们都会成为那一个哦。$4",
-    "Dialogue.Rane.stardrop_gift": "收下吧收下吧~@，我们永远爱你哦。所以绝对别想着离开我们。$3",
+    "Dialogue.Rane.SpouseStardrop": "收下吧收下吧~@，我们永远爱你哦。所以绝对别想着离开我们。$3",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Rane Dialogue] Rejection
     "Dialogue.Rane.rejectNPCA": "你真是完全不顾及人家脸色行事的诶！我可是最烦这样的人了。$7",

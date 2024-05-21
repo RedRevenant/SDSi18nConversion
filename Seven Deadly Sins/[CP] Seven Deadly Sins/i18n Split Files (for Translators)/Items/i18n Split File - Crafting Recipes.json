@@ -1,0 +1,8 @@
+{
+     //[Items] Crafting Recipes
+     "Item.SDS_Seatransport": "海底传送图腾",
+     "Item.SDS_Churchtransport": "教堂传送图腾",
+     "Item.SDS_clifftransport": "天山传送图腾",
+     "Item.SDS_Citytransport": "祖祖城中心传送图腾"
+     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+}

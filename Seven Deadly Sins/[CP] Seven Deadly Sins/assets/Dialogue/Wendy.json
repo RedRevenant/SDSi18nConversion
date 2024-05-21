@@ -37,6 +37,10 @@
                   "Action": "EditData",
                   "Target": "Characters/Dialogue/Wendy",
                   "Entries": {
+                        "MovieInvitation": "{{i18n:Dialogue.Wendy.MovieInvitation}}",
+                        "AcceptGift_(O)StardropTea": "{{i18n:Dialogue.Wendy.AcceptGift_(O)StardropTea}}",
+                        "DumpsterDiveComment": "{{i18n:Dialogue.Wendy.DumpsterDiveComment}}",
+                        "GreenRain": "{{i18n:Dialogue.Wendy.GreenRain}}",
                         "AcceptBirthdayGift_Loved": "{{i18n:Dialogue.Wendy.AcceptBirthdayGift_Loved}}",
                         "AcceptBirthdayGift_Liked": "{{i18n:Dialogue.Wendy.AcceptBirthdayGift_Liked}}",
                         "AcceptBirthdayGift_Neutral": "{{i18n:Dialogue.Wendy.AcceptBirthdayGift_Neutral}}",

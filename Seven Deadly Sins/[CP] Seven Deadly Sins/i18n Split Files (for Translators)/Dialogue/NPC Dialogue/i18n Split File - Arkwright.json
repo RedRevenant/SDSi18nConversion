@@ -1,0 +1,71 @@
+{
+    /* [Dialogue] Arkwright */
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Arkwright Dialogue] Special
+    "Dialogue.Arkwright.Introduction": "我是阿克赖特……呃，如你所见，是卖肉的。$0",
+    /*~*~*~*/
+    "Dialogue.Arkwright.spring_1_2": "你好，新年快乐。$1",
+    "Dialogue.Arkwright.spring_12": "你也要去找彩蛋吗？加油。$0",
+    "Dialogue.Arkwright.spring_23": "你也要跳舞吗？玩得开心。$1",
+    "Dialogue.Arkwright.summer_10": "你可以在汤里放新鲜的肉，这样总不会出错的…有人在汤里放奇怪的东西另说。$0",
+    "Dialogue.Arkwright.summer_27": "月光水母听起来就很漂亮，那样的场景一定会令人难忘吧。$1",
+    "Dialogue.Arkwright.fall_15": "你也要参加展览吧？你能展出的东西太多了。$1",
+    "Dialogue.Arkwright.fall_26": "所以你明天也会去那个迷宫吗？$0",
+    "Dialogue.Arkwright.winter_7": "这种寒冷的天气也要在外面举行节日吗。$0",
+    "Dialogue.Arkwright.winter_24": "我没有伴侣和孩子，所以我选择独自一人吃饭。$0",
+    "Dialogue.Arkwright.GreenRain": "还是尽量待在室内吧，毕竟没办法确定这雨对人体有什么危害。$0",
+    "Dialogue.Arkwright.AcceptGift_(O)StardropTea": "给、给我的？呃…我是说我很喜欢！谢谢你，真的。$1",
+    "Dialogue.Arkwright.MovieInvitation": "那里会有小孩吗，我需不需要带个口罩。$1",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Arkwright Dialogue] General/Spring
+    "Dialogue.Arkwright.Mon": "需要什么？$0",
+    "Dialogue.Arkwright.Mon2": "%阿克赖特看见你后对你微微点了点头。",
+    "Dialogue.Arkwright.Mon4": "你也认识安妮卡女士吗？她是个好人。$1",
+    "Dialogue.Arkwright.Mon6": "你们镇上是不是有个叫佩莱特的人？他有时候会卖给我一些新鲜的肉，听他说是自己打来的，真厉害啊。$1",
+    "Dialogue.Arkwright.Mon8": "安妮卡女士前几天送了一条围巾给我，说是天冷的时候可以用上，她人真好。$1",
+    "Dialogue.Arkwright.Mon10": "你和安妮卡女士都很好，很热心，认识你们可能是我这些年来最高兴的事了。$1",
+    /*~*~*~*/
+    "Dialogue.Arkwright.Tue": "需要什么自己选。$0",
+    "Dialogue.Arkwright.Tue2": "我店里卖的肉都很新鲜，放心。$1",
+    "Dialogue.Arkwright.Tue4": "你、你好，是来买肉的吗？$0#$b#唉…我这不是废话吗…别介意，我只是想试着友善地打招呼。$2",
+    "Dialogue.Arkwright.Tue6": "我以前试着在镜子前练习微笑发现看起来反而更凶了，最后还是戴上口罩比较好啊。$5",
+    "Dialogue.Arkwright.Tue8": "如果安妮卡女士在你面前说了关于我的一些事，你别在意。我觉得她对我的评价有点过头了，我没那么好。$0",
+    "Dialogue.Arkwright.Tue10": "你应该也看出来了，我不怎么会聊天，安妮卡女士说我得主动些才有机会，说实话我没听懂…她当时还冲着我神秘地眨了眨眼。$0",
+    /*~*~*~*/
+    "Dialogue.Arkwright.Wed": "你要买什么？$0",
+    "Dialogue.Arkwright.Wed2": "来点什么？$0#$b#%阿克赖特似乎没意识到他手里的刀很有威慑力…",
+    "Dialogue.Arkwright.Wed4": "我也没办法控制自己的长相，一开始也想过和别人解释，结果发现会起到反作用。$2",
+    "Dialogue.Arkwright.Wed6": "安妮卡女士和我提到过你，她对你的评价不错，真的…我也很认同她的话。$1",
+    "Dialogue.Arkwright.Wed8": "自从安妮卡女士知道我喜欢甜食之后，她时不时就会送来一些。$0#$b#虽然很感谢她，但是送来的数量有点多了…要是拒绝她的话会让她难过吧。唉…$2",
+    "Dialogue.Arkwright.Wed10": "我休息时会把口罩摘下来，喝杯茶吃点饼干什么的，独自一人很惬意…但是能有你在旁边聊聊天也很好。$1",
+    /*~*~*~*/
+    "Dialogue.Arkwright.Thu": "%阿克赖特盯着你不说话…啊，他把视线移开了。 ",
+    "Dialogue.Arkwright.Thu2": "嗯…你好。$0",
+    "Dialogue.Arkwright.Thu4": "你别误会啊，我不是什么黑店老板，也不是什么混混…你笑什么？难不成我说错话了？$0",
+    "Dialogue.Arkwright.Thu6": "要说关系不错的人，佩莱特也算是一个，毕竟他时不时会来我这一趟，一来二去就熟悉了。$0",
+    "Dialogue.Arkwright.Thu8": "你会不会觉得我喜欢吃甜的很奇怪…？我没有别的意思，只是从表面来看，我这样的人和甜品很不搭啊。$0",
+    "Dialogue.Arkwright.Thu10": "嗯？哦抱歉，我只是在统计最近几天的营业额。你不介意的话在旁边等一会吧，我给你拿点饼干。$1",
+    /*~*~*~*/
+    "Dialogue.Arkwright.Fri": "买点什么？$0",
+    "Dialogue.Arkwright.Fri2": "你好…要点什么？$0",
+    "Dialogue.Arkwright.Fri4": "曾经有人刚踏进店门就因为看到我的长相而扭头离开，所以你第一次来的时候我在想你会不会也那样…$2#$b#啊，对不起，我是不是不该这样说，我没那个意思的。$2",
+    "Dialogue.Arkwright.Fri6": "你现在应该知道我为什么总是戴着口罩了，要是把客人都吓跑了我还怎么开店啊。$2",
+    "Dialogue.Arkwright.Fri8": "安妮卡女士人很好，只不过有些时候实在是…你懂吗？我有点招架不住。$2",
+    "Dialogue.Arkwright.Fri10": "农场的活肯定很累吧？我其实挺佩服你的，种地钓鱼养殖样样精通。听安妮卡女士说，你还会去矿洞，一定要注意安全啊。$0",
+    /*~*~*~*/
+    "Dialogue.Arkwright.Sat": "买什么？$0",
+    "Dialogue.Arkwright.Sat2": "你好。$0#$b#%阿克赖特陷入了沉默。",
+    "Dialogue.Arkwright.Sat4": "其实长的凶一点也有好处，至少别人不会轻易找你的麻烦。$1",
+    "Dialogue.Arkwright.Sat6": "安妮卡女士之前有问我要不要谈个恋爱之类的，其实我单身这么多年倒也习惯了，也没想过会有人喜欢我，现在这样就挺好的。$1#$b#请你别告诉安妮卡女士，我知道她是好心。$0",
+    "Dialogue.Arkwright.Sat8": "我年轻的时候就这样了，明明想摆出友善的表情，结果总是把人吓跑。$1#$b#你说我现在这样就很好…？呃，是、是这样吗？$0",
+    "Dialogue.Arkwright.Sat10": "我很感谢你，虽然我已经习惯了大家对我疏远的态度，但是真正能有愿意和自己聊天的朋友感觉真的很好。$1",
+    /*~*~*~*/
+    "Dialogue.Arkwright.Sun": "你要买什么？$0",
+    "Dialogue.Arkwright.Sun2": "你这次需要买多少？$0",
+    "Dialogue.Arkwright.Sun4": "我也不想吓到别人，但是长什么样真不是我能控制的，唉…抱歉，我不应该向你倒苦水的。$2",
+    "Dialogue.Arkwright.Sun6": "你饿了吗？其实是安妮卡女士拿了一些点心给我，我吃不完。你不介意的话就拿去吃吧…我还没动过的！$1",
+    "Dialogue.Arkwright.Sun8": "佩莱特和我提到过你，明明是农场主，涉及的东西却特别多啊…啊，我的意思是你很厉害。$1",
+    "Dialogue.Arkwright.Sun10": "谢谢你能理解我，有时候我真的很担心自己说的话会不会有什么问题让别人误会。能认识你和安妮卡女士，我很高兴。$1"
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    /*-----------------------------------------------------------------------------------------------------------*/
+}

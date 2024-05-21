@@ -5,6 +5,10 @@
     "Dialogue.Wendy.SeenEvent19215130.Introduction": "%她对陌生的你感到害怕，还是先不要太着急让她和你说话吧。",
     "Dialogue.Wendy.SeenEvent19215130.spring_1_2": "新的一年...不敢相信我又活过了一年...$0#$b#这样美好的日子会持续到什么时候呢。$1",
     "Dialogue.Wendy.SeenEvent19215130.spring_23": "......$1",
+    "Dialogue.Wendy.MovieInvitation": "谢谢你的邀请，我很期待。$1",
+    "Dialogue.Wendy.AcceptGift_(O)StardropTea": "谢谢你，我很喜欢这份礼物。$1",
+    "Dialogue.Wendy.DumpsterDiveComment": "别碰！$2",
+    "Dialogue.Wendy.GreenRain": "有些害怕，但有大家陪着我…$2",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Wendy (Not Seen Event 19215130) Dialogue] Special
     "Dialogue.Wendy.NotSeenEvent19215130.Introduction": "%她对陌生的你感到害怕，还是先不要太着急让她和你说话吧",

@@ -5,6 +5,10 @@
    "Dialogue.Garnet.Introduction": "%男孩正认真盯着一本书，你在旁边等了一会，他终于抬起头看见了你#$b#抱歉！我刚刚没注意到你，你是新来的人吗？我叫盖瑞特。$1",
    "Dialogue.Garnet.spring_1_2": "今年也要努力，要比去年更好才行。$1",
    "Dialogue.Garnet.spring_15": "请不要为我的生日而费心，我其实不是特别在意这些...当然，我很开心能和大家一起度过自己的生日！$1",
+   "Dialogue.Garnet.MovieInvitation": "最近有点累了，正好出去放松一下，谢谢你。$1",
+   "Dialogue.Garnet.AcceptGift_(O)StardropTea": "谢谢，我真的很喜欢。$1",
+   "Dialogue.Garnet.DumpsterDiveComment": "我的天啊，你在干什么？别碰那些垃圾！$2",
+   "Dialogue.Garnet.GreenRain": "书上没写这种现象…神父也说以前从未有过这样的景象。$2",	
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Garnet Dialogue] Birthday Gift
    "Dialogue.Garnet.AcceptBirthdayGift_Loved": "真是份贵重的礼物，一定让你花了不少功夫吧？谢谢你。$1",

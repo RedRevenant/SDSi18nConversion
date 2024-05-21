@@ -1,0 +1,21 @@
+{
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Fivesongs",
+			"Entries": {
+				"Mon": "{{i18n:Dialogue.Fivesongs.Mon}}",
+				"Tue": "{{i18n:Dialogue.Fivesongs.Tue}}",
+				"Wed": "{{i18n:Dialogue.Fivesongs.Wed}}",
+				"Thu": "{{i18n:Dialogue.Fivesongs.Thu}}",
+				"Fri": "{{i18n:Dialogue.Fivesongs.Fri}}",
+				"Sat": "{{i18n:Dialogue.Fivesongs.Sat}}",
+				"Sun": "{{i18n:Dialogue.Fivesongs.Sun}}",
+				"spring_1_2": "{{i18n:Dialogue.Fivesongs.spring_1_2}}",
+				"summer_1": "{{i18n:Dialogue.Fivesongs.summer_1}}",
+				"fall_1": "{{i18n:Dialogue.Fivesongs.fall_1}}",
+				"winter_1": "{{i18n:Dialogue.Fivesongs.winter_1}}"
+			}
+		}
+	]
+}

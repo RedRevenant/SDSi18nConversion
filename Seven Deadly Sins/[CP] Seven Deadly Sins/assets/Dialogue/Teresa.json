@@ -6,6 +6,10 @@
          "Entries": {
             "Introduction": "{{i18n:Dialogue.Teresa.Introduction}}",
             "spring_1_2": "{{i18n:Dialogue.Teresa.spring_1_2}}",
+            "DumpsterDiveComment": "{{i18n:Dialogue.Teresa.DumpsterDiveComment}}",
+            "GreenRain": "{{i18n:Dialogue.Teresa.GreenRain}}",
+            "MovieInvitation": "{{i18n:Dialogue.Teresa.MovieInvitation}}",
+            "AcceptGift_(O)StardropTea": "{{i18n:Dialogue.Teresa.AcceptGift_(O)StardropTea}}",
             "AcceptBirthdayGift_Loved": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Loved}}",
             "AcceptBirthdayGift_Liked": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Liked}}",
             "AcceptBirthdayGift_Neutral": "{{i18n:Dialogue.Teresa.AcceptBirthdayGift_Neutral}}",

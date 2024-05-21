@@ -21,10 +21,12 @@
     "Dialogue.Moore.movieTheater_16100105": "别揣在兜里太安心就给彻底忘记了，@。还有——记得邀请我。$5",
     "Dialogue.Moore.movieTheater_M1old": "别揣在兜里太安心就给彻底忘记了，@。还有——记得邀请我。$5",
     "Dialogue.Moore.MovieInvitation": "……虽然我觉得这种行为没什么必要，但我还是要再次向你确认一下——只有我一个人，对吗？@？$2",
-    "Dialogue.Moore.give_flowersA": "花。过分柔软到叫人觉得无措又可怜的东西……行吧，我收下了。$1",
-    "Dialogue.Moore.give_flowersB": "……我在和花说话。$1#$b#%莫尔拿着花，移开了视线。",
+    "Dialogue.Moore.AcceptBouquet": "花。过分柔软到叫人觉得无措又可怜的东西……行吧，我收下了。$1",
     "Dialogue.Moore.give_pendant": "毕竟，你可是把‘这东西’塞进了我的手里。虽说一开始说了不和你多说什么，但是…哈。抱歉，稍不注意没忍住就嘲笑了你一下。$1",
-    "Dialogue.Moore.stardrop_gift": "收下吧，@。我会陪着你直到死亡的来临。然后铭记着这段只属于你我二人的时间……永远、永远。$5",
+    "Dialogue.Moore.SpouseStardrop": "收下吧，@。我会陪着你直到死亡的来临。然后铭记着这段只属于你我二人的时间……永远、永远。$5",
+    "Dialogue.Moore.DumpsterDiveComment": "…………$2",
+    "Dialogue.Moore.GreenRain": "这是另一种神秘的降临。它本身既没有好处，也没有坏处。$0#$b#不过，你们人类倒是可以利用起来。毕竟骤然生长的东西里，总有一个是你需要的。$1",
+    "Dialogue.Moore.AcceptGift_(O)StardropTea": "很不错，送给我是你的最优选。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Moore Dialogue] Ginger Island Resort
     "Dialogue.Moore.Resort": "偶尔我也会晒晒太阳，这边或许会不错。$1",

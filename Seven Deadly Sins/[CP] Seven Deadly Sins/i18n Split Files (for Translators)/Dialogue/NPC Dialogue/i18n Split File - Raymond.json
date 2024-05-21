@@ -5,6 +5,10 @@
    "Dialogue.Raymond.Introduction": "你好啊孩子，是第一次来这里吧？$0#$b#如你所见，我是这里的神父，平时就在教堂里待着。$1",
    "Dialogue.Raymond.spring_1_2": "新的一年来临，希望今年孩子们也能健健康康。$1",
    "Dialogue.Raymond.spring_2": "我年纪都这么大了，其实不需要过什么生日了，这种活动还是要由你们年轻人参加才有意思啊。$1",
+   "Dialogue.Raymond.DumpsterDiveComment": "哦不孩子，别碰那些垃圾！如果你饿了，我可以给你拿些食物。$2",
+   "Dialogue.Raymond.GreenRain": "我从未见过如此奇怪的景象…这或许是什么预兆吧，别担心孩子，这未必不是件好事。$2",
+   "Dialogue.Raymond.MovieInvitation": "谢谢你啊孩子，我会去的。$1",
+   "Dialogue.Raymond.AcceptGift_(O)StardropTea": "多好的礼物啊，想不到礼物还有我的份，谢谢你孩子，我很感激。$1",
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Raymond Dialogue] Birthday Gift
    "Dialogue.Raymond.AcceptBirthdayGift_Loved": "你是来专程给我送生日礼物的？真好啊，这让我不禁回忆起一些美好的往事，谢谢你孩子。$1",

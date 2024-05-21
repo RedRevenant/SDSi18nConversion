@@ -14,10 +14,12 @@
     "Dialogue.Pelette.joja_Begin": "我对商业方面的事情一窍不通。$7",
     "Dialogue.Pelette.movieTheater": "电影院……。啊，我知道，是看……呃，嗯。大家一起看电视的地方？对吗？$7",
     "Dialogue.Pelette.MovieInvitation": "你要邀请我？……唔，好吧，希望我不会睡着。$6",
-    "Dialogue.Pelette.give_flowersA": "？这是干什么……不过我很喜欢花，谢谢你。@。你真是个好家伙！$1",
-    "Dialogue.Pelette.give_flowersB": "花？为什么要送给我？不过我很喜欢花，谢谢你啊。@。$1",
+    "Dialogue.Pelette.AcceptBouquet": "花？为什么要送给我？不过我很喜欢花，谢谢你啊。@。$1",
     "Dialogue.Pelette.give_pendant": "我知道这个的意思。……自从上次你送花时的失误，我之后特地有向马龙询问过关于星露谷的一些传统。——我真的，可以收下吗？$5",
-    "Dialogue.Pelette.stardrop_gift": "@，我现在想把这个送给你，虽然比不上一直以来你对我的帮助…但我还是希望能帮到你一些，以后保护你这件事就交给我了，只要我还在你身边一天。然后……我爱你，@。$5",
+    "Dialogue.Pelette.SpouseStardrop": "@，我现在想把这个送给你，虽然比不上一直以来你对我的帮助…但我还是希望能帮到你一些，以后保护你这件事就交给我了，只要我还在你身边一天。然后……我爱你，@。$5",
+    "Dialogue.Pelette.AcceptGift_(O)StardropTea": "真的要把这个送给我吗？这个是我的最爱。真的！$1",
+	"Dialogue.Pelette.DumpsterDiveComment": "呃，你在做什么？$6",
+	"Dialogue.Pelette.GreenRain": "呃，今早起来就是这样了，我是说我的头发有些潮。$6#$b#话说，天上为什么在下绿色的雨？$7",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Pelette Dialogue] Ginger Island Resort
     "Dialogue.Pelette.Resort": "这个岛上怎么这么热…？$7",

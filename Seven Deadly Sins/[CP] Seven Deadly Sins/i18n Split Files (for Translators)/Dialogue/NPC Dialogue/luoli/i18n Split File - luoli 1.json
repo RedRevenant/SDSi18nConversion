@@ -4,9 +4,21 @@
         //[luoli Dialogue] Special
         "Dialogue.luoli.Introduction": "这里真是热呢……瞧你头上都是汗$1#$b#啊，那个公交车可以运行了是吗？$0#$b#我是洛离哦，你叫@？$0#$b#如你所见，我是这个小摊位的主人啦，你想要什么衣服可以来找我哦$1",
         "Dialogue.luoli.danceRejection": "拒绝！#$b#找别人跳去！$2",
-        "Dialogue.luoli.joja_Begin": "比起那个，JOJA能不能送我一大笔钱啊？$1", 
-        "Dialogue.luoli.movieTheater": "要带我去看电影吗？可以给你的衣服打折哦。", 
+        "Dialogue.luoli.SpouseFlowerDanceAccept_luoli": "跳舞？#$b#那我可以提前说明我并不擅长这个哦，要是踩到你的脚我可不会道歉！$1",
+        "Dialogue.luoli.breakUp": "……$2#$b#下次来店里我肯定会给你涨价至少3倍！！$3",
+        "Dialogue.luoli.divorced": "别烦我！除非你愿意让我狠狠的踹上一脚！$3#$b#……叽叽咕咕。$2",
+        "Dialogue.luoli.dumped_Guys": "不想看见你了……毕竟我们只是顾客与店主人的关系呢……真讨厌。$2",
+        "Dialogue.luoli.secondChance_Guys": "好，好吧！我会原谅你的啦。$2#$b#但是要付给我比平时还要高五倍的衣服价格哦。$1",
+        "Dialogue.luoli.AcceptBouquet": "花？#$b#好啊，不过你究竟看上我什么了呢……？不会是以为和我谈恋爱就可以降价吧？！",
+        "Dialogue.luoli.give_pendant": "提前说明一下，哪怕你娶了我衣服也不会便宜，相反你要付给我'婚后甜蜜价'哦。$1",
+        "Dialogue.luoli.SpouseStardrop": "我捡来玩的，赏给你了。$1#$b#还不快谢谢我？伟大的洛离女士可是送给你这么珍贵的东西哦！",
+        "Dialogue.luoli.DumpsterDiveComment": "啊啊啊啊啊啊啊啊啊，不行，不可以啊啊啊！！你把东西翻走了我要吃什么啊！不要再翻了，求求你了。$2",
+        "Dialogue.luoli.GreenRain": "啊啊啊啊，我的衣服，这该怎么办？$2#$b#我不重要……我要去把衣服全部都收起来了。$3",
+        //"Dialogue.luoli.MovieInvitation": "我们看什么电影呢。$1",
+        "Dialogue.luoli.joja_Begin": "比起那个，JOJA能不能送我一大笔钱啊？$1",
+        "Dialogue.luoli.movieTheater": "要带我去看电影吗？可以给你的衣服打折哦。",
         "Dialogue.luoli.MovieInvitation": "谢谢你邀请我！今天会放什么电影呢？$1",
+        "Dialogue.luoli.AcceptGift_(O)StardropTea": "你要送我这个吗？太感谢你了，你怎么知道我喜欢这个的？这个很难得到的吧？$1",
         /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         //[luoli Dialogue] Rejection
         "Dialogue.luoli.refusal_knownA": "不要。",

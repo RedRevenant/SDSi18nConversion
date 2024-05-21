@@ -1,5 +1,5 @@
 {
-    /* [Dialogue] Lane (Even Year) */  
+    /* [Dialogue] Lane (Even Year) */
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Lane (Even Year) Dialogue] Spring
     "Dialogue.Lane.EvenYears.spring_Mon": "今年也请多指教呢~客人！$5#$q 16400127/16400128 spring_Mon_L2old#……#$r 16400127 0 spring_Mon_16400127#请多指教 #$r 16400128 0 spring_Mon_16400128#你怎么…",
@@ -432,7 +432,7 @@
     "Dialogue.Lane.EvenYears.fall_Wed6_16400534": "诶，那还是算了，这样就没意思了。$3",
     "Dialogue.Lane.EvenYears.fall_Wed6_16400535": "才不是呢，我只是觉得烤南瓜饼干的Ra很有趣。$5",
     "Dialogue.Lane.EvenYears.fall_Wed6_L2old": "才不是呢，我只是觉得烤南瓜饼干的Ra很有趣。$5",
-    "Dialogue.Lane.EvenYears.fall_Wed8": "对喜欢的存在拥有'探知欲'是一件明确了解自己心意的基本推断哦。客人呢，你现在对谁更加感兴趣？$1#$q 16400536/16400537/16400538 fall_Wed8_L2old#……#$r 16400536 0 fall_Wed8_16400536#Lane #$r 16400537 0 fall_Wed8_16400537#Rane #$r 16400539 0 fall_Wed8_16400539#（其他人）",
+    "Dialogue.Lane.EvenYears.fall_Wed8": "对喜欢的存在拥有'探知欲'是一件明确了解自己心意的基本推断哦。客人呢，你现在对谁更加感兴趣？$1#$q 16400536/16400537/16400538 fall_Wed8_L2old#……#$r 16400536 0 fall_Wed8_16400536#Lane #$r 16400537 0 fall_Wed8_16400537#Rane #$r 16400538 0 fall_Wed8_16400538#（其他人）",
     "Dialogue.Lane.EvenYears.fall_Wed8_16400536": "哎。$1",
     "Dialogue.Lane.EvenYears.fall_Wed8_16400537": "诶。$1",
     "Dialogue.Lane.EvenYears.fall_Wed8_16400538": "哦。$1",

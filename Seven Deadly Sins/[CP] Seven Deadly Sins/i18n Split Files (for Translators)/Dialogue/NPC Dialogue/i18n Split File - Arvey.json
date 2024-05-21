@@ -4,6 +4,9 @@
    //[Arvey] Special
    "Dialogue.Arvey.Introduction": "咦，原来是客人啊，那好说！#$b#叫我阿维就行，在沙漠有啥事也可以来找我。$1",
    "Dialogue.Arvey.spring_1_2": "新的一年！镇上应该很热闹吧？可惜沙漠看不到那样热闹缤纷的景象。$3",
+   "Dialogue.Arvey.GreenRain": "这世界上居然还存在绿色的雨啊…真厉害啊！$2",
+   "Dialogue.Arvey.MovieInvitation": "你真是太酷了！我一定会去的。$1",
+   "Dialogue.Arvey.AcceptGift_(O)StardropTea": "这也太棒了老兄！你怎么知道我超喜欢这个的，你真是太酷了！^这也太棒了姑娘！你怎么知道我超喜欢这个的，你真是太酷了！$1",
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Arvey] Birthday Gift
    "Dialogue.Arvey.AcceptBirthdayGift_Loved": "想不到有一天会有沙漠之外的人送我生日礼物…真心谢谢你我的朋友，我喜欢这礼物！$1",

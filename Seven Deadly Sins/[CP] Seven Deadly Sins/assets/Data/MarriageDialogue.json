@@ -2,7 +2,7 @@
   "Changes": [
     {
       "Action": "Load",
-      "Target": "Characters/Dialogue/MarriageDialogueLucas, Characters/Dialogue/MarriageDialogueHovsep, Characters/Dialogue/MarriageDialogueUriel, Characters/Dialogue/MarriageDialogueMaria",
+      "Target": "Characters/Dialogue/MarriageDialogueLucas, Characters/Dialogue/MarriageDialogueHovsep, Characters/Dialogue/MarriageDialogueUriel, Characters/Dialogue/MarriageDialogueMaria, Characters/Dialogue/MarriageDialogueRegla, Characters/Dialogue/MarriageDialogueluoli, Characters/Dialogue/MarriageDialogueSiren",
       "FromFile": "assets/Data/Empty.json"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
       "Action": "Include",
-      "FromFile": "assets/Dialogue/MarriageDialogue/Hovsep.json, assets/Dialogue/MarriageDialogue/Lucas.json, assets/Dialogue/MarriageDialogue/Maria.json, assets/Dialogue/MarriageDialogue/Pelette.json, assets/Dialogue/MarriageDialogue/Uriel.json"
+      "FromFile": "assets/Dialogue/MarriageDialogue/Hovsep.json, assets/Dialogue/MarriageDialogue/Lucas.json, assets/Dialogue/MarriageDialogue/luoli.json, assets/Dialogue/MarriageDialogue/Maria.json, assets/Dialogue/MarriageDialogue/Pelette.json, assets/Dialogue/MarriageDialogue/Regla.json, assets/Dialogue/MarriageDialogue/Siren.json, assets/Dialogue/MarriageDialogue/Uriel.json"
     }
   ]
 }

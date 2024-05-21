@@ -14,7 +14,10 @@
         "Raymond": "{{i18n:Gift.Raymond.Love}}/433 395/{{i18n:Gift.Raymond.Like}}/834 223 -79/{{i18n:Gift.Raymond.Dislike}}/-2 -12/{{i18n:Gift.Raymond.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.Raymond.Neutral}}//",
         "peipei": "{{i18n:Gift.peipei.Love}}/433 395/{{i18n:Gift.peipei.Like}}/834 223 -79/{{i18n:Gift.peipei.Dislike}}/-2 -12/{{i18n:Gift.peipei.Hate}}/-5 -6 -14 -20 -4/{{i18n:Gift.peipei.Neutral}}//",
         "EdwardSDS": "{{i18n:Gift.Edward.Love}}/395 253 260/{{i18n:Gift.Edward.Like}}/-4 398 410/{{i18n:Gift.Edward.Dislike}}/346 248/{{i18n:Gift.Edward.Hate}}/-20 -80/{{i18n:Gift.Edward.Neutral}}/-75 408/",
-        "Siren": "{{i18n:Gift.Siren.Love}}/394 104 74 72/{{i18n:Gift.Siren.Like}}/-2 -80 416/{{i18n:Gift.Siren.Dislike}}/-4/{{i18n:Gift.Siren.Hate}}/-20 -21/{{i18n:Gift.Siren.Hate}}/372 459/"
+        "Siren": "{{i18n:Gift.Siren.Love}}/394 104 74 72/{{i18n:Gift.Siren.Like}}/-2 -80 416/{{i18n:Gift.Siren.Dislike}}/-4/{{i18n:Gift.Siren.Hate}}/-20 -21/{{i18n:Gift.Siren.Neutral}}/372 459/",
+        "Annika": "{{i18n:Gift.Annika.Love}}/614 340 190/{{i18n:Gift.Annika.Like}}/-12 -80/{{i18n:Gift.Annika.Dislike}}/220 221 233/{{i18n:Gift.Annika.Hate}}/-20 90/{{i18n:Gift.Annika.Neutral}}/223 219/",
+        "Arkwright": "{{i18n:Gift.Arkwright.Love}}/233 220 221/{{i18n:Gift.Arkwright.Like}}/241 -4/{{i18n:Gift.Arkwright.Dislike}}/395 280 253/{{i18n:Gift.Arkwright.Hate}}/-20 256/{{i18n:Gift.Arkwright.Neutral}}/248 264/",
+        "Xenia": "{{i18n:Gift.Xenia.Love}}/563 636 648/{{i18n:Gift.Xenia.Like}}/-12 -80/{{i18n:Gift.Xenia.Dislike}}/608 -4/{{i18n:Gift.Xenia.Hate}}/-20/{{i18n:Gift.Xenia.Neutral}}/607/"
       }
     },
     //艾伯特
@@ -177,7 +180,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Lane": "{{i18n:Gift.Lane.Hearts0to3.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts0to3.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts0to3.Dislike}}/-24/{{i18n:Gift.Lane.Hearts0to3.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts0to3.Neutral}}/-12/"
+        "Lane": "{{i18n:Gift.Lane.Hearts0to3.Love}}/SDS_OrangeCake 74 124 125/{{i18n:Gift.Lane.Hearts0to3.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts0to3.Dislike}}/-24/{{i18n:Gift.Lane.Hearts0to3.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts0to3.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Lane": "0,1,2,3"
@@ -187,7 +190,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Lane": "{{i18n:Gift.Lane.Hearts4to8.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts4to8.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts4to8.Dislike}}/-24/{{i18n:Gift.Lane.Hearts4to8.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts4to8.Neutral}}/-12/"
+        "Lane": "{{i18n:Gift.Lane.Hearts4to8.Love}}/SDS_OrangeCake 74 124 125/{{i18n:Gift.Lane.Hearts4to8.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts4to8.Dislike}}/-24/{{i18n:Gift.Lane.Hearts4to8.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts4to8.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Lane": "4,5,6,7,8"
@@ -197,7 +200,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Lane": "{{i18n:Gift.Lane.Hearts9to10.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts9to10.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts9to10.Dislike}}/-24/{{i18n:Gift.Lane.Hearts9to10.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts9to10.Neutral}}/-12/"
+        "Lane": "{{i18n:Gift.Lane.Hearts9to10.Love}}/SDS_OrangeCake 74 124 125/{{i18n:Gift.Lane.Hearts9to10.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts9to10.Dislike}}/-24/{{i18n:Gift.Lane.Hearts9to10.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts9to10.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Lane": "9,10"
@@ -207,7 +210,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Lane": "{{i18n:Gift.Lane.Hearts11to14.Love}}/941 74 124 125/{{i18n:Gift.Lane.Hearts11to14.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts11to14.Dislike}}/-24/{{i18n:Gift.Lane.Hearts11to14.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts11to14.Neutral}}/-12/"
+        "Lane": "{{i18n:Gift.Lane.Hearts11to14.Love}}/SDS_OrangeCake 74 124 125/{{i18n:Gift.Lane.Hearts11to14.Like}}/106 72 -2/{{i18n:Gift.Lane.Hearts11to14.Dislike}}/-24/{{i18n:Gift.Lane.Hearts11to14.Hate}}/-19 -20 -14/{{i18n:Gift.Lane.Hearts11to14.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Lane": "11,12,13,14"

@@ -1,0 +1,9 @@
+{
+    //[Items] Fruit Trees
+    "Item.SDS_FragransSapling.DisplayName": "桂花树苗",
+    "Item.SDS_CocoabeanSapling.DisplayName": "可可树苗",
+    "Item.SDS_StramoniumSapling.DisplayName": "曼陀罗树苗",
+    "Item.SDS_MangosteenSapling.DisplayName": "山竹树苗",
+    "Item.SDS_NightwillowherbSapling.DisplayName": "夜来香树苗"
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+}

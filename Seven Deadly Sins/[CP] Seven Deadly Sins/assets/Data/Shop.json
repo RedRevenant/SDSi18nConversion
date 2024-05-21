@@ -8,7 +8,7 @@
                 "SDcoutureD": {
                     "Owners": [
                         {
-                            "Name": "None",
+                            "Name": "luoli",
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDcoutureD",
@@ -83,7 +83,7 @@
                 "SDcouture": {
                     "Owners": [
                         {
-                            "Name": "None",
+                            "Name": "luoli",
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDcouture",
@@ -689,6 +689,126 @@
                             "Id": "SDS.RefinedQuartz",
                             "Price": 1500,
                             "ItemId": "(O)338"
+                        },
+                        {
+                            "Id": "SDS.weapon1",
+                            "Price": 10000,
+                            "ItemId": "(W)8"
+                        },
+                        {
+                            "Id": "SDS.weapon2",
+                            "Price": 8000,
+                            "ItemId": "(W)11"
+                        },
+                        {
+                            "Id": "SDS.weapon3",
+                            "Price": 23000,
+                            "ItemId": "(W)9"
+                        },
+                        {
+                            "Id": "SDS.weapon4",
+                            "Price": 8000,
+                            "ItemId": "(W)14"
+                        },
+                        {
+                            "Id": "SDS.weapon5",
+                            "Price": 2000,
+                            "ItemId": "(O)517"
+                        },
+                        {
+                            "Id": "SDS.weapon6",
+                            "Price": 19000,
+                            "ItemId": "(O)526"
+                        }
+                    ]
+                },
+                //沙漠蔬菜店
+                "SDvegetables": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDvegetablesOpen",
+                                    "Dialogue": "{{i18n:Shop.SDvegetables.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDvegetables.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": [
+                        {
+                            "Id": "SDS.vegetables1",
+                            "Price": 10000,
+                            "ItemId": "(O)266"
+                        },
+                        {
+                            "Id": "SDS.vegetables2",
+                            "Price": 5000,
+                            "ItemId": "(O)499"
+                        },
+                        {
+                            "Id": "SDS.vegetables3",
+                            "Price": 50,
+                            "ItemId": "(O)495"
+                        },
+                        {
+                            "Id": "SDS.vegetables4",
+                            "Price": 65,
+                            "ItemId": "(O)496"
+                        },
+                        {
+                            "Id": "SDS.vegetables5",
+                            "Price": 95,
+                            "ItemId": "(O)497"
+                        },
+                        {
+                            "Id": "SDS.vegetables6",
+                            "Price": 100,
+                            "ItemId": "(O)498"
+                        },
+                        {
+                            "Id": "SDS.vegetables7",
+                            "Price": 3000,
+                            "ItemId": "(O)635"
+                        },
+                        {
+                            "Id": "SDS.vegetables8",
+                            "Price": 3500,
+                            "ItemId": "(O)636"
+                        },
+                        {
+                            "Id": "SDS.vegetables9",
+                            "Price": 4000,
+                            "ItemId": "(O)637"
+                        },
+                        {
+                            "Id": "SDS.vegetables10",
+                            "Price": 2000,
+                            "ItemId": "(O)254"
+                        },
+                        {
+                            "Id": "SDS.vegetables11",
+                            "Price": 1500,
+                            "ItemId": "(O)190"
+                        },
+                        {
+                            "Id": "SDS.vegetables12",
+                            "Price": 1500,
+                            "ItemId": "(O)259"
+                        },
+                        {
+                            "Id": "SDS.vegetables13",
+                            "Price": 1500,
+                            "ItemId": "(O)613"
+                        },
+                        {
+                            "Id": "SDS.vegetables14",
+                            "Price": 900,
+                            "ItemId": "(O)268"
                         }
                     ]
                 },
@@ -911,6 +1031,25 @@
                         }
                     ]
                 },
+                //祖祖城超市家具区
+                "SDCitysupermarketfurniture": {
+                    "Owners": [
+                        {
+                            "Name": "None",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDCitysupermarketfurnitureOpen",
+                                    "Dialogue": "{{i18n:Shop.SDCitysupermarketfurniture.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDCitysupermarketfurniture.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": []
+                },
                 //祖祖城冰淇淋店
                 "SDIcecream": {
                     "Owners": [
@@ -1126,6 +1265,186 @@
                             "Id": "SDS.CourtesyDogCookie",
                             "Price": 200,
                             "ItemId": "(O)SDS_CourtesyDogCookie"
+                        }
+                    ]
+                },
+                //祖祖城肉店
+                "SDButcher": {
+                    "Owners": [
+                        {
+                            "Name": "Arkwright",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDrollupOpen",
+                                    "Dialogue": "{{i18n:Shop.SDButcher.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDButcher.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": []
+                },
+                //祖祖城首饰店
+                "SDSAccessory": {
+                    "Owners": [
+                        {
+                            "Name": "Annika",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDSAccessoryOpen",
+                                    "Dialogue": "{{i18n:Shop.SDSAccessory.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDSAccessory.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": [
+                        {
+                            "Id": "SDS.Ring1",
+                            "Price": 600,
+                            "ItemId": "(O)516"
+                        },
+                        {
+                            "Id": "SDS.Ring2",
+                            "Price": 1500,
+                            "ItemId": "(O)517"
+                        },
+                        {
+                            "Id": "SDS.Ring3",
+                            "Price": 600,
+                            "ItemId": "(O)518"
+                        },
+                        {
+                            "Id": "SDS.Ring4",
+                            "Price": 1500,
+                            "ItemId": "(O)519"
+                        },
+                        {
+                            "Id": "SDS.Ring5",
+                            "Price": 30000,
+                            "ItemId": "(O)522"
+                        },
+                        {
+                            "Id": "SDS.Ring6",
+                            "Price": 35000,
+                            "ItemId": "(O)520"
+                        },
+                        {
+                            "Id": "SDS.Ring7",
+                            "Price": 30000,
+                            "ItemId": "(O)523"
+                        },
+                        {
+                            "Id": "SDS.Ring8",
+                            "Price": 40000,
+                            "ItemId": "(O)526"
+                        },
+                        {
+                            "Id": "SDS.Ring9",
+                            "Price": 25000,
+                            "ItemId": "(O)810"
+                        },
+                        {
+                            "Id": "SDS.Ring10",
+                            "Price": 45000,
+                            "ItemId": "(O)811"
+                        },
+                        {
+                            "Id": "SDS.Ring11",
+                            "Price": 45000,
+                            "ItemId": "(O)860"
+                        },
+                        {
+                            "Id": "SDS.Ring12",
+                            "Price": 40000,
+                            "ItemId": "(O)862"
+                        },
+                        {
+                            "Id": "SDS.Ring13",
+                            "Price": 50000,
+                            "ItemId": "(O)863"
+                        },
+                        //情侣装
+                        //霍夫塞普
+                        {
+                            "Id": "SDS.HovsepLC1Clothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_HovsepLC1Clothing",
+                            "TradeItemId": "SDS_Hovsepclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285111, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        {
+                            "Id": "SDS.HovsepLC1Pants",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_HovsepLC1Pants",
+                            "TradeItemId": "SDS_Hovsepclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285111, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        {
+                            "Id": "SDS.HovsepLC1Headwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_HovsepLC1Headwear",
+                            "TradeItemId": "SDS_Hovsepclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285111, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        //卢卡斯
+                        {
+                            "Id": "SDS.LucasLC1Clothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_LucasLC1Clothing",
+                            "TradeItemId": "SDS_Lucasclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285110, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        {
+                            "Id": "SDS.LucasLC1Pants",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_LucasLC1Pants",
+                            "TradeItemId": "SDS_Lucasclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285110, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        {
+                            "Id": "SDS.LucasLC1Headwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_LucasLC1Headwear",
+                            "TradeItemId": "SDS_Lucasclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285110, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        //乌列
+                        {
+                            "Id": "SDS.UrielLC1Clothing",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_UrielLC1Clothing",
+                            "TradeItemId": "SDS_Urielclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285109, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        {
+                            "Id": "SDS.UrielLC1Pants",
+                            "Price": 10,
+                            "ItemId": "(S)SDS_UrielLC1Pants",
+                            "TradeItemId": "SDS_Urielclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285109, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
+                        },
+                        {
+                            "Id": "SDS.UrielLC1Headwear",
+                            "Price": 10,
+                            "ItemId": "(H)SDS_UrielLC1Headwear",
+                            "TradeItemId": "SDS_Urielclothingcollectionslip",
+                            "TradeItemAmount": 1,
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Current 19285109, {{HasMod|contains=ricehit.SevenDeadlySinsLC1FMF}}"
                         }
                     ]
                 },
@@ -1542,6 +1861,81 @@
                         }
                     ]
                 }
+            },
+            //天堂卷
+            "SDNigel": {
+                "Owners": [
+                    {
+                        "Name": "Nigel",
+                        "Dialogues": [
+                            {
+                                "Id": "SDS.SDNigelOpen",
+                                "Dialogue": "{{i18n:Shop.SDNigel.Dialogue}}"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "None",
+                        "ClosedMessage": "{{i18n:Shop.SDNigel.ClosedMessage}}"
+                    }
+                ],
+                "Items": [
+                    {
+                        "Id": "SDS.Nigel1",
+                        "Price": 100000,
+                        "ItemId": "(O)SDS_ParadiseTicket"
+                    }
+                ]
+            },
+            //五歌
+            "SDFivesongs": {
+                "Owners": [
+                    {
+                        "Name": "Fivesongs",
+                        "Dialogues": [
+                            {
+                                "Id": "SDS.SDFivesongsOpen",
+                                "Dialogue": "{{i18n:Shop.SDFivesongs.Dialogue}}"
+                            }
+                        ]
+                    },
+                    {
+                        "Name": "None",
+                        "ClosedMessage": "{{i18n:Shop.SDFivesongs.ClosedMessage}}"
+                    }
+                ],
+                "Items": [
+                    {
+                        "Id": "SDS.Fivesongs2",
+                        "Price": 2000,
+                        "ItemId": "(F)SDS_doll11"
+                    },
+                    {
+                        "Id": "SDS.Fivesongs3",
+                        "Price": 2500,
+                        "ItemId": "(F)SDS_doll12"
+                    },
+                    {
+                        "Id": "SDS.Fivesongs4",
+                        "Price": 2000,
+                        "ItemId": "(F)SDS_doll13"
+                    },
+                    {
+                        "Id": "SDS.Fivesongs5",
+                        "Price": 2500,
+                        "ItemId": "(F)SDS_doll14"
+                    },
+                    {
+                        "Id": "SDS.Fivesongs6",
+                        "Price": 2000,
+                        "ItemId": "(F)SDS_doll15"
+                    },
+                    {
+                        "Id": "SDS.Fivesongs1",
+                        "Price": 2500,
+                        "ItemId": "(F)SDS_doll16"
+                    }
+                ]
             }
         }
     ]

@@ -5,9 +5,7 @@
                   "Target": "Characters/Dialogue/MarriageDialogueUriel",
                   "Entries": {
                         "patio_Uriel": "{{i18n:Dialogue.Uriel.Marriage.patio_Uriel}}",
-                        "jobLeave_Uriel": "{{i18n:Dialogue.Uriel.Marriage.jobLeave_Uriel}}",
                         "funLeave_Uriel": "{{i18n:Dialogue.Uriel.Marriage.funLeave_Uriel}}",
-                        "jobReturn_Uriel": "{{i18n:Dialogue.Uriel.Marriage.jobReturn_Uriel}}",
                         "funReturn_Uriel": "{{i18n:Dialogue.Uriel.Marriage.funReturn_Uriel}}",
                         "spouseRoom_Uriel": "{{i18n:Dialogue.Uriel.Marriage.spouseRoom_Uriel}}",
                         "Rainy_Day_0": "{{i18n:Dialogue.Uriel.Marriage.Rainy_Day_0}}",

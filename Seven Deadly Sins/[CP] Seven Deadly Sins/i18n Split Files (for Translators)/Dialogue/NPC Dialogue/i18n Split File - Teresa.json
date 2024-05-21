@@ -4,6 +4,10 @@
    //[Teresa] Special
    "Dialogue.Teresa.Introduction": "新客人？奴奴名叫特蕾萨，欢迎你来这里。$1",
    "Dialogue.Teresa.spring_1_2": "是新的一年吖，真好，奴奴祝你新年快乐。$1",
+   "Dialogue.Teresa.DumpsterDiveComment": "噫！！不要碰那些垃圾吖！$3",
+   "Dialogue.Teresa.GreenRain": "既然天气这么奇怪就不要出来了呀，需不需要奴奴借你一把伞？$1",
+   "Dialogue.Teresa.MovieInvitation": "谢谢你邀请奴奴，要不要带点沙漠的零食过去吃。$1",
+   "Dialogue.Teresa.AcceptGift_(O)StardropTea": "奴奴非常喜欢！你真体贴，奴奴也要准备回礼才行。$1",
    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
    //[Teresa] Birthday Gift
    "Dialogue.Teresa.AcceptBirthdayGift_Loved": "你给奴奴的生日礼物好棒！让你费心了吧？奴奴可要好好考虑你的生日该送什么礼物了。$1",

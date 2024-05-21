@@ -3886,7 +3886,106 @@
                     "Price": 100,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
-                    "SpriteIndex": 104
+                    "SpriteIndex": 103
+                }
+            }
+        },
+        //未知凝体
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "SDS_Unknowncondensate": {
+                    "Name": "SDS_Unknowncondensate",
+                    "Displayname": "{{i18n:Item.Object121.Displayname}}",
+                    "Description": "{{i18n:Item.Object121.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 500,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 110
+                }
+            }
+        },
+        //天堂券
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "SDS_ParadiseTicket": {
+                    "Name": "SDS_ParadiseTicket",
+                    "Displayname": "{{i18n:Item.Object122.Displayname}}",
+                    "Description": "{{i18n:Item.Object122.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 500,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 111
+                }
+            }
+        },
+        //鱼
+        {
+            "LogName": "Objects Data",
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                "SDS_Globostomacinerea": {
+                    "Name": "SDS_Globostomacinerea",
+                    "DisplayName": "{{i18n:Item.SDS_Globostomacinerea.DisplayName}}",
+                    "Description": "{{i18n:Item.SDS_Globostomacinerea.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 150,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "105",
+                    "Edibility": 15
+                },
+                "SDS_Redpomfret": {
+                    "Name": "SDS_Redpomfret",
+                    "DisplayName": "{{i18n:Item.SDS_Redpomfret.DisplayName}}",
+                    "Description": "{{i18n:Item.SDS_Redpomfret.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 60,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "106",
+                    "Edibility": 6
+                },
+                "SDS_Goldencarp": {
+                    "Name": "SDS_Goldencarp",
+                    "DisplayName": "{{i18n:Item.SDS_Goldencarp.DisplayName}}",
+                    "Description": "{{i18n:Item.SDS_Goldencarp.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 5000,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "107",
+                    "Edibility": 200
+                },
+                "SDS_Catoctopus": {
+                    "Name": "SDS_Catoctopus",
+                    "DisplayName": "{{i18n:Item.SDS_Catoctopus.DisplayName}}",
+                    "Description": "{{i18n:Item.SDS_Catoctopus.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 100,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "108",
+                    "Edibility": 10
+                },
+                "SDS_Peacockangelfish": {
+                    "Name": "SDS_Peacockangelfish",
+                    "DisplayName": "{{i18n:Item.SDS_Peacockangelfish.DisplayName}}",
+                    "Description": "{{i18n:Item.SDS_Peacockangelfish.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 250,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "109",
+                    "Edibility": 15
                 }
             }
         }

@@ -5,9 +5,7 @@
                   "Target": "Characters/Dialogue/MarriageDialogueMaria",
                   "Entries": {
                         "patio_Maria": "{{i18n:Dialogue.Maria.Marriage.patio_Maria}}",
-                        "jobLeave_Maria": "{{i18n:Dialogue.Maria.Marriage.jobLeave_Maria}}",
                         "funLeave_Maria": "{{i18n:Dialogue.Maria.Marriage.funLeave_Maria}}",
-                        "jobReturn_Maria": "{{i18n:Dialogue.Maria.Marriage.jobReturn_Maria}}",
                         "funReturn_Maria": "{{i18n:Dialogue.Maria.Marriage.funReturn_Maria}}",
                         "spouseRoom_Maria": "{{i18n:Dialogue.Maria.Marriage.spouseRoom_Maria}}",
                         "Rainy_Day_1": "{{i18n:Dialogue.Maria.Marriage.Rainy_Day_1}}",

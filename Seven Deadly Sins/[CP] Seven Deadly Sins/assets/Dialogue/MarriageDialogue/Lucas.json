@@ -5,9 +5,7 @@
                   "Target": "Characters/Dialogue/MarriageDialogueLucas",
                   "Entries": {
                         "patio_Lucas": "{{i18n:Dialogue.Lucas.Marriage.patio_Lucas}}",
-                        "jobLeave_Lucas": "{{i18n:Dialogue.Lucas.Marriage.jobLeave_Lucas}}",
                         "funLeave_Lucas": "{{i18n:Dialogue.Lucas.Marriage.funLeave_Lucas}}",
-                        "jobReturn_Lucas": "{{i18n:Dialogue.Lucas.Marriage.jobReturn_Lucas}}",
                         "funReturn_Lucas": "{{i18n:Dialogue.Lucas.Marriage.funReturn_Lucas}}",
                         "spouseRoom_Lucas": "{{i18n:Dialogue.Lucas.Marriage.spouseRoom_Lucas}}",
                         "Rainy_Day_0": "{{i18n:Dialogue.Lucas.Marriage.Rainy_Day_0}}",

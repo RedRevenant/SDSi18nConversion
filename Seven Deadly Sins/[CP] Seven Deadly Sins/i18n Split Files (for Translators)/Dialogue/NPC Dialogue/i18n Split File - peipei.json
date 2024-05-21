@@ -5,6 +5,10 @@
   "Dialogue.peipei.joja_Begin": "嗷嗷！嗷？$1",
   "Dialogue.peipei.movieTheater": "嗷嗷嗷！嗷嗷！$1",
   "Dialogue.peipei.MovieInvitation": "嗷嗷！#$b#%呸呸看上去很开心。",
+  "Dialogue.peipei.DumpsterDiveComment": "%呸呸疑惑的看着你，似乎不理解你为什么这样做。",
+  "Dialogue.peipei.GreenRain": "%呸呸感到有些不适。#$b#嗷嗷……嗷？$2",
+  //"Dialogue.peipei.MovieInvitation": "嗷嗷~$1",
+  "Dialogue.peipei.AcceptGift_(O)StardropTea": "嗷嗷。$1",
   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
   //[peipei Dialogue] Birthday Gift
   "Dialogue.peipei.AcceptBirthdayGift_Loved": "嗷嗷。$1",
