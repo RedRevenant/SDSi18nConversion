@@ -104,7 +104,7 @@
                     }
                 },
                 "Uriel": {
-                    "DisplayName": "乌列",
+                    "DisplayName": "{{i18n:Uriel.DisplayName}}",
                     "BirthSeason": "winter",
                     "BirthDay": 24,
                     "HomeRegion": "Town",
@@ -184,7 +184,7 @@
                     ]
                 },
                 "Hovsep": {
-                    "DisplayName": "霍夫塞普",
+                    "DisplayName": "{{i18n:Hovsep.DisplayName}}",
                     "BirthSeason": "winter",
                     "BirthDay": 2,
                     "HomeRegion": "Other",
