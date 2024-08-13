@@ -1,0 +1,82 @@
+﻿{
+   /* [Dialogue] Teresa */
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Teresa] Special
+   "Dialogue.Teresa.Introduction": "新客人？奴奴名叫特蕾萨，欢迎你来这里。$1",
+   "Dialogue.Teresa.spring_1_2": "是新的一年吖，真好，奴奴祝你新年快乐。$1",
+   "Dialogue.Teresa.DumpsterDiveComment": "噫！！不要碰那些垃圾吖！$3",
+   "Dialogue.Teresa.GreenRain": "既然天气这么奇怪就不要出来了呀，需不需要奴奴借你一把伞？$1",
+   "Dialogue.Teresa.MovieInvitation": "谢谢你邀请奴奴，要不要带点沙漠的零食过去吃。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Teresa] Gift
+   "Dialogue.Teresa.AcceptBirthdayGift_Loved": "你给奴奴的生日礼物好棒！让你费心了吧？奴奴可要好好考虑你的生日该送什么礼物了。$1",
+   "Dialogue.Teresa.AcceptBirthdayGift_Liked": "奴奴好感动哦…你居然记住了奴奴的生日，还知道奴奴喜欢什么…谢谢你！奴奴很喜欢！$1",
+   "Dialogue.Teresa.AcceptBirthdayGift_Neutral": "谢谢你吖，我回去再好好看看这份礼物。$1",
+   "Dialogue.Teresa.AcceptBirthdayGift_Disliked": "在生日的时候送对方这种东西真是太失礼了！你下次可不能这么做！$3",
+   "Dialogue.Teresa.AcceptBirthdayGift_Hated": "在生日的时候送对方这种东西真是太失礼了！你下次可不能这么做！$3",
+   "Dialogue.Teresa.AcceptGift_(O)StardropTea": "奴奴非常喜欢！你真体贴，奴奴也要准备回礼才行。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Teresa] Resort
+   "Dialogue.Teresa.Resort": "奴奴很喜欢这里。$2",
+   "Dialogue.Teresa.Resort_Bar": "时不时出来转转对心情也有好处哦。$0",
+   "Dialogue.Teresa.Resort_Chair": "要坐一会吗？注意休息呀。$1",
+   "Dialogue.Teresa.Resort_Dance": "要和奴奴一块跳舞吗？会很开心的。$1",
+   "Dialogue.Teresa.Resort_Entering": "你好呀，要和奴奴一起吗？$0",
+   "Dialogue.Teresa.Resort_Leaving": "嗯？你也要一起离开吗？$0",
+   "Dialogue.Teresa.Resort_Shore": "真是愉快的一天~$1",
+   "Dialogue.Teresa.Resort_Towel": "上次的那个茶怎么样？下次来赌场，奴奴给你泡新茶。$1",
+   "Dialogue.Teresa.Resort_Umbrella": "要和奴奴一起聊聊天吗？$0",
+   "Dialogue.Teresa.Resort_Wander": "嗯…在这里就不用担心阿维那个笨蛋赤裸半身了。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Teresa] General/Spring
+   "Dialogue.Teresa.Mon": "你好吖，到了周一就会变得格外忙碌，如果累了的话奴奴可以给你泡杯茶吖。$1",
+   "Dialogue.Teresa.Mon2": "奴奴只是一位弱女子，平时也只是给老板打扫打扫卫生罢了。$0",
+   "Dialogue.Teresa.Mon4": "那个矿洞不知道多久没人进去过了，难道你想进去吗？那太冒险了吖。$2",
+   "Dialogue.Teresa.Mon6": "啊吖！你怎么受伤了，奴奴给你上点药。$2",
+   "Dialogue.Teresa.Mon8": "吃点水果吧？沙漠的水果真够稀少的。[635]$0",
+   "Dialogue.Teresa.Mon10": "奴奴喜欢平淡的生活，打架什么的只会发生在迫不得已的紧急时刻。$0",
+   /*~*~*~*/
+   "Dialogue.Teresa.Tue": "如果不想被晒伤或者晒黑就一定得抹上防晒霜吖。$1#$b#不用管阿维那个笨蛋。$3",
+   "Dialogue.Teresa.Tue2": "我的口癖会不会很奇怪？一旦养成了习惯真的很难改呢。$1",
+   "Dialogue.Teresa.Tue4": "你见过阿维了吗，奴奴告诉你，可不要学那家伙因为太热动不动就脱掉上衣吖。$3",
+   "Dialogue.Teresa.Tue6": "你是奴奴的朋友，奴奴当然会帮助你。$0",
+   "Dialogue.Teresa.Tue8": "奴奴推荐你用这款防晒霜哦，效果很不错的。$1",
+   "Dialogue.Teresa.Tue10": "自己的朋友遇难就要出手相救！这是奴奴从小就学得的道理，但奴奴要怎么知道你什么时候有难呢...$2",
+   /*~*~*~*/
+   "Dialogue.Teresa.Wed": "阿维虽然不太懂得礼数，但是是个很仗义的朋友。$1",
+   "Dialogue.Teresa.Wed2": "你想帮奴奴打扫卫生？不不不，这太不好意思了吖，这是奴奴的工作，所以没关系。$1",
+   "Dialogue.Teresa.Wed4": "奴奴打阿维的力气好像有点太大了。$2#$b#...你说奴奴要不要给他送点药膏吖。$0",
+   "Dialogue.Teresa.Wed6": "阿维说奴奴的思想太老旧！真令人生气。$3",
+   "Dialogue.Teresa.Wed8": "你饿了吗，奴奴可以给你做点好吃的点心吖。$1",
+   "Dialogue.Teresa.Wed10": "奴奴喜欢自己的这身衣服，很轻便。$1",
+   /*~*~*~*/
+   "Dialogue.Teresa.Thu": "如果不想被晒伤或者晒黑就一定得抹上防晒霜吖，不用管阿维那个笨蛋。$3",
+   "Dialogue.Teresa.Thu2": "打扫也是有讲究的，要有效率的打扫，而且要保证干净才行吖。$1",
+   "Dialogue.Teresa.Thu4": "沙漠已经很久没人来过了，但是巴士修好后就不一样了$0#$b#如果是你修好的巴士，奴奴一定要谢谢你吖。$1",
+   "Dialogue.Teresa.Thu6": "沙漠太热了，但奴奴主要做的是室内工作，就算出去也会做好防晒。$1",
+   "Dialogue.Teresa.Thu8": "奴奴说话很无聊吗？$2#$b#感觉阿维一句话也没听进去，太过分了吖！$3",
+   "Dialogue.Teresa.Thu10": "奴奴很喜欢你的，奴奴最好的朋友！^奴奴很喜欢你的，奴奴最好的姐妹！$1",
+   /*~*~*~*/
+   "Dialogue.Teresa.Fri": "奴奴不喜欢打架，奴奴喜欢安安静静地打扫卫生。",
+   "Dialogue.Teresa.Fri2": "小心中暑吖，要不要休息一会儿？$1",
+   "Dialogue.Teresa.Fri4": "你好吖，奴奴很高兴能见到你。$1",
+   "Dialogue.Teresa.Fri6": "桑迪姐姐人很好吖，就是有时候太热情了，搞得奴奴都不太好意思了。$1",
+   "Dialogue.Teresa.Fri8": "奴奴其实不是不喜欢裙子，但是裙子对于打扫卫生来说不方便。$2",
+   "Dialogue.Teresa.Fri10": "如果有保镖欺负你记得告诉奴奴哦，奴奴会替你讨个公道的！$1#$b#老板也是个很不错的人，只不过太爱开玩笑...$2",
+   /*~*~*~*/
+   "Dialogue.Teresa.Sat": "别担心吖，桑迪姐姐人很好的，只不过店里的那些保镖长得凶了一些。$1",
+   "Dialogue.Teresa.Sat2": "奴奴其实不太喜欢保镖的衣服，黑乎乎的...$2#$b#桑迪姐姐的衣服很漂亮！$1",
+   "Dialogue.Teresa.Sat4": "刚认识阿维的时候他有没有吓到你吖？$2#$b#那家伙就那样，不用管他$1",
+   "Dialogue.Teresa.Sat6": "你喜欢奴奴的衣服风格吗？奴奴可以给你准备一件适合你的。$1",
+   "Dialogue.Teresa.Sat8": "阿维怎么能光着上身呢！太不合礼数了吖！$3",
+   "Dialogue.Teresa.Sat10": "你是奴奴的好朋友，奴奴会尽力在沙漠保护你的。$1",
+   /*~*~*~*/
+   "Dialogue.Teresa.Sun": "和你说话很开心~谢谢你来找奴奴聊天。$1",
+   "Dialogue.Teresa.Sun2": "老板是个很神秘的人，而且对待下属其实也挺好的。$0",
+   "Dialogue.Teresa.Sun4": "奴奴不确定能不能把老板的事情都告诉你...对不起吖。$2",
+   "Dialogue.Teresa.Sun6": "奴奴的老板是个很厉害的人，老板说过，你总有一天会遇见他，所以你们见过面了吗？$1",
+   "Dialogue.Teresa.Sun8": "有一点奴奴和阿维一致，那就是你是个非常讨人喜欢的朋友。$1",
+   "Dialogue.Teresa.Sun10": "你怎么有黑眼圈了！$2#$b#这可不行吖，怎么能不好好休息呢！$3"
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+}

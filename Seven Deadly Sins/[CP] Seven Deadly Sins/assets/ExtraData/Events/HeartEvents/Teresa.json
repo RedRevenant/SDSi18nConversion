@@ -1,0 +1,57 @@
+{
+    "Changes": [
+        //2 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Club",
+            "Entries": {
+                "19215111/f Teresa 500/t 900 1800": "Crystal Bells/8 10/farmer 8 12 0 Teresa 9 7 2/skippable/animate Teresa false true 200 20 20 20 20 20 21 21 21 21 21 22 22 22 22 22 23 23 23 23 23/pause 500/speed farmer 4/move farmer 0 -2 0/pause 500/emote Teresa 16/pause 500/speed Teresa 4/move Teresa -1 0 2/speed Teresa 4/move Teresa 0 1 2/pause 500/speak Teresa \"{{i18n:event-19215111.01}}\"/pause 500/speed Teresa 6/move Teresa 2 0 0/speed Teresa 6/move Teresa 0 -3 0/pause 500/speed Teresa 6/move Teresa 0 3 3/speed Teresa 6/move Teresa -2 0 2/pause 500/speak Teresa \"{{i18n:event-19215111.02}}\"/pause 500/farmerEat 614/pause 3000/emote farmer 32/pause 500/move farmer 0 0 0/pause 500/speak Teresa \"{{i18n:event-19215111.03}}\"/pause 500/question fork1 \"{{i18n:event-19215111.04}}#{{i18n:event-19215111.05}}#{{i18n:event-19215111.06}}#\"/fork Thelp/pause 500/speak Teresa \"{{i18n:event-19215111.07}}\"/emote Teresa 32/pause 500/speak Teresa \"{{i18n:event-19215111.08}}\"/pause 500/emote farmer 32/speak Teresa \"{{i18n:event-19215111.09}}\"/pause 500/end",
+                "Thelp": "pause 500/speak Teresa \"{{i18n:event-19215111.Thelp.01}}\"/pause 500/emote Teresa 32/pause 500/speak Teresa \"{{i18n:event-19215111.Thelp.02}}\"/pause 500/end"
+            }
+        },
+        //4 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Club",
+            "Entries": {
+                "19215112/f Teresa 1000/e 19215111/t 900 1800": "Crystal Bells/10 6/farmer 9 9 0 Teresa 11 5 2/skippable/showFrame Teresa 32/pause 500/emote Teresa 40/pause 500/message \"{{i18n:event-19215112.01}}\"/pause 500/speed farmer 4/move farmer 0 -2 1/move farmer 2 0 0/jump Teresa 6/emote Teresa 16/pause 500/question null \"{{i18n:event-19215112.02}}#{{i18n:event-19215112.03}}#{{i18n:event-19215112.04}}#\"/pause 200/showFrame 0/speak Teresa \"{{i18n:event-19215112.05}}\"/pause 500/emote Teresa 32/pause 500/speak Teresa \"{{i18n:event-19215112.06}}\"/pause 500/question fork1 \"{{i18n:event-19215112.07}}#{{i18n:event-19215112.08}}#{{i18n:event-19215112.09}}#\"/fork Tleave/pause 500/speak Teresa \"{{i18n:event-19215112.10}}\"/pause 100/globalFade/viewport 1000 1000/showFrame Teresa 28/viewport 10 6/pause 500/shake Teresa 10000/pause 500/textAboveHead Teresa \"{{i18n:event-19215112.11}}\"/pause 1000/screenFlash .5/screenFlash .5/textAboveHead Teresa \"{{i18n:event-19215112.12}}\"/shake Teresa 1/showFrame Teresa 29/pause 100/showFrame Teresa 30/pause 100/showFrame Teresa 31/jump farmer 7/pause 200/globalFade/viewport 1000 1000/message \"{{i18n:event-19215112.13}}\"/showFrame Teresa 0/move Teresa 0 0 2/pause 500/viewport 10 6/pause 500/speak Teresa \"{{i18n:event-19215112.14}}\"/pause 500/emote Teresa 32/emote farmer 60/pause 500/end",
+                "Tleave": "pause 500/showFrame Teresa 39/speak Teresa \"{{i18n:event-19215112.Tleave.01}}\"/pause 500/emote farmer 60/pause 500/speak Teresa \"{{i18n:event-19215112.Tleave.02}}\"/pause 500/emote Teresa 32/pause 500/speak Teresa \"{{i18n:event-19215112.Tleave.03}}\"/pause 500/end"
+            }
+        },
+        //6 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Custom_SDS.TeresaHome",
+            "Entries": {
+                "19215114/t 1400 1700/n SDSTeresa6": "Crystal Bells/13 13/farmer 11 17 0 Teresa 13 13 2/skippable/pause 500/emote Teresa 16/pause 500/speak Teresa \"{{i18n:event-19215114.01}}\"/pause 500/speed farmer 4/move farmer 0 -3 1/move farmer 1 0 1/pause 500/animate Teresa false true 200 18 18 18 18 19 19 19 19/message \"{{i18n:event-19215114.02}}\"/pause 1000/stopAnimation Teresa/pause 200/speak Teresa \"{{i18n:event-19215114.03}}\"/pause 500/farmerEat 614/emote Teresa 32/pause 2500/move farmer 0 0 1/pause 100/speak Teresa \"{{i18n:event-19215114.04}}\"/pause 500/question fork1 \"{{i18n:event-19215114.05}}#{{i18n:event-19215114.06}}#{{i18n:event-19215114.07}}#\"/fork Tangry/pause 500/speak Teresa \"{{i18n:event-19215114.08}}\"/pause 500/question null \"{{i18n:event-19215114.09}}#{{i18n:event-19215114.10}}#{{i18n:event-19215114.11}}#{{i18n:event-19215114.12}}#\"/pause 500/showFrame Teresa 33/emote Teresa 40/pause 500/speak Teresa \"{{i18n:event-19215114.13}}\"/pause 500/emote farmer 32/pause 500/end",
+                "Tangry": "pause 500/speak Teresa \"{{i18n:event-19215114.Tangry.01}}\"/pause 500/emote Teresa 32/pause 500/speak Teresa \"{{i18n:event-19215114.Tangry.02}}\"/pause 500/speak Teresa \"{{i18n:event-19215114.Tangry.03}}\"/pause 500/end"
+            }
+        },
+        //8 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Club",
+            "Entries": {
+                "19215115/f Teresa 2000/e 19215114/t 900 1800": "Crystal Bells/8 8/farmer 8 8 1 Teresa 1000 1000 0/skippable/pause 500/emote farmer 8/pause 500/move farmer 0 0 2/pause 500/move farmer 0 0 3/pause 500/message \"{{i18n:event-19215115.01}}\"/pause 500/warp Teresa 8 13/move Teresa 0 0 0/textAboveHead Teresa \"{{i18n:event-19215115.02}}\"/speed Teresa 2/move Teresa 0 -4 0/move farmer 0 0 2/jump farmer/pause 500/emote Teresa 32/pause 500/move Teresa 0 0 2/jump Teresa 7/pause 500/speak Teresa \"{{i18n:event-19215115.03}}\"/pause 500/speed Teresa 6/move Teresa 0 4 2/warp Teresa 500 500/pause 500/message \"{{i18n:event-19215115.04}}\"/pause 500/emote farmer 40/pause 500/globalFade/viewport 1000 1000/pause 500/globalFade/viewport 8 8/warp Teresa 8 13/move Teresa 0 0 0/message \"{{i18n:event-19215115.05}}\"/pause 500/speed Teresa 4/move Teresa 0 -4 0/pause 500/speak Teresa \"{{i18n:event-19215115.06}}\"/pause 500/question fork1 \"{{i18n:event-19215115.07}}#{{i18n:event-19215115.08}}#{{i18n:event-19215115.09}}#\"/fork Tclothing/pause 500/message \"{{i18n:event-19215115.10}}\"/pause 500/speak Teresa \"{{i18n:event-19215115.11}}\"/pause 500/emote Teresa 16/pause 500/message \"{{i18n:event-19215115.12}}\"/pause 500/emote farmer 8/pause 500/speak Teresa \"{{i18n:event-19215115.13}}\"/pause 500/emote Teresa 40/pause 500/textAboveHead Teresa \"{{i18n:event-19215115.14}}\"/pause 1500/speak Teresa \"{{i18n:event-19215115.15}}\"/pause 500/end",
+                "Tclothing": "pause 500/textAboveHead Teresa \"{{i18n:event-19215115.Tclothing.01}}\"/pause 500/message \"{{i18n:event-19215115.Tclothing.02}}\"/pause 500/speak Teresa \"{{i18n:event-19215115.Tclothing.03}}\"/pause 500/emote Teresa 40/pause 500/speak Teresa \"{{i18n:event-19215115.Tclothing.04}}\"/pause 500/speak Teresa \"{{i18n:event-19215115.Tclothing.05}}\"/pause 500/end"
+            }
+        },
+        //10 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Club",
+            "Entries": {
+                "19215116/f Teresa 2500/e 19215115/t 1000 1800": "Crystal Bells/9 9/farmer 8 12 0 passer 11 9 0/skippable/showFrame passer 0/pause 500/speed farmer 4/move farmer 0 -3 0/pause 500/emote farmer 40/pause 500/message \"{{i18n:event-19215116.01}}\"/pause 500/move farmer 0 -1 2/pause 500/textAboveHead passer \"{{i18n:event-19215116.02}}\"/pause 200/move farmer 0 0 1/emote farmer 8/pause 1000/textAboveHead passer \"{{i18n:event-19215116.03}}\"/pause 1000/emote farmer 40/pause 500/message \"{{i18n:event-19215116.04}}\"/pause 500/end"
+            }
+        },
+        //General Event 1
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Custom_SDS.TeresaHome",
+            "Entries": {
+                "19215117/e 19215116/t 1200 1800": "Crystal Bells/6 7/farmer 10 11 3 Teresa 5 6 0/skippable/pause 500/speed farmer 4/move farmer -1 0 0/move farmer 0 -2 3/move farmer -3 0 0/pause 500/emote farmer 32/pause 500/move Teresa 0 0 2/jump Teresa 6/emote Teresa 16/pause 500/speak Teresa \"{{i18n:event-19215117.01}}\"/pause 500/move Teresa 1 0 1/pause 200/move Teresa 1 0 1/showFrame Teresa 34/shake Teresa 1000/emote farmer 40/pause 500/message \"{{i18n:event-19215117.02}}\"/pause 500/question null \"{{i18n:event-19215117.03}}#{{i18n:event-19215117.04}}#{{i18n:event-19215117.05}}#{{i18n:event-19215117.06}}#\"/pause 100/speed farmer 8/move farmer 2 0 0/move farmer 0 -3 3/eyes 4 -1000/pause 500/speak Teresa \"{{i18n:event-19215117.07}}\"/pause 500/shake Teresa 1/move Teresa 0 -1 2/showFrame Teresa 35/pause 500/question fork1 \"{{i18n:event-19215117.08}}#{{i18n:event-19215117.09}}#{{i18n:event-19215117.10}}#\"/fork Till/pause 500/globalFade/viewport 1000 1000/warp farmer 7 6/move farmer 0 0 0/playSound wateringCan/pause 500/message \"{{i18n:event-19215117.11}}\"/message \"{{i18n:event-19215117.12}}\"/pause 500/globalFade/viewport 6 7/pause 100/question null \"{{i18n:event-19215117.13}}#{{i18n:event-19215117.14}}#{{i18n:event-19215117.15}}#{{i18n:event-19215117.16}}#\"/pause 500/showFrame Teresa 36/emote Teresa 32/pause 500/message \"{{i18n:event-19215117.17}}\"/pause 500/textAboveHead Teresa \"{{i18n:event-19215117.18}}\"/pause 1000/speak Teresa \"{{i18n:event-19215117.19}}\"/pause 500/showFrame Teresa 37/pause 500/speak Teresa \"{{i18n:event-19215117.20}}\"/pause 500/emote farmer 32/pause 500/globalFade/viewport 1000 1000/pause 100/message \"{{i18n:event-19215117.21}}\"/pause 100/message \"{{i18n:event-19215117.22}}\"/pause 500/speak Teresa \"{{i18n:event-19215117.23}}\"/pause 500/end",
+                "Till": "pause 500/speed farmer 3/move farmer 0 -1 3/pause 500/emote farmer 60/pause 500/showFrame Teresa 38/emote Teresa 40/pause 500/speak Teresa \"{{i18n:event-19215117.Till.01}}\"/pause 500/showFrame Teresa 35/message \"{{i18n:event-19215117.Till.02}}\"/pause 500/speak Teresa \"{{i18n:event-19215117.Till.03}}\"/pause 500/emote Teresa 32/pause 500/speak Teresa \"{{i18n:event-19215117.Till.04}}\"/pause 500/emote farmer 32/pause 500/end"
+            }
+        }
+    ]
+}

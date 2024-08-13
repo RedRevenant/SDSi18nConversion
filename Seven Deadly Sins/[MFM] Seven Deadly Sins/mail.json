@@ -1,0 +1,798 @@
+[
+    {
+        "Id": "SDS.notice1",
+        "GroupId": "SDS.notice1",
+        "Title": "SDS.notice1.Title",
+        "Text": "SDS.notice1.Text",
+        "Date": "1 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 3,
+        "TextColor": -1,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.notice2",
+        "GroupId": "SDS.notice2",
+        "Title": "SDS.notice2.Title",
+        "Text": "SDS.notice2.Text",
+        "Date": "1 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 3,
+        "TextColor": -1,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.notice5",
+        "GroupId": "SDS.notice5",
+        "Title": "SDS.notice5.Title",
+        "Text": "SDS.notice5.Text",
+        "Date": "1 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 3,
+        "TextColor": -1,
+        "UpperRightCloseButton": null
+    },
+    //npc赠送食谱
+    {
+        "Id": "SDS.present1",
+        "GroupId": "SDS.present1",
+        "Title": "SDS.present1.Title",
+        "Text": "SDS.present1.Text",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 0,
+        "TextColor": 8, //Remove this line to use the default color. -1 = Dark Red, 0 = Black, 1 = Sky Blue, 2 = Red, 3 = Blue Violet, 4 = White, 5 = Orange Red, 6 = Lime Green, 7 = Cyan, 8 = Darkest Gray
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Lucas",
+                "FriendshipLevel": 5
+            }
+        ],
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_StrawberrymacaronRecipe",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.present2",
+        "GroupId": "SDS.present2",
+        "Title": "SDS.present2.Title",
+        "Text": "SDS.present2.Text",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Lucas",
+                "FriendshipLevel": 2
+            }
+        ],
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_BlueberryBlackForestCakeRecipe",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.present3",
+        "GroupId": "SDS.present3",
+        "Title": "SDS.present3.Title",
+        "Text": "SDS.present3.Text",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Uriel",
+                "FriendshipLevel": 4
+            }
+        ],
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_RhombicbiscuitRecipe",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.present4",
+        "GroupId": "SDS.present4",
+        "Title": "SDS.present4.Title",
+        "Text": "SDS.present4.Text",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Rane",
+                "FriendshipLevel": 2
+            }
+        ],
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_GlutinousricecakeRecipe",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.present5",
+        "GroupId": "SDS.present5",
+        "Title": "SDS.present5.Title",
+        "Text": "SDS.present5.Text",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Lane",
+                "FriendshipLevel": 2
+            }
+        ],
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_VanillaOrangeCakeRecipe",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.present6",
+        "GroupId": "SDS.present6",
+        "Title": "SDS.present6.Title",
+        "Text": "SDS.present6.Text",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Raymond",
+                "FriendshipLevel": 4
+            }
+        ],
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_WinterStarCakeRecipe",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled41",
+        "GroupId": "SDS.Untitled41",
+        "Title": "SDS.Untitled41.Title",
+        "Text": "SDS.Untitled41.Text",
+        "Date": "2 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled1",
+        "GroupId": "SDS.Untitled1",
+        "Title": "SDS.Untitled1.Title",
+        "Text": "SDS.Untitled1.Text",
+        "Date": "7 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Rugosarose",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled38",
+        "GroupId": "SDS.Untitled38",
+        "Title": "SDS.Untitled38.Title",
+        "Text": "SDS.Untitled38.Text",
+        "Date": "10 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "Joja Cola",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled2",
+        "GroupId": "SDS.Untitled2",
+        "Title": "SDS.Untitled2.Title",
+        "Text": "SDS.Untitled2.Text",
+        "Date": "14 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled39",
+        "GroupId": "SDS.Untitled39",
+        "Title": "SDS.Untitled39.Title",
+        "Text": "SDS.Untitled39.Text",
+        "Date": "18 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled3",
+        "GroupId": "SDS.Untitled3",
+        "Title": "SDS.Untitled3.Title",
+        "Text": "SDS.Untitled3.Text",
+        "Date": "21 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Rugosarose",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled40",
+        "GroupId": "SDS.Untitled40",
+        "Title": "SDS.Untitled40.Title",
+        "Text": "SDS.Untitled40.Text",
+        "Date": "25 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled4",
+        "GroupId": "SDS.Untitled4",
+        "Title": "SDS.Untitled41.Title",
+        "Text": "SDS.Untitled41.Text",
+        "Date": "28 spring Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled5",
+        "GroupId": "SDS.Untitled5",
+        "Title": "SDS.Untitled5.Title",
+        "Text": "SDS.Untitled5.Text",
+        "Date": "7 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled42",
+        "GroupId": "SDS.Untitled42",
+        "Title": "SDS.Untitled42.Title",
+        "Text": "SDS.Untitled42.Text",
+        "Date": "12 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled6",
+        "GroupId": "SDS.Untitled6",
+        "Title": "SDS.Untitled6.Title",
+        "Text": "SDS.Untitled6.Text",
+        "Date": "14 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "Cactus Fruit",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled46",
+        "GroupId": "SDS.Untitled46",
+        "Title": "SDS.Untitled46.Title",
+        "Text": "SDS.Untitled46.Text",
+        "Date": "15 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled43",
+        "GroupId": "SDS.Untitled43",
+        "Title": "SDS.Untitled43.Title",
+        "Text": "SDS.Untitled43.Text",
+        "Date": "16 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled7",
+        "GroupId": "SDS.Untitled7",
+        "Title": "SDS.Untitled7.Title",
+        "Text": "SDS.Untitled7.Text",
+        "Date": "21 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled8",
+        "GroupId": "SDS.Untitled8",
+        "Title": "SDS.Untitled8.Title",
+        "Text": "SDS.Untitled8.Text",
+        "Date": "28 summer Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Vanillacoffee",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled9",
+        "GroupId": "SDS.Untitled9",
+        "Title": "SDS.Untitled9.Title",
+        "Text": "SDS.Untitled9.Text",
+        "Date": "7 fall Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled10",
+        "GroupId": "SDS.Untitled10",
+        "Title": "SDS.Untitled10.Title",
+        "Text": "SDS.Untitled10.Text",
+        "Date": "14 fall Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Cremebrulee",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled11",
+        "GroupId": "SDS.Untitled11",
+        "Title": "SDS.Untitled11.Title",
+        "Text": "SDS.Untitled11.Text",
+        "Date": "21 fall Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled12",
+        "GroupId": "SDS.Untitled12",
+        "Title": "SDS.Untitled12.Title",
+        "Text": "SDS.Untitled12.Text",
+        "Date": "28 fall Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled13",
+        "GroupId": "SDS.Untitled13",
+        "Title": "SDS.Untitled13.Title",
+        "Text": "SDS.Untitled13.Text",
+        "Date": "7 winter Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Nightwillowherb",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled45",
+        "GroupId": "SDS.Untitled45",
+        "Title": "SDS.Untitled45.Title",
+        "Text": "SDS.Untitled45.Text",
+        "Date": "8 winter Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled14",
+        "GroupId": "SDS.Untitled14",
+        "Title": "SDS.Untitled14.Title",
+        "Text": "SDS.Untitled14.Text",
+        "Date": "14 winter Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled15",
+        "GroupId": "SDS.Untitled15",
+        "Title": "SDS.Untitled15.Title",
+        "Text": "SDS.Untitled15.Text",
+        "Date": "21 winter Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled16",
+        "GroupId": "SDS.Untitled16",
+        "Title": "SDS.Untitled16.Title",
+        "Text": "SDS.Untitled16.Text",
+        "Date": "28 winter Y1",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled17",
+        "GroupId": "SDS.Untitled17",
+        "Title": "SDS.Untitled17.Title",
+        "Text": "SDS.Untitled17.Text",
+        "Date": "7 spring Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Blueflashbutterfly",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled44",
+        "GroupId": "SDS.Untitled44",
+        "Title": "SDS.Untitled44.Title",
+        "Text": "SDS.Untitled44.Text",
+        "Date": "12 spring Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled18",
+        "GroupId": "SDS.Untitled18",
+        "Title": "SDS.Untitled18.Title",
+        "Text": "SDS.Untitled18.Text",
+        "Date": "14 spring Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled19",
+        "GroupId": "SDS.Untitled19",
+        "Title": "SDS.Untitled19.Title",
+        "Text": "SDS.Untitled19.Text",
+        "Date": "21 spring Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled20",
+        "GroupId": "SDS.Untitled20",
+        "Title": "SDS.Untitled20.Title",
+        "Text": "SDS.Untitled20.Text",
+        "Date": "28 spring Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled21",
+        "GroupId": "SDS.Untitled21",
+        "Title": "SDS.Untitled21.Title",
+        "Text": "SDS.Untitled21.Text",
+        "Date": "7 summer Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled22",
+        "GroupId": "SDS.Untitled22",
+        "Title": "SDS.Untitled22.Title",
+        "Text": "SDS.Untitled22.Text",
+        "Date": "14 summer Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled23",
+        "GroupId": "SDS.Untitled23",
+        "Title": "SDS.Untitled23.Title",
+        "Text": "SDS.Untitled23.Text",
+        "Date": "21 summer Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled24",
+        "GroupId": "SDS.Untitled24",
+        "Title": "SDS.Untitled24.Title",
+        "Text": "SDS.Untitled24.Text",
+        "Date": "28 summer Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Rugosarose",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled25",
+        "GroupId": "SDS.Untitled25",
+        "Title": "SDS.Untitled25.Title",
+        "Text": "SDS.Untitled25.Text",
+        "Date": "7 fall Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "Attachments": [
+            {
+                "Type": "Object",
+                "Name": "SDS_Chineseherbaceouspeony",
+                "Index": 78,
+                "Stack": 1
+            }
+        ]
+    },
+    {
+        "Id": "SDS.Untitled26",
+        "GroupId": "SDS.Untitled26",
+        "Title": "SDS.Untitled26.Title",
+        "Text": "SDS.Untitled26.Text",
+        "Date": "14 fall Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled49",
+        "GroupId": "SDS.Untitled49",
+        "Title": "SDS.Untitled49.Title",
+        "Text": "SDS.Untitled49.Text",
+        "Date": "20 fall Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled27",
+        "GroupId": "SDS.Untitled27",
+        "Title": "SDS.Untitled27.Title",
+        "Text": "SDS.Untitled27.Text",
+        "Date": "21 fall Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled47",
+        "GroupId": "SDS.Untitled47",
+        "Title": "SDS.Untitled47.Title",
+        "Text": "SDS.Untitled47.Text",
+        "Date": "25 fall Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled28",
+        "GroupId": "SDS.Untitled28",
+        "Title": "SDS.Untitled28.Title",
+        "Text": "SDS.Untitled28.Text",
+        "Date": "28 fall Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled29",
+        "GroupId": "SDS.Untitled29",
+        "Title": "SDS.Untitled29.Title",
+        "Text": "SDS.Untitled29.Text",
+        "Date": "7 winter Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled30",
+        "GroupId": "SDS.Untitled30",
+        "Title": "SDS.Untitled30.Title",
+        "Text": "SDS.Untitled30.Text",
+        "Date": "14 winter Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled31",
+        "GroupId": "SDS.Untitled31",
+        "Title": "SDS.Untitled31.Title",
+        "Text": "SDS.Untitled31.Text",
+        "Date": "21 winter Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled32",
+        "GroupId": "SDS.Untitled32",
+        "Title": "SDS.Untitled32.Title",
+        "Text": "SDS.Untitled32.Text",
+        "Date": "28 winter Y2",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled33",
+        "GroupId": "SDS.Untitled33",
+        "Title": "SDS.Untitled33.Title",
+        "Text": "SDS.Untitled33.Text",
+        "Date": "7 spring Y3",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled34",
+        "GroupId": "SDS.Untitled34",
+        "Title": "SDS.Untitled34.Title",
+        "Text": "SDS.Untitled34.Text",
+        "Date": "14 spring Y3",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled35",
+        "GroupId": "SDS.Untitled35",
+        "Title": "SDS.Untitled35.Title",
+        "Text": "SDS.Untitled35.Text",
+        "Date": "21 spring Y3",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled48",
+        "GroupId": "SDS.Untitled48",
+        "Title": "SDS.Untitled48.Title",
+        "Text": "SDS.Untitled48.Text",
+        "Date": "23 spring Y3",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled36",
+        "GroupId": "SDS.Untitled36",
+        "Title": "SDS.Untitled36.Title",
+        "Text": "SDS.Untitled36.Text",
+        "Date": "28 spring Y3",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    },
+    {
+        "Id": "SDS.Untitled37",
+        "GroupId": "SDS.Untitled37",
+        "Title": "SDS.Untitled37.Title",
+        "Text": "SDS.Untitled37.Text",
+        "Date": "7 summer Y3",
+        "LetterBG": "SDS.letterBG.png",
+        "WhichBG": 1,
+        "TextColor": 8,
+        "UpperRightCloseButton": null
+    }
+]

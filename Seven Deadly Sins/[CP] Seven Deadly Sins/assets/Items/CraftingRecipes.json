@@ -1,0 +1,14 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/CraftingRecipes",
+      "Entries": {
+        "SDS_Seatransport": "771 20 390 30 388 15/Home/SDS_Seatransport/false/Foraging 3/{{i18n:SDS_Seatransport}}",
+        "SDS_Churchtransport": "709 5 390 20 388 30/Home/SDS_Churchtransport/false/Foraging 1/{{i18n:SDS_Churchtransport}}",
+        "SDS_clifftransport": "390 25 388 30/Home/SDS_clifftransport/false/Foraging 2/{{i18n:SDS_clifftransport}}",
+        "SDS_Citytransport": "709 25 390 35 388 50/Home/SDS_Citytransport/false/Foraging 2/{{i18n:SDS_Citytransport}}"
+      }
+    }
+  ]
+}

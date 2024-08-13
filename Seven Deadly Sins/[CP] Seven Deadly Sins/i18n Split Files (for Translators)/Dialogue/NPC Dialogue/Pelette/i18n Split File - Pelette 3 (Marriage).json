@@ -1,0 +1,501 @@
+{
+      /* [Dialogue] Pelette (Marriage) */
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Special
+      "Dialogue.Pelette.Marriage.patio_Pelette": "早上好，亲爱的。我在外面锻炼一下我的身体，等会儿结束了就给你去做饭。今天有什么想要吃的吗？还是去格斯那边吃？$1#$q 18000800/18000801 patio_Pelette_P1old#……#$r 18000800 0 patio_Pelette_18000800#去格斯那边吧#$r 18000801 0 patio_Pelette_18000801#在家里吃吧，我想吃你做的饭",
+      "Dialogue.Pelette.Marriage.patio_Pelette_18000800": "好的，我知道了，那久违的去那边喝两杯好了。$8",
+      "Dialogue.Pelette.Marriage.patio_Pelette_18000801": "……。#$b#%佩莱特的表情停顿了数秒，随后一阵鲜艳的红浮上了他的脸颊。#$b#哦…哦，呃，那真是太好了我是说。我等会儿就去准备一下！$5",
+      "Dialogue.Pelette.Marriage.patio_Pelette_P1old": "想吃我做的饭……。#$b#%佩莱特的表情停顿了数秒，随后一阵鲜艳的红浮上了他的脸颊。#$b#哦…哦，呃，那真是太好了我是说。我等会儿就去准备一下！$5",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.funLeave_Pelette": "偶尔也会想长跑一下，但是感觉会很奇怪，还是别给大家带去困扰了……$2#$b#所以，我就到处走走吧。刚好顺路去给呸呸买点口粮。#$q 18000802/18000803 funLeave_Pelette_P1old#……#$r 18000802 0 funLeave_Pelette_18000802#还要去花车那边看看吗？#$r 18000803 0 funLeave_Pelette_18000803#我爱你，早点回来",
+      "Dialogue.Pelette.Marriage.funLeave_Pelette_18000802": "当然，这也在我的散步行列之中。我知道你懂我，你总是这样。我爱你。我爱你，@。$1#$b#%毫无缘由的爱语从佩莱特的口中吐露，他的声音里充满了笑意，你知道，他很爱你。",
+      "Dialogue.Pelette.Marriage.funLeave_Pelette_18000803": "我会的，别太想我，如果实在想我就和我一起吧。好了，我会很快回来。$8",
+      "Dialogue.Pelette.Marriage.funLeave_Pelette_P1old": "别太想我，如果实在想我就和我一起吧。好了，我会很快回来。$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.funReturn_Pelette": "运动会让身体变热，这种感觉实际上还不赖，我喜欢身体保持轻盈有力的状态。$8#$b#啊，对了。还有这个。$1#$b#我给你带了礼物。呃，虽然我觉得挺不错的，但果然还是要看你喜不喜欢。好了，赶紧打开看看吧？[113 155 161 162 128 212 211 216 229 240 241 248 593 595 597 605 608 607 651 725]$13#$q 18000804/18000805 funReturn_Pelette_P1old#……#$r 18000804 0 funReturn_Pelette_18000804#你看起来很愉快#$r 18000805 0 funReturn_Pelette_18000805#下次我们一起吧？",
+      "Dialogue.Pelette.Marriage.funReturn_Pelette_18000804": "锻炼总是让人忘却烦恼，即便它是军营里留下的习惯，但这份习惯确实对我有利而无害。$1#$b#怎么样，下次我们一起吧？亲爱的？$8",
+      "Dialogue.Pelette.Marriage.funReturn_Pelette_18000805": "当然，随时欢迎，不过你的农活总是很多吧？下次我帮你做点，然后我们就有时间一起了。$1#$b#你想爬山还是去海里游泳？嗯。果然这两个都不错。$8",
+      "Dialogue.Pelette.Marriage.funReturn_Pelette_P1old": "锻炼总是让人忘却烦恼，即便它是军营里留下的习惯，但这份习惯确实对我有利而无害。$1#$b#怎么样，下次我们一起吧？亲爱的？$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.spouseRoom_Pelette": "我在擦拭我的刀，它是我最后也是唯一的伙伴了。我习惯了它，它也习惯了我。$0#$b#……呃，很无聊吧，听我说这些事情。好吧，你随意坐下，等我忙完了就来陪你。$1#$q 18000806/18000807 spouseRoom_Pelette_P1old#……#$r 18000806 0 spouseRoom_Pelette_18000806#啾啾#$r 18000807 0 spouseRoom_Pelette_18000807#我可以试试吗？",
+      "Dialogue.Pelette.Marriage.spouseRoom_Pelette_18000806": "啾啾。……咳。$4",
+      "Dialogue.Pelette.Marriage.spouseRoom_Pelette_18000807": "下次吧。下次我先教你怎么使用这些东西，现在的话，我怕你会受伤。$0",
+      "Dialogue.Pelette.Marriage.spouseRoom_Pelette_P1old": "下次我先教你怎么使用这些东西，现在的话，我怕你会受伤。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.spring_Pelette_new": "春天的时候地上会开一些黄水仙，这个花很像一朵朵小小的太阳、呃，或者说星星？$0#$b#好吧，我确实对自己的造句能力没什么自信。你觉得哪个更好一点，亲爱的。$1#$q 18001000/18001001/18001002 spring_Pelette_P1old_new#……#$r 18001000 0 spring_Pelette_18001000#你应该觉得自己说的才是最好的，自信一点#$r 18001001 0 spring_Pelette_18001001#星星吧？#$r 18001002 0 spring_Pelette_18001002#太阳吧？",
+      "Dialogue.Pelette.Marriage.spring_Pelette_18001000": "……这样吗？好吧。那就——像一个个小太阳吧。$1#$b#绽放在春日里，黄黄的，很可爱。嗯，这么一说也很像明媚的你。$8#$b#你也很可爱。我喜欢你。$1",
+      "Dialogue.Pelette.Marriage.spring_Pelette_18001001": "星星啊？嗯……也确实很像夜晚的星星，因为都是小小的。$1#$b#不过我觉得夜晚的星星还是太冷了一些，它们在我看来要更加温暖一点。$8#$b#或许是盛开在春天的缘故。$1",
+      "Dialogue.Pelette.Marriage.spring_Pelette_18001002": "喔！你也这么觉得吗？那真是太巧了，我俩刚好想的一样。$1",
+      "Dialogue.Pelette.Marriage.spring_Pelette_P1old_new": "喔！你也这么觉得吗？那真是太巧了，我俩刚好想的一样。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.summer_Pelette_new": "夏天的时候，野外的地上会出现带着香气的甜豌豆。$0#$b#如果你对它有需要的话，我会带些回来送给你。$1#$q 18001003/18001004 summer_Pelette_P1old_new#……#$r 18001003 0 summer_Pelette_18001003#不是我有需要，而是你想送#$r 18001004 0 summer_Pelette_18001004#我喜欢这个",
+      "Dialogue.Pelette.Marriage.summer_Pelette_18001003": "呃，应该这么说吗？不过我本身就是这个意思……$0#$b#但你说得对，亲爱的。嗯。或许我应该再温柔一点，再柔和一点。$1#$b#因为现在的我得作为一个丈夫去考虑自己妻子的心情。$8#$b#所以说，会说话也是很重要的。$0",
+      "Dialogue.Pelette.Marriage.summer_Pelette_18001004": "嗯，我知道。我有记着这一点。$1",
+      "Dialogue.Pelette.Marriage.summer_Pelette_P1old_new": "呃，应该这么说吗？不过我本身就是这个意思……$0#$b#但你说得对，亲爱的。嗯。或许我应该再温柔一点，再柔和一点。$1#$b#因为现在的我得作为一个丈夫去考虑自己妻子的心情。$8#$b#所以说，会说话也是很重要的。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.fall_Pelette_new": "不知不觉秋天也到来了。接下来你的农场会忙起来了吧？$0#$b#如果有什么需要力气活的事情，随时都可以来叫我去帮你。$1#$b#亲爱的，别忘了你有一位可以使唤的丈夫。#$q 18001005/18001006 fall_Pelette_P1old_new#……#$r 18001005 0 fall_Pelette_18001005#你的笑话越来越出色了#$r 18001006 0 fall_Pelette_18001006#真可靠！",
+      "Dialogue.Pelette.Marriage.fall_Pelette_18001005": "是吗？我也觉得。我会努力的！$1",
+      "Dialogue.Pelette.Marriage.fall_Pelette_18001006": "嗯。尽情使唤我吧，我愿意为你解决你解决不了的事情。$1#$b#如果我做得到的话，那就是一定。$8",
+      "Dialogue.Pelette.Marriage.fall_Pelette_P1old_new": "我会努力的！$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.winter_Pelette_new": "这里的冬天虽然很温柔，但是……果然我还是不喜欢这个季节。$0#$b#即便它没有记忆里的凌冽和寒冷。唉。$2#$q 18001007/18001008 winter_Pelette_P1old_new#……#$r 18001007 0 winter_Pelette_18001007#别叹气，我在你身边#$r 18001008 0 winter_Pelette_18001008#（主动抱住他）",
+      "Dialogue.Pelette.Marriage.winter_Pelette_18001007": "我知道，你现在就在我的身边……我们、所以……你会一直在我的身边，对吗？$1",
+      "Dialogue.Pelette.Marriage.winter_Pelette_18001008": "…，……。$0#$b#%佩莱特愣了一下，随后自然地低头埋在你的肩头，他的发丝磨蹭着你的脖颈，有些痒痒的。#$b#谢谢你，亲爱的，我感觉好多了！$1",
+      "Dialogue.Pelette.Marriage.winter_Pelette_P1old_new": "你现在就在我的身边……我们、所以……你会一直在我的身边，对吗？$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Day_Pelette": "下雨的时候我一直在想一个事情……$0#$q 18001009/18001010 Rainy_Day_Pelette_P1old#……#$r 18001009 0 Rainy_Day_Pelette_18001009#嗯？#$r 18001010 0 Rainy_Day_Pelette_18001010#你是不是在想关于我的事情",
+      "Dialogue.Pelette.Marriage.Rainy_Day_Pelette_18001009": "我在想你为什么总是顶着大雨跑来跑去。$0#$b#虽然我自己以前也不那么在意，但是现在我注意到了。$7#$b#好吧，我是想说——出门记得拿把伞，亲爱的。我担心你感冒。$1",
+      "Dialogue.Pelette.Marriage.Rainy_Day_Pelette_18001010": "你怎么知道？不愧是我爱的人！$1",
+      "Dialogue.Pelette.Marriage.Rainy_Day_Pelette_P1old": "我在想你为什么总是顶着大雨跑来跑去。$0#$b#虽然我自己以前也不那么在意，但是现在我注意到了。$7#$b#好吧，我是想说——出门记得拿把伞，亲爱的。我担心你感冒。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Night_Pelette": "晚上了，雨声也渐渐变得安静了起来。或许是因为白天人们活动的声音消失了吧？$0#$b#好了，先不说我这边的了。今天你都做了些什么，亲爱的？说给我听听吧。$1#$q 18001011/18001012/18001013 Rainy_Night_Pelette_P1old#……#$r 18001011 0 Rainy_Night_Pelette_18001011#今天我去钓鱼了#$r 18001012 0 Rainy_Night_Pelette_18001012#今天我去采集了些东西#$r 18001013 0 Rainy_Night_Pelette_18001013#我今天到处走了走",
+      "Dialogue.Pelette.Marriage.Rainy_Night_Pelette_18001011": "钓鱼吗？雨天确实有一些特殊上杆的鱼类。$0#$b#那你的收获怎么样？肯定是收获满满吧！$1",
+      "Dialogue.Pelette.Marriage.Rainy_Night_Pelette_18001012": "难怪你的身上都湿了……快去洗洗吧，我去给你做饭！$6",
+      "Dialogue.Pelette.Marriage.Rainy_Night_Pelette_18001013": "是吗！雨天散步这件事很有趣吧。不过这个时候的路也很湿滑，下次记得带上我一起。$1#$b#……你问为什么？$0#$b#因为我想保护好你。$4",
+      "Dialogue.Pelette.Marriage.Rainy_Night_Pelette_P1old": "难怪你的身上都湿了……快去洗洗吧，我去给你做饭！$6",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Day_Pelette": "我在找之前弄丢了的发绳……$2#$b#说实话，这真的很奇怪。$6#$b#呃，就是明明前一秒还在我的手腕上，下一秒就不知道丢哪里去了。$7#$q 18001014/18001015 Indoor_Day_Pelette_P1old#……#$r 18001014 0 Indoor_Day_Pelette_18001014#我看见了会告诉你#$r 18001015 0 Indoor_Day_Pelette_18001015#重新买一根吧",
+      "Dialogue.Pelette.Marriage.Indoor_Day_Pelette_18001014": "好。麻烦你了，亲爱的。$2",
+      "Dialogue.Pelette.Marriage.Indoor_Day_Pelette_18001015": "嗯……好吧。$2#$b#如果找不到的话！我就这么办。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Day_Pelette_P1old": "麻烦你了，亲爱的。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_Pelette": "晚上好，亲爱的！$1#$b#我很高兴你回来了。刚刚我正在想你什么时候回来，下一秒你就出现在了门口。$8#$b##$q 18001016/18001017 Indoor_Night_Pelette_P1old#……#$r 18001016 0 Indoor_Night_Pelette_18001016#我们真有缘#$r 18001017 0 Indoor_Night_Pelette_18001017#亲亲我",
+      "Dialogue.Pelette.Marriage.Indoor_Night_Pelette_18001016": "那是当然的！$1",
+      "Dialogue.Pelette.Marriage.Indoor_Night_Pelette_18001017": "……，嗯。啾啾。$4#$b#%佩莱特有些不好意思，但又凑了过去，然后低头亲在了你的脸颊上。#$b#%他的唇很柔软。",
+      "Dialogue.Pelette.Marriage.Indoor_Night_Pelette_P1old": "啾啾。$4#$b#%佩莱特有些不好意思，但又凑了过去，然后低头亲在了你的脸颊上。#$b#%他的唇很柔软。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Outdoor_Pelette": "今天的天气还不错，所以我打算出来走走。然后在这里看着你忙碌你田地里的事情。$8#$b#……嗯，没有比这个更加幸福的了。$1#$q 18001018/18001019 Outdoor_Pelette_P1old#……#$r 18001018 0 Outdoor_Pelette_18001018#我们一起加油#$r 18001019 0 Outdoor_Pelette_18001019#今天你打算做点什么？",
+      "Dialogue.Pelette.Marriage.Outdoor_Pelette_18001018": "嗯，我们一起加油！我相信我们的生活肯定会一点点好起来。$1",
+      "Dialogue.Pelette.Marriage.Outdoor_Pelette_18001019": "我打算等等中午的时候回去做个饭，然后处理一下堆积的家务……以及一些别的事情。$0#$b#或许还会散散步？$1",
+      "Dialogue.Pelette.Marriage.Outdoor_Pelette_P1old": "我们一起加油！我相信我们的生活肯定会一点点好起来。$1",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Rainy
+      "Dialogue.Pelette.Marriage.Rainy_Day_0": "外面下雨了，而且有点大。你问我怎么知道？呃，在你起来之前，我出去看了看。$0#$b#……虽然说听见房顶上滴滴答答的雨声就清楚了，但保险起见，我还是打开门看了看。要出门了吗？$6#$b#——给你这个，亲爱的。$1#$q 18000808/18000809 Rainy_Day_0_P1old#……#$r 18000808 0 Rainy_Day_0_18000808#没有亲亲吗？#$r 18000809 0 Rainy_Day_0_18000809#是什么？",
+      "Dialogue.Pelette.Marriage.Rainy_Day_0_18000808": "……也是，那——。$1#$b#%佩莱特撩起了自己沾着油渍的衣袖，这才凑近你的身边，动作轻柔地吻在了你的额头上。#$b#路上小心，@。照顾好自己。$4",
+      "Dialogue.Pelette.Marriage.Rainy_Day_0_18000809": "你的早饭。我努力了一早晨，应该还算不错？[SDS_Pelettespecialcuisine]$1#$b#嗯……，对了，你要是觉得难以下咽，不吃也没关系。$6#$b#之后我会再研究一下你喜欢吃什么的。$7#$b#%佩莱特的声音渐渐弱下，其中似乎夹杂着些许局促。",
+      "Dialogue.Pelette.Marriage.Rainy_Day_0_P1old": "你的早饭。我努力了一早晨，应该还算不错？[SDS_Pelettespecialcuisine]$1#$b#嗯……，对了，你要是觉得难以下咽，不吃也没关系。$6#$b#之后我会再研究一下你喜欢吃什么的。$7#$b#%佩莱特的声音渐渐弱下，其中似乎夹杂着些许局促。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Day_1": "淅沥淅沥，淅沥淅沥。是雨水落下的声音。$0#$b#偶尔也会有这种感觉……嗯，该怎么形容它？有些奇妙，但绝对不是坏的一面。$1#$b#那是一种有些放松而温暖的东西，就好像一床柔软的被子紧紧地裹住了我。$8#$b#我很喜欢这种感觉，同时也害怕失去它。$2#$b#——哦，我是不是有些啰嗦了？呃，抱歉。$6#$b#因为我的嘴不算很擅长说这种话，所以没办法用很短的形容去准确表达它。$7#$q 18000810/18000811 Rainy_Day_1_P1old#……#$r 18000810 0 Rainy_Day_1_18000810#没关系，我很喜欢听#$r 18000811 0 Rainy_Day_1_18000811#安静听他说话",
+      "Dialogue.Pelette.Marriage.Rainy_Day_1_18000810": "……是吗，那就好。看来我之后还是要努力学习一下这方面的事情。$6#$b#毕竟，我也不能只会作战打仗。没错。现在我的时间，是属于我自己的家庭的。$1",
+      "Dialogue.Pelette.Marriage.Rainy_Day_1_18000811": "我已经多久、又或是多少年都没有像现在这样聆听过雨声了？$2#$b#%你听见了佩莱特最后近乎呢喃的话语。#$b#……，珍惜。$0",
+      "Dialogue.Pelette.Marriage.Rainy_Day_1_P1old": "我已经多久、又或是多少年都没有像现在这样聆听过雨声了？$2#$b#%你听见了佩莱特最后近乎呢喃的话语。#$b#……，珍惜。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Day_2": "你今天真漂亮，呃，我是说，你让我的眼前一亮——好吧，你每一天都让我觉得眼前一亮。[201]$1#$q 18000812/18000813/18000814 Rainy_Day_2_P1old#……#$r 18000812 0 Rainy_Day_2_18000812#早上好，我亲爱的佩莱特，你在练习什么呢？#$r 18000813 0 Rainy_Day_2_18000813#什么让你眼前一亮？#$r 18000814 0 Rainy_Day_2_18000814#（继续偷听）",
+      "Dialogue.Pelette.Marriage.Rainy_Day_2_18000812": "…………。$5#$b#被你听见了？咳嗯。其实这是今天我要对你说的话。$4#$b#你会喜欢吗？$13",
+      "Dialogue.Pelette.Marriage.Rainy_Day_2_18000813": "%佩莱特吓了一跳，当即转头看向你，神色略微有些紧张。#$b#哦，你起来了，……没什么，就是一些——$6#$b#好吧，是对你说的情话。$5#$b#你会喜欢吗？$4",
+      "Dialogue.Pelette.Marriage.Rainy_Day_2_18000814": "…接下来，要夸什么……眼睛？你的眼睛仿佛一颗——$0#$b#呃，嗯。哦。你起来了。早上好，亲爱的。$1#$b#%佩莱特发现了你，然后，他停下了他的秘密活动。",
+      "Dialogue.Pelette.Marriage.Rainy_Day_2_P1old": "…接下来，要夸什么……眼睛？你的眼睛仿佛一颗——$0#$b#呃，嗯。哦。你起来了。早上好，亲爱的。$1#$b#%佩莱特发现了你，然后，他停下了他的秘密活动。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Day_3": "虽然我自己确实有些粗鲁，也不怎么计较出门时淋雨不淋雨，但是@，你的身体还是要好好爱惜的。$0#$b#所以就别总是顶着雨水出门狂奔，我担心你会感冒。$2#$q 18000815/18000816 Rainy_Day_3_P1old#……#$r 18000815 0 Rainy_Day_3_18000815#没关系，我的体质很好#$r 18000816 0 Rainy_Day_3_18000816#好哦",
+      "Dialogue.Pelette.Marriage.Rainy_Day_3_18000815": "呃，好吧，我不会强迫你做什么。$6#$b#但我还是觉得要表达一下，就是——我很担心你，千万不要出事。$0#$b#%佩莱特的眼睛认真地注视着你，他温热的手掌抚摸过你的脸颊。#$b#……好了，路上小心。$1",
+      "Dialogue.Pelette.Marriage.Rainy_Day_3_18000816": "嗯，好。哦，对了，给你这个。吃下它应该能去去寒气。[SDS_Pelettespecialcuisine]$1#$b#%佩莱特面露笑容地将料理递给了你。",
+      "Dialogue.Pelette.Marriage.Rainy_Day_3_P1old": "我不会强迫你做什么。$6#$b#但我还是觉得要表达一下，就是——我很担心你，千万不要出事。$0#$b#%佩莱特的眼睛认真地注视着你，他温热的手掌抚摸过你的脸颊。#$b#……好了，路上小心。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Day_4": "今天有些冷，我给你准备了暖身子用的食物。$1#$b#虽然想给你最方便的暖身子的酒啊什么的。但是考虑到在外面喝酒对你来说还是太危险了，所以还是这个吧。给你。$8#$q 18000817/18000818 Rainy_Day_4_P1old#……#$r 18000817 0 Rainy_Day_4_18000817#今天的亲亲呢！#$r 18000818 0 Rainy_Day_4_18000818#是什么好吃的~？",
+      "Dialogue.Pelette.Marriage.Rainy_Day_4_18000817": "……。$4#$b#%佩莱特撩起了耳边垂落的头发，然后用柔软的唇压上了你的脸颊，属于他的气息就这样温柔的停顿两秒，随即撤离。#$b#好了，去吧。[SDS_Pelettespecialcuisine]$1",
+      "Dialogue.Pelette.Marriage.Rainy_Day_4_18000818": "是南瓜汤。要好好吃掉，@，记住不要挑食。这样你才会不容易生病。$0#$b#……我有给你调口，应该不会太难吃。[SDS_Pelettespecialcuisine]$1",
+      "Dialogue.Pelette.Marriage.Rainy_Day_4_P1old": "是南瓜汤。要好好吃掉，@，记住不要挑食。这样你才会不容易生病。$0#$b#……我有给你调口，应该不会太难吃。[SDS_Pelettespecialcuisine]$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Night_0": "我刚刚出去散了散步，回来的时候雨还是没停下来，现在外面有点冷起来了。你感觉还好吗，@。$6#$q 18000819/18000820 Rainy_Night_0_P1old#……#$r 18000819 0 Rainy_Night_0_18000819#我感觉很好#$r 18000820 0 Rainy_Night_0_18000820#我感觉有点难受",
+      "Dialogue.Pelette.Marriage.Rainy_Night_0_18000819": "是吗，那就好。等等一起去睡觉吧。$1",
+      "Dialogue.Pelette.Marriage.Rainy_Night_0_18000820": "！？……真的吗，哪里！？啊，这个时候是要什么来着。$6#$b#对，对，体温计……体温计。等我一下！$0",
+      "Dialogue.Pelette.Marriage.Rainy_Night_0_P1old": "等等一起去睡觉吧。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Night_1": "有时候夜晚的雨总伴有雷声，你有听见吗？说起来你害怕雷声吗，@。$0#$q 18000821/18000822/18000823 Rainy_Night_1_P1old#……#$r 18000821 0 Rainy_Night_1_18000821#我害怕#$r 18000822 0 Rainy_Night_1_18000822#我不害怕#$r 18000823 0 Rainy_Night_1_18000823#你害怕吗？",
+      "Dialogue.Pelette.Marriage.Rainy_Night_1_18000821": "嗯，说实话我也有点。$6#$b#它的声音实在是太像雷管和炸弹爆裂的响声，有那么一瞬间的恍惚，让我以为自己又回到了战场上。$7#$b#那种血与硝烟混合着死伤的腐烂时候的腥臭。$0",
+      "Dialogue.Pelette.Marriage.Rainy_Night_1_18000822": "是吗，那就太好了——真厉害，@，你真厉害。$8#$b#嗯，这个时候要夸你对吧？$1#$b#%佩莱特一边说一边伸手挼乱了你的头发。",
+      "Dialogue.Pelette.Marriage.Rainy_Night_1_18000823": "明明是在问你，真是的，……好吧，说句实话，我确实有点。$6#$b#但也并不算是害怕雷鸣。$7",
+      "Dialogue.Pelette.Marriage.Rainy_Night_1_P1old": "它的声音实在是太像雷管和炸弹爆裂的响声，有那么一瞬间的恍惚，让我以为自己又回到了战场上。$7#$b#那种血与硝烟混合着死伤的腐烂时候的腥臭。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Night_2": "这边的雨里面没有什么东西，其实也挺好的。我不知道是不是因为每个地方都不一样。$0#$q 18000824/18000825 Rainy_Night_2_P1old#……#$r 18000824 0 Rainy_Night_2_18000824#什么叫没有东西？#$r 18000825 0 Rainy_Night_2_18000825#每个地方的气候都是不一样的",
+      "Dialogue.Pelette.Marriage.Rainy_Night_2_18000824": "我家乡那边的雨，里面总是会混杂着冰雹。……呃，好吧，实际上雨下得没雪多。雨在那边也算一种恩惠吧。",
+      "Dialogue.Pelette.Marriage.Rainy_Night_2_18000825": "是吗，@知道的还真多。$1#$b#……偶尔回顾自己的常识问题，果然自己还是跟外界脱节的。$2#$b#生活是什么样子的，其实对于我来说，反而是模糊的。而清晰可见的，大部分都涉及战场、杀人和拷问。$0#$b#算了。……还是不说了。它们糟糕到我不想告诉你太多。$1",
+      "Dialogue.Pelette.Marriage.Rainy_Night_2_P1old": "我家乡那边的雨，里面总是会混杂着冰雹。……呃，好吧，实际上雨下得没雪多。雨在那边也算一种恩惠吧。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Night_3": "来喝点什么暖和一下吧，@，给你这个。我弄了一下午，希望它的味道还算不错。$1#$q 18000826/18000827 Rainy_Night_3_P1old#……#$r 18000826 0 Rainy_Night_3_18000826#我想一定很不错#$r 18000827 0 Rainy_Night_3_18000827#我想我可以先去洗澡",
+      "Dialogue.Pelette.Marriage.Rainy_Night_3_18000826": "那就是太好了。[SDS_Pelettespecialcuisine]$1",
+      "Dialogue.Pelette.Marriage.Rainy_Night_3_18000827": "哦，也对，那我去给你把洗澡水热起来吧？你先喝着。[SDS_Pelettespecialcuisine]$1",
+      "Dialogue.Pelette.Marriage.Rainy_Night_3_P1old": "我去给你把洗澡水热起来吧？你先喝着。[SDS_Pelettespecialcuisine]$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Rainy_Night_4": "你终于回来了，亲爱的，我快担心死了。[194]$6#$b#虽然外面的雨下得这么大，但我总觉得你会在雨里面穿梭……$2#$q 18000828/18000829 Rainy_Night_4_P1old#……#$r 18000828 0 Rainy_Night_4_18000828#阿嚏！#$r 18000829 0 Rainy_Night_4_18000829#没有那回事啦~",
+      "Dialogue.Pelette.Marriage.Rainy_Night_4_18000828": "！？……果然吗！真是的，该说你什么好。$6#$b#……来，快点来洗澡，我给你去准备热水。$0",
+      "Dialogue.Pelette.Marriage.Rainy_Night_4_18000829": "真的吗？$7#$b#%佩莱特一脸担忧的看着你，似乎对于你满头满身的雨水，无声的表达了他的不赞同。",
+      "Dialogue.Pelette.Marriage.Rainy_Night_4_P1old": "%佩莱特一脸担忧的看着你，似乎对于你满头满身的雨水，无声的表达了他的不赞同。",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Indoor
+      "Dialogue.Pelette.Marriage.Indoor_Day_0": "我打算买点花来装饰我们的家。你觉得我买红色的不错，还是黄色的不错？$8#$q 18000830/18000831/18000832 Indoor_Day_0_P1old#……#$r 18000830 0 Indoor_Day_0_18000830#我喜欢红色的花#$r 18000831 0 Indoor_Day_0_18000831#我喜欢黄色的花#$r 18000832 0 Indoor_Day_0_18000832#我喜欢黄色",
+      "Dialogue.Pelette.Marriage.Indoor_Day_0_18000830": "是吗，我知道了。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Day_0_18000831": "是吗，我记住了。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Day_0_18000832": "呃。……你在说花的颜色对吗？$5#$b#……。$4#$b#%佩莱特的脸很红。",
+      "Dialogue.Pelette.Marriage.Indoor_Day_0_P1old": "是吗，我记住了。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Day_1": "你想知道更多关于我过去的事情吗，@？[198]$0#$q 18000833/18000834 Indoor_Day_1_P1old#……#$r 18000833 0 Indoor_Day_1_18000833#我想知道#$r 18000834 0 Indoor_Day_1_18000834#我不想知道",
+      "Dialogue.Pelette.Marriage.Indoor_Day_1_18000833": "是吗，以后或许我会再多说一些关于过去的事情。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Day_1_18000834": "也是，它们并不算什么有趣的事情，大多都很无聊。$0",
+      "Dialogue.Pelette.Marriage.Indoor_Day_1_P1old": "以后或许我会再多说一些关于过去的事情。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Day_2": "呸呸看见我总是汪汪叫的很兴奋，我知道它又是想要吃的了。$1#$b#不过有时候它也会叼点什么回来。我知道我的眼光很不错，它是一只顾家的好狗。$8#$q 18000835/18000836/18000837 Indoor_Day_2_P1old#……#$r 18000835 0 Indoor_Day_2_18000835#它朝你汪汪叫？#$r 18000836 0 Indoor_Day_2_18000836#现在我知道为什么你认为它是狗了#$r 18000837 0 Indoor_Day_2_18000837#其是呸呸是熊猫",
+      "Dialogue.Pelette.Marriage.Indoor_Day_2_18000835": "嗯？怎么了吗，亲爱的，狗汪汪叫不是很正常吗？$6#$b#虽然它有时候也会嗷呜嗷呜的叫，但狗被驯化之前，是狼的后代，所以我想应该也没什么问题吧。$0",
+      "Dialogue.Pelette.Marriage.Indoor_Day_2_18000836": "嗯。……嗯？$7",
+      "Dialogue.Pelette.Marriage.Indoor_Day_2_18000837": "呸呸是狗，猫就算了，熊可比它大多了，而且它们多是棕色和白色的。$0#$b#热的时候是棕色的，冷的时候是白色的，嗯。我有经验。$1#$b#%佩莱特认真地点了点头，似乎觉得自己说的没错。",
+      "Dialogue.Pelette.Marriage.Indoor_Day_2_P1old": "嗯？怎么了吗，亲爱的，狗汪汪叫不是很正常吗？$6#$b#虽然它有时候也会嗷呜嗷呜的叫，但狗被驯化之前，是狼的后代，所以我想应该也没什么问题吧。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Day_3": "你要出门的时候，帮我找找呸呸吧，它不知道又跑去哪里了。$6#$b#虽然说狗不会自己走丢，但我还是稍微有点担心它在外面会过的不好，至少在家里的时候，我还可以做点吃的给它。$2#$q 18000838/18000839 Indoor_Day_3_P1old#……#$r 18000838 0 Indoor_Day_3_18000838#别担心，我会的#$r 18000839 0 Indoor_Day_3_18000839#它在外面过得可好了",
+      "Dialogue.Pelette.Marriage.Indoor_Day_3_18000838": "那就拜托你了，路上小心，亲爱的。$1#$b#……，啾啾。$4",
+      "Dialogue.Pelette.Marriage.Indoor_Day_3_18000839": "是吗？那我就安心了。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Day_3_P1old": "那就拜托你了，路上小心，亲爱的。$1#$b#……，啾啾。$4",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Day_4": "我在打扫卫生，家里稍微有些凌乱，在你晚上回来之前，我要处理好这些事情。$0#$b#好了，你是不是差不多该出门了，亲爱的？虽然家里很好，但也别耽误了自己的工作。$1#$q 18000840/18000841 Indoor_Day_4_P1old#……#$r 18000840 0 Indoor_Day_4_18000840#我会想你的#$r 18000841 0 Indoor_Day_4_18000841#我会努力工作的！",
+      "Dialogue.Pelette.Marriage.Indoor_Day_4_18000840": "我也想你，@。晚上早点回来，我们做点别的有趣的事情吧。$4",
+      "Dialogue.Pelette.Marriage.Indoor_Day_4_18000841": "真是中气十足的回答，哈哈，你真是可爱啊。我的心里不由自主冒出了这句话。$1#$b#你真的很可爱，我真的、真的非常喜欢你。@。$8#$b#好了，去吧，亲爱的。家里的事情就交给我吧。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Day_4_P1old": "我也想你，@。晚上早点回来，我们做点别的有趣的事情吧。$4",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_0": "你回来了，一定累了吧，给你这个。希望能缓解一下你的疲劳。$1#$q 18000842/18000843 Indoor_Night_0_P1old#……#$r 18000842 0 Indoor_Night_0_18000842#谢谢你#$r 18000843 0 Indoor_Night_0_18000843#这个是哪里来的？",
+      "Dialogue.Pelette.Marriage.Indoor_Night_0_18000842": "我是你的丈夫，所以，我是说——我们之间不用那么客气。我爱你。$1",
+      "Dialogue.Pelette.Marriage.Indoor_Night_0_18000843": "我今天去了一趟Lane的商店，他推荐给我的。$1#$b#说能缓解疲劳。我想着你可能需要，所以我就给你买了，赶紧试试吧。$8",
+      "Dialogue.Pelette.Marriage.Indoor_Night_0_P1old": "我今天去了一趟Lane的商店，他推荐给我的。$1#$b#说能缓解疲劳。我想着你可能需要，所以我就给你买了，赶紧试试吧。$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_1": "今天天黑得比较早，你回来的时候没有磕磕绊绊到哪里吧？$6#$b#我刚刚都打算准备出去接你回来了，不过你还是要比我更先一步。好了，你一定饿了吧，来吃饭吧。$1#$q 18000844/18000845 Indoor_Night_1_P1old#……#$r 18000844 0 Indoor_Night_1_18000844#今晚吃什么？#$r 18000845 0 Indoor_Night_1_18000845#是你做的吗？",
+      "Dialogue.Pelette.Marriage.Indoor_Night_1_18000844": "是幸运午餐，我去格斯酒吧买的。[204]$1",
+      "Dialogue.Pelette.Marriage.Indoor_Night_1_18000845": "今晚不是。我散步是时候，顺路去格斯那边看了看，然后发现了你喜欢的东西，所以就直接买了回来。[204]$1",
+      "Dialogue.Pelette.Marriage.Indoor_Night_1_P1old": "是幸运午餐，我去格斯酒吧买的。[204]$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_2": "有时候晚上我会想出去散散步，因为这个时候人很少，我觉得放松。$1#$b#当然，我并不是不喜欢和大家相处，只是有些时候习惯了自己一个人。$6#$b#正因为习惯了，所以觉得这样反而比较舒服。$0#$q 18000846/18000847 Indoor_Night_2_P1old#……#$r 18000846 0 Indoor_Night_2_18000846#我理解你#$r 18000847 0 Indoor_Night_2_18000847#或许下次我们可以一起？",
+      "Dialogue.Pelette.Marriage.Indoor_Night_2_18000846": "嗯，你总是理解我的，我知道。$1#$b#%佩莱特用额头贴了你的额头，像两个孩子那样纯真而亲昵。",
+      "Dialogue.Pelette.Marriage.Indoor_Night_2_18000847": "当然，我很乐意。只是你的话，我愿意和你一起。要手牵手吗？不要介意我手上的老茧。$1#$b#%佩莱特冲你笑了笑，一边说着，一边抬起示意了一下自己有些粗糙的指掌。",
+      "Dialogue.Pelette.Marriage.Indoor_Night_2_P1old": "只是你的话，我愿意和你一起。要手牵手吗？不要介意我手上的老茧。$1#$b#%佩莱特冲你笑了笑，一边说着，一边抬起示意了一下自己有些粗糙的指掌。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_3": "亲爱的，我最近发现了一件事。#$q 18000848/18000849 Indoor_Night_3_P1old#……#$r 18000848 0 Indoor_Night_3_18000848#什么事？#$r 18000849 0 Indoor_Night_3_18000849#比起你的，我这边有更重要的事情",
+      "Dialogue.Pelette.Marriage.Indoor_Night_3_18000848": "就是这边可以看见月亮。$1#$b#虽然我家乡那边可以在放晴的时候看见满天的星星，却唯独不见月亮。$0#$b#还真是有些奇妙，你知道是怎么回事吗？$1",
+      "Dialogue.Pelette.Marriage.Indoor_Night_3_18000849": "呃。好吧，我知道了，你先说吧。$6#$b#是什么事情？$1",
+      "Dialogue.Pelette.Marriage.Indoor_Night_3_P1old": "就是这边可以看见月亮。$1#$b#虽然我家乡那边可以在放晴的时候看见满天的星星，却唯独不见月亮。$0#$b#还真是有些奇妙，你知道是怎么回事吗？$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_4": "结婚之后呸呸就不再和我睡在一起了，因为我身边的位置属于了你，希望它不会就此嫉妒——哈哈，开个玩笑。$1#$q 18000850/18000851/18000852 Indoor_Night_4_P1old#……#$r 18000850 0 Indoor_Night_4_18000850#你的玩笑一如既往的冷！#$r 18000851 0 Indoor_Night_4_18000851#那你和呸呸睡，我睡地上#$r 18000852 0 Indoor_Night_4_18000852#那我和呸呸睡，你睡地上",
+      "Dialogue.Pelette.Marriage.Indoor_Night_4_18000850": "唔，是吗？好吧。$7",
+      "Dialogue.Pelette.Marriage.Indoor_Night_4_18000851": "开玩笑的、开玩笑的！我想和你睡。$6",
+      "Dialogue.Pelette.Marriage.Indoor_Night_4_18000852": "呃？呃，……不是吧。$7",
+      "Dialogue.Pelette.Marriage.Indoor_Night_4_P1old": "开玩笑的、开玩笑的！我想和你睡。$6",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Indoor_Night_5": "晚上好，亲爱的，今天我们彼此都忙碌了一天，现在是属于我们的休息时间。$1#$b#来吧，我想拥抱你一下，可以吗？$8#$q 18000853/18000854 Indoor_Night_5_P1old#……#$r 18000853 0 Indoor_Night_5_18000853#当然#$r 18000854 0 Indoor_Night_5_18000854#不要",
+      "Dialogue.Pelette.Marriage.Indoor_Night_5_18000853": "嗯，我想你了。非常的。$1#$b#%佩莱特紧紧地抱住了你，隔着彼此的衣物，你感受到了来自他的体温。",
+      "Dialogue.Pelette.Marriage.Indoor_Night_5_18000854": "……好吧，看样子今晚我只能忍住了。$2",
+      "Dialogue.Pelette.Marriage.Indoor_Night_5_P1old": "我想你了。非常的。$1#$b#%佩莱特紧紧地抱住了你，隔着彼此的衣物，你感受到了来自他的体温。",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Outdoor
+      "Dialogue.Pelette.Marriage.Outdoor_0": "在屋子里呆久了身子骨都要僵住了，家务活真的是无穷无尽……，呃，好吧，我也不是在抱怨什么。$6#$b#不过现在就让我在这里休息会儿，然后看着你做你的事情吧？$1#$q 18000855/18000856 Outdoor_0_P1old#……#$r 18000855 0 Outdoor_0_18000855#啾啾#$r 18000856 0 Outdoor_0_18000856#要我早点回来帮忙吗？",
+      "Dialogue.Pelette.Marriage.Outdoor_0_18000855": "…………。$5#$b#啾啾。$4",
+      "Dialogue.Pelette.Marriage.Outdoor_0_18000856": "没事，这点事就交给我吧。虽然说家务活确实无穷无尽，但是，当我做着它的时候，心底里不知道为什么，有一种平淡而温馨的感觉。$1#$b#或许这就是与爱的人一起生活的感觉吧。$8#$b#我很喜欢。$1#$b#你呢？$8",
+      "Dialogue.Pelette.Marriage.Outdoor_0_P1old": "这点事就交给我吧。虽然说家务活确实无穷无尽，但是，当我做着它的时候，心底里不知道为什么，有一种平淡而温馨的感觉。$1#$b#或许这就是与爱的人一起生活的感觉吧。$8#$b#我很喜欢。$1#$b#你呢？$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Outdoor_1": "我给我们的宠物水碗里加了水，然后修复了一些围栏。$1#$b#我种不活除开花以外的东西，你是知道这一点的，所以我没有帮你做掉你的农活。$0#$b#好了，亲爱的，你该出门了。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Outdoor_2": "今天外面的风很舒服，你感受到了吗，我很喜欢。$1#$b#让我在这里看着你吧，我今天想待在这里看着你。$8#$b#好了，亲爱的。时间也不早了，你去工作吧。别担心，家里就交给我。$1#$q 18000857/18000858 Outdoor_2_P1old#……#$r 18000857 0 Outdoor_2_18000857#今天的天气确实不错#$r 18000858 0 Outdoor_2_18000858#今天的天气不太好的样子……",
+      "Dialogue.Pelette.Marriage.Outdoor_2_18000857": "是吧？$1",
+      "Dialogue.Pelette.Marriage.Outdoor_2_18000858": "是吗，其实有时候这样也别有一番风味。$1#$b#主要是能远远的看见你。$8",
+      "Dialogue.Pelette.Marriage.Outdoor_2_P1old": "主要是能远远的看见你。$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Outdoor_3": "我出来活动活动身体，别担心我，亲爱的。干好你自己的事情就好。等会儿中午了我会进去的。$1#$q 18000859/18000860 Outdoor_3_P1old#……#$r 18000859 0 Outdoor_3_18000859#我要亲亲#$r 18000860 0 Outdoor_3_18000860#我要抱抱",
+      "Dialogue.Pelette.Marriage.Outdoor_3_18000859": "…………真是，…好吧。$4#$b#%佩莱特凑近你的脸颊往上面亲了几口。",
+      "Dialogue.Pelette.Marriage.Outdoor_3_18000860": "这样吗？$4#$b#%佩莱特伸出双手，然后用紧实臂膀将你牢牢圈住。在他发丝擦过你离开时，你嗅到了你们共用的沐浴用品的香气。",
+      "Dialogue.Pelette.Marriage.Outdoor_3_P1old": "%佩莱特伸出双手，然后用紧实臂膀将你牢牢圈住。在他发丝擦过你离开时，你嗅到了你们共用的沐浴用品的香气。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Outdoor_4": "我在看今天的天气。如果今天下雨的话，我打算收集一些雨水再用沙石沉淀过滤其中的杂质。$0#$b#这也是我在那边留下的习惯吧。毕竟战场上并不是随时随地都有水源的。但浑身是血的味道，……我很讨厌。$2#$q 18000861/18000862/18000863 Outdoor_4_P1old#……#$r 18000861 0 Outdoor_4_18000861#今天看样子是可以收集一些雨水了#$r 18000862 0 Outdoor_4_18000862#今天看样子是个晴天#$r 18000863 0 Outdoor_4_18000863#什么雨水，真脏",
+      "Dialogue.Pelette.Marriage.Outdoor_4_18000861": "嗯。$1#$b#%佩莱特看起来有些高兴。",
+      "Dialogue.Pelette.Marriage.Outdoor_4_18000862": "这样也不错，方便了你的出行。记得早点回来，亲爱的，我在家总是非常的想念你。$1",
+      "Dialogue.Pelette.Marriage.Outdoor_4_18000863": "呃。嗯。确实，现在我并不身处之前的场所。或许我该改变这一点。$6",
+      "Dialogue.Pelette.Marriage.Outdoor_4_P1old": "可以收集一些雨水了。$1#$b#%佩莱特看起来有些高兴。",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Kids
+      "Dialogue.Pelette.Marriage.OneKid_0": "我现在已经成为了一个孩子的父亲。#$b#……呃，好吧，虽然没有什么实际的感觉，但是我觉得我不能再这样怠惰下去了。$7#$b#关于孩子的教育问题，我会做到一个父亲应该做到的事情。#$q 18000864/18000865 OneKid_0_P1old#……#$r 18000864 0 OneKid_0_18000864#比如说？#$r 18000865 0 OneKid_0_18000865#你现在看起来真是可靠",
+      "Dialogue.Pelette.Marriage.OneKid_0_18000864": "以身作则。我会教育他要爱自己的家庭，自己的伴侣，以及对于杀戮和荣耀的理解。后者永远是没有对错的。$0",
+      "Dialogue.Pelette.Marriage.OneKid_0_18000865": "嗯。#$b#……咳，真的吗？$4",
+      "Dialogue.Pelette.Marriage.OneKid_0_P1old": "以身作则。我会教育他要爱自己的家庭，自己的伴侣，以及对于杀戮和荣耀的理解。后者永远是没有对错的。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.OneKid_1": "%kid1在婴儿床上睡得十分香甜。$1#$b#……每每当我从床边看着他熟睡的小脸的时候，我的心就不由自主的一软。$8#$b#我反复的意识到一件事——这是我们的孩子。我是他的父亲。我要去爱他。$1#$q 18000866/18000867 OneKid_1_P1old#……#$r 18000866 0 OneKid_1_18000866#你还有关于父母的记忆吗？#$r 18000867 0 OneKid_1_18000867#我爱你",
+      "Dialogue.Pelette.Marriage.OneKid_1_18000866": "嗯，虽然这么说让人感觉非常的冷漠。$0#$b#但是，我的确已经记不起他们的面容了，于此相关的记忆也是少之又少。$6#$b#我现在唯一还记得的，就只剩下关于姐姐的回忆了。$7#$b#而记得，或许也只是因为我的执念吧。$2",
+      "Dialogue.Pelette.Marriage.OneKid_1_18000867": "我爱你，@。我爱你们。$1",
+      "Dialogue.Pelette.Marriage.OneKid_1_P1old": "我爱你，@。我爱你们。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.OneKid_2": "我会保护你，保护%kid1，我会成为你们最为牢固的后盾。$8#$q 18000868/18000869 OneKid_2_P1old#……#$r 18000868 0 OneKid_2_18000868#怎么突然说起这些了#$r 18000869 0 OneKid_2_18000869#我也会保护你的",
+      "Dialogue.Pelette.Marriage.OneKid_2_18000868": "只是想着想着，突然就想这样说了。$1#$b#……呃，非要形容的话，就像是一种难以遏制的情感，不断在我的胸口翻涌堆积。最后在看到你的瞬间登顶，然后，宣泄出来。$8",
+      "Dialogue.Pelette.Marriage.OneKid_2_18000869": "咳，是吗。$5#$b#%佩莱特看起来有些害羞。",
+      "Dialogue.Pelette.Marriage.OneKid_2_P1old": "只是想着想着，突然就想这样说了。$1#$b#……呃，非要形容的话，就像是一种难以遏制的情感，不断在我的胸口翻涌堆积。最后在看到你的瞬间登顶，然后，宣泄出来。$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.OneKid_3": "今天%kid1似乎咿咿呀呀说了些什么，呸呸也在旁边跟他嗷呜嗷呜的叫。真是不知道这两个小家伙在说些什么。$1#$b#但是那个场景，不知道为什么，让我有些难以忘怀。$8#$q 18000870/18000871 OneKid_3_P1old#……#$r 18000870 0 OneKid_3_18000870#抱了抱佩莱特#$r 18000871 0 OneKid_3_18000871#你很爱他们",
+      "Dialogue.Pelette.Marriage.OneKid_3_18000870": "……。#$b#%佩莱特也无声地抱了抱你，他似乎理解了什么。",
+      "Dialogue.Pelette.Marriage.OneKid_3_18000871": "……原来是爱吗？是吗。是这样啊。$2#$b#……。#$b#%佩莱特伸出手，弯下腰，然后牢牢地将你搂进了他的怀中，仿佛要将你揉进他的骨血里一样用力。#$b#……嗯，我好点了。#$b##$b#%佩莱特松开了你。",
+      "Dialogue.Pelette.Marriage.OneKid_3_P1old": "……原来是爱吗？是吗。是这样啊。$2#$b#……。#$b#%佩莱特伸出手，弯下腰，然后牢牢地将你搂进了他的怀中，仿佛要将你揉进他的骨血里一样用力。#$b#……嗯，我好点了。#$b##$b#%佩莱特松开了你。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.OneKid_4": "呸呸最近陪伴着%kid1做一些有意思的事情。原来狗也会帮人一起养孩子吗？这件事我也是头一次知道。$6#$q 18000872/18000873 OneKid_4_P1old#……#$r 18000872 0 OneKid_4_18000872#听起来很可爱#$r 18000873 0 OneKid_4_18000873#他们做了什么？",
+      "Dialogue.Pelette.Marriage.OneKid_4_18000872": "是吧，我也这么觉得。$1",
+      "Dialogue.Pelette.Marriage.OneKid_4_18000873": "呸呸会把它喜欢的东西放在%kid1的面前，然后等着%kid1去伸手拿。如果%kid1不需要这个，那它则会把这个东西再一次塞回它自己藏食物的盒子里。$1",
+      "Dialogue.Pelette.Marriage.OneKid_4_P1old": "呸呸会把它喜欢的东西放在%kid1的面前，然后等着%kid1去伸手拿。如果%kid1不需要这个，那它则会把这个东西再一次塞回它自己藏食物的盒子里。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.TwoKids_0": "我要比起第一个孩子的时候有更多的经验。相信我，@，别太担心家里。我会照顾好小家伙们的。$1#$q 18000874/18000875 TwoKids_0_P1old#……#$r 18000874 0 TwoKids_0_18000874#别总是把他们丢高高#$r 18000875 0 TwoKids_0_18000875#那就拜托你啦",
+      "Dialogue.Pelette.Marriage.TwoKids_0_18000874": "呃。我尽量吧。毕竟有时候他们总喜欢这样做，我很难拒绝……$6#$b#好吧好吧，我会的，亲爱的，我保证。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_0_18000875": "嗯，交给我吧。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_0_P1old": "交给我吧。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.TwoKids_1": "%kid1最近总是喜欢跟在%kid2的附近玩耍，或许是出自于自己作为年长的那一方，对于更加年幼的弟妹的照顾。$1#$q 18000876/18000877 TwoKids_1_P1old#……#$r 18000876 0 TwoKids_1_18000876#是你教育的很好#$r 18000877 0 TwoKids_1_18000877#你的表情很可爱，看起来非常自豪",
+      "Dialogue.Pelette.Marriage.TwoKids_1_18000876": "是吗，那就太好了。不过这也说明%kid1是个好孩子。想必再过一段时间之后，就能和他的父亲一样，成为弟妹的榜样了。$8#$b#%佩莱特的语气中充满了自豪的情绪。",
+      "Dialogue.Pelette.Marriage.TwoKids_1_18000877": "那是当然，因为这可是我们的孩子。$8#$b#我像爱你一样爱着他们。$1#$b#然后教育他们，让他们更加勇敢。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_1_P1old": "不过这也说明%kid1是个好孩子。想必再过一段时间之后，就能和他的父亲一样，成为弟妹的榜样了。$8#$b#%佩莱特的语气中充满了自豪的情绪。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.TwoKids_2": "%kid1和%kid2最近总喜欢绕着整个房子跑。有时候又会卡在某些缝隙里面。#$b#好吧，真是搞不懂他们为什么这么喜欢往角落里钻——呃，或许是在家里冒险？$6#$q 18000878/18000879 TwoKids_2_P1old#……#$r 18000878 0 TwoKids_2_18000878#听起来真可爱#$r 18000879 0 TwoKids_2_18000879#继续听佩莱特说话",
+      "Dialogue.Pelette.Marriage.TwoKids_2_18000878": "虽然很可爱，可一旦找起来就麻烦了。$7",
+      "Dialogue.Pelette.Marriage.TwoKids_2_18000879": "还好我的经验要比他们充足。只是贴在缝隙里面玩躲藏的话，他们微弱的呼吸声还是告诉了我他们躲在了哪里。#$b#好吧，还是很有意思的。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_2_P1old": "虽然很可爱，可一旦找起来就麻烦了。$7",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.TwoKids_3": "有时候也会忍不住感慨一下时间的流逝。从我们相爱到现在，我们已经是有两个孩子的夫妻了。$1#$q 18000880/18000881 TwoKids_3_P1old#……#$r 18000880 0 TwoKids_3_18000880#你感到幸福吗？#$r 18000881 0 TwoKids_3_18000881#我爱你",
+      "Dialogue.Pelette.Marriage.TwoKids_3_18000880": "嗯，我很幸福。我爱%kid1和%kid2，同样他们也爱着我。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_3_18000881": "我也爱你，@。我爱你们。$8#$b#好吧，再说下去，我就忍不住莫名的伤感了。或许，这也是幸福到了极致的表现？乐极生悲什么的。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_3_P1old": "我很幸福。我爱%kid1和%kid2，同样他们也爱着我。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.TwoKids_4": "孩子们的精力总是旺盛的，有时候总觉得我的年纪也上去了，不再像之前那样充满活力。$7#$q 18000882/18000883 TwoKids_4_P1old#……#$r 18000882 0 TwoKids_4_18000882#你是说一天轮流丢数十次抛高高吗？#$r 18000883 0 TwoKids_4_18000883#我们总会老去",
+      "Dialogue.Pelette.Marriage.TwoKids_4_18000882": "呃。$6#$b#我的体力你总是有数的，不是吗？在床上……什么的。$4#$b#有时候逗逗你还是很有意思的，你脸红的时候，很可爱。真的。$8",
+      "Dialogue.Pelette.Marriage.TwoKids_4_18000883": "嗯，我会和你一起慢慢老去，但我想我是幸福的。$1",
+      "Dialogue.Pelette.Marriage.TwoKids_4_P1old": "我会和你一起慢慢老去，但我想我是幸福的。$1",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Good
+      "Dialogue.Pelette.Marriage.Good_0": "你知道吗，亲爱的。人一旦经历过足以绝望的饥饿之后，就不会再对食物有更高的要求了。#$b#并不是他们本身丧失了味觉，而是——有得吃就等于能够活下去。$3#$b#久而久之，享受食物，和吃到食物这两个行为，无论是哪一个都不会再有分明的界限了。#$q 18000884/18000885 Good_0_P1old#……#$r 18000884 0 Good_0_18000884#为什么？#$r 18000885 0 Good_0_18000885#抱住佩莱特",
+      "Dialogue.Pelette.Marriage.Good_0_18000884": "嗯，呃，因为能吃到东西本身就是一种…幸福？$6",
+      "Dialogue.Pelette.Marriage.Good_0_18000885": "怎么了，突然的？嗯……虽然不知道你怎么了，但是这个时候我应该抱回去，对吧。@。$1#$b#%佩莱特温柔地回抱住了你，他低下头用脸颊蹭了蹭你的额头。#$b#乖、乖，什么事都没有。什么事都没发生。你是安全的。$1",
+      "Dialogue.Pelette.Marriage.Good_0_P1old": "怎么了，突然的？嗯……虽然不知道你怎么了，但是这个时候我应该抱回去，对吧。@。$1#$b#%佩莱特温柔地回抱住了你，他低下头用脸颊蹭了蹭你的额头。#$b#乖、乖，什么事都没有。什么事都没发生。你是安全的。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_1": "我之前似乎承诺过你要告诉你一些关于过去的事情，你有什么想要问的吗，亲爱的？$1#$q 18000886/18000887 Good_1_P1old#……#$r 18000886 0 Good_1_18000886#关于你的姐姐#$r 18000887 0 Good_1_18000887#关于你的家乡",
+      "Dialogue.Pelette.Marriage.Good_1_18000886": "姐姐吗，……该从哪里开始讲比较好？她是我见过最坚强的人，也是最爱自己家人的人。$1#$b#或许死亡带给她在我这里永恒的光辉。但是她本身就是一个勇敢的女性，而我，我只是一个胆小的，躲在姐姐身后的小男孩。$0#$b#不过人的成长，总是伴随着得失。",
+      "Dialogue.Pelette.Marriage.Good_1_18000887": "我的家乡吗，是吗，我知道了。$1#$b#它是一个很小的、属于北方的村落。大部分时间都在下雪，很少的时间处于温暖的季节。#$b#所以这里总是容易饥荒。想起来总是一些不好的回忆，却又令人怀念。#$b#啊，对了——那边会开一种近乎冰雪颜色的蓝色小花。它们告知着温暖的到来，也告知着温暖的结束，绵延沿着雪山绽放好像蓝色的河流。$1#$b#当阳光正好落在它们正上方的时候，那些花瓣就好像冰雪初融在太阳下，一种会叫人难忘的晶莹剔透。$8#$b#嗯，我的用词应该没问题吧？$1",
+      "Dialogue.Pelette.Marriage.Good_1_P1old": "我的家乡吗，是吗，我知道了。$1#$b#它是一个很小的、属于北方的村落。大部分时间都在下雪，很少的时间处于温暖的季节。#$b#所以这里总是容易饥荒。想起来总是一些不好的回忆，却又令人怀念。#$b#啊，对了——那边会开一种近乎冰雪颜色的蓝色小花。它们告知着温暖的到来，也告知着温暖的结束，绵延沿着雪山绽放好像蓝色的河流。$1#$b#当阳光正好落在它们正上方的时候，那些花瓣就好像冰雪初融在太阳下，一种会叫人难忘的晶莹剔透。$8#$b#嗯，我的用词应该没问题吧？$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_2": "我爱你，@，不要觉得我突兀，因为每当我看见你的时候，我总是会下意识地涌出这句话。$8#$b#它柔软的埋在我的心中，就像种子在泥土里一点点长大、茁壮。$1#$q 18000888/18000889 Good_2_P1old#……#$r 18000888 0 Good_2_18000888#我也爱你#$r 18000889 0 Good_2_18000889#你的比喻用得越来越好了",
+      "Dialogue.Pelette.Marriage.Good_2_18000888": "嗯，我知道，我知道。我也是。$1",
+      "Dialogue.Pelette.Marriage.Good_2_18000889": "是吗？最近我也有去看书，虽然大多字还是不认识，但比起最初好很多了。$1",
+      "Dialogue.Pelette.Marriage.Good_2_P1old": "最近我也有去看书，虽然大多字还是不认识，但比起最初好很多了。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_3": "亲爱的，@。宝贝。看见你的这个瞬间，我的心情就像天空放晴时候的太阳，又热，又暖。$1#$q 18000890/18000891 Good_3_P1old#……#$r 18000890 0 Good_3_18000890#怎么突然这么肉麻#$r 18000891 0 Good_3_18000891#我爱你，我们亲一个吧",
+      "Dialogue.Pelette.Marriage.Good_3_18000890": "不知道，就是爱意突然涌了上来，不自觉的想要夸赞你。$4#$b#%佩莱特不好意思的挠了挠自己的脸颊，他看起来对此有些羞涩。",
+      "Dialogue.Pelette.Marriage.Good_3_18000891": "咳，我想这是个好提议。$1#$b#%佩莱特轻轻吻在了你的嘴唇上，温情又炙热。#$b#唔，好了。$4",
+      "Dialogue.Pelette.Marriage.Good_3_P1old": "就是爱意突然涌了上来，不自觉的想要夸赞你。$4#$b#%佩莱特不好意思的挠了挠自己的脸颊，他看起来对此有些羞涩。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_4": "我和你说过关于卢卡斯的事情吗？他现在仍旧帮助我很多，有许多事情都是他告诉我的。$0#$q 18000892/18000893 Good_4_P1old#……#$r 18000892 0 Good_4_18000892#你是指什么事情？#$r 18000893 0 Good_4_18000893#你们关系真的很好",
+      "Dialogue.Pelette.Marriage.Good_4_18000892": "呃，咳、很多事情。嗯。$4",
+      "Dialogue.Pelette.Marriage.Good_4_18000893": "是吗？我也觉得，不过我对他的是感激的情绪。#$b#自始至终我都不觉得自己是他的朋友，因为，我……我认为自己不行。$7",
+      "Dialogue.Pelette.Marriage.Good_4_P1old": "呃，咳、很多事情。嗯。$4",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_5": "乌列那家伙总是沉默不语，无论是我说什么，他都只是淡淡地看过来，然后什么都不说，可他却又像是什么都知道一样。那种悲悯的傲慢，我非常的讨厌。$7#$q 18000894/18000895 Good_5_P1old#……#$r 18000894 0 Good_5_18000894#那现在呢？#$r 18000895 0 Good_5_18000895#你俩意外的了解彼此",
+      "Dialogue.Pelette.Marriage.Good_5_18000894": "现在的我渐渐理解他为什么什么都不说了。$6#$b#……我知道，他本意是好的。可是他的态度真的让人觉得他很欠揍。",
+      "Dialogue.Pelette.Marriage.Good_5_18000895": "呃？不是吧。$6#$b#……或许有那么一点，主要还是我追着他跑了相当一段时间，渐渐也了解了他。虽然不是出自本意。",
+      "Dialogue.Pelette.Marriage.Good_5_P1old": "现在的我渐渐理解他为什么什么都不说了。$6#$b#……我知道，他本意是好的。可是他的态度真的让人觉得他很欠揍。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_6": "你今天过得怎么样？偶尔我们彼此间也花点时间坐下聊聊吧？我想和你好好聊聊，关于我想你这件事。$1#$q 18000896/18000897 Good_6_P1old#……#$r 18000896 0 Good_6_18000896#今天晚上我们去床上聊吧#$r 18000897 0 Good_6_18000897#我也超级想你！",
+      "Dialogue.Pelette.Marriage.Good_6_18000896": "……咳。$5#$b#嗯。$4",
+      "Dialogue.Pelette.Marriage.Good_6_18000897": "是、是吗？看样子不是我一个陷入思念。我突然感觉好受多了。$1#$b#啊？哦。有时候我会想你想到难受，想要马上去到你的身边，看看你在做什么。但是我忍住了。$4#$b#毕竟家里不能没有人做家务活。$1",
+      "Dialogue.Pelette.Marriage.Good_6_P1old": "看样子不是我一个陷入思念。我突然感觉好受多了。$1#$b#啊？哦。有时候我会想你想到难受，想要马上去到你的身边，看看你在做什么。但是我忍住了。$4#$b#毕竟家里不能没有人做家务活。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_7": "虽然很想问你不去做自己的工作真的不要紧吗，但是……，果然我还是很想和你多说说话的。亲爱的，我们简单聊点什么吧？$1#$q 18000898/18000899/18000900 Good_7_P1old#……#$r 18000898 0 Good_7_18000898#聊聊今天的天气#$r 18000899 0 Good_7_18000899#聊聊今天的料理#$r 18000900 0 Good_7_18000900#聊聊彼此的孩子",
+      "Dialogue.Pelette.Marriage.Good_7_18000898": "今天的天气吗？啊，确实。看样子等会儿有些额外的活要干了。$1",
+      "Dialogue.Pelette.Marriage.Good_7_18000899": "今天还想吃点什么？嗯？嗯，我知道了，到时候我会准备好的。$1",
+      "Dialogue.Pelette.Marriage.Good_7_18000900": "%kid1今天很乖，在我给他举高高抛起来的时候，他总是咯咯地笑，看起来很喜欢我这样做。$1",
+      "Dialogue.Pelette.Marriage.Good_7_P1old": "%kid1今天很乖，在我给他举高高抛起来的时候，他总是咯咯地笑，看起来很喜欢我这样做。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_8": "昨晚我做了一个梦，我梦见有人要夺走你，夺走我现有的一切。#$b#我在深深的恐惧的同时，又无可遏止的再度愤怒了起来，$3#$b#像烈火在灼烧，而在我拔出刀的瞬间，我清醒了——你依偎在我的怀中，睡得十分安详。#$q 18000901/18000902 Good_8_P1old#……#$r 18000901 0 Good_8_18000901#看样子我是你的安定剂啊#$r 18000902 0 Good_8_18000902#只是梦，不要害怕",
+      "Dialogue.Pelette.Marriage.Good_8_18000901": "你这样说也没错，我无法失去你，我觉得我承受不了这个。你是我的，@。你是我的。",
+      "Dialogue.Pelette.Marriage.Good_8_18000902": "嗯，我知道，你的体温是那样的温暖。我不会再一次迷失自己的。……是的，再也不会了。$1",
+      "Dialogue.Pelette.Marriage.Good_8_P1old": "你的体温是那样的温暖。我不会再一次迷失自己的。……是的，再也不会了。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Good_9": "我刚刚想起了我们最初相遇时候的样子，说句实话。呃。$6#$b#你能和我聊下去真的是很厉害了，@。那个时候我谁都不信，也谁都不想信，像一把燃尽的野火，只剩下一点余烬。$7#$q 18000903/18000904 Good_9_P1old#……#$r 18000903 0 Good_9_18000903#那个时候你也太凶了！#$r 18000904 0 Good_9_18000904#现在你重获新生了吗？",
+      "Dialogue.Pelette.Marriage.Good_9_18000903": "呃，……我很抱歉，好吧，对不起。$7#$b#那个时候的确是我的错。可以原谅我吗，亲爱的。$2#$b#%佩莱特牵起你的手，又低下头去蹭了蹭你的手背。抛开那张精致的宛如猫咪一样的脸庞，他现在像极了一只收起獠牙的大型的犬类。",
+      "Dialogue.Pelette.Marriage.Good_9_18000904": "当然。$8",
+      "Dialogue.Pelette.Marriage.Good_9_P1old": "呃，……我很抱歉，好吧，对不起。$7#$b#那个时候的确是我的错。可以原谅我吗，亲爱的。$2#$b#%佩莱特牵起你的手，又低下头去蹭了蹭你的手背。抛开那张精致的宛如猫咪一样的脸庞，他现在像极了一只收起獠牙的大型的犬类。",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Neutral
+      "Dialogue.Pelette.Marriage.Neutral_0": "虽然不知道为什么，但是我总觉得有人的视线徘徊在附近，以前这种感觉要更加强烈一些，直到我们结婚之后。它似乎渐渐就消失了。$0#$q 18000905/18000906 Neutral_0_P1old#……#$r 18000905 0 Neutral_0_18000905#唔，别担心，它或许之后都不会出现了#$r 18000906 0 Neutral_0_18000906#也许这是一件好事",
+      "Dialogue.Pelette.Marriage.Neutral_0_18000905": "……你知道些什么？#$b#算了，就这样吧。也不是什么特别值得在意的事情。$1",
+      "Dialogue.Pelette.Marriage.Neutral_0_18000906": "嗯，我也觉得。因为之前的经历而长久磨练的精神，总是会在一些不好的地方发挥作用。或许是我敏感了。$0",
+      "Dialogue.Pelette.Marriage.Neutral_0_P1old": "因为之前的经历而长久磨练的精神，总是会在一些不好的地方发挥作用。或许是我敏感了。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_1": "有时候冒险者行会那边会让我干点简单的活，虽然酬劳不多，但是很有意思。$1#$b#史莱姆这种生物，我还是头一回见到，感觉很神奇。$8#$q 18000907/18000908 Neutral_1_P1old#……#$r 18000907 0 Neutral_1_18000907#你知道它们的性别吗？#$r 18000908 0 Neutral_1_18000908#你之前呆在的地方没有吗？",
+      "Dialogue.Pelette.Marriage.Neutral_1_18000907": "当然，之前马龙说过。呃，头上有触角的是男性，而没有的是雌性。$1",
+      "Dialogue.Pelette.Marriage.Neutral_1_18000908": "嗯？没有。我从没见过。$6",
+      "Dialogue.Pelette.Marriage.Neutral_1_P1old": "头上有触角的是男性，而没有的是雌性。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_2": "你要是想要饲养史莱姆赚钱的话，记得要给它们喂水。啊，对了，如果只有雄性史莱姆的话，它们是不会产下史莱姆蛋的。#$q 18000909/18000910 Neutral_2_P1old#……#$r 18000909 0 Neutral_2_18000909#我感觉它们不怎么赚钱…#$r 18000910 0 Neutral_2_18000910#那只有雌性呢~",
+      "Dialogue.Pelette.Marriage.Neutral_2_18000909": "多做点史莱姆压蛋器吧？马龙说主要还是蛋值钱。$1",
+      "Dialogue.Pelette.Marriage.Neutral_2_18000910": "呃，嗯。应该差不多吧？$7#$b#好吧，我不是很清楚，下次我会去问问马龙的。$6",
+      "Dialogue.Pelette.Marriage.Neutral_2_P1old": "多做点史莱姆压蛋器吧？马龙说主要还是蛋值钱。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_3": "有些时候我就感觉自己像是在做梦一样。噩梦逐渐远去，而好梦现在降临在了我的身边。$1#$b#……我很怕失去它。$2#$q 18000911/18000912 Neutral_3_P1old#……#$r 18000911 0 Neutral_3_18000911#这不是梦，有我陪在你的身边#$r 18000912 0 Neutral_3_18000912#这或许是个美梦也说不定",
+      "Dialogue.Pelette.Marriage.Neutral_3_18000911": "是吗，……唉，我还真是胆小啊。$7",
+      "Dialogue.Pelette.Marriage.Neutral_3_18000912": "如果是那样的话，我希望尽可能的不要醒来。但无论如何都要醒来的话，我也会做好相应的准备的——或许会很伤心也说不定。$6#$b#算了，我们不说这些了。$1",
+      "Dialogue.Pelette.Marriage.Neutral_3_P1old": "如果是美梦的话，我希望尽可能的不要醒来。但无论如何都要醒来的话，我也会做好相应的准备的——或许会很伤心也说不定。$6#$b#算了，我们不说这些了。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_4": "呸呸带回来了一条新鲜的鱼，或许我们今晚可以做个烤鱼又或是汤什么的？你更喜欢哪个？$1#$q 18000913/18000914/18000915/18000916 Neutral_4_P1old#……#$r 18000913 0 Neutral_4_18000913#我都喜欢#$r 18000914 0 Neutral_4_18000914#是你做的我都喜欢#$r 18000915 0 Neutral_4_18000915#我喜欢烤鱼#$r 18000916 0 Neutral_4_18000916#我喜欢汤",
+      "Dialogue.Pelette.Marriage.Neutral_4_18000913": "唔，是吗，那我来决定吧。$1",
+      "Dialogue.Pelette.Marriage.Neutral_4_18000914": "咳、是这样吗，别太夸奖我了，@。我都要不好意思了。$4",
+      "Dialogue.Pelette.Marriage.Neutral_4_18000915": "那我去准备点炭火好了，应该还需要点盐。$1",
+      "Dialogue.Pelette.Marriage.Neutral_4_18000916": "是吗，那就这么办吧。$1",
+      "Dialogue.Pelette.Marriage.Neutral_4_P1old": "那就这么办吧。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_5": "今天我去花车那边看了看，没有新进的花束，所以我也就没有买回来。#$b#下次我们一起去吧？挑点新鲜的花回来装饰我们的家。$1#$q 18000917/18000918 Neutral_5_P1old#……#$r 18000917 0 Neutral_5_18000917#好！#$r 18000918 0 Neutral_5_18000918#我不太想去",
+      "Dialogue.Pelette.Marriage.Neutral_5_18000917": "嗯。$1",
+      "Dialogue.Pelette.Marriage.Neutral_5_18000918": "好吧，那我还是一个人去好了。$7",
+      "Dialogue.Pelette.Marriage.Neutral_5_P1old": "嗯。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_6": "现在的生活相比之前来说缓慢很多，以前一个人时候虽然也很充实，但总觉得有些无聊。$0#$b#不过，自从我和你在一起后，我就再也没感觉到无聊过了。$1#$q 18000919/18000920 Neutral_6_P1old#……#$r 18000919 0 Neutral_6_18000919#我爱你#$r 18000920 0 Neutral_6_18000920#哦？仔细说说？",
+      "Dialogue.Pelette.Marriage.Neutral_6_18000919": "我也爱你，@，非常的。$1",
+      "Dialogue.Pelette.Marriage.Neutral_6_18000920": "洗衣服做饭照顾你，还有各种各有的动物要去喂养，我们还有一只可爱的宠物跟呸呸作伴。$1#$b#是的，这是一种什么感觉？啊，对……我感觉我很幸福。$8",
+      "Dialogue.Pelette.Marriage.Neutral_6_P1old": "洗衣服做饭照顾你，还有各种各有的动物要去喂养，我们还有一只可爱的宠物跟呸呸作伴。$1#$b#是的，这是一种什么感觉？啊，对……我感觉我很幸福。$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_7": "亲爱的，等天气热起来的时候，要我帮你扎头发吗？我很擅长扎马尾。这个发型会让你清凉很多。$1#$q 18000921/18000922 Neutral_7_P1old#……#$r 18000921 0 Neutral_7_18000921#到时候就拜托你了#$r 18000922 0 Neutral_7_18000922#不用啦",
+      "Dialogue.Pelette.Marriage.Neutral_7_18000921": "好！$1",
+      "Dialogue.Pelette.Marriage.Neutral_7_18000922": "好，我知道了。你到时候肯定有自己想要的发型吧。$2#$b#好吧，确实有一点点失落，但不要紧。$1",
+      "Dialogue.Pelette.Marriage.Neutral_7_P1old": "好！$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_8": "呸呸会自己出去上厕所这件事，我也是最近才知道。#$q 18000923/18000924 Neutral_8_P1old#……#$r 18000923 0 Neutral_8_18000923#诶？#$r 18000924 0 Neutral_8_18000924#有些人养猫也会不记得给猫喂水",
+      "Dialogue.Pelette.Marriage.Neutral_8_18000923": "因为我之前从没考虑过这件事，呃，很奇妙吧？$6#$b#我也不知道为什么。直到我今天在外面撞见了它在灌木丛旁边……",
+      "Dialogue.Pelette.Marriage.Neutral_8_18000924": "呃，好吧，或许我也是这类人。$6#$b#想想还有点对不起呸呸，没想到它居然这么的……嗯，有自我解决能力？呃，独立？亲爱的，你说用什么词比较好？$7",
+      "Dialogue.Pelette.Marriage.Neutral_8_P1old": "想想还有点对不起呸呸，没想到它居然这么的……嗯，有自我解决能力？呃，独立？亲爱的，你说用什么词比较好？$7",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Neutral_9": "我和镇子上的那个人一样，我们都是从那个地方回来的人，所以我们都有一样或多或少的通病。我也为他感到惋惜。$0#$q 18000925/18000926 Neutral_9_P1old#……#$r 18000925 0 Neutral_9_18000925#他算健康的回到了自己的家庭#$r 18000926 0 Neutral_9_18000926#分别或许让他对自己的家庭感到了陌生",
+      "Dialogue.Pelette.Marriage.Neutral_9_18000925": "是啊，这也是值得庆幸的一点。$1",
+      "Dialogue.Pelette.Marriage.Neutral_9_18000926": "是这样的，我想说的也是这个。$8#$b#虽然我叫他别总是感慨这件事，他现在该做的就是和家里人渐渐的熟悉起来，即便有些困难。但他的妻子至少是爱着他的。$1#$b#她会帮助他的。$8",
+      "Dialogue.Pelette.Marriage.Neutral_9_P1old": "虽然我叫他别总是感慨这件事，他现在该做的就是和家里人渐渐的熟悉起来，即便有些困难。但他的妻子至少是爱着他的。$1#$b#她会帮助他的。$8",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Bad
+      "Dialogue.Pelette.Marriage.Bad_0": "你厌烦我了？$2#$b#……，…………。我知道的，你已经厌烦我了，对吗？$7#$b#不然你的一言一行怎么会如此的过分，如此的……让我心痛。$2#$q 18000927/18000928 Bad_0_P1old#……#$r 18000927 0 Bad_0_18000927#不是的，听我说…#$r 18000928 0 Bad_0_18000928#……",
+      "Dialogue.Pelette.Marriage.Bad_0_18000927": "我不想听。滚开。$3#$b#……抱歉，离我远点。$2",
+      "Dialogue.Pelette.Marriage.Bad_0_18000928": "……。$2",
+      "Dialogue.Pelette.Marriage.Bad_0_P1old": "我不想听。滚开。$3#$b#……抱歉，离我远点。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_1": "别这样对我，@，别这样对我。我的心像被刀子在搅一样生疼。你知道你在做什么吗？$2#$q 18000929/18000930 Bad_1_P1old#……#$r 18000929 0 Bad_1_18000929#……，抱歉#$r 18000930 0 Bad_1_18000930#我想是的",
+      "Dialogue.Pelette.Marriage.Bad_1_18000929": "这句话有什么意义吗？它可以终止我的痛楚吗？$2#$b#%佩莱特的声音徘徊在耳边，像是在忍耐极致的痛楚一样，轻轻地颤抖着。",
+      "Dialogue.Pelette.Marriage.Bad_1_18000930": "……你可真会说啊。混蛋。但我居然不想对你做任何坏的事情。……我想，我也该做个决断了。$2",
+      "Dialogue.Pelette.Marriage.Bad_1_P1old": "这句话有什么意义吗？它可以终止我的痛楚吗？$2#$b#%佩莱特的声音徘徊在耳边，像是在忍耐极致的痛楚一样，轻轻地颤抖着。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_2": "……。$2#$b#%佩莱特神色暗淡而哀伤，他没有理你。#$q 18000931/18000932 Bad_2_P1old#……#$r 18000931 0 Bad_2_18000931#佩莱特#$r 18000932 0 Bad_2_18000932#对不起",
+      "Dialogue.Pelette.Marriage.Bad_2_18000931": "……。$2",
+      "Dialogue.Pelette.Marriage.Bad_2_18000932": "……。$2",
+      "Dialogue.Pelette.Marriage.Bad_2_P1old": "……。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_3": "我不知道原因。我也不知道你我到底是因为什么，才会变成现在这个样子。最开始的时候我很快乐。但是现在。……。$2#$q 18000933/18000934/18000935 Bad_3_P1old#……#$r 18000933 0 Bad_3_18000933#抱抱他#$r 18000934 0 Bad_3_18000934#我现在也很悲伤#$r 18000935 0 Bad_3_18000935#你以为我爱的你什么？现在这样吗？",
+      "Dialogue.Pelette.Marriage.Bad_3_18000933": "……。$2#$b#%佩莱特生硬地避开了你的怀抱，径直向一旁躲去。",
+      "Dialogue.Pelette.Marriage.Bad_3_18000934": "是吗，那我们是不是应该考虑分开了？$2",
+      "Dialogue.Pelette.Marriage.Bad_3_18000935": "你的话真够糟糕。如果不想和我说话，可以不说。$2",
+      "Dialogue.Pelette.Marriage.Bad_3_P1old": "……。$2#$b#%佩莱特生硬地避开了你的怀抱，径直向一旁躲去。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_4": "我从未想过我们会有现在这一天，我从未想过得到之后就一定会失去。$2#$b#如果一定要这样的话，我宁愿一切都没有开始过，一切都没有让我品尝过！我宁愿一直活在愤怒的余烬里。$3#$q 18000936/18000937 Bad_4_P1old#……#$r 18000936 0 Bad_4_18000936#你不必那样想…#$r 18000937 0 Bad_4_18000937#好吧，随便你怎么想",
+      "Dialogue.Pelette.Marriage.Bad_4_18000936": "是吗。那我应该怎么想？$2",
+      "Dialogue.Pelette.Marriage.Bad_4_18000937": "你的话真让我寒心，……是因为伤害我无需任何代价吗？好吧。你赢了。$2",
+      "Dialogue.Pelette.Marriage.Bad_4_P1old": "你的话真让我寒心，……是因为伤害我无需任何代价吗？好吧。你赢了。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_5": "另外一种火焰正在灼烧着我。它比之前更加让我觉得煎熬。$3#$q 18000938/18000939 Bad_5_P1old#……#$r 18000938 0 Bad_5_18000938#我不想火焰灼烧你#$r 18000939 0 Bad_5_18000939#那你继续煎熬吧",
+      "Dialogue.Pelette.Marriage.Bad_5_18000938": "那或许我们可以考虑一下分开的事情了，越快越好，是的，越快…越好。$2",
+      "Dialogue.Pelette.Marriage.Bad_5_18000939": "你的话让我寒心，你为什么要这样对我说话？……为什么？$2",
+      "Dialogue.Pelette.Marriage.Bad_5_P1old": "或许我们可以考虑一下分开的事情了，越快越好，是的，越快…越好。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_6": "今天你自己做饭吧，我不想做任何事情。$2#$q 18000940/18000941 Bad_6_P1old#……#$r 18000940 0 Bad_6_18000940#我自己来吧#$r 18000941 0 Bad_6_18000941#那我和你结婚是为了什么？",
+      "Dialogue.Pelette.Marriage.Bad_6_18000940": "……。嗯。$2",
+      "Dialogue.Pelette.Marriage.Bad_6_18000941": "……。$2#$b#那你说说看吧，为什么会和我结婚。",
+      "Dialogue.Pelette.Marriage.Bad_6_P1old": "……。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_7": "我是想好好维护我们的爱情的，可惜你似乎已经不再像之前那样关注我了。对吗？#$q 18000942/18000943 Bad_7_P1old#……#$r 18000942 0 Bad_7_18000942#是的#$r 18000943 0 Bad_7_18000943#不是的，不是这样的",
+      "Dialogue.Pelette.Marriage.Bad_7_18000942": "……。$2#$b#%佩莱特的神情愈发悲伤起来，仿佛被你的话刺中了非常柔软的地方。#$b#是吗。",
+      "Dialogue.Pelette.Marriage.Bad_7_18000943": "可是你看看现在的我，看看现在你。我们两人似乎都不开心。#$b#……难道不是吗？$2",
+      "Dialogue.Pelette.Marriage.Bad_7_P1old": "你看看现在的我，看看现在你。我们两人似乎都不开心。#$b#……难道不是吗？$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_8": "我现在甚至不知道该用什么样子的表情来面对你。如果要我笑，我的悲伤总是难以抑制；$2#$b#如果要我哭，我这辈子只在小时候失声痛哭过。$0#$q 18000944/18000945 Bad_8_P1old#……#$r 18000944 0 Bad_8_18000944#我很抱歉……#$r 18000945 0 Bad_8_18000945#那你还真是多变人",
+      "Dialogue.Pelette.Marriage.Bad_8_18000944": "不，你没错。我也没错。或许这就是注定的事情吧。我背负的罪孽让我沦落如今的现状。或许我就是一滩烂泥，不应该奢望阳光和花香。$2",
+      "Dialogue.Pelette.Marriage.Bad_8_18000945": "是吗？……是吗。$2",
+      "Dialogue.Pelette.Marriage.Bad_8_P1old": "你没错。我也没错。或许这就是注定的事情吧。我背负的罪孽让我沦落如今的现状。或许我就是一滩烂泥，不应该奢望阳光和花香。$2",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.Bad_9": "如果你想离开我，我是允许这件事发生的。但是，我不希望被折磨……因为生活已经足够折磨我了。我不想再被最爱的人折磨。$2#$q 18000946/18000947 Bad_9_P1old#……#$r 18000946 0 Bad_9_18000946#……#$r 18000947 0 Bad_9_18000947#我喜欢折磨你",
+      "Dialogue.Pelette.Marriage.Bad_9_18000946": "怎么了？无法面对这个问题吗。离开吧，分开吧。对彼此都好。$2",
+      "Dialogue.Pelette.Marriage.Bad_9_18000947": "那你做到了。$2",
+      "Dialogue.Pelette.Marriage.Bad_9_P1old": "怎么了？无法面对这个问题吗。离开吧，分开吧。对彼此都好。$2",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Pelette (Marriage) Dialogue] Holiday
+      "Dialogue.Pelette.Marriage.spring_1": "今天是春季的第一天，别忘记购买需要的种子和肥料。说起来，之前白井告诉我，最后一天用‘祈雨’的图腾是没办法让第二天下雨的。#$q 18000948/18000949 spring_1_P1old_married#……#$r 18000948 0 spring_1_18000948#他怎么告诉你的？#$r 18000949 0 spring_1_18000949#谢谢你，我头一次知道！",
+      "Dialogue.Pelette.Marriage.spring_1_18000948": "呃，图书馆我们一起看书的时候，他有时候会说一些额外的东西给我。$1",
+      "Dialogue.Pelette.Marriage.spring_1_18000949": "不要和我客气，亲爱的。不过居然能帮上你什么的，我感到很开心。$8",
+      "Dialogue.Pelette.Marriage.spring_1_P1old": "不要和我客气，亲爱的。不过居然能帮上你什么的，我感到很开心。$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.spring_12": "明天是复活节，记得早点起来去参加，注意别又忘记了，亲爱的。$1#$q 18000950/18000951 spring_12_P1old_married#……#$r 18000950 0 spring_12_18000950#知道了，我记住了#$r 18000951 0 spring_12_18000951#反正明天你也会提醒我的啦",
+      "Dialogue.Pelette.Marriage.spring_12_18000950": "嗯。$8",
+      "Dialogue.Pelette.Marriage.spring_12_18000951": "这也确实，不过我有时候也担心自己忘记这件事。毕竟我的年纪也渐渐大了起来。$1#$b#别忘了，我是个‘老’男人了。$8#$b#%佩莱特带着调笑的意味说到。",
+      "Dialogue.Pelette.Marriage.spring_12_P1old": "不过我有时候也担心自己忘记这件事。毕竟我的年纪也渐渐大了起来。$1#$b#别忘了，我是个‘老’男人了。$8#$b#%佩莱特带着调笑的意味说到。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.spring_23": "明天要当众跳舞了，我稍微有些紧张。不知道今年能不能跳得更好一些，至少不能再踩到你的脚了。$7#$q 18000952/18000953 spring_23_P1old_married#……#$r 18000952 0 spring_23_18000952#关于交际舞…？#$r 18000953 0 spring_23_18000953#别担心，你做得足够好了",
+      "Dialogue.Pelette.Marriage.spring_23_18000952": "这里的舞和军队联谊时候的舞蹈不太一样。$6",
+      "Dialogue.Pelette.Marriage.spring_23_18000953": "是吗？……是吗。看来并不是很差劲，那我就安心了。$1",
+      "Dialogue.Pelette.Marriage.spring_23_P1old": "这里的舞和军队联谊时候的舞蹈不太一样。$6",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.summer_1": "今天是夏季的第一天，你做好准备了吗，亲爱的。如果要酿酒的话，千万别忘记了给循环再生的植物施肥。$1#$b#提高它们的结果速度，会让你的收获再翻上一翻。$8#$q 18000954/18000955 summer_1_P1old#……#$r 18000954 0 summer_1_18000954#要我给你留点吗？#$r 18000955 0 summer_1_18000955#你真可靠",
+      "Dialogue.Pelette.Marriage.summer_1_18000954": "不了，不用了。我已经打算戒酒了。$1#$b#……孩子们不想要有个酗酒的父亲，而妻子也不想打理醉醺醺的丈夫。$6#$b#像这样想着，不知不觉就把酒戒掉了一大半了。$1#$b#现在的话，我想只需要偶尔小酌一下就好。$8",
+      "Dialogue.Pelette.Marriage.summer_1_18000955": "咳。是吗？作为男人就应该这样。嗯。$4",
+      "Dialogue.Pelette.Marriage.summer_1_P1old": "作为男人就应该这样。嗯。$4",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.summer_10": "明天那个节日要带上比较好的食材过去，虽然我不太喜欢这样的节日。充满了奉承。$7#$q 18000956/18000957 summer_10_P1old_married#……#$r 18000956 0 summer_10_18000956#摸摸佩莱特的脑袋#$r 18000957 0 summer_10_18000957#我也不喜欢",
+      "Dialogue.Pelette.Marriage.summer_10_18000956": "真是的，……别把我当作小孩子啊。@。$5",
+      "Dialogue.Pelette.Marriage.summer_10_18000957": "那我们还真是一对默契的夫妻。$1",
+      "Dialogue.Pelette.Marriage.summer_10_P1old": "那我们还真是一对默契的夫妻。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.summer_28": "说起来之前不知道是那对双子，还是白井说过这个生物是一种有、呃，神秘的生物？$6#$q 18000958/18000959 summer_28_P1old#……#$r 18000958 0 summer_28_18000958#神秘？#$r 18000959 0 summer_28_18000959#诓骗你的，别信",
+      "Dialogue.Pelette.Marriage.summer_28_18000958": "说实话，我没听懂，所以也不记得具体内容了。$7",
+      "Dialogue.Pelette.Marriage.summer_28_18000959": "哦。……哦。$6",
+      "Dialogue.Pelette.Marriage.summer_28_P1old": "说实话，我没听懂，所以也不记得具体内容了。$7",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.fall_1": "夏天终于结束了，实在是太热了。我从来没体验过特别漫长的夏季。还是秋天和春天更加舒服一些。$1#$q 18000960/18000961 fall_1_P1old#……#$r 18000960 0 fall_1_18000960#毕竟你之前生活中更加寒冷的地方#$r 18000961 0 fall_1_18000961#秋天可以吃蘑菇了",
+      "Dialogue.Pelette.Marriage.fall_1_18000960": "那也确实。$1",
+      "Dialogue.Pelette.Marriage.fall_1_18000961": "我喜欢蘑菇，羊肚菌很好吃。亲爱的你呢，你喜欢蘑菇吗？哪种？$1",
+      "Dialogue.Pelette.Marriage.fall_1_P1old": "我喜欢蘑菇，羊肚菌很好吃。亲爱的你呢，你喜欢蘑菇吗？哪种？$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.fall_15": "明天有射击游戏，我都有点跃跃欲试了——好吧，重点不是这个，别忘记带上展柜用的东西，亲爱的。$8#$q 18000962/18000963 fall_15_P1old_married#……#$r 18000962 0 fall_15_18000962#明天放开去玩吧#$r 18000963 0 fall_15_18000963#你真贴心",
+      "Dialogue.Pelette.Marriage.fall_15_18000962": "哈啊，感谢我亲爱的妻子！对了对了，还有那个力量测试。嗯！$8",
+      "Dialogue.Pelette.Marriage.fall_15_18000963": "……。$4#$b#%佩莱特抬手挠了挠自己的脸颊，似乎对于你的夸赞有些不好意思。#$b#我和你学的，嗯。$4",
+      "Dialogue.Pelette.Marriage.fall_15_P1old": "哈啊，感谢我亲爱的妻子！对了对了，还有那个力量测试。嗯！$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.fall_26": "迷宫我已经去过了，里面没什么特别恐怖的东西，也没有什么危险的事情——去吧，玩得尽兴一些。我在外面等你。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.winter_1": "虽然不喜欢冬季和雪，但是果然还是最熟悉这种天气了，久违的，令人怀念的，又让人厌恶的季节。#$q 18000964/18000965 winter_1_P1old#……#$r 18000964 0 winter_1_18000964#我陪着你#$r 18000965 0 winter_1_18000965#今天想吃什么，我做给你吃",
+      "Dialogue.Pelette.Marriage.winter_1_18000964": "嗯，我知道，所以我觉得这里的冬季很不一样。这里的冬季，是温暖的。$1",
+      "Dialogue.Pelette.Marriage.winter_1_18000965": "真的吗！那我要吃牛肉，呃，太难了？没关系，只要是你做的我都喜欢。$1#$b#%佩莱特的阴霾一扫而空，他对你露出了好看的笑容。",
+      "Dialogue.Pelette.Marriage.winter_1_P1old": "我觉得这里的冬季很不一样。这里的冬季，是温暖的。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.winter_7": "我不喜欢明天呆站在雪地里的感受，不过堆雪人的话，或许呸呸会陪着我一起。而且你也在附近。这么想想的话，感觉又好点了。$1#$q 18000966/18000967 winter_7_P1old_married#……#$r 18000966 0 winter_7_18000966#我会早点来陪你一起堆雪人的#$r 18000967 0 winter_7_18000967#呸呸会堆雪人？",
+      "Dialogue.Pelette.Marriage.winter_7_18000966": "是吗？那太好不过了，我等你。$1",
+      "Dialogue.Pelette.Marriage.winter_7_18000967": "不，它不会，但是它会把雪搓圆。倒是帮了我不少。$1",
+      "Dialogue.Pelette.Marriage.winter_7_P1old": "我等你。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.winter_23": "别忘记了你今年的神秘朋友，记得明天带给他礼物。#$q 18000968/18000969 winter_23_P1old#……#$r 18000968 0 winter_23_18000968#你的神秘朋友是？#$r 18000969 0 winter_23_18000969#或许我应该也给你带一个？",
+      "Dialogue.Pelette.Marriage.winter_23_18000968": "嘿，亲爱的，这就是秘密了。$1",
+      "Dialogue.Pelette.Marriage.winter_23_18000969": "要给我额外的礼物？……你本身就是了。$8#$b#%佩莱特的手指点了点你的鼻尖，他的动作相当的轻柔。",
+      "Dialogue.Pelette.Marriage.winter_23_P1old": "要给我额外的礼物？……你本身就是了。$8#$b#%佩莱特的手指点了点你的鼻尖，他的动作相当的轻柔。",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.winter_28": "马上冬季就要结束了，新的一年即将开始……虽然有诸多感慨，但是总结下来就是我很幸福。我爱你，@，我希望我们总是这样。$1#$q 18000970/18000971 winter_28_P1old#……#$r 18000970 0 winter_28_18000970#我们会的#$r 18000971 0 winter_28_18000971#那我们来亲一个吧？",
+      "Dialogue.Pelette.Marriage.winter_28_18000970": "嗯，我相信你。$1",
+      "Dialogue.Pelette.Marriage.winter_28_18000971": "当然。现在氛围很好，不是吗？$8#$b#%佩莱特的手掌抚摸上你的脸颊，他俊美的面容向你靠近，一个彼此相触碰的亲吻就此落下。#$b#啾。$1",
+      "Dialogue.Pelette.Marriage.winter_28_P1old": "我相信你。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.spring_Pelette_old": "亲爱的，你知道吗？春天的时候，有些带叶洋葱会从野地里冒出来，特别是在下了雨过后。$1#$b#我之前……呃，就是在煤炭森林那个下水道入口上面一点的地里采到的。如果你有需要的话，就去那边碰碰运气吧。$8#$q 18000972/18000973 spring_Pelette_P1old#……#$r 18000972 0 spring_Pelette_18000972#谢谢你，佩莱特#$r 18000973 0 spring_Pelette_18000973#我知道，不用你再说了",
+      "Dialogue.Pelette.Marriage.spring_Pelette_18000972": "不客气，虽然不知道你知不知道，但总之它能帮到你就好了。$1",
+      "Dialogue.Pelette.Marriage.spring_Pelette_18000973": "……哦，好吧。$7#$b#%佩莱特的声音有些干巴。",
+      "Dialogue.Pelette.Marriage.spring_Pelette_P1old": "虽然不知道你知不知道，但总之它能帮到你就好了。$1",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.summer_Pelette_old": "@，给你这个！$1#$q 18000974/18000975 summer_Pelette_P1old#……#$r 18000974 0 summer_Pelette_18000974#哇，你出去买的吗？#$r 18000975 0 summer_Pelette_18000975#谢谢！我很喜欢！",
+      "Dialogue.Pelette.Marriage.summer_Pelette_18000974": "我自己尝试做的，虽然也算先去买过了解了一下……这个还是很简单的，只需要奶、冰块以及果酱！[SDS_Pelettespecialcuisine]$8",
+      "Dialogue.Pelette.Marriage.summer_Pelette_18000975": "……你喜欢就最好不过了。嗯。$4#$b#%佩莱特移开了视线，因为你的夸奖，他的脸颊似乎开始有些泛红。#$b#不过很遗憾，不是买来的，而是我做的。你……先尝尝看？[SDS_Pelettespecialcuisine]$13",
+      "Dialogue.Pelette.Marriage.summer_Pelette_P1old": "我自己尝试做的，虽然也算先去买过了解了一下……这个还是很简单的，只需要奶、冰块以及果酱！[SDS_Pelettespecialcuisine]$8",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.fall_Pelette_old": "说起来，亲爱的，你喜欢吃蘑菇吗？秋天的话，在最里面那个森林里会有很多的蘑菇出现。$8#$b#说实话，羊肚菌的味道还是不错的。$1#$q 18000976/18000977/18000978 fall_Pelette_P1old#……#$r 18000976 0 fall_Pelette_18000976#我也喜欢羊肚菌！#$r 18000977 0 fall_Pelette_18000977#我更喜欢红蘑菇#$r 18000978 0 fall_Pelette_18000978#蕨菜是这个季节吗？",
+      "Dialogue.Pelette.Marriage.fall_Pelette_18000976": "哈哈，你也是吗？那下次一起去那边吧。$1#$b#其实那边也挺危险的，有很多游荡在那边的史莱姆。$0",
+      "Dialogue.Pelette.Marriage.fall_Pelette_18000977": "呃，听我说！这个不能吃！$6",
+      "Dialogue.Pelette.Marriage.fall_Pelette_18000978": "呃……，嗯……。春天？秋天？……好吧。说实话我也不太清楚。因为我不怎么见过它。$6",
+      "Dialogue.Pelette.Marriage.fall_Pelette_P1old": "下次一起去那边吧。$1#$b#其实那边也挺危险的，有很多游荡在那边的史莱姆。$0",
+      /*~*~*~*/
+      "Dialogue.Pelette.Marriage.winter_Pelette_old": "你冷吗亲爱的，这边的冬季还真是相当的温柔，没有凌冽的寒风，也没有霜冻一样硬的雪跟冰雹。我喜欢这里。$1#$q 18000979/18000980 winter_Pelette_P1old#……#$r 18000979 0 winter_Pelette_18000979#有点冷#$r 18000980 0 winter_Pelette_18000980#你可以和我一直呆在这里，直到我们老去",
+      "Dialogue.Pelette.Marriage.winter_Pelette_18000979": "我倒是还好，我给你暖暖——把手给我，像这样。没错。$1#$b#哦，你的手还真是很冰啊……$6#$b#%佩莱特将你的手捧在了自己的手心里捂着，片刻又觉得还不够，于是他把你的手揣进了发热的胸膛上。#$b#现在有好点吗？$1",
+      "Dialogue.Pelette.Marriage.winter_Pelette_18000980": "听起来真是一件非常美妙的事情，我喜欢。这个时候该说那个对吧？……我爱你，@，我爱你。$1",
+      "Dialogue.Pelette.Marriage.winter_Pelette_P1old": "这个时候该说那个对吧？……我爱你，@，我爱你。$1"
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      /*-----------------------------------------------------------------------------------------------------------*/
+}

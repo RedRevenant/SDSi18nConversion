@@ -1,0 +1,83 @@
+﻿{
+   /* [Dialogue] Raymond */
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Raymond Dialogue] Special
+   "Dialogue.Raymond.Introduction": "你好啊孩子，是第一次来这里吧？$0#$b#如你所见，我是这里的神父，平时就在教堂里待着。$1",
+   "Dialogue.Raymond.spring_1_2": "新的一年来临，希望今年孩子们也能健健康康。$1",
+   "Dialogue.Raymond.spring_2": "我年纪都这么大了，其实不需要过什么生日了，这种活动还是要由你们年轻人参加才有意思啊。$1",
+   "Dialogue.Raymond.DumpsterDiveComment": "哦不孩子，别碰那些垃圾！如果你饿了，我可以给你拿些食物。$2",
+   "Dialogue.Raymond.GreenRain": "我从未见过如此奇怪的景象…这或许是什么预兆吧，别担心孩子，这未必不是件好事。$2",
+   "Dialogue.Raymond.MovieInvitation": "谢谢你啊孩子，我会去的。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Raymond Dialogue] Gift
+   "Dialogue.Raymond.AcceptBirthdayGift_Loved": "你是来专程给我送生日礼物的？真好啊，这让我不禁回忆起一些美好的往事，谢谢你孩子。$1",
+   "Dialogue.Raymond.AcceptBirthdayGift_Liked": "这东西让你费心了吧？年轻人可真有活力啊...我这里没什么好招待的东西，如果你不嫌弃的话就来坐一会吧，孩子们也会开心的。$1",
+   "Dialogue.Raymond.AcceptBirthdayGift_Neutral": "能有这么多人记得我的生日可真是令人高兴啊，谢谢你的礼物。$1",
+   "Dialogue.Raymond.AcceptBirthdayGift_Disliked": "唉...孩子，你能告诉我为什么要这样做吗？$2",
+   "Dialogue.Raymond.AcceptBirthdayGift_Hated": "唉...孩子，你能告诉我为什么要这样做吗？$2",
+   "Dialogue.Raymond.AcceptGift_(O)StardropTea": "多好的礼物啊，想不到礼物还有我的份，谢谢你孩子，我很感激。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Raymond Dialogue] Resort
+   "Dialogue.Raymond.Resort": "这里的天气很热，但是对于我这种年纪的人来说，反而会更舒适一些。$1",
+   "Dialogue.Raymond.Resort_Bar": "这样的机会对我来说并不多…但你不同，孩子，你还有很多地方可以去探索。$1",
+   "Dialogue.Raymond.Resort_Chair": "看来我高估了自己的精力。$1",
+   "Dialogue.Raymond.Resort_Dance": "如果我能再年轻一些，说不定就会试着跳一曲，不过那种舞步对于现在的孩子来说或许有些过时了。$0",
+   "Dialogue.Raymond.Resort_Entering": "教堂的孩子们总是催促我有机会去岛上看看风景，多有活力的一群孩子。$1",
+   "Dialogue.Raymond.Resort_Leaving": "我度过了很惬意的一天，这一切都要谢谢你不是吗？如此优秀的孩子。$1",
+   "Dialogue.Raymond.Resort_Shore": "当你看向海面，就会不由自主想到过去的事情，不管是什么样的回忆都会平静下来。$0",
+   "Dialogue.Raymond.Resort_Towel": "不论你要去哪里，注意安全，孩子。$0",
+   "Dialogue.Raymond.Resort_Umbrella": "小心中暑，孩子。$0",
+   "Dialogue.Raymond.Resort_Wander": "我的年纪已经没办法支撑我到处探索了，我只是在这附近走一走。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Raymond Dialogue] General/Spring
+   "Dialogue.Raymond.Mon": "哦，你好孩子，你看起来干劲十足。$0",
+   "Dialogue.Raymond.Mon2": "祝你有美好的一天，孩子。$0",
+   "Dialogue.Raymond.Mon4": "累了可以来这里坐一坐，静下心来体会这里是多么的神圣。$1",
+   "Dialogue.Raymond.Mon6": "如果有哪个孩子对你态度不好，恳请你不要计较，那样的环境导致他们必须如此警惕。$0",
+   "Dialogue.Raymond.Mon8": "所有孩子都有读书的权利，这个镇子上有人愿意教书真是太好了。$1",
+   "Dialogue.Raymond.Mon10": "你觉得孩子们怎么样？和他们熟悉了之后你就会发现他们都是好孩子。$1",
+   /*~*~*~*/
+   "Dialogue.Raymond.Tue": "你好，是来教堂祷告的吗？$0",
+   "Dialogue.Raymond.Tue2": "孩子们对你很警惕吗？请不要介意，他们以前吃了太多苦。$0",
+   "Dialogue.Raymond.Tue4": "佩莱特啊，他有时也会来我这里帮帮忙，在我印象里，他脾气可是有点倔啊。$1",
+   "Dialogue.Raymond.Tue6": "教堂，多么神圣的地方啊，我不需要什么奖赏，只是想做好自己该做的事情罢了。$1",
+   "Dialogue.Raymond.Tue8": "知道吗，孩子们昨天提到了你。$1#$b#别紧张，他们对你评价很不错，努力就有回报不是吗？我真替你感到高兴。$0",
+   "Dialogue.Raymond.Tue10": "我能拜托你一件事吗孩子？我想在你的农场买些新鲜水果给孩子们吃。$0",
+   /*~*~*~*/
+   "Dialogue.Raymond.Wed": "你好啊孩子，见到你很高兴。$0",
+   "Dialogue.Raymond.Wed2": "你觉得这个镇子怎么样，孩子？$0",
+   "Dialogue.Raymond.Wed4": "你问我在教堂多久了？$0#$b#嗯...时间太长，老头子我自己也记不清了。$1",
+   "Dialogue.Raymond.Wed6": "你会制作衣服吗孩子？$0#$b#那就太好了，能麻烦给教堂里的那些孩子们做几件新衣服吗。我可以提前把钱给你。$1",
+   "Dialogue.Raymond.Wed8": "善良听话又勇敢的孩子应该得到属于他的奖励，我通常会给孩子们一些五颜六色的糖果，这对他们来说很有吸引力。$0",
+   "Dialogue.Raymond.Wed10": "在我这个年纪看来，佩莱特和你都算是孩子。#$b#所以孩子，你要来一颗糖果吗？[612]$1",
+   /*~*~*~*/
+   "Dialogue.Raymond.Thu": "你好啊孩子，今天过得怎么样？$0",
+   "Dialogue.Raymond.Thu2": "年轻真好啊，看看你们多有活力。$1",
+   "Dialogue.Raymond.Thu4": "我很感谢那位潘妮女士，因为她，孩子们才能学习到知识。$1",
+   "Dialogue.Raymond.Thu6": "你也会挑食吗？$0#$b#实际上，教堂的孩子们也会有味道不喜欢的食物，但他们都会乖乖吃下去，因为挨过饿，所以更知道食物的珍贵。$0",
+   "Dialogue.Raymond.Thu8": "我并不觉得自己的工作做的有多极致，我只是为了面对神使能够问心无愧。$0",
+   "Dialogue.Raymond.Thu10": "这是给你的孩子，谢谢你一直以来的帮助，快尝尝吧，其他孩子也帮了忙做的。[221]$1",
+   /*~*~*~*/
+   "Dialogue.Raymond.Fri": "又见面了孩子，今天过得怎么样？$0",
+   "Dialogue.Raymond.Fri2": "教堂里的孩子们都很懂事，所以我也并没有那么累。$0",
+   "Dialogue.Raymond.Fri4": "你看起来有些累，今天要做的事情很多吧?$0",
+   "Dialogue.Raymond.Fri6": "饿了吗？吃点东西吧。[216]$0",
+   "Dialogue.Raymond.Fri8": "你和孩子们相处的很好不是吗？$0#$b#其实他们还问我你什么时候再来看他们呢。$1",
+   "Dialogue.Raymond.Fri10": "好孩子，你的农场打理的怎么样？我相信你的能力。$1 ",
+   /*~*~*~*/
+   "Dialogue.Raymond.Sat": "你好孩子，见到你很高兴。$1",
+   "Dialogue.Raymond.Sat2": "你好孩子，我正准备打扫一下卫生呢，有些地方很容易落灰。$1",
+   "Dialogue.Raymond.Sat4": "教堂里的孩子们心智要成熟许多，和他们的经历离不开关系。$2",
+   "Dialogue.Raymond.Sat6": "不必太勉强自己，把身体累坏了也不行。$0",
+   "Dialogue.Raymond.Sat8": "我听说现在的年轻人都不好好吃饭，还总是熬夜...你有按时吃饭吗孩子？$0",
+   "Dialogue.Raymond.Sat10": "有什么事也可以和我说一说，没准我能帮上忙呢。$1",
+   /*~*~*~*/
+   "Dialogue.Raymond.Sun": "远离城市来到这里，跟随自己的心就好了孩子，没有所谓的对错。$0",
+   "Dialogue.Raymond.Sun2": "你好孩子，是来祷告的吗？$0",
+   "Dialogue.Raymond.Sun4": "人老了体力就是跟不上啊，看看你们这些孩子们，多有活力。$1",
+   "Dialogue.Raymond.Sun6": "教堂里的孩子正是长身体的时候，得多注意他们的饮食才行。$0",
+   "Dialogue.Raymond.Sun8": "孩子们有时候会和我一块去采购日常用品，小孩子总是能在路上发现新奇的事物。$1",
+   "Dialogue.Raymond.Sun10": "累了也可以来教堂坐一会，你会逐渐放松下来的。$1"
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+}

@@ -1,0 +1,41 @@
+{
+    "Changes": [
+        //1 Heart Event
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Forest",
+            "Entries": {
+                "19215194/f Lane 250/t 800 1000/F/d Mon/d Tue/d Wed/d Thu/d Sat/F": "breezy/27 11/farmer 36 13 3 Lane 1000 1000 0/skippable/pause 500/speed farmer 4/move farmer -9 0 0/pause 500/speak Lane \"{{i18n:event-19215194.01}}\"/pause 500/emote farmer 60/pause 500/speak Lane \"{{i18n:event-19215194.02}}\"/pause 500/speak Lane \"{{i18n:event-19215194.03}}\"/pause 500/question fork1 \"{{i18n:event-19215194.04}}#{{i18n:event-19215194.05}}#{{i18n:event-19215194.06}}#\"/fork LaAccept/pause 500/emote farmer 60/pause 500/speak Lane \"{{i18n:event-19215194.07}}\"/pause 500/emote farmer 40/pause 500/end",
+                "LaAccept": "pause 500/speak Lane \"{{i18n:event-19215194.LaAccept.01}}\"/pause 500/emote farmer 40/pause 500/end"
+            }
+        },
+        //2 Heart Event
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Forest",
+            "Entries": {
+                "19215193/f Lane 500/t 700 1700/F/d Mon/d Tue/d Wed/d Thu/d Sat/F": "breezy/27 11/farmer 36 13 3 Lane 1000 1000 0/skippable/pause 500/speed farmer 4/move farmer -9 0 0/pause 500/speak Lane \"{{i18n:event-19215193.01}}\"/pause 500/emote farmer 60/pause 500/speak Lane \"{{i18n:event-19215193.02}}\"/pause 500/question fork1 \"{{i18n:event-19215193.03}}#{{i18n:event-19215193.04}}#{{i18n:event-19215193.05}}#\"/fork Lgive/pause 500/emote farmer 8/pause 500/speak Lane \"{{i18n:event-19215193.06}}\"/pause 500/jump farmer 6/emote farmer 16/pause 500/speak Lane \"{{i18n:event-19215193.07}}\"/pause 500/message \"{{i18n:event-19215193.08}}\"/pause 500/speak Lane \"{{i18n:event-19215193.09}}\"/pause 500/emote farmer 40/pause 500/message \"{{i18n:event-19215193.10}}\"/pause 500/speak Lane \"{{i18n:event-19215193.11}}\"/pause 500/message \"{{i18n:event-19215193.12}}\"/pause 500/question null \"{{i18n:event-19215193.13}}#{{i18n:event-19215193.14}}#{{i18n:event-19215193.15}}#{{i18n:event-19215193.16}}#\"/pause 500/emote farmer 60/speak Lane \"{{i18n:event-19215193.17}}\"/pause 500/end",
+                "Lgive": "speak Lane \"{{i18n:event-19215193.Lgive.01}}\"/pause 500/question null \"{{i18n:event-19215193.Lgive.02}}#{{i18n:event-19215193.Lgive.03}}#{{i18n:event-19215193.Lgive.04}}#{{i18n:event-19215193.Lgive.05}}#\"/pause 500/emote farmer 60/message \"{{i18n:event-19215193.Lgive.06}}\"/pause 500/speak Lane \"{{i18n:event-19215193.Lgive.07}}\"/pause 500/question null \"{{i18n:event-19215193.Lgive.08}}#{{i18n:event-19215193.Lgive.09}}#{{i18n:event-19215193.Lgive.10}}#{{i18n:event-19215193.Lgive.11}}#\"/pause 500/message \"{{i18n:event-19215193.Lgive.12}}\"/pause 500/speak Lane \"{{i18n:event-19215193.Lgive.13}}\"/pause 500/emote farmer 8/pause 500/speak Lane \"{{i18n:event-19215193.Lgive.14}}\"/pause 500/message \"{{i18n:event-19215193.Lgive.15}}\"/pause 500/speak Lane \"{{i18n:event-19215193.Lgive.16}}\"/pause 500/question null \"{{i18n:event-19215193.Lgive.17}}#{{i18n:event-19215193.Lgive.18}}#{{i18n:event-19215193.Lgive.19}}#{{i18n:event-19215193.Lgive.20}}#\"/pause 500/speak Lane \"{{i18n:event-19215193.Lgive.21}}\"/pause 500/emote farmer 60/pause 500/end"
+            }
+        },
+        //4 Heart Event
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Forest",
+            "Entries": {
+                "19215195/f Lane 1000/t 1900 2200/e 19215193/w sunny/F": "breezy/75 10/farmer 75 19 0 Lane 75 10 3/skippable/animate Lane false true 200 16 16 16 16 17 17 17 17/pause 500/emote Lane 56/pause 500/speak Lane \"{{i18n:event-19215195.01}}\"/pause 500/speak Lane \"{{i18n:event-19215195.02}}\"/pause 500/speak Lane \"{{i18n:event-19215195.03}}\"/pause 500/emote Lane 16/pause 500/speak Lane \"{{i18n:event-19215195.04}}\"/pause 500/speed farmer 4/move farmer 0 -7 0 true/pause 500/stopAnimation Lane/move Lane 0 0 2/pause 500/emote Lane 16/pause 500/speak Lane \"{{i18n:event-19215195.05}}\"/pause 500/question fork1 \"{{i18n:event-19215195.06}}#{{i18n:event-19215195.07}}#{{i18n:event-19215195.08}}#\"/fork Lahand/pause 500/speak Lane \"{{i18n:event-19215195.09}}\"/pause 500/emote Lane 40/pause 500/speak Lane \"{{i18n:event-19215195.10}}\"/pause 500/jump Lane 8/speed Lane 6/move Lane 0 -1 3/speed Lane 6/move Lane -8 0 3/warp Lane 500 500/pause 500/message \"{{i18n:event-19215195.11}}\"/pause 500/emote farmer 40/pause 500/end",
+                "Lahand": "pause 500/speak Lane \"{{i18n:event-19215195.Lahand.01}}\"/pause 500/emote Lane 56/pause 500/speak Lane \"{{i18n:event-19215195.Lahand.02}}\"/pause 500/jump Lane 8/speed Lane 6/move Lane 0 -1 3/speed Lane 6/move Lane -8 0 3/warp Lane 500 500/pause 500/message \"{{i18n:event-19215195.Lahand.03}}\"/pause 500/emote farmer 40/pause 500/end"
+            }
+        },
+        //8 Heart Event
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Forest",
+            "Entries": {
+                "19215197/f Lane 2000/t 2000 2300/w sunny/n SDSLane8/y 1/F": "breezy/69 48/farmer 69 41 2 Lane 69 50 2/skippable/pause 500/emote Lane 40/pause 500/speak Lane \"{{i18n:event-19215197.01}}\"/pause 500/message \"{{i18n:event-19215197.02}}\"/pause 500/question fork1 \"{{i18n:event-19215197.03}}#{{i18n:event-19215197.04}}#{{i18n:event-19215197.05}}#\"/fork Lawater/pause 500/speed farmer 4/move farmer 0 5 2 true/pause 500/emote Lane 16/move Lane 0 0 0/pause 800/textAboveHead Lane \"{{i18n:event-19215197.06}}\"/pause 1000/speak Lane \"{{i18n:event-19215197.07}}\"/pause 500/question fork1 \"{{i18n:event-19215197.08}}#{{i18n:event-19215197.09}}#{{i18n:event-19215197.10}}#\"/fork Lacome/pause 500/emote Lane 16/pause 500/speak Lane \"{{i18n:event-19215197.11}}\"/pause 500/emote Lane 56/pause 500/message \"{{i18n:event-19215197.12}}\"/pause 500/speed Lane 4/move Lane 0 -2 0/pause 500/speak Lane \"{{i18n:event-19215197.13}}\"/pause 500/message \"{{i18n:event-19215197.14}}\"/pause 500/speak Lane \"{{i18n:event-19215197.15}}\"/pause 500/message \"{{i18n:event-19215197.16}}\"/pause 500/speak Lane \"{{i18n:event-19215197.17}}\"/pause 500/message \"{{i18n:event-19215197.18}}\"/pause 500/emote farmer 40/pause 500/speak Lane \"{{i18n:event-19215197.19}}\"/pause 500/emote Lane 56/pause 500/speak Lane \"{{i18n:event-19215197.20}}\"/pause 500/emote farmer 60/pause 500/end",
+                "Lawater": "pause 500/friendship Lane -1000/globalFade/viewport 1000 1000/pause 500/end",
+                "Lacome": "pause 500/emote Lane 16/pause 500/speak Lane \"{{i18n:event-19215197.Lacome.01}}\"/pause 500/emote Lane 56/pause 500/message \"{{i18n:event-19215197.Lacome.02}}\"/pause 500/speed Lane 4/move Lane 0 -2 0/pause 500/speak Lane \"{{i18n:event-19215197.Lacome.03}}\"/pause 500/message \"{{i18n:event-19215197.Lacome.04}}\"/pause 500/speak Lane \"{{i18n:event-19215197.Lacome.05}}\"/pause 500/message \"{{i18n:event-19215197.Lacome.06}}\"/pause 500/speak Lane \"{{i18n:event-19215197.Lacome.07}}\"/pause 500/message \"{{i18n:event-19215197.Lacome.08}}\"/pause 500/emote farmer 40/pause 500/speak Lane \"{{i18n:event-19215197.Lacome.09}}\"/pause 500/emote Lane 56/pause 500/speak Lane \"{{i18n:event-19215197.Lacome.10}}\"/pause 500/emote farmer 60/pause 500/end"
+            }
+        }
+    ]
+}

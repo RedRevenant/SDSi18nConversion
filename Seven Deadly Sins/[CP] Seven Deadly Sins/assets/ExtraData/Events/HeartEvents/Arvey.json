@@ -1,0 +1,47 @@
+{
+    "Changes": [
+        //2 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Desert",
+            "Entries": {
+                "19215101/f Arvey 500/t 1100 1700/a 6 52/F": "fallFest/32 44/farmer 25 45 1 Arvey 32 43 2/skippable/pause 500/speed farmer 3/move farmer 5 0 1/textAboveHead Arvey \"{{i18n:event-19215101.01}}\"/pause 500/emote farmer 40/pause 500/move farmer 2 0 0/pause 500/emote Arvey 32/pause 500/speak Arvey \"{{i18n:event-19215101.02}}\"/pause 1000/farmerEat 773/pause 3000/move farmer 0 0 0/speak Arvey \"{{i18n:event-19215101.03}}\"/pause 500/emote farmer 8/pause 500/speak Arvey \"{{i18n:event-19215101.04}}\"/pause 500/animate Arvey false true 200 23/shake Arvey 10000/pause 500/message \"{{i18n:event-19215101.05}}\"/pause 500/question fork1 \"{{i18n:event-19215101.06}}#{{i18n:event-19215101.07}}#{{i18n:event-19215101.08}}#\"/fork Ahandle/pause 500/emote farmer 32/shake Arvey 1/pause 500/jump Arvey 3/pause 500/message \"{{i18n:event-19215101.09}}\"/pause 500/speak Arvey \"{{i18n:event-19215101.10}}\"/pause 500/emote Arvey 28/pause 500/speak Arvey \"{{i18n:event-19215101.11}}\"/animate Arvey false true 200 28 28 28 28 29 29 29 29/pause 500/emote farmer 8/pause 500/speak Arvey \"{{i18n:event-19215101.12}}\"/pause 500/stopAnimation Arvey/pause 500/speak Arvey \"{{i18n:event-19215101.13}}\"/pause 500/emote farmer 32/end",
+                "Ahandle": "pause 500/shake Arvey 1/speak Arvey \"{{i18n:event-19215101.Ahandle.01}}\"/pause 500/animate Arvey false true 200 23/shake Arvey 10000/pause 500/question null \"{{i18n:event-19215101.Ahandle.02}}#{{i18n:event-19215101.Ahandle.03}}#{{i18n:event-19215101.Ahandle.04}}#{{i18n:event-19215101.Ahandle.05}}#\"/pause 500/shake Arvey 1/textAboveHead Arvey \"{{i18n:event-19215101.Ahandle.06}}\"/pause 500/speak Arvey \"{{i18n:event-19215101.Ahandle.07}}\"animate Arvey false true 200 28 28 28 28 29 29 29 29/pause 500/emote farmer 32/pause 500/stopAnimation Arvey/pause 500/speak Arvey \"{{i18n:event-19215101.Ahandle.08}}\"/pause 500/emote Arvey 32/pause 500/end"
+            }
+        },
+        //4 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Desert",
+            "Entries": {
+                "19215106/e 19215101/f Arvey 1000/w sunny/a 6 52/F": "fallFest/19 41/farmer 14 43 1 Arvey 19 37 2/skippable/changeSprite Arvey 3/pause 500/speed farmer 4/move farmer 5 0 0/textAboveHead Arvey \"{{i18n:event-19215106.01}}\"/speed Arvey 5/move Arvey 0 4 2/move farmer 0 0 0/pause 500/speak Arvey \"{{i18n:event-19215106.02}}\"/pause 500/message \"{{i18n:event-19215106.03}}\"/pause 500/emote farmer 60/pause 500/animate Arvey false true 200 16/pause 500/emote Arvey 16/pause 500/stopAnimation Arvey/pause 500/speak Arvey \"{{i18n:event-19215106.04}}\"/pause 500/question fork1 \"{{i18n:event-19215106.05}}#{{i18n:event-19215106.06}}#{{i18n:event-19215106.07}}#\"/fork Abeat/pause 500/jump Arvey 6/pause 500/speak Arvey \"{{i18n:event-19215106.08}}\"/pause 500/emote Arvey 8/pause 500/question null \"{{i18n:event-19215106.09}}#{{i18n:event-19215106.10}}#{{i18n:event-19215106.11}}#{{i18n:event-19215106.12}}#\"/pause 500/textAboveHead Arvey \"{{i18n:event-19215106.13}}\"/pause 500/speak Arvey \"{{i18n:event-19215106.14}}\"/pause 500/emote Arvey 32/pause 500/speak Arvey \"{{i18n:event-19215106.15}}\"/pause 500/emote farmer 60/pause 500/end",
+                "Abeat": "pause 500/speak Arvey \"{{i18n:event-19215106.Abeat.01}}\"/pause 500/emote Arvey 60/pause 500/jump Arvey 7/pause 500/speak Arvey \"{{i18n:event-19215106.Abeat.02}}\"/pause 500/emote Arvey 32/pause 500/globalFade/viewport 1000 1000/pause 500/message \"{{i18n:event-19215106.Abeat.03}}\"/pause 500/end"
+            }
+        },
+        //6 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/SandyHouse",
+            "Entries": {
+                "19215107/e 19215106/f Arvey 1500": "fallFest/31 19/farmer 25 21 1 Arvey 31 19 2/skippable/changeSprite Arvey 3/animate Arvey false true 200 21 21 21 21 21 21 22 22 22 22 22 22/pause 1000/speed farmer 4/move farmer 6 0 0/pause 500/emote farmer 60/pause 500/animate Arvey false true 200 27/pause 500/speak Arvey \"{{i18n:event-19215107.01}}\"/pause 500/question null \"{{i18n:event-19215107.02}}#{{i18n:event-19215107.03}}#{{i18n:event-19215107.04}}#{{i18n:event-19215107.05}}#\"/pause 500/textAboveHead Arvey \"{{i18n:event-19215107.06}}\"/pause 1000/speak Arvey \"{{i18n:event-19215107.07}}\"/textAboveHead Arvey \"{{i18n:event-19215107.08}}\"/animate Arvey false true 200 20/pause 1000/speak Arvey \"{{i18n:event-19215107.09}}\"/pause 500/question fork1 \"{{i18n:event-19215107.10}}#{{i18n:event-19215107.11}}#{{i18n:event-19215107.12}}#\"/fork Awound/pause 500/animate Arvey false true 200 27/pause 500/speak Arvey \"{{i18n:event-19215107.13}}\"/pause 500/emote Arvey 40/pause 500/speak Arvey \"{{i18n:event-19215107.14}}\"/pause 500/emote farmer 40/pause 500/end",
+                "Awound": "pause 500/animate Arvey false true 200 27/emote Arvey 40/pause 500/speak Arvey \"{{i18n:event-19215107.Awound.01}}\"/pause 500/emote farmer 12/pause 500/animate Arvey false true 200 20/pause 500/message \"{{i18n:event-19215107.Awound.02}}\"/pause 500/speak Arvey \"{{i18n:event-19215107.Awound.03}}\"/pause 500/showFrame Arvey 30/move Arvey 0 1 2 true/pause 500/message \"{{i18n:event-19215107.Awound.04}}\"/pause 500/speak Arvey \"{{i18n:event-19215107.Awound.05}}\"/pause 500/emote Arvey 32/pause 500/end"
+            }
+        },
+        //8 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/SandyHouse",
+            "Entries": {
+                "19215109/n SDSArvey8": "fallFest/18 23/farmer 14 24 1 Arvey 18 18 2/skippable/changePortrait Arvey 2/changeSprite Arvey 2/pause 500/speed farmer 4/move farmer 4 0 0/emote farmer 40/pause 500/textAboveHead Arvey \"{{i18n:event-19215109.01}}\"/speed Arvey 5/move Arvey 0 5 2/move farmer 0 0 0/jump farmer 7/pause 500/message \"{{i18n:event-19215109.02}}\"/pause 500/emote farmer 12/pause 500/speak Arvey \"{{i18n:event-19215109.03}}\"/pause 500/jump Arvey 7/pause 500/speak Arvey \"{{i18n:event-19215109.04}}\"/pause 500/globalFade/viewport 1000 1000/pause 1000/changeSprite Arvey 1/changePortrait Arvey 1/warp Arvey 22 24/move Arvey 0 0 0/warp farmer 29 21/move farmer 0 0 3/globalFade/viewport 28 21/pause 500/message \"{{i18n:event-19215109.05}}\"/speed Arvey 6/move Arvey 0 -2 0/textAboveHead Arvey \"{{i18n:event-19215109.06}}\"/jump Arvey 8/screenFlash .5/screenFlash .5/jump farmer 8/pause 500/message \"{{i18n:event-19215109.07}}\"/pause 500/speed farmer 6/move farmer -5 0 3/pause 500/question null \"{{i18n:event-19215109.08}}#{{i18n:event-19215109.09}}#{{i18n:event-19215109.10}}#{{i18n:event-19215109.11}}#\"/pause 500/emote farmer 60/pause 500/textAboveHead Arvey \"{{i18n:event-19215109.12}}\"/pause 500/speed Arvey 4/move Arvey 0 -1 1/pause 500/message \"{{i18n:event-19215109.13}}\"/pause 500/message \"{{i18n:event-19215109.14}}\"/pause 500/speak Arvey \"{{i18n:event-19215109.15}}\"/pause 500/emote Arvey 32/pause 500/speak Arvey \"{{i18n:event-19215109.16}}\"/pause 500/globalFade/viewport 1000 1000/warp Arvey 25 6/move Arvey 0 0 0/warp farmer 25 8/move farmer 0 0 0/showFrame Arvey 31/pause 500/globalFade/viewport 25 6/pause 500/emote Arvey 40/pause 500/message \"{{i18n:event-19215109.17}}\"/pause 500/question null \"{{i18n:event-19215109.18}}#{{i18n:event-19215109.19}}#{{i18n:event-19215109.20}}#{{i18n:event-19215109.21}}#\"/pause 500/emote farmer 60/pause 500/jump Arvey 4/textAboveHead Arvey \"{{i18n:event-19215109.22}}\"/pause 500/speak Arvey \"{{i18n:event-19215109.23}}\"/pause 500/globalFade/viewport 1000 1000/pause 500/message \"{{i18n:event-19215109.24}}\"/pause 500/speak Arvey \"{{i18n:event-19215109.25}}\"/pause 500/end"
+            }
+        },
+        //10 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/SandyHouse",
+            "Entries": {
+                "19215110/f Arvey 2500/e 19215109": "fallFest/23 19/farmer 22 22 0 Arvey 23 19 2/skippable/removeTile 32 18 Front/removeTile 32 19 Front/showFrame Arvey 23/pause 500/speed farmer 3/move farmer 0 -1 1/move farmer 1 0 0/pause 500/message \"{{i18n:event-19215110.01}}\"/pause 500/emote farmer 60/pause 500/showFrame Arvey 0/pause 500/speak Arvey \"{{i18n:event-19215110.02}}\"/pause 500/message \"{{i18n:event-19215110.03}}\"/pause 500/question null \"{{i18n:event-19215110.04}}#{{i18n:event-19215110.05}}#{{i18n:event-19215110.06}}#{{i18n:event-19215110.07}}#\"/pause 500/showFrame Arvey 23/emote Arvey 40/pause 500/speak Arvey \"{{i18n:event-19215110.08}}\"/pause 500/textAboveHead Arvey \"{{i18n:event-19215110.09}}\"/pause 1000/speak Arvey \"{{i18n:event-19215110.10}}\"/pause 500/message \"{{i18n:event-19215110.11}}\"/pause 500/question null \"{{i18n:event-19215110.12}}#{{i18n:event-19215110.13}}#{{i18n:event-19215110.14}}#{{i18n:event-19215110.15}}#\"/pause 500/emote Arvey 16/showFrame Arvey 0/pause 500/speak Arvey \"{{i18n:event-19215110.16}}\"/pause 500/emote Arvey 32/pause 500/speak Arvey \"{{i18n:event-19215110.17}}\"/pause 500/emote farmer 32/pause 500/speak Arvey \"{{i18n:event-19215110.18}}\"/pause 500/end"
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        //4 Hearts
+        {
+            "Action": "EditData",
+            "Target": "Data/Events/Custom_SDS.church",
+            "Entries": {
+                "19215162/f Coffey 1000/t 1000 1500": "title_night/14 39/farmer 17 43 0 Coffey 14 38 2/skippable/pause 500/speed farmer 4/move farmer 0 -3 3/move farmer -3 0 0/pause 500/speak Coffey \"{{i18n:event-19215162.01}}\"/pause 500/emote Coffey 20/pause 500/question null \"{{i18n:event-19215162.02}}#{{i18n:event-19215162.03}}#{{i18n:event-19215162.04}}#{{i18n:event-19215162.05}}#\"/pause 500/speak Coffey \"{{i18n:event-19215162.06}}\"/pause 500/question null \"{{i18n:event-19215162.07}}#{{i18n:event-19215162.08}}#{{i18n:event-19215162.09}}#{{i18n:event-19215162.10}}#\"/pause 500/emote Coffey 32/pause 500/speak Coffey \"{{i18n:event-19215162.11}}\"/pause 500/jump Coffey 4/pause 500/speak Coffey \"{{i18n:event-19215162.12}}\"/pause 500/emote farmer 32/pause 500/end"
+            }
+        }
+    ]
+}

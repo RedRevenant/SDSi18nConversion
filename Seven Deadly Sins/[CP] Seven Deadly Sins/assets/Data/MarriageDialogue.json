@@ -1,0 +1,133 @@
+{
+  "Changes": [
+    //Load Marriage Dialogue
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueLucas",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueHovsep",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueUriel",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueMaria",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueRane",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueLane",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialoguePelette",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueRegla",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueluoli",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueSiren",
+      "FromFile": "assets/Data/Empty.json"
+    },
+    //Include Marriage Dialogue Files
+    {
+      "Action": "Include",
+      "FromFile": "assets/Dialogue/MarriageDialogue/Hovsep.json, assets/Dialogue/MarriageDialogue/Lucas.json, assets/Dialogue/MarriageDialogue/Pelette.json, assets/Dialogue/MarriageDialogue/Uriel.json, assets/Dialogue/MarriageDialogue/Rane.json, assets/Dialogue/MarriageDialogue/Lane.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "assets/Dialogue/MarriageDialogue/luoli.json, assets/Dialogue/MarriageDialogue/Maria.json, assets/Dialogue/MarriageDialogue/Regla.json, assets/Dialogue/MarriageDialogue/Siren.json"
+    },
+    //Marriage Dialogue (Strings)
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Lucas.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Lucas": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Hovsep.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Hovsep": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "Entries": {
+        "Hovsep0": "{{i18n:MarriageDialogue.Engagement.Hovsep0}}",
+        "Hovsep1": "{{i18n:MarriageDialogue.Engagement.Hovsep1}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Uriel.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Uriel": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Rane.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Rane": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Lane.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Lane": "Engaged, Married"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "NPC.cs.3985": "{{i18n:MarriageDialogue.Pelette.NPC.cs.3985}}"
+      },
+      "When": {
+        "Relationship:Pelette": "Engaged, Married"
+      }
+    }
+  ]
+}

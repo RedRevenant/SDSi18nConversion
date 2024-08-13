@@ -1,0 +1,33 @@
+{
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "SDS/Objects/Hats",
+            "FromFile": "assets/Objects/Hats.png"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Hats",
+            "Entries": {
+                "SDS_WhitewitchHeadwear": "SDS_WhitewitchHeadwear/{{i18n:SDS_WhitewitchHeadwear.Description}}/true/false//{{i18n:SDS_WhitewitchHeadwear.DisplayName}}/0/SDS\\Objects\\Hats",
+                "SDS_MaltoseHeadwear": "SDS_MaltoseHeadwear/{{i18n:SDS_MaltoseHeadwear.Description}}/true/false//{{i18n:SDS_MaltoseHeadwear.DisplayName}}/1/SDS\\Objects\\Hats",
+                "SDS_WarmSpringStrollingHeadwear": "SDS_WarmSpringStrollingHeadwear/{{i18n:SDS_WarmSpringStrollingHeadwear.Description}}/true/false//{{i18n:SDS_WarmSpringStrollingHeadwear.DisplayName}}/2/SDS\\Objects\\Hats",
+                "SDS_SongofSpringHeadwear": "SDS_SongofSpringHeadwear/{{i18n:SDS_SongofSpringHeadwear.Description}}/true/false//{{i18n:SDS_SongofSpringHeadwear.DisplayName}}/3/SDS\\Objects\\Hats",
+                "SDS_WisteriaLoveLettersHeadwear": "SDS_WisteriaLoveLettersHeadwear/{{i18n:SDS_WisteriaLoveLettersHeadwear.Description}}/true/false//{{i18n:SDS_WisteriaLoveLettersHeadwear.DisplayName}}/4/SDS\\Objects\\Hats",
+                "SDS_AutumnImaginationHeadwear": "SDS_AutumnImaginationHeadwear/{{i18n:SDS_AutumnImaginationHeadwear.Description}}/true/false//{{i18n:SDS_AutumnImaginationHeadwear.DisplayName}}/5/SDS\\Objects\\Hats",
+                "SDS_fallenleavesHeadwear": "SDS_fallenleavesHeadwear/{{i18n:SDS_fallenleavesHeadwear.Description}}/true/false//{{i18n:SDS_fallenleavesHeadwear.DisplayName}}/6/SDS\\Objects\\Hats",
+                "SDS_BlackwitchHeadwear": "SDS_BlackwitchHeadwear/{{i18n:SDS_BlackwitchHeadwear.Description}}/true/false//{{i18n:SDS_BlackwitchHeadwear.DisplayName}}/7/SDS\\Objects\\Hats",
+                "SDS_BelovedgemHeadwear": "SDS_BelovedgemHeadwear/{{i18n:SDS_BelovedgemHeadwear.Description}}/true/false//{{i18n:SDS_BelovedgemHeadwear.DisplayName}}/8/SDS\\Objects\\Hats",
+                "SDS_DeepSeaTravelHeadwear": "SDS_DeepSeaTravelHeadwear/{{i18n:SDS_DeepSeaTravelHeadwear.Description}}/true/false//{{i18n:SDS_DeepSeaTravelHeadwear.DisplayName}}/9/SDS\\Objects\\Hats",
+                "SDS_FantasydreamHeadwear": "SDS_FantasydreamHeadwear/{{i18n:SDS_FantasydreamHeadwear.Description}}/true/false//{{i18n:SDS_FantasydreamHeadwear.DisplayName}}/10/SDS\\Objects\\Hats",
+                "SDS_MidnightsleepHeadwear": "SDS_MidnightsleepHeadwear/{{i18n:SDS_MidnightsleepHeadwear.Description}}/true/false//{{i18n:SDS_MidnightsleepHeadwear.DisplayName}}/11/SDS\\Objects\\Hats",
+                "SDS_WhitepistilHeadwear": "SDS_WhitepistilHeadwear/{{i18n:SDS_WhitepistilHeadwear.Description}}/true/false//{{i18n:SDS_WhitepistilHeadwear.DisplayName}}/12/SDS\\Objects\\Hats",
+                "SDS_VioletWonderlandHeadwear": "SDS_VioletWonderlandHeadwear/{{i18n:SDS_VioletWonderlandHeadwear.Description}}/true/false//{{i18n:SDS_VioletWonderlandHeadwear.DisplayName}}/13/SDS\\Objects\\Hats",
+                "SDS_MermaidWavesHeadwear": "SDS_MermaidWavesHeadwear/{{i18n:SDS_MermaidWavesHeadwear.Description}}/true/false//{{i18n:SDS_MermaidWavesHeadwear.DisplayName}}/14/SDS\\Objects\\Hats",
+                "SDS_ClearSkyHeadwear": "SDS_ClearSkyHeadwear/{{i18n:SDS_ClearSkyHeadwear.Description}}/true/false//{{i18n:SDS_ClearSkyHeadwear.DisplayName}}/15/SDS\\Objects\\Hats",
+                "SDS_SpringGoblinHeadwear": "SDS_SpringGoblinHeadwear/{{i18n:SDS_SpringGoblinHeadwear.Description}}/true/false//{{i18n:SDS_SpringGoblinHeadwear.DisplayName}}/16/SDS\\Objects\\Hats",
+                "SDS_UnknownHeadwear": "SDS_UnknownHeadwear/{{i18n:SDS_UnknownHeadwear.Description}}/true/false//{{i18n:SDS_UnknownHeadwear.DisplayName}}/17/SDS\\Objects\\Hats"
+            }
+        }
+    ]
+}

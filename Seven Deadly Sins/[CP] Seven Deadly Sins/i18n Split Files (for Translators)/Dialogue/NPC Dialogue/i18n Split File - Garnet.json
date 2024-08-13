@@ -1,0 +1,83 @@
+{
+   /* [Dialogue] Garnet */
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Garnet Dialogue] Special
+   "Dialogue.Garnet.Introduction": "%男孩正认真盯着一本书，你在旁边等了一会，他终于抬起头看见了你#$b#抱歉！我刚刚没注意到你，你是新来的人吗？我叫盖瑞特。$1",
+   "Dialogue.Garnet.spring_1_2": "今年也要努力，要比去年更好才行。$1",
+   "Dialogue.Garnet.spring_15": "请不要为我的生日而费心，我其实不是特别在意这些...当然，我很开心能和大家一起度过自己的生日！$1",
+   "Dialogue.Garnet.MovieInvitation": "最近有点累了，正好出去放松一下，谢谢你。$1",
+   "Dialogue.Garnet.DumpsterDiveComment": "我的天啊，你在干什么？别碰那些垃圾！$2",
+   "Dialogue.Garnet.GreenRain": "书上没写这种现象…神父也说以前从未有过这样的景象。$2",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Garnet Dialogue] Gift
+   "Dialogue.Garnet.AcceptBirthdayGift_Loved": "真是份贵重的礼物，一定让你花了不少功夫吧？谢谢你。$1",
+   "Dialogue.Garnet.AcceptBirthdayGift_Liked": "差点都忘了我自己的生日…还是教父他们提起来才想起来，另外谢谢你的生日礼物。$1",
+   "Dialogue.Garnet.AcceptBirthdayGift_Neutral": "生日礼物？有心了。$1",
+   "Dialogue.Garnet.AcceptBirthdayGift_Disliked": "我想，是个人都知道生日的特别意义，你是故意来摧毁别人一天的好心情的吗？$2",
+   "Dialogue.Garnet.AcceptBirthdayGift_Hated": "我想，是个人都知道生日的特别意义，你是故意来摧毁别人一天的好心情的吗？$2",
+   "Dialogue.Garnet.AcceptGift_(O)StardropTea": "谢谢，我真的很喜欢。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Garnet Dialogue] Resort
+   "Dialogue.Garnet.Resort": "虽然来之前已经做好了准备…但真的好热…$2",
+   "Dialogue.Garnet.Resort_Bar": "你好，总觉得不管在哪里你都很忙碌。$0",
+   "Dialogue.Garnet.Resort_Chair": "艾伯特说我来这里也带着书太奇怪了，我就没带，像这样静静地看海也很好。$0",
+   "Dialogue.Garnet.Resort_Dance": "我不太会跳舞…感觉有点不好意思呢。$2",
+   "Dialogue.Garnet.Resort_Entering": "偶尔换个环境放松一下会让心情更好吧。$1",
+   "Dialogue.Garnet.Resort_Leaving": "今天过得很开心。$1",
+   "Dialogue.Garnet.Resort_Shore": "如果能拍个照片记录下这里的风景，科菲他们会很开心吧。$1",
+   "Dialogue.Garnet.Resort_Towel": "晒得晕乎乎的…我在这里待一会吧。$2",
+   "Dialogue.Garnet.Resort_Umbrella": "太晒了…$2",
+   "Dialogue.Garnet.Resort_Wander": "我不该走太远…就在这附近转转吧。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Garnet Dialogue] General/Spring
+   "Dialogue.Garnet.Mon": "你是谁？$0",
+   "Dialogue.Garnet.Mon2": "%盖瑞特正在看书",
+   "Dialogue.Garnet.Mon4": "关于学习这件事，我倒是觉得没有他们说的那么夸张...事实上我还觉得自己不够努力呢。$2",
+   "Dialogue.Garnet.Mon6": "眼睛有点酸...$2",
+   "Dialogue.Garnet.Mon8": "你应该有在博物馆看到过我，说实话，我很好奇那些物品的来历。$1",
+   "Dialogue.Garnet.Mon10": "神父对我很好，我必须努力学习，以后才能更好的报答他。$0#$b#当然，我也会做一切我能做的事。$2",
+   /*~*~*~*/
+   "Dialogue.Garnet.Tue": "什么？$0",
+   "Dialogue.Garnet.Tue2": "你好。$0",
+   "Dialogue.Garnet.Tue4": "你好啊，我准备去把教堂里的垃圾扔掉，你有什么事吗？$3",
+   "Dialogue.Garnet.Tue6": "神父对我们每一个孩子都很好，我真的很感激他，所以在教堂干活的时候不会觉得累。$1",
+   "Dialogue.Garnet.Tue8": "深呼吸一口新鲜空气的感觉真好啊...整个人都放松下来了，住在这个镇子真好。$1",
+   "Dialogue.Garnet.Tue10": "科菲有的时候会拜托我帮他打扫卫生。$0#$b#每次我想拒绝的时候他就会一脸可怜地看着我...然后我就不自觉的答应下来了...$2",
+   /*~*~*~*/
+   "Dialogue.Garnet.Wed": "嗯？$0",
+   "Dialogue.Garnet.Wed2": "啧...那道题好像不对...*喃喃*$3",
+   "Dialogue.Garnet.Wed4": "我喜欢可爱的东西，看见可爱的东西心情也会变好不是吗。$1",
+   "Dialogue.Garnet.Wed6": "你问我和大家第一次见面是什么时候？$0#$b#嗯...那可真是很早很早之前了，其实在我还没来到鹈鹕镇之前就已经认识了科菲，当时我们可没有这么好的生活。$2",
+   "Dialogue.Garnet.Wed8": "不知道潘妮老师在哪...既然@先生在这里...^不知道潘妮老师在哪...既然@小姐在这里...$0#$b#可以不可以帮我看一下这道题？$1",
+   "Dialogue.Garnet.Wed10": "你好@先生！^你好@小姐！$1#$b#今天有什么打算...*肚子咕噜声*  $0#$b#啊...呃，你什么也没听到，好吗。$2",
+   /*~*~*~*/
+   "Dialogue.Garnet.Thu": "%盖瑞特看了你一眼，不过没有和你说话",
+   "Dialogue.Garnet.Thu2": "每天都要努力，这样才能报答神父...$1",
+   "Dialogue.Garnet.Thu4": "说起来@先生是农夫的话，是不是对小动物的生活习性也有不少了解？^说起来@小姐是农夫的话，是不是对小动物的生活习性也有不少了解？$0#$b#可以讲给我听吗？$1",
+   "Dialogue.Garnet.Thu6": "我有时候会按照书上写的食谱做，大部分时候做的都很不错，不过也有那么几次做的...惨不忍睹$2",
+   "Dialogue.Garnet.Thu8": "住在这个宁静的镇子里可真好, 空气很清新，大部分镇民都很友善不是吗？$1",
+   "Dialogue.Garnet.Thu10": "神父年纪大了，有些活交给我们就可以了，不过他老人家总是不太放心我们啊。$2",
+   /*~*~*~*/
+   "Dialogue.Garnet.Fri": "你好。$0",
+   "Dialogue.Garnet.Fri2": "你好，有什么事？$0",
+   "Dialogue.Garnet.Fri4": "教堂会定时大扫除，每次到那个时候就会有一堆的东西需要整理。$2",
+   "Dialogue.Garnet.Fri6": "每当教堂里有人过生日，神父都会给我们准备一个大蛋糕，那种大家一起吃蛋糕的感觉真的很好。$1",
+   "Dialogue.Garnet.Fri8": "神父夸赞过你，而我们都认为你值得。$1",
+   "Dialogue.Garnet.Fri10": "谢谢你帮我们这么多忙，你真是太好啦。$1",
+   /*~*~*~*/
+   "Dialogue.Garnet.Sat": "……嗯？$0",
+   "Dialogue.Garnet.Sat2": "你好。$0",
+   "Dialogue.Garnet.Sat4": "一边走路一边看书很危险，我不会那样做。$0",
+   "Dialogue.Garnet.Sat6": "你看起来有些疲惫，还是休息一下再继续干活吧？$1#$b#过于疲惫的身子干起活来效率不会高的。$3",
+   "Dialogue.Garnet.Sat8": "请收下这个。[637]$1",
+   "Dialogue.Garnet.Sat10": "你的生活听起来很有趣，要是有机会我也想尝试一下。$1",
+   /*~*~*~*/
+   "Dialogue.Garnet.Sun": "你好。$0",
+   "Dialogue.Garnet.Sun2": "你好…还有什么事吗？$0",
+   "Dialogue.Garnet.Sun4": "请等一下，这道题马上就做出来了。$3",
+   "Dialogue.Garnet.Sun6": "科菲的审美值得信赖，你要是不知道怎么搭配不妨问问他的意见，在这方面他很有天赋。$1",
+   "Dialogue.Garnet.Sun8": "神父他虽然年纪大了，但是脑袋清醒得很，有些事情根本瞒不过他。$2",
+   "Dialogue.Garnet.Sun10": "教堂很安静，在那里背书效率也会提高。$1"
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+}

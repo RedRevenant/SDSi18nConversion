@@ -1,0 +1,3303 @@
+{
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+            "FromFile": "assets/Objects/{{TargetWithoutPath}}.png"
+        },
+        //物品
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //五万支票
+                "SDS_FTchecks": {
+                    "Name": "SDS_FTchecks",
+                    "DisplayName": "{{i18n:SDS_FTchecks.DisplayName}}",
+                    "Description": "{{i18n:SDS_FTchecks.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 50000,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 82
+                },
+                //十万支票
+                "SDS_OHTchecks": {
+                    "Name": "SDS_OHTchecks",
+                    "DisplayName": "{{i18n:SDS_OHTchecks.DisplayName}}",
+                    "Description": "{{i18n:SDS_OHTchecks.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 100000,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 82
+                },
+                //一万支票
+                "SDS_THchecks": {
+                    "Name": "SDS_THchecks",
+                    "DisplayName": "{{i18n:SDS_THchecks.DisplayName}}",
+                    "Description": "{{i18n:SDS_THchecks.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 10000,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 82
+                },
+                //蓝闪蝶
+                "SDS_Blueflashbutterfly": {
+                    "Name": "SDS_Blueflashbutterfly",
+                    "DisplayName": "{{i18n:SDS_Blueflashbutterfly.DisplayName}}",
+                    "Description": "{{i18n:SDS_Blueflashbutterfly.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 100
+                },
+                //冰凌柱
+                "SDS_Icelingcolumn": {
+                    "Name": "SDS_Icelingcolumn",
+                    "DisplayName": "{{i18n:SDS_Icelingcolumn.DisplayName}}",
+                    "Description": "{{i18n:SDS_Icelingcolumn.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 101
+                },
+                //树枝
+                "SDS_Branch": {
+                    "Name": "SDS_Branch",
+                    "DisplayName": "{{i18n:SDS_Branch.DisplayName}}",
+                    "Description": "{{i18n:SDS_Branch.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 102
+                },
+                //松子
+                "SDS_Pinenut": {
+                    "Name": "SDS_Pinenut",
+                    "DisplayName": "{{i18n:SDS_Pinenut.DisplayName}}",
+                    "Description": "{{i18n:SDS_Pinenut.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 103
+                },
+                //Lane商店的会员卡
+                "SDS_Membershipcard": {
+                    "Name": "SDS_Membershipcard",
+                    "DisplayName": "{{i18n:SDS_Membershipcard.DisplayName}}",
+                    "Description": "{{i18n:SDS_Membershipcard.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 103
+                },
+                //未知凝体
+                /*
+                    SDS_Unknowncondensate": {
+                    "Name": "SDS_Unknowncondensate", 
+                    "DisplayName": "未知凝体",
+                    "Description": "击败怪物后得到的东西，触碰会感觉到凉意，不像气体也不是液体...它能做什么？它在哭泣吗？",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 500,
+        			"Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 110
+                  }
+                */
+                //天堂券
+                "SDS_ParadiseTicket": {
+                    "Name": "SDS_ParadiseTicket",
+                    "DisplayName": "{{i18n:SDS_ParadiseTicket.DisplayName}}",
+                    "Description": "{{i18n:SDS_ParadiseTicket.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 500,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 111
+                },
+                //大型生肉
+                "SDS_RawBeef": {
+                    "Name": "SDS_RawBeef",
+                    "DisplayName": "{{i18n:SDS_RawBeef.DisplayName}}",
+                    "Description": "{{i18n:SDS_RawBeef.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 200,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 86
+                }
+            }
+        },
+        //材料
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //黄油
+                "SDS_Butter": {
+                    "Name": "SDS_Butter",
+                    "DisplayName": "{{i18n:SDS_Butter.DisplayName}}",
+                    "Description": "{{i18n:SDS_Butter.Description}}",
+                    "Type": "objects",
+                    "Category": -6,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 1
+                },
+                //巧克力
+                "SDS_chocolate": {
+                    "Name": "SDS_chocolate",
+                    "DisplayName": "{{i18n:SDS_chocolate.DisplayName}}",
+                    "Description": "{{i18n:SDS_chocolate.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 400,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buff": {
+                        "Duration": 0,
+                        "IsDebuff": false,
+                        "CustomAttributes": {
+                            "FarmingLevel": 0,
+                            "FishingLevel": 0,
+                            "ForagingLevel": 0,
+                            "LuckLevel": 0,
+                            "MiningLevel": 0,
+                            "Attack": 0,
+                            "Defense": 0,
+                            "MagneticRadius": 0,
+                            "MaxStamina": 0,
+                            "Speed": 0
+                        }
+                    },
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 45
+                },
+                //巧克力原浆
+                "SDS_Chocolatepulp": {
+                    "Name": "SDS_Chocolatepulp",
+                    "DisplayName": "{{i18n:SDS_Chocolatepulp.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chocolatepulp.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 210,
+                    "Edibility": 5,
+                    "IsDrink": false,
+                    "Buff": {
+                        "Duration": 0,
+                        "IsDebuff": false,
+                        "CustomAttributes": {
+                            "FarmingLevel": 0,
+                            "FishingLevel": 0,
+                            "ForagingLevel": 0,
+                            "LuckLevel": 0,
+                            "MiningLevel": 0,
+                            "Attack": 0,
+                            "Defense": 0,
+                            "MagneticRadius": 0,
+                            "MaxStamina": 0,
+                            "Speed": 0
+                        }
+                    },
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 48
+                }
+                //香菇
+                /*"SDS_Mushroom": {
+                    "Name": "SDS_Mushroom",
+                    "DisplayName": "香菇",
+                    "Description": "一颗巨大的香菇,肥厚的伞盖看上去是如此多汁,请放心,它是无毒的种类,真的。",
+                    "Type": "objects",
+                    "Category": -6,
+                    "Price": 150,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 64
+                }*/
+            }
+        },
+        //花
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //彼岸花
+                "SDS_Higanbana": {
+                    "Name": "SDS_Higanbana",
+                    "DisplayName": "{{i18n:SDS_Higanbana.DisplayName}}",
+                    "Description": "{{i18n:SDS_Higanbana.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 400,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 4
+                },
+                //彼岸花种子
+                "SDS_HiganbanaSeeds": {
+                    "Name": "SDS_HiganbanaSeeds",
+                    "DisplayName": "{{i18n:SDS_HiganbanaSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_HiganbanaSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 300,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 89
+                },
+                //桂花
+                "SDS_Fragrans": {
+                    "Name": "SDS_Fragrans",
+                    "DisplayName": "{{i18n:SDS_Fragrans.DisplayName}}",
+                    "Description": "{{i18n:SDS_Fragrans.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 200,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 20
+                },
+                //桂花树苗
+                "SDS_FragransSapling": {
+                    "Name": "SDS_FragransSapling",
+                    "DisplayName": "{{i18n:SDS_FragransSapling.DisplayName}}",
+                    "Description": "{{i18n:SDS_FragransSapling.Description}}",
+                    "Type": "Basic",
+                    "Category": -74,
+                    "Price": 14000,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 95
+                },
+                //可可豆
+                "SDS_Cocoabean": {
+                    "Name": "SDS_Cocoabean",
+                    "DisplayName": "{{i18n:SDS_Cocoabean.DisplayName}}",
+                    "Description": "{{i18n:SDS_Cocoabean.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 140,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 31
+                },
+                //可可树苗
+                "SDS_CocoabeanSapling": {
+                    "Name": "SDS_CocoabeanSapling",
+                    "DisplayName": "{{i18n:SDS_CocoabeanSapling.DisplayName}}",
+                    "Description": "{{i18n:SDS_CocoabeanSapling.Description}}",
+                    "Type": "Basic",
+                    "Category": -74,
+                    "Price": 7000,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 96
+                },
+                //曼陀罗
+                "SDS_Stramonium": {
+                    "Name": "SDS_Stramonium",
+                    "DisplayName": "{{i18n:SDS_Stramonium.DisplayName}}",
+                    "Description": "{{i18n:SDS_Stramonium.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 300,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 38
+                },
+                //曼陀罗树苗
+                "SDS_StramoniumSapling": {
+                    "Name": "SDS_StramoniumSapling",
+                    "DisplayName": "{{i18n:SDS_StramoniumSapling.DisplayName}}",
+                    "Description": "{{i18n:SDS_StramoniumSapling.Description}}",
+                    "Type": "Basic",
+                    "Category": -74,
+                    "Price": 16000,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 97
+                },
+                //玫瑰
+                "SDS_Rugosarose": {
+                    "Name": "SDS_Rugosarose",
+                    "DisplayName": "{{i18n:SDS_Rugosarose.DisplayName}}",
+                    "Description": "{{i18n:SDS_Rugosarose.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 300,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 39
+                },
+                //玫瑰种子
+                "SDS_RugosaroseSeeds": {
+                    "Name": "SDS_RugosaroseSeeds",
+                    "DisplayName": "{{i18n:SDS_RugosaroseSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_RugosaroseSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 230,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 90
+                },
+                //牡丹
+                "SDS_Treepeony": {
+                    "Name": "SDS_Treepeony",
+                    "DisplayName": "{{i18n:SDS_Treepeony.DisplayName}}",
+                    "Description": "{{i18n:SDS_Treepeony.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 300,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 42
+                },
+                //牡丹种子
+                "SDS_TreepeonySeeds": {
+                    "Name": "SDS_TreepeonySeeds",
+                    "DisplayName": "{{i18n:SDS_TreepeonySeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_TreepeonySeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 210,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 91
+                },
+                //奶油草莓
+                "SDS_Creamstrawberry": {
+                    "Name": "SDS_Creamstrawberry",
+                    "DisplayName": "{{i18n:SDS_Creamstrawberry.DisplayName}}",
+                    "Description": "{{i18n:SDS_Creamstrawberry.Description}}",
+                    "Type": "objects",
+                    "Category": -79,
+                    "Price": 200,
+                    "Edibility": 20,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 43
+                },
+                //奶油草莓种子
+                "SDS_CreamstrawberrySeeds": {
+                    "Name": "SDS_CreamstrawberrySeeds",
+                    "DisplayName": "{{i18n:SDS_CreamstrawberrySeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_CreamstrawberrySeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 200,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 92
+                },
+                //山竹
+                "SDS_Mangosteen": {
+                    "Name": "SDS_Mangosteen",
+                    "DisplayName": "{{i18n:SDS_Mangosteen.DisplayName}}",
+                    "Description": "{{i18n:SDS_Mangosteen.Description}}",
+                    "Type": "objects",
+                    "Category": -79,
+                    "Price": 150,
+                    "Edibility": 15,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 53
+                },
+                //山竹树苗
+                "SDS_MangosteenSapling": {
+                    "Name": "SDS_MangosteenSapling",
+                    "DisplayName": "{{i18n:SDS_MangosteenSapling.DisplayName}}",
+                    "Description": "{{i18n:SDS_MangosteenSapling.Description}}",
+                    "Type": "Basic",
+                    "Category": -74,
+                    "Price": 7500,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 98
+                },
+                //芍药
+                "SDS_Chineseherbaceouspeony": {
+                    "Name": "SDS_Chineseherbaceouspeony",
+                    "DisplayName": "{{i18n:SDS_Chineseherbaceouspeony.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chineseherbaceouspeony.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 220,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 54
+                },
+                //芍药种子
+                "SDS_ChineseherbaceouspeonySeeds": {
+                    "Name": "SDS_ChineseherbaceouspeonySeeds",
+                    "DisplayName": "{{i18n:SDS_ChineseherbaceouspeonySeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_ChineseherbaceouspeonySeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 170,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 93
+                },
+                //薰衣草
+                "SDS_lavender": {
+                    "Name": "SDS_lavender",
+                    "DisplayName": "{{i18n:SDS_lavender.DisplayName}}",
+                    "Description": "{{i18n:SDS_lavender.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 200,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 72
+                },
+                //薰衣草种子
+                "SDS_lavenderSeeds": {
+                    "Name": "SDS_lavenderSeeds",
+                    "DisplayName": "{{i18n:SDS_lavenderSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_lavenderSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 150,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 94
+                },
+                //夜来香
+                "SDS_Nightwillowherb": {
+                    "Name": "SDS_Nightwillowherb",
+                    "DisplayName": "{{i18n:SDS_Nightwillowherb.DisplayName}}",
+                    "Description": "{{i18n:SDS_Nightwillowherb.Description}}",
+                    "Type": "objects",
+                    "Category": -80,
+                    "Price": 160,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 74
+                },
+                //夜来香树苗
+                "SDS_NightwillowherbSapling": {
+                    "Name": "SDS_NightwillowherbSapling",
+                    "DisplayName": "{{i18n:SDS_NightwillowherbSapling.DisplayName}}",
+                    "Description": "{{i18n:SDS_NightwillowherbSapling.Description}}",
+                    "Type": "Basic",
+                    "Category": -74,
+                    "Price": 12000,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 99
+                }
+            }
+        },
+        //食物
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //爱心巧克力
+                "SDS_Lovechocolate": {
+                    "Name": "SDS_Lovechocolate",
+                    "DisplayName": "{{i18n:SDS_Lovechocolate.DisplayName}}",
+                    "Description": "{{i18n:SDS_Lovechocolate.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 1.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 0
+                },
+                //爱心巧克力食谱
+                "SDS_LovechocolateRecipe": {
+                    "Name": "SDS_LovechocolateRecipe",
+                    "DisplayName": "{{i18n:SDS_LovechocolateRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_LovechocolateRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //爱心酥
+                "SDS_LoveCrisp": {
+                    "Name": "SDS_LoveCrisp",
+                    "DisplayName": "{{i18n:SDS_LoveCrisp.DisplayName}}",
+                    "Description": "{{i18n:SDS_LoveCrisp.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 620,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 1.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 3
+                },
+                //爱心酥食谱
+                "SDS_LoveCrispRecipe": {
+                    "Name": "SDS_LoveCrispRecipe",
+                    "DisplayName": "{{i18n:SDS_LoveCrispRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_LoveCrispRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //冰冻酸奶
+                "SDS_Frozenyoghurt": {
+                    "Name": "SDS_Frozenyoghurt",
+                    "DisplayName": "{{i18n:SDS_Frozenyoghurt.DisplayName}}",
+                    "Description": "{{i18n:SDS_Frozenyoghurt.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 620,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 2.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 2.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 5
+                },
+                //不开心小狗曲奇
+                "SDS_UnhappyDogCookies": {
+                    "Name": "SDS_UnhappyDogCookies",
+                    "DisplayName": "{{i18n:SDS_UnhappyDogCookies.DisplayName}}",
+                    "Description": "{{i18n:SDS_UnhappyDogCookies.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 40,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 2.0,
+                                "Attack": 2.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 6
+                },
+                //不开心小狗曲奇食谱
+                "SDS_UnhappyDogCookiesRecipe": {
+                    "Name": "SDS_UnhappyDogCookiesRecipe",
+                    "DisplayName": "{{i18n:SDS_UnhappyDogCookiesRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_UnhappyDogCookiesRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //彩色三球冰淇淋
+                "SDS_Colorfulthree-ballicecream": {
+                    "Name": "SDS_Colorfulthree-ballicecream",
+                    "DisplayName": "{{i18n:SDS_Colorfulthree-ballicecream.DisplayName}}",
+                    "Description": "{{i18n:SDS_Colorfulthree-ballicecream.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 65,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 1.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 7
+                },
+                //草莓爱心酥
+                "SDS_StrawberryLoveCrisp": {
+                    "Name": "SDS_StrawberryLoveCrisp",
+                    "DisplayName": "{{i18n:SDS_StrawberryLoveCrisp.DisplayName}}",
+                    "Description": "{{i18n:SDS_StrawberryLoveCrisp.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 620,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 2.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 8
+                },
+                //草莓爱心酥食谱
+                "SDS_StrawberryLoveCrispRecipe": {
+                    "Name": "SDS_StrawberryLoveCrispRecipe",
+                    "DisplayName": "{{i18n:SDS_StrawberryLoveCrispRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_StrawberryLoveCrispRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //草莓布丁
+                "SDS_Strawberrypudding": {
+                    "Name": "SDS_Strawberrypudding",
+                    "DisplayName": "{{i18n:SDS_Strawberrypudding.DisplayName}}",
+                    "Description": "{{i18n:SDS_Strawberrypudding.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 9
+                },
+                //草莓马卡龙
+                "SDS_Strawberrymacaron": {
+                    "Name": "SDS_Strawberrymacaron",
+                    "DisplayName": "{{i18n:SDS_Strawberrymacaron.DisplayName}}",
+                    "Description": "{{i18n:SDS_Strawberrymacaron.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 700,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 2.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 1.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 10
+                },
+                //草莓马卡龙食谱
+                "SDS_StrawberrymacaronRecipe": {
+                    "Name": "SDS_StrawberrymacaronRecipe",
+                    "DisplayName": "{{i18n:SDS_StrawberrymacaronRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_StrawberrymacaronRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //草莓巧克力
+                "SDS_Chocolatestrawberry": {
+                    "Name": "SDS_Chocolatestrawberry",
+                    "DisplayName": "{{i18n:SDS_Chocolatestrawberry.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chocolatestrawberry.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 400,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 2.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 11
+                },
+                //草莓甜甜圈
+                "SDS_StrawberryDonut": {
+                    "Name": "SDS_StrawberryDonut",
+                    "DisplayName": "{{i18n:SDS_StrawberryDonut.DisplayName}}",
+                    "Description": "{{i18n:SDS_StrawberryDonut.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 400,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 12
+                },
+                //草莓兔子蛋糕
+                "SDS_StrawberryBunnyCake": {
+                    "Name": "SDS_StrawberryBunnyCake",
+                    "DisplayName": "{{i18n:SDS_StrawberryBunnyCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_StrawberryBunnyCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 1100,
+                    "Edibility": 110,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 4.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 13
+                },
+                //草莓兔子蛋糕食谱
+                "SDS_StrawberryBunnyCakeRecipe": {
+                    "Name": "SDS_StrawberryBunnyCakeRecipe",
+                    "DisplayName": "{{i18n:SDS_StrawberryBunnyCakeRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_StrawberryBunnyCakeRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //超松软甜甜面包
+                "SDS_Supersoftsweetbread": {
+                    "Name": "SDS_Supersoftsweetbread",
+                    "DisplayName": "{{i18n:SDS_Supersoftsweetbread.DisplayName}}",
+                    "Description": "{{i18n:SDS_Supersoftsweetbread.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 14
+                },
+                //糍粑
+                "SDS_Glutinousricecake": {
+                    "Name": "SDS_Glutinousricecake",
+                    "DisplayName": "{{i18n:SDS_Glutinousricecake.DisplayName}}",
+                    "Description": "{{i18n:SDS_Glutinousricecake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 20,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 15
+                },
+                //糍粑食谱
+                "SDS_GlutinousricecakeRecipe": {
+                    "Name": "SDS_GlutinousricecakeRecipe",
+                    "DisplayName": "{{i18n:SDS_GlutinousricecakeRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_GlutinousricecakeRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //蛋黄酥
+                "SDS_EggYolkCrisp": {
+                    "Name": "SDS_EggYolkCrisp",
+                    "DisplayName": "{{i18n:SDS_EggYolkCrisp.DisplayName}}",
+                    "Description": "{{i18n:SDS_EggYolkCrisp.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 400,
+                    "Edibility": 40,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 16
+                },
+                //蛋黄酥食谱
+                "SDS_EggYolkCrispRecipe": {
+                    "Name": "SDS_EggYolkCrispRecipe",
+                    "DisplayName": "{{i18n:SDS_EggYolkCrispRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_EggYolkCrispRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //地球蛋糕
+                "SDS_EarthCake": {
+                    "Name": "SDS_EarthCake",
+                    "DisplayName": "{{i18n:SDS_EarthCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_EarthCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 700,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 1.0,
+                                "FishingLevel": 1.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 1.0,
+                                "Defense": 1.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 17
+                },
+                //冬日星蛋糕
+                "SDS_WinterStarCake": {
+                    "Name": "SDS_WinterStarCake",
+                    "DisplayName": "{{i18n:SDS_WinterStarCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_WinterStarCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 300,
+                    "Edibility": 70,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 3.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 18
+                },
+                //冬日星蛋糕食谱
+                "SDS_WinterStarCakeRecipe": {
+                    "Name": "SDS_WinterStarCakeRecipe",
+                    "DisplayName": "{{i18n:SDS_WinterStarCakeRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_WinterStarCakeRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //拐杖糖
+                "SDS_Candycane": {
+                    "Name": "SDS_Candycane",
+                    "DisplayName": "{{i18n:SDS_Candycane.DisplayName}}",
+                    "Description": "{{i18n:SDS_Candycane.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 19
+                },
+                //红酒
+                "SDS_Redwine": {
+                    "Name": "SDS_Redwine",
+                    "DisplayName": "{{i18n:SDS_Redwine.DisplayName}}",
+                    "Description": "{{i18n:SDS_Redwine.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 700,
+                    "Edibility": 20,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 22
+                },
+                //红丝绒蛋糕
+                "SDS_RedVelvetCake": {
+                    "Name": "SDS_RedVelvetCake",
+                    "DisplayName": "{{i18n:SDS_RedVelvetCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_RedVelvetCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 500,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 3.0,
+                                "LuckLevel": 3.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 23
+                },
+                //夹心冰淇淋
+                "SDS_Icecreamwithfilling": {
+                    "Name": "SDS_Icecreamwithfilling",
+                    "DisplayName": "{{i18n:SDS_Icecreamwithfilling.DisplayName}}",
+                    "Description": "{{i18n:SDS_Icecreamwithfilling.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 400,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 24
+                },
+                //姜饼曲奇树
+                "SDS_Gingerbreadcookietree": {
+                    "Name": "SDS_Gingerbreadcookietree",
+                    "DisplayName": "{{i18n:SDS_Gingerbreadcookietree.DisplayName}}",
+                    "Description": "{{i18n:SDS_Gingerbreadcookietree.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 300,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 25
+                },
+                //焦糖布丁
+                "SDS_Cremebrulee": {
+                    "Name": "SDS_Cremebrulee",
+                    "DisplayName": "{{i18n:SDS_Cremebrulee.DisplayName}}",
+                    "Description": "{{i18n:SDS_Cremebrulee.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 26
+                },
+                //经典三球冰淇淋
+                "SDS_Classicthree-ballicecream": {
+                    "Name": "SDS_Classicthree-ballicecream",
+                    "DisplayName": "{{i18n:SDS_Classicthree-ballicecream.DisplayName}}",
+                    "Description": "{{i18n:SDS_Classicthree-ballicecream.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 2000,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 2.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 28
+                },
+                //开心猫咪曲奇
+                "SDS_HappyKittyCookies": {
+                    "Name": "SDS_HappyKittyCookies",
+                    "DisplayName": "{{i18n:SDS_HappyKittyCookies.DisplayName}}",
+                    "Description": "{{i18n:SDS_HappyKittyCookies.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 40,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 29
+                },
+                //开心猫咪曲奇食谱
+                "SDS_HappyKittyCookiesRecipe": {
+                    "Name": "SDS_HappyKittyCookiesRecipe",
+                    "DisplayName": "{{i18n:SDS_HappyKittyCookiesRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_HappyKittyCookiesRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //开心小狗曲奇
+                "SDS_HappyDogCookies": {
+                    "Name": "SDS_HappyDogCookies",
+                    "DisplayName": "{{i18n:SDS_HappyDogCookies.DisplayName}}",
+                    "Description": "{{i18n:SDS_HappyDogCookies.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 450,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 30
+                },
+                //开心小狗曲奇食谱
+                "SDS_HappyDogCookiesRecipe": {
+                    "Name": "SDS_HappyDogCookiesRecipe",
+                    "DisplayName": "{{i18n:SDS_HappyDogCookiesRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_HappyDogCookiesRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //可乐
+                "SDS_cola": {
+                    "Name": "SDS_cola",
+                    "DisplayName": "{{i18n:SDS_cola.DisplayName}}",
+                    "Description": "{{i18n:SDS_cola.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 32
+                },
+                //蓝莓黑森林蛋糕
+                "SDS_BlueberryBlackForestCake": {
+                    "Name": "SDS_BlueberryBlackForestCake",
+                    "DisplayName": "{{i18n:SDS_BlueberryBlackForestCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_BlueberryBlackForestCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 650,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 3.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 33
+                },
+                //蓝莓黑森林蛋糕食谱
+                "SDS_BlueberryBlackForestCakeRecipe": {
+                    "Name": "SDS_BlueberryBlackForestCakeRecipe",
+                    "DisplayName": "{{i18n:SDS_BlueberryBlackForestCakeRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_BlueberryBlackForestCakeRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //蓝莓派
+                "SDS_BlueberryPie": {
+                    "Name": "SDS_BlueberryPie",
+                    "DisplayName": "{{i18n:SDS_BlueberryPie.DisplayName}}",
+                    "Description": "{{i18n:SDS_BlueberryPie.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 550,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 34
+                },
+                //淋面蛋糕
+                "SDS_Drizzledcake": {
+                    "Name": "SDS_Drizzledcake",
+                    "DisplayName": "{{i18n:SDS_Drizzledcake.DisplayName}}",
+                    "Description": "{{i18n:SDS_Drizzledcake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 80,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 35
+                },
+                //菱格饼干
+                "SDS_Rhombicbiscuit": {
+                    "Name": "SDS_Rhombicbiscuit",
+                    "DisplayName": "{{i18n:SDS_Rhombicbiscuit.DisplayName}}",
+                    "Description": "{{i18n:SDS_Rhombicbiscuit.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 800,
+                    "Edibility": 80,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 2.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 36
+                },
+                //菱格饼干食谱
+                "SDS_RhombicbiscuitRecipe": {
+                    "Name": "SDS_RhombicbiscuitRecipe",
+                    "DisplayName": "{{i18n:SDS_RhombicbiscuitRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_RhombicbiscuitRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //螺丝起子
+                "SDS_Screwdriver": {
+                    "Name": "SDS_Screwdriver",
+                    "DisplayName": "{{i18n:SDS_Screwdriver.DisplayName}}",
+                    "Description": "{{i18n:SDS_Screwdriver.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 20,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 700,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 2.0,
+                                "Speed": 0.0,
+                                "Defense": 2.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 37
+                },
+                //棉花糖咖啡
+                "SDS_CottonCandyCoffee": {
+                    "Name": "SDS_CottonCandyCoffee",
+                    "DisplayName": "{{i18n:SDS_CottonCandyCoffee.DisplayName}}",
+                    "Description": "{{i18n:SDS_CottonCandyCoffee.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 300,
+                    "Edibility": 25,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 40
+                },
+                //莫吉托
+                "SDS_Mojito": {
+                    "Name": "SDS_Mojito",
+                    "DisplayName": "{{i18n:SDS_Mojito.DisplayName}}",
+                    "Description": "{{i18n:SDS_Mojito.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 800,
+                    "Edibility": 20,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 2.0,
+                                "Speed": 1.0,
+                                "Defense": 2.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 41
+                },
+                //尼克罗尼
+                "SDS_Nicroni": {
+                    "Name": "SDS_Nicroni",
+                    "DisplayName": "{{i18n:SDS_Nicroni.DisplayName}}",
+                    "Description": "{{i18n:SDS_Nicroni.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 800,
+                    "Edibility": 5,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 2.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 35.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 44
+                },
+                //巧克力冰棍
+                "SDS_Chocolatepopsicle": {
+                    "Name": "SDS_Chocolatepopsicle",
+                    "DisplayName": "{{i18n:SDS_Chocolatepopsicle.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chocolatepopsicle.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 550,
+                    "Edibility": 90,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 2.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 30.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 46
+                },
+                //巧克力布丁
+                "SDS_Chocolatepudding": {
+                    "Name": "SDS_Chocolatepudding",
+                    "DisplayName": "{{i18n:SDS_Chocolatepudding.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chocolatepudding.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 550,
+                    "Edibility": 40,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 47
+                },
+                //巧克力千层酥
+                "SDS_ChocolateMelaleuca": {
+                    "Name": "SDS_ChocolateMelaleuca",
+                    "DisplayName": "{{i18n:SDS_ChocolateMelaleuca.DisplayName}}",
+                    "Description": "{{i18n:SDS_ChocolateMelaleuca.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 70,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 2.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 49
+                },
+                //巧克力甜甜圈
+                "SDS_Chocolatedonut": {
+                    "Name": "SDS_Chocolatedonut",
+                    "DisplayName": "{{i18n:SDS_Chocolatedonut.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chocolatedonut.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 450,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 2.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 50
+                },
+                //巧克力甜筒
+                "SDS_Chocolatecone": {
+                    "Name": "SDS_Chocolatecone",
+                    "DisplayName": "{{i18n:SDS_Chocolatecone.DisplayName}}",
+                    "Description": "{{i18n:SDS_Chocolatecone.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 500,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 2.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 51
+                },
+                //巧克力兔子
+                "SDS_ChocolateBunny": {
+                    "Name": "SDS_ChocolateBunny",
+                    "DisplayName": "{{i18n:SDS_ChocolateBunny.DisplayName}}",
+                    "Description": "{{i18n:SDS_ChocolateBunny.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 7000,
+                    "Edibility": 200,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 3.0,
+                                "LuckLevel": 6.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 1.0,
+                                "Defense": 6.0,
+                                "Attack": 6.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 52
+                },
+                //双层草莓巧蛋糕
+                "SDS_DoubleStrawberryCake": {
+                    "Name": "SDS_DoubleStrawberryCake",
+                    "DisplayName": "{{i18n:SDS_DoubleStrawberryCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_DoubleStrawberryCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 850,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 2.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 55
+                },
+                //糖豆甜筒
+                "SDS_Jellybeancone": {
+                    "Name": "SDS_Jellybeancone",
+                    "DisplayName": "{{i18n:SDS_Jellybeancone.DisplayName}}",
+                    "Description": "{{i18n:SDS_Jellybeancone.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 1100,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 1.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 56
+                },
+                //糖葫芦
+                "SDS_Sugar-coatedhaws": {
+                    "Name": "SDS_Sugar-coatedhaws",
+                    "DisplayName": "{{i18n:SDS_Sugar-coatedhaws.DisplayName}}",
+                    "Description": "{{i18n:SDS_Sugar-coatedhaws.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 20,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 57
+                },
+                //提拉米苏
+                "SDS_Tiramisu": {
+                    "Name": "SDS_Tiramisu",
+                    "DisplayName": "{{i18n:SDS_Tiramisu.DisplayName}}",
+                    "Description": "{{i18n:SDS_Tiramisu.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 550,
+                    "Edibility": 80,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 1.0,
+                                "FishingLevel": 2.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 58
+                },
+                //甜筒
+                "SDS_IceCreamCone": {
+                    "Name": "SDS_IceCreamCone",
+                    "DisplayName": "{{i18n:SDS_IceCreamCone.DisplayName}}",
+                    "Description": "{{i18n:SDS_IceCreamCone.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 180,
+                    "Edibility": 15,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 60
+                },
+                //香草咖啡
+                "SDS_Vanillacoffee": {
+                    "Name": "SDS_Vanillacoffee",
+                    "DisplayName": "{{i18n:SDS_Vanillacoffee.DisplayName}}",
+                    "Description": "{{i18n:SDS_Vanillacoffee.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 1500,
+                    "Edibility": 100,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 4.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 61
+                },
+                //香草甜橙蛋糕
+                "SDS_VanillaOrangeCake": {
+                    "Name": "SDS_VanillaOrangeCake",
+                    "DisplayName": "{{i18n:SDS_VanillaOrangeCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_VanillaOrangeCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 800,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 3.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 62
+                },
+                //香草甜橙蛋糕食谱
+                "SDS_VanillaOrangeCakeRecipe": {
+                    "Name": "SDS_VanillaOrangeCakeRecipe",
+                    "DisplayName": "{{i18n:SDS_VanillaOrangeCakeRecipe.DisplayName}}",
+                    "Description": "{{i18n:SDS_VanillaOrangeCakeRecipe.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 2
+                },
+                //香茶
+                "SDS_Fragranttea": {
+                    "Name": "SDS_Fragranttea",
+                    "DisplayName": "{{i18n:SDS_Fragranttea.DisplayName}}",
+                    "Description": "{{i18n:SDS_Fragranttea.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 10,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 63
+                },
+                //香煎香菇
+                /*"SDS_Pan-friedmushroom": {
+                    "Name": "SDS_Pan-friedmushroom",
+                    "DisplayName": "香煎香菇",
+                    "Description": "通过煎烤压榨出这枚香菇的所有香气后,洒上香料与汤,就成了这份美味。",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 250,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 65
+                }*/
+                //小狗纸杯蛋糕
+                "SDS_Puppycupcakes": {
+                    "Name": "SDS_Puppycupcakes",
+                    "DisplayName": "{{i18n:SDS_Puppycupcakes.DisplayName}}",
+                    "Description": "{{i18n:SDS_Puppycupcakes.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 450,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 1.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 2.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 66
+                },
+                //小熊汉堡
+                "SDS_BearBurger": {
+                    "Name": "SDS_BearBurger",
+                    "DisplayName": "{{i18n:SDS_BearBurger.DisplayName}}",
+                    "Description": "{{i18n:SDS_BearBurger.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 600,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 67
+                },
+                //小熊面包
+                "SDS_BearBread": {
+                    "Name": "SDS_BearBread",
+                    "DisplayName": "{{i18n:SDS_BearBread.DisplayName}}",
+                    "Description": "{{i18n:SDS_BearBread.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 350,
+                    "Edibility": 70,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 1.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 68
+                },
+                //星星蓝莓蛋糕
+                "SDS_StarBlueberryCake": {
+                    "Name": "SDS_StarBlueberryCake",
+                    "DisplayName": "{{i18n:SDS_StarBlueberryCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_StarBlueberryCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 1100,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 3.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 1.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 40.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 69
+                },
+                //星星千层
+                "SDS_starsthousandlayers": {
+                    "Name": "SDS_starsthousandlayers",
+                    "DisplayName": "{{i18n:SDS_starsthousandlayers.DisplayName}}",
+                    "Description": "{{i18n:SDS_starsthousandlayers.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 400,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 350,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 1.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 3.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 40.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 70
+                },
+                //幸运饼干
+                "SDS_Fortunecookies": {
+                    "Name": "SDS_Fortunecookies",
+                    "DisplayName": "{{i18n:SDS_Fortunecookies.DisplayName}}",
+                    "Description": "{{i18n:SDS_Fortunecookies.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 850,
+                    "Edibility": 30,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 3.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 40.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 71
+                },
+                //椰子汁
+                "SDS_Coconutjuice": {
+                    "Name": "SDS_Coconutjuice",
+                    "DisplayName": "{{i18n:SDS_Coconutjuice.DisplayName}}",
+                    "Description": "{{i18n:SDS_Coconutjuice.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 2000,
+                    "Edibility": 50,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 73
+                },
+                //殷勤小狗曲奇
+                "SDS_CourtesyDogCookie": {
+                    "Name": "SDS_CourtesyDogCookie",
+                    "DisplayName": "{{i18n:SDS_CourtesyDogCookie.DisplayName}}",
+                    "Description": "{{i18n:SDS_CourtesyDogCookie.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 200,
+                    "Edibility": 25,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 75
+                },
+                //樱桃派
+                "SDS_CherryPie": {
+                    "Name": "SDS_CherryPie",
+                    "DisplayName": "{{i18n:SDS_CherryPie.DisplayName}}",
+                    "Description": "{{i18n:SDS_CherryPie.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 550,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 76
+                },
+                //原味派
+                "SDS_Originalflavorpie": {
+                    "Name": "SDS_Originalflavorpie",
+                    "DisplayName": "{{i18n:SDS_Originalflavorpie.DisplayName}}",
+                    "Description": "{{i18n:SDS_Originalflavorpie.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 450,
+                    "Edibility": 60,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 77
+                },
+                //原味甜甜圈
+                "SDS_Originaldonut": {
+                    "Name": "SDS_Originaldonut",
+                    "DisplayName": "{{i18n:SDS_Originaldonut.DisplayName}}",
+                    "Description": "{{i18n:SDS_Originaldonut.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 300,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 78
+                },
+                //月亮蛋糕
+                "SDS_MoonCake": {
+                    "Name": "SDS_MoonCake",
+                    "DisplayName": "{{i18n:SDS_MoonCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_MoonCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 1200,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 2.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 1.0,
+                                "LuckLevel": 3.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 79
+                },
+                //长岛冰茶
+                "SDS_LongIslandIcedTea": {
+                    "Name": "SDS_LongIslandIcedTea",
+                    "DisplayName": "{{i18n:SDS_LongIslandIcedTea.DisplayName}}",
+                    "Description": "{{i18n:SDS_LongIslandIcedTea.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 300,
+                    "Edibility": 50,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 660,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 1.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 80
+                },
+                //月亮千层
+                "SDS_Moonlayer": {
+                    "Name": "SDS_Moonlayer",
+                    "DisplayName": "{{i18n:SDS_Moonlayer.DisplayName}}",
+                    "Description": "{{i18n:SDS_Moonlayer.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 800,
+                    "Edibility": 200,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 900,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 4.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 4.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 83
+                },
+                //佩莱特分给大家的焦黑饼干
+                "SDS_PBiscuits": {
+                    "Name": "SDS_PBiscuits",
+                    "DisplayName": "{{i18n:SDS_PBiscuits.DisplayName}}",
+                    "Description": "{{i18n:SDS_PBiscuits.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 10,
+                    "Edibility": -5,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 84
+                },
+                //香橙蛋糕
+                "SDS_OrangeCake": {
+                    "Name": "SDS_OrangeCake",
+                    "DisplayName": "{{i18n:SDS_OrangeCake.DisplayName}}",
+                    "Description": "{{i18n:SDS_OrangeCake.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 500,
+                    "Edibility": 100,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 85
+                },
+                //包装精美的糖果
+                "SDS_Beautifullywrappedcandy": {
+                    "Name": "SDS_Beautifullywrappedcandy",
+                    "DisplayName": "{{i18n:SDS_Beautifullywrappedcandy.DisplayName}}",
+                    "Description": "{{i18n:SDS_Beautifullywrappedcandy.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 5000,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 87
+                },
+                //佩莱特特制料理
+                "SDS_Pelettespecialcuisine": {
+                    "Name": "SDS_Pelettespecialcuisine",
+                    "DisplayName": "{{i18n:SDS_Pelettespecialcuisine.DisplayName}}",
+                    "Description": "{{i18n:SDS_Pelettespecialcuisine.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 10,
+                    "Edibility": -20,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 0,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 88
+                }
+            }
+        },
+        //鱼
+        {
+            "LogName": "Objects Data",
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //梦幻宝石鱼
+                "SDS_Globostomacinerea": {
+                    "Name": "SDS_Globostomacinerea",
+                    "DisplayName": "{{i18n:SDS_Globostomacinerea.DisplayName}}",
+                    "Description": "{{i18n:SDS_Globostomacinerea.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 150,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "105",
+                    "Edibility": 15
+                },
+                //红鲳鱼
+                "SDS_Redpomfret": {
+                    "Name": "SDS_Redpomfret",
+                    "DisplayName": "{{i18n:SDS_Redpomfret.DisplayName}}",
+                    "Description": "{{i18n:SDS_Redpomfret.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 60,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "106",
+                    "Edibility": 6
+                },
+                //黄金鲤鱼
+                "SDS_Goldencarp": {
+                    "Name": "SDS_Goldencarp",
+                    "DisplayName": "{{i18n:SDS_Goldencarp.DisplayName}}",
+                    "Description": "{{i18n:SDS_Goldencarp.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 5000,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "107",
+                    "Edibility": 200
+                },
+                //猫猫章鱼
+                "SDS_Catoctopus": {
+                    "Name": "SDS_Catoctopus",
+                    "DisplayName": "{{i18n:SDS_Catoctopus.DisplayName}}",
+                    "Description": "{{i18n:SDS_Catoctopus.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 100,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "108",
+                    "Edibility": 10
+                },
+                //孔雀天使鱼
+                "SDS_Peacockangelfish": {
+                    "Name": "SDS_Peacockangelfish",
+                    "DisplayName": "{{i18n:SDS_Peacockangelfish.DisplayName}}",
+                    "Description": "{{i18n:SDS_Peacockangelfish.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 250,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "109",
+                    "Edibility": 15
+                },
+                //僵尸鱼
+                "SDS_Zombiefish": {
+                    "Name": "SDS_Zombiefish",
+                    "DisplayName": "{{i18n:SDS_Zombiefish.DisplayName}}",
+                    "Description": "{{i18n:SDS_Zombiefish.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 45,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "112",
+                    "Edibility": -10
+                },
+                //恶魔红血鱼
+                "SDS_DemonRedBloodfish": {
+                    "Name": "SDS_DemonRedBloodfish",
+                    "DisplayName": "{{i18n:SDS_DemonRedBloodfish.DisplayName}}",
+                    "Description": "{{i18n:SDS_DemonRedBloodfish.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 2000,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "113",
+                    "Edibility": 10
+                },
+                //狼鳗
+                "SDS_Wolfeel": {
+                    "Name": "SDS_Wolfeel",
+                    "DisplayName": "{{i18n:SDS_Wolfeel.DisplayName}}",
+                    "Description": "{{i18n:SDS_Wolfeel.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 2500,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "114",
+                    "Edibility": 15
+                },
+                //冥河水母
+                "SDS_Styx": {
+                    "Name": "SDS_Styx",
+                    "DisplayName": "{{i18n:SDS_Styx.DisplayName}}",
+                    "Description": "{{i18n:SDS_Styx.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "115",
+                    "Edibility": 50
+                },
+                //环海蛇
+                "SDS_Hydrophisannulatus": {
+                    "Name": "SDS_Hydrophisannulatus",
+                    "DisplayName": "{{i18n:SDS_Hydrophisannulatus.DisplayName}}",
+                    "Description": "{{i18n:SDS_Hydrophisannulatus.Description}}",
+                    "Type": "Fish",
+                    "Category": -4,
+                    "Price": 200,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": "116",
+                    "Edibility": -5
+                }
+            }
+        }
+    ]
+}

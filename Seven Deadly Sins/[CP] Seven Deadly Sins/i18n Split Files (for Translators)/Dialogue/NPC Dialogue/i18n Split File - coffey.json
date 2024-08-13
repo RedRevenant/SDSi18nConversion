@@ -1,0 +1,83 @@
+﻿{
+   /* [Dialogue] Coffey */
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Coffey Dialogue] Special
+   "Dialogue.Coffey.Introduction": "嗯...你是新来的吧，是从哪里来的？城里？我叫科菲。$0#$b#真令人好奇~$1",
+   "Dialogue.Coffey.spring_1_2": "真好！又是新的一年，今年也要漂漂亮亮的！$1",
+   "Dialogue.Coffey.fall_9": "哼哼~今天是我生日哦！教父会给我准备可爱的蛋糕，我要和大家一起吃！$1",
+   "Dialogue.Coffey.DumpsterDiveComment": "快住手！那很脏的！！$2",
+   "Dialogue.Coffey.GreenRain": "天空变得好奇怪…你会害怕吗？$2",
+   "Dialogue.Coffey.MovieInvitation": "太棒了，我超想看一次电影的。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Coffey Dialogue] Gift
+   "Dialogue.Coffey.AcceptBirthdayGift_Loved": "真是个超棒的生日礼物！谢谢你记得我的生日，还给我这么好的礼物~$1",
+   "Dialogue.Coffey.AcceptBirthdayGift_Liked": "好棒！我好喜欢！你怎么知道我喜欢这个的？谢谢你！$1",
+   "Dialogue.Coffey.AcceptBirthdayGift_Neutral": "给我的？谢谢。$0",
+   "Dialogue.Coffey.AcceptBirthdayGift_Disliked": "真不敢相信你会在别人生日的时候送这种东西...还是说你讨厌我？$2",
+   "Dialogue.Coffey.AcceptBirthdayGift_Hated": "真不敢相信你会在别人生日的时候送这种东西...还是说你讨厌我？$2",
+   "Dialogue.Coffey.AcceptGift_(O)StardropTea": "太棒啦！你的品味很不错嘛，我超喜欢这份礼物。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Coffey Dialogue] Resort
+   "Dialogue.Coffey.Resort": "好热好热…但是这里的景色好漂亮~$1",
+   "Dialogue.Coffey.Resort_Bar": "我想找找看有没有特别的贝壳。$1",
+   "Dialogue.Coffey.Resort_Chair": "休息一会也不错，对吧？$1",
+   "Dialogue.Coffey.Resort_Dance": "浑身是汗…但我玩的很开心！$1",
+   "Dialogue.Coffey.Resort_Entering": "听说岛上有很多美丽的鸟，要是能见到就好了。$1",
+   "Dialogue.Coffey.Resort_Leaving": "今天玩的很开心~$1",
+   "Dialogue.Coffey.Resort_Shore": "要是有什么东西能记录下这里的风景就好了。$1",
+   "Dialogue.Coffey.Resort_Towel": "过来休息一下吗？$0",
+   "Dialogue.Coffey.Resort_Umbrella": "看着一望无际的大海，心情也平静下来了~$0",
+   "Dialogue.Coffey.Resort_Wander": "虽然很想到处转一转，但是我要是惹了什么麻烦就不好了。$0",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Coffey Dialogue] General/Spring
+   "Dialogue.Coffey.Mon": "嗯？你好。$0",
+   "Dialogue.Coffey.Mon2": "又见面了耶，有什么事吗。$1",
+   "Dialogue.Coffey.Mon4": "来帮我看看我的新饰品好不好看。$1",
+   "Dialogue.Coffey.Mon6": "哎呀…好无聊，有没有什么有意思的事情呢。$3",
+   "Dialogue.Coffey.Mon8": "我很喜欢我那三个朋友，他们都很可爱~$1#$b#尤其是温蒂，偷偷告诉你，其实她很容易害羞哦。$0",
+   "Dialogue.Coffey.Mon10": "你真好~每次见到你心情就会变好呢，希望天天见到你~$1",
+   /*~*~*~*/
+   "Dialogue.Coffey.Tue": "%科菲看见了你，向你挥了挥手",
+   "Dialogue.Coffey.Tue2": "你好啊。$1",
+   "Dialogue.Coffey.Tue4": "你见过温蒂和艾伯特他们了对吧？$0#$b#是不是觉得比起他们两个最开始的警惕，我显得有点过于热情了？$1#$b#我只是觉得没必要对镇上的大家那么多的猜疑，毕竟我们已经不再生活在水深火热中。$0",
+   "Dialogue.Coffey.Tue6": "你注意到我的新头饰了吗？是不是很可爱？你喜欢吗？$1",
+   "Dialogue.Coffey.Tue8": "盖瑞特可不是什么书呆子哦，他很可爱。$1#$b#等一下，你可不要告诉他这是我说的啊$2",
+   "Dialogue.Coffey.Tue10": "现在的生活我超级满意的，在这里的每晚都能睡个好觉。$1#$b#也不会有震耳欲聋的爆炸声。$2",
+   /*~*~*~*/
+   "Dialogue.Coffey.Wed": "%科菲看起来心情不错",
+   "Dialogue.Coffey.Wed2": "%科菲在哼歌",
+   "Dialogue.Coffey.Wed4": "我喜欢可爱的东西，看见可爱的东西心情也会变好不是吗？$0",
+   "Dialogue.Coffey.Wed6": "我喜欢收集一些小玩意，比如各种各样的糖纸。$1",
+   "Dialogue.Coffey.Wed8": "温蒂不擅长交流，所以请你看见她支支吾吾的时候不要着急，多给她一些耐心。$0",
+   "Dialogue.Coffey.Wed10": "我喜欢冰激凌，我觉得很好吃！$0#$b#你也喜欢冰激凌吗？$1",
+   /*~*~*~*/
+   "Dialogue.Coffey.Thu": "嗯？你好呀$1",
+   "Dialogue.Coffey.Thu2": "新的一天！$0",
+   "Dialogue.Coffey.Thu4": "能不能和我说说你农场里都有些什么？我很好奇。$0",
+   "Dialogue.Coffey.Thu6": "你的农场里应该有很多可爱的小动物吧？可爱的小动物，真好$1",
+   "Dialogue.Coffey.Thu8": "毫无疑问，盖瑞特是我们四个中成绩最好的一个，有时候真的很佩服他是怎么背过那些枯燥的课文的。$0",
+   "Dialogue.Coffey.Thu10": "我喜欢的人有很多，有教堂里的大家，有佩莱特先生，还有@先生...^我喜欢的人有很多，有教堂里的大家，有佩莱特先生，还有@小姐...$0#$b#真高兴能认识你们！$1#$b#*拥抱*$1",
+   /*~*~*~*/
+   "Dialogue.Coffey.Fri": "%科菲似乎没注意到你",
+   "Dialogue.Coffey.Fri2": "你好。$0",
+   "Dialogue.Coffey.Fri4": "有什么事情需要帮忙吗？如果我能帮上忙的话就太好了。$0",
+   "Dialogue.Coffey.Fri6": "我喜欢过生日，和大家一起过生日分蛋糕的感觉真的很棒！$1#$b#就好像...我们是真正的一家人$2",
+   "Dialogue.Coffey.Fri8": "要说温蒂和谁关系最好，肯定是艾伯特啦。$0#$b#艾伯特真是很可靠呢。$1",
+   "Dialogue.Coffey.Fri10": "谢谢你帮我们这么多忙，你真是太好啦！$1",
+   /*~*~*~*/
+   "Dialogue.Coffey.Sat": "今天也辛苦了~$1",
+   "Dialogue.Coffey.Sat2": "你好~$1",
+   "Dialogue.Coffey.Sat4": "你看起来很忙，要不要帮忙呢？#$b#当然，力气活我是帮不上什么忙啦...$3",
+   "Dialogue.Coffey.Sat6": "你认识潘妮老师吗？她人很好哦，还会教我们知识。$1",
+   "Dialogue.Coffey.Sat8": "送给你！[400]$0",
+   "Dialogue.Coffey.Sat10": "我喜欢和朋友们一起分享好吃的东西，其实在认识艾伯特他们之前，我都没有可以算的上是朋友的人...$2",
+   /*~*~*~*/
+   "Dialogue.Coffey.Sun": "%科菲在摆弄自己的小发卡",
+   "Dialogue.Coffey.Sun2": "啊...不好意思哦，我现在没心情和你闲聊$3",
+   "Dialogue.Coffey.Sun4": "艾伯特的发卡很可爱吧？$0#$b#哼哼，我的审美不会错的。$1",
+   "Dialogue.Coffey.Sun6": "总是一成不变的生活未免太过枯燥了。我确实不太能理解大人们的世界，但可不可以占用你的一些时间来和我一起在森林中散散步呢？$0",
+   "Dialogue.Coffey.Sun8": "我是不是很可爱很漂亮？哼哼~我就知道。$1",
+   "Dialogue.Coffey.Sun10": "鹈鹕镇不论是哪个季节都那么美丽，我喜欢观察每个季节的变化，感受季节的更替。$0"
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+}

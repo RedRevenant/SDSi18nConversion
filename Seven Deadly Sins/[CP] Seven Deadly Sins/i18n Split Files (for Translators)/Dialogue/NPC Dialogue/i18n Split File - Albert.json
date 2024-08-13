@@ -1,0 +1,83 @@
+{
+   /* [Dialogue] Albert */
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Albert Dialogue] Special
+   "Dialogue.Albert.Introduction": "%意外的，男孩警惕地盯着你并没有开口，为了证明自己不是坏人，你后退了几步。",
+   "Dialogue.Albert.spring_1_2": "温蒂肯定又要说什么丧气话了，这怎么行！新的一年新的开始！$1",
+   "Dialogue.Albert.winter_16": "我不需要什么生日礼物...教父和朋友们能陪着我就好！$1",
+   "Dialogue.Albert.DumpsterDiveComment": "噫！你为什么要翻垃圾桶。$3#$b#……你是不是没饭吃？$2",
+   "Dialogue.Albert.GreenRain": "神父告诉我们不要害怕，乖乖待在屋子里，不管怎样我都要保护教堂的大家。$3",
+   "Dialogue.Albert.MovieInvitation": "电影？谢谢你我会去的。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Albert Dialogue] Gift
+   "Dialogue.Albert.AcceptBirthdayGift_Loved": "谢谢你,我很喜欢。$1",
+   "Dialogue.Albert.AcceptBirthdayGift_Liked": "谢谢你。$1",
+   "Dialogue.Albert.AcceptBirthdayGift_Neutral": "谢谢你。$1",
+   "Dialogue.Albert.AcceptBirthdayGift_Disliked": ".....谢谢你。$2",
+   "Dialogue.Albert.AcceptBirthdayGift_Hated": "....谢谢你。$2",
+   "Dialogue.Albert.AcceptGift_(O)StardropTea": "谢谢你,我很喜欢。$1",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Albert Dialogue] Resort
+   "Dialogue.Albert.Resort": "好热…怪不得你说要少穿点。$2",
+   "Dialogue.Albert.Resort_Bar": "格斯卖的是什么…咦，原来是酒吗。$2",
+   "Dialogue.Albert.Resort_Chair": "坐在这里休息一会也挺好的。$1",
+   "Dialogue.Albert.Resort_Dance": "跳舞？我才不跳呢。$0",
+   "Dialogue.Albert.Resort_Entering": "你好啊，你也来了。$1",
+   "Dialogue.Albert.Resort_Leaving": "捡到了很漂亮的贝壳，要带回去给温蒂他们看看。$1",
+   "Dialogue.Albert.Resort_Shore": "大海望不到尽头呢。$1",
+   "Dialogue.Albert.Resort_Towel": "我就在这里待一会吧。$1",
+   "Dialogue.Albert.Resort_Umbrella": "太晒了…你不觉得吗？$4",
+   "Dialogue.Albert.Resort_Wander": "好想去里面转转…还是算了。$4",
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   //[Albert Dialogue] General/Spring
+   "Dialogue.Albert.Mon": "......$3",
+   "Dialogue.Albert.Mon2": "%艾伯特警惕地盯着你。",
+   "Dialogue.Albert.Mon4": "你有什么事…？$0",
+   "Dialogue.Albert.Mon6": "我认为多一份警惕心没什么问题，这让我无论在哪里都会更加安全。$0",
+   "Dialogue.Albert.Mon8": "现在回想起来，我刚见到神父的时候也同样警惕。$0#$b#就连神父送来的饭也不吃，那时候他一定很头疼吧...$2",
+   "Dialogue.Albert.Mon10": "嗯...我以前对你很警惕不是吗？我知道的...$2#$b#但我想说，现在不一样了，我相信@哥哥。^但我想说，现在不一样了，我相信@姐姐。$1",
+   /*~*~*~*/
+   "Dialogue.Albert.Tue": "你想干什么。$3",
+   "Dialogue.Albert.Tue2": "%艾伯特警惕地盯着你，什么也不说。",
+   "Dialogue.Albert.Tue4": "...?$3",
+   "Dialogue.Albert.Tue6": "你好啊，今天过得应该很充实吧？",
+   "Dialogue.Albert.Tue8": "科菲那家伙对谁都太热情了。$0#$b#从某种程度上让人感觉很不舒服。$2",
+   "Dialogue.Albert.Tue10": "潘妮小姐是个不错的老师，温柔又有耐心。$1",
+   /*~*~*~*/
+   "Dialogue.Albert.Wed": "…………",
+   "Dialogue.Albert.Wed2": "%孩子依旧警惕地盯着你，什么也没说。",
+   "Dialogue.Albert.Wed4": "%孩子依旧警惕地盯着你，什么也没说。",
+   "Dialogue.Albert.Wed6": "神父会给我们发不同的水果，因为你人不错，所以送你一个。[636]$1",
+   "Dialogue.Albert.Wed8": "谢谢你照顾温蒂，她人很好，只是不太会表达。$4",
+   "Dialogue.Albert.Wed10": "告诉你哦，盖瑞特那家伙学习很厉害的！$1",
+   /*~*~*~*/
+   "Dialogue.Albert.Thu": "……你要干什么？$3",
+   "Dialogue.Albert.Thu2": "%艾伯特并没有理你。",
+   "Dialogue.Albert.Thu4": "你有什么事的话，可以去找神父，我恐怕帮不上你什么忙。$0",
+   "Dialogue.Albert.Thu6": "你好啊。$0#$b#今天过得怎么样？$1",
+   "Dialogue.Albert.Thu8": "唉...看书看久了总觉得眼睛都花了，盖瑞特那家伙到底是怎么做到成绩那么好的。$2",
+   "Dialogue.Albert.Thu10": "嗯...先生的农场里都有些什么呢？^嗯...小姐的农场里都有些什么呢？$0#$b#是不是有很多的作物，还有很多很多的小动物？$1",
+   /*~*~*~*/
+   "Dialogue.Albert.Fri": "%艾伯特没有理会你。",
+   "Dialogue.Albert.Fri2": "%艾伯特只是看了你一眼，什么也没说。",
+   "Dialogue.Albert.Fri4": "你好，有什么事吗。#$b#我恐怕帮不了你什么忙吧。$2",
+   "Dialogue.Albert.Fri6": "嗯...其实想吃蛋糕，我们只有过生日的时候才能吃到。$2#$b#但我不会告诉神父的，我要节俭一些，减轻神父的负担。$4",
+   "Dialogue.Albert.Fri8": "其实温蒂不用那么感谢我，她是我的朋友，所以我想帮她，这很正常吧？$0",
+   "Dialogue.Albert.Fri10": "谢谢你帮我们这么多忙，和你待在一起很愉快。$1",
+   /*~*~*~*/
+   "Dialogue.Albert.Sat": "………$3",
+   "Dialogue.Albert.Sat2": "%艾伯特瞥了你一眼。",
+   "Dialogue.Albert.Sat4": "干嘛？你看起来很忙。$3",
+   "Dialogue.Albert.Sat6": "你认识潘妮老师吗？$1#$b#她人很好哦，还会教我们知识。$1",
+   "Dialogue.Albert.Sat8": "给你的，不用谢我。[613]$1",
+   "Dialogue.Albert.Sat10": "冰激凌？听起来真不错啊，我也想尝尝！$1#$b#不过那东西还没到这里来在路上应该就会化掉了吧....$2#$b#咦，你有办法吗？！$1",
+   /*~*~*~*/
+   "Dialogue.Albert.Sun": "%艾伯特没有理会你。",
+   "Dialogue.Albert.Sun2": "………离我远点！$3",
+   "Dialogue.Albert.Sun4": "你喜欢冰激凌吗？神父不让我们多吃。$2",
+   "Dialogue.Albert.Sun6": "我记不清自己的生日了，是教堂的大家一起帮我定的生日。$0",
+   "Dialogue.Albert.Sun8": "要我说，温蒂就应该经常出来玩，一直闷闷不乐的可不行！$0",
+   "Dialogue.Albert.Sun10": "真佩服你，我听说大家对你的风评都很不错哦！$1"
+   /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+   /*-----------------------------------------------------------------------------------------------------------*/
+}

@@ -1,0 +1,1177 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                //可婚主NPC
+                "Lucas": {
+                    "DisplayName": "{{i18n:Lucas.DisplayName}}",
+                    "BirthSeason": "Fall",
+                    "BirthDay": 23,
+                    "HomeRegion": "Other",
+                    "Gender": "Male",
+                    "Age": "Teen",
+                    "Manner": "Polite",
+                    "SocialAnxiety": "Outgoing",
+                    "Optimism": "Neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_Lucashouse",
+                            "Tile": {
+                                "X": 22,
+                                "Y": 9
+                            },
+                            "Direction": "Left"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 0,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 0,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Pelette": {
+                    "DisplayName": "{{i18n:Pelette.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 14,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "adult",
+                    "Manner": "rude",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "Neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Phouse",
+                            "Tile": {
+                                "X": 8,
+                                "Y": 6
+                            },
+                            "Direction": "right"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 24,
+                            "Y": 0,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 4,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Uriel": {
+                    "DisplayName": "{{i18n:Uriel.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 24,
+                    "HomeRegion": "Town",
+                    "Gender": "Male",
+                    "Age": "adult",
+                    "Manner": "rude",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "Neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.UrielHouse",
+                            "Tile": {
+                                "X": 25,
+                                "Y": 8
+                            },
+                            "Direction": "Left"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 18,
+                            "Y": 0,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 12,
+                            "Y": 0,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Moore": {
+                    "DisplayName": "莫尔",
+                    "BirthSeason": "spring",
+                    "BirthDay": 18,
+                    "HomeRegion": "Other",
+                    "Gender": "Male",
+                    "Age": "adult",
+                    "Manner": "neutral",
+                    "SocialAnxiety": "neutral",
+                    "Optimism": "Neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "HiddenUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Cavebase",
+                            "Tile": {
+                                "X": 20,
+                                "Y": 12
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Hovsep": {
+                    "DisplayName": "{{i18n:Hovsep.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 1,
+                    "HomeRegion": "Other",
+                    "Gender": "Male",
+                    "Age": "adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "Neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.HHome",
+                            "Tile": {
+                                "X": 12,
+                                "Y": 15
+                            },
+                            "Direction": "down"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 6,
+                            "Y": 0,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 4,
+                            "Y": 0,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Lane": {
+                    "DisplayName": "{{i18n:Lane.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 3,
+                    "HomeRegion": "Desert",
+                    "Gender": "Male",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.RLHouse",
+                            "Tile": {
+                                "X": 9,
+                                "Y": 4
+                            },
+                            "Direction": "up"
+                        }
+                    ]
+                },
+                "Rane": {
+                    "DisplayName": "{{i18n:Rane.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 3,
+                    "HomeRegion": "Desert",
+                    "Gender": "Male",
+                    "Age": "child",
+                    "Manner": "rude",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.RLHouse",
+                            "Tile": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "Direction": "right"
+                        }
+                    ]
+                },
+                "Sariel": {
+                    "DisplayName": "{{i18n:Sariel.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 15,
+                    "HomeRegion": "Other",
+                    "Gender": "Male",
+                    "Age": "teen",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_Woods2",
+                            "Tile": {
+                                "X": 20,
+                                "Y": 29
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                //不可婚NPC
+                "Teresa": {
+                    "DisplayName": "{{i18n:Teresa.DisplayName}}",
+                    "BirthSeason": "spring",
+                    "BirthDay": 13,
+                    "HomeRegion": "Desert",
+                    "Gender": "female",
+                    "Age": "teen",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Club",
+                            "Tile": {
+                                "X": 13,
+                                "Y": 4
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Arvey": {
+                    "DisplayName": "{{i18n:Arvey.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 5,
+                    "HomeRegion": "Desert",
+                    "Gender": "male",
+                    "Age": "teen",
+                    "Manner": "neutral",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "SandyHouse",
+                            "Tile": {
+                                "X": 32,
+                                "Y": 19
+                            },
+                            "Direction": "right"
+                        }
+                    ]
+                },
+                "Raymond": {
+                    "DisplayName": "{{i18n:Raymond.DisplayName}}",
+                    "BirthSeason": "spring",
+                    "BirthDay": 2,
+                    "HomeRegion": "Town",
+                    "Gender": "male",
+                    "Age": "adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Churchroom",
+                            "Tile": {
+                                "X": 3,
+                                "Y": 8
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "EdwardSDS": {
+                    "DisplayName": "{{i18n:Edward.DisplayName}}",
+                    "BirthSeason": "fall",
+                    "BirthDay": 12,
+                    "HomeRegion": "Other",
+                    "Gender": "male",
+                    "Age": "adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "neutral",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Town",
+                            "Tile": {
+                                "X": 106,
+                                "Y": 56
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "peipei": {
+                    "DisplayName": "{{i18n:peipei.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 23,
+                    "HomeRegion": "Other",
+                    "Gender": "male",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Town",
+                            "Tile": {
+                                "X": 130,
+                                "Y": 24
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Albert": {
+                    "DisplayName": "{{i18n:Albert.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 16,
+                    "HomeRegion": "Town",
+                    "Gender": "male",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Churchroom",
+                            "Tile": {
+                                "X": 1,
+                                "Y": 4
+                            },
+                            "Direction": "up"
+                        }
+                    ]
+                },
+                "Coffey": {
+                    "DisplayName": "{{i18n:Coffey.DisplayName}}",
+                    "BirthSeason": "fall",
+                    "BirthDay": 9,
+                    "HomeRegion": "Town",
+                    "Gender": "male",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Churchroom",
+                            "Tile": {
+                                "X": 6,
+                                "Y": 6
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Garnet": {
+                    "DisplayName": "{{i18n:Garnet.DisplayName}}",
+                    "BirthSeason": "spring",
+                    "BirthDay": 15,
+                    "HomeRegion": "Town",
+                    "Gender": "male",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Churchroom",
+                            "Tile": {
+                                "X": 8,
+                                "Y": 3
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Wendy": {
+                    "DisplayName": "{{i18n:Wendy.DisplayName}}",
+                    "BirthSeason": "spring",
+                    "BirthDay": 23,
+                    "HomeRegion": "Town",
+                    "Gender": "female",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "negative",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.Churchroom",
+                            "Tile": {
+                                "X": 3,
+                                "Y": 4
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Arkwright": {
+                    "DisplayName": "{{i18n:Arkwright.DisplayName}}",
+                    "BirthSeason": "fall",
+                    "BirthDay": 19,
+                    "HomeRegion": "Other",
+                    "Gender": "male",
+                    "Age": "Adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "Neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "WinterStarParticipant": null,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.butcher",
+                            "Tile": {
+                                "X": 7,
+                                "Y": 13
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Annika": {
+                    "DisplayName": "{{i18n:Annika.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 26,
+                    "HomeRegion": "Other",
+                    "Gender": "female",
+                    "Age": "Adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "Outgoing",
+                    "Optimism": "Positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "WinterStarParticipant": null,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.jewelry",
+                            "Tile": {
+                                "X": 2,
+                                "Y": 6
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Xenia": {
+                    "DisplayName": "{{i18n:Xenia.DisplayName}}",
+                    "BirthSeason": "spring",
+                    "BirthDay": 9,
+                    "HomeRegion": "Other",
+                    "Gender": "female",
+                    "Age": "Adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "Outgoing",
+                    "Optimism": "Positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "WinterStarParticipant": null,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.supermarket",
+                            "Tile": {
+                                "X": 12,
+                                "Y": 9
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                //可婚副npc
+                "Regla": {
+                    "DisplayName": "{{i18n:Regla.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 13,
+                    "HomeRegion": "Other",
+                    "Gender": "female",
+                    "Age": "teen",
+                    "Manner": "neutral",
+                    "SocialAnxiety": "shy",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.RuiglaHome",
+                            "Tile": {
+                                "X": 19,
+                                "Y": 7
+                            },
+                            "Direction": "right"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 12,
+                            "Y": 9,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 12,
+                            "Y": 4,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Maria": {
+                    "DisplayName": "{{i18n:Maria.DisplayName}}",
+                    "BirthSeason": "spring",
+                    "BirthDay": 6,
+                    "HomeRegion": "Town",
+                    "Gender": "male",
+                    "Age": "adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "neutral",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.church",
+                            "Tile": {
+                                "X": 19,
+                                "Y": 25
+                            },
+                            "Direction": "down"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 12,
+                            "Y": 0,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 8,
+                            "Y": 0,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "luoli": {
+                    "DisplayName": "{{i18n:luoli.DisplayName}}",
+                    "BirthSeason": "winter",
+                    "BirthDay": 19,
+                    "HomeRegion": "Desert",
+                    "Gender": "female",
+                    "Age": "teen",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.LuoLihouse",
+                            "Tile": {
+                                "X": 7,
+                                "Y": 7
+                            },
+                            "Direction": "up"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 18,
+                            "Y": 9,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 4,
+                            "Y": 4,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Siren": {
+                    "DisplayName": "{{i18n:Siren.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 20,
+                    "HomeRegion": "Other",
+                    "Gender": "male",
+                    "Age": "adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.sea",
+                            "Tile": {
+                                "X": 17,
+                                "Y": 10
+                            },
+                            "Direction": "down"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 24,
+                            "Y": 9,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 8,
+                            "Y": 4,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Sandy": {
+                    "DisplayName": "{{i18n:Sandy.DisplayName}}",
+                    "BirthSeason": "fall",
+                    "BirthDay": 15,
+                    "HomeRegion": "Desert",
+                    "Gender": "female",
+                    "Age": "adult",
+                    "Manner": "neutral",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": false,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": false,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "SandyHouse",
+                            "Tile": {
+                                "X": 2,
+                                "Y": 20
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                //路人NPC
+                "Fivesongs": {
+                    "DisplayName": "{{i18n:Fivesongs.DisplayName}}",
+                    "SocialTab": "HiddenAlways",
+                    "CanSocialize": false,
+                    "IntroductionsQuest": false,
+                    "PerfectionScore": false,
+                    "EndSlideShow": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.ice_cream_shop",
+                            "Tile": {
+                                "X": 7,
+                                "Y": 6
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Flower": {
+                    "DisplayName": "{{i18n:Flower.DisplayName}}",
+                    "SocialTab": "HiddenAlways",
+                    "CanSocialize": false,
+                    "IntroductionsQuest": false,
+                    "PerfectionScore": false,
+                    "EndSlideShow": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Desert",
+                            "Tile": {
+                                "X": 21,
+                                "Y": 8
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Nigel": {
+                    "DisplayName": "{{i18n:Nigel.DisplayName}}",
+                    "SocialTab": "HiddenAlways",
+                    "CanSocialize": false,
+                    "IntroductionsQuest": false,
+                    "PerfectionScore": false,
+                    "EndSlideShow": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Town",
+                            "Tile": {
+                                "X": 153,
+                                "Y": 101
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                },
+                "Eleonora": {
+                    "DisplayName": "{{i18n:Eleonora.DisplayName}}",
+                    "SocialTab": "HiddenAlways",
+                    "CanSocialize": false,
+                    "IntroductionsQuest": false,
+                    "PerfectionScore": false,
+                    "EndSlideShow": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.ice_cream_shop",
+                            "Tile": {
+                                "X": 15,
+                                "Y": 10
+                            },
+                            "Direction": "down"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "Lane": {
+                    "DisplayName": "{{i18n:Lane.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 3,
+                    "HomeRegion": "Desert",
+                    "Gender": "Male",
+                    "Age": "child",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.RLHouse",
+                            "Tile": {
+                                "X": 9,
+                                "Y": 4
+                            },
+                            "Direction": "up"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 6,
+                            "Y": 9,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 4,
+                            "Y": 8,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                },
+                "Rane": {
+                    "DisplayName": "{{i18n:Rane.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 3,
+                    "HomeRegion": "Desert",
+                    "Gender": "Male",
+                    "Age": "child",
+                    "Manner": "rude",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "positive",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": true,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": true,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.RLHouse",
+                            "Tile": {
+                                "X": 3,
+                                "Y": 5
+                            },
+                            "Direction": "right"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 9,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 0,
+                            "Y": 8,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                }
+            },
+            "When": {
+                "Year |contains=1": "false"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "Siren": {
+                    "DisplayName": "{{i18n:Siren.DisplayName}}",
+                    "BirthSeason": "summer",
+                    "BirthDay": 20,
+                    "HomeRegion": "Other",
+                    "Gender": "female",
+                    "Age": "adult",
+                    "Manner": "polite",
+                    "SocialAnxiety": "outgoing",
+                    "Optimism": "neutral",
+                    "CanSocialize": true,
+                    "CanBeRomanced": true,
+                    "CanReceiveGifts": true,
+                    "CanCommentOnPurchasedShopItems": false,
+                    "CanGreetNearbyCharacters": false,
+                    "CanVisitIsland": true,
+                    "Calendar": "HiddenUntilMet",
+                    "SocialTab": "UnknownUntilMet",
+                    "IntroductionsQuest": false,
+                    "Home": [
+                        {
+                            "Id": "Default",
+                            "Location": "Custom_SDS.sea",
+                            "Tile": {
+                                "X": 17,
+                                "Y": 10
+                            },
+                            "Direction": "down"
+                        }
+                    ],
+                    "SpouseRoom": {
+                        "MapAsset": "SDS.SpouseRooms",
+                        "MapSourceRect": {
+                            "X": 24,
+                            "Y": 9,
+                            "Width": 6,
+                            "Height": 9
+                        }
+                    },
+                    "SpousePatio": {
+                        "MapAsset": "SDS.SpousePatios",
+                        "MapSourceRect": {
+                            "X": 8,
+                            "Y": 4,
+                            "Width": 4,
+                            "Height": 4
+                        }
+                    }
+                }
+            },
+            "When": {
+                "HasSeenEvent |contains=19215210": true
+            }
+        }
+    ]
+}

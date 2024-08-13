@@ -1,0 +1,944 @@
+﻿{
+    "Format": "2.0.0",
+    "CustomLocations": [
+        //阿瓦利亚森林
+        {
+            "Name": "Custom_SDS.AvaliaForest",
+            "FromMapFile": "Maps/SDS.AvaliaForest.tmx"
+        },
+        //森林
+        {
+            "Name": "Custom_Woods1",
+            "FromMapFile": "Maps/SDS.Woods1.tmx"
+        },
+        {
+            "Name": "Custom_Woods2",
+            "FromMapFile": "Maps/SDS.Secret.forest.tmx"
+        },
+        //矿洞
+        {
+            "Name": "Custom_SDS.Cavebase",
+            "FromMapFile": "Maps/SDS.Cavebase.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave1",
+            "FromMapFile": "Maps/Cave/SDS.Cave1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave2",
+            "FromMapFile": "Maps/Cave/SDS.Cave2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave3",
+            "FromMapFile": "Maps/Cave/SDS.Cave3.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave4",
+            "FromMapFile": "Maps/Cave/SDS.Cave4.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave5",
+            "FromMapFile": "Maps/Cave/SDS.Cave5.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave6",
+            "FromMapFile": "Maps/Cave/SDS.Cave6.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave7",
+            "FromMapFile": "Maps/Cave/SDS.Cave7.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave8",
+            "FromMapFile": "Maps/Cave/SDS.Cave8.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave9",
+            "FromMapFile": "Maps/Cave/SDS.Cave9.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Cave10",
+            "FromMapFile": "Maps/Cave/SDS.Cave10.tmx"
+        },
+        //城镇
+        {
+            "Name": "Custom_SDS.Phouse",
+            "FromMapFile": "Maps/SDS.Pelette.house.tmx"
+        },
+        {
+            "Name": "Custom_SDS.church",
+            "FromMapFile": "Maps/SDS.Inside_church.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Churchroom",
+            "FromMapFile": "Maps/SDS.Church_room.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lucasoffice",
+            "FromMapFile": "Maps/SDS.Lucasoffice.tmx"
+        },
+        {
+            "Name": "Custom_SDS.ricehit",
+            "FromMapFile": "Maps/SDS.ricehit.tmx"
+        },
+        {
+            "Name": "Custom_SDS.school",
+            "FromMapFile": "Maps/SDS.school.tmx"
+        },
+        //城市
+        {
+            "Name": "Custom_SDS.City",
+            "FromMapFile": "Maps/SDS.City.tmx"
+        },
+        {
+            "Name": "Custom_SDS.couture",
+            "FromMapFile": "Maps/SDS.couture.tmx"
+        },
+        {
+            "Name": "Custom_SDS.jewelry",
+            "FromMapFile": "Maps/SDS.jewelry.tmx"
+        },
+        {
+            "Name": "Custom_SDS.ice_cream_shop",
+            "FromMapFile": "Maps/SDS.ice_cream_shop.tmx"
+        },
+        {
+            "Name": "Custom_SDS.butcher",
+            "FromMapFile": "Maps/SDS.butcher.tmx"
+        },
+        {
+            "Name": "Custom_Lucashouse",
+            "FromMapFile": "Maps/SDS.Lucashouse.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Apartment_lobby",
+            "FromMapFile": "Maps/SDS.Apartment_lobby.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Apartment_lobbyL",
+            "FromMapFile": "Maps/SDS.Apartment_lobbyL.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Apartment_lobbyR",
+            "FromMapFile": "Maps/SDS.Apartment_lobbyR.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Hotel_corridor",
+            "FromMapFile": "Maps/SDS.Hotel_corridor.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Hotel_corridor2",
+            "FromMapFile": "Maps/SDS.Hotel_corridor2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.RuiglaHome",
+            "FromMapFile": "Maps/SDS.RuiglaHome.tmx"
+        },
+        {
+            "Name": "Custom_SDS.TeresaHome",
+            "FromMapFile": "Maps/SDS.TeresaHome.tmx"
+        },
+        {
+            "Name": "Custom_SDS.supermarket",
+            "FromMapFile": "Maps/SDS.supermarket.tmx"
+        },
+        {
+            "Name": "Custom_SDS.LuoLihouse",
+            "FromMapFile": "Maps/SDS.LuoLihouse.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Bank",
+            "FromMapFile": "Maps/SDS.Bank.tmx"
+        },
+        {
+            "Name": "Custom_SDS.CityBeach",
+            "FromMapFile": "Maps/SDS.CityBeach.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Farm_City",
+            "FromMapFile": "Maps/SDS.Farm_City.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Xenia.Home",
+            "FromMapFile": "Maps/SDS.Xenia.Home.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Edward.Home",
+            "FromMapFile": "Maps/SDS.Edward.Home.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Elevator1",
+            "FromMapFile": "Maps/SDS.Elevator1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Elevator1.1",
+            "FromMapFile": "Maps/SDS.Elevator1.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Elevator1.2",
+            "FromMapFile": "Maps/SDS.Elevator1.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Elevator2",
+            "FromMapFile": "Maps/SDS.Elevator2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Elevator2.1",
+            "FromMapFile": "Maps/SDS.Elevator2.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Elevator2.2",
+            "FromMapFile": "Maps/SDS.Elevator2.2.tmx"
+        },
+        //山
+        {
+            "Name": "Custom_SDS.Ucourtyard",
+            "FromMapFile": "Maps/SDS.Ucourtyard.tmx"
+        },
+        {
+            "Name": "Custom_SDS.UrielHouse",
+            "FromMapFile": "Maps/SDS.UrielHouse.tmx"
+        },
+        {
+            "Name": "Custom_SDS.cliff",
+            "FromMapFile": "Maps/SDS.cliff.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Paradise",
+            "FromMapFile": "Maps/SDS.Paradise.tmx"
+        },
+        //沙漠
+        {
+            "Name": "Custom_SDS.RLHouse",
+            "FromMapFile": "Maps/SDS.RLHouse.tmx"
+        },
+        //海底
+        {
+            "Name": "Custom_SDS.sea",
+            "FromMapFile": "Maps/SDS.sea.tmx"
+        },
+        {
+            "Name": "Custom_SDS.HHome",
+            "FromMapFile": "Maps/SDS.HHome.tmx"
+        },
+        //度假村
+        {
+            "Name": "Custom_SDS.CoffeeShop",
+            "FromMapFile": "Maps/SDS.CoffeeShop.tmx"
+        },
+        //CG
+        {
+            "Name": "Custom_SDS.Lucas4",
+            "FromMapFile": "Maps/CG/SDS.Lucas4.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lucas6",
+            "FromMapFile": "Maps/CG/SDS.Lucas6.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lucas9",
+            "FromMapFile": "Maps/CG/SDS.Lucas9.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lucas10",
+            "FromMapFile": "Maps/CG/SDS.Lucas10.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lucas14",
+            "FromMapFile": "Maps/CG/SDS.Lucas14.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria2",
+            "FromMapFile": "Maps/CG/SDS.Maria2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria4.1",
+            "FromMapFile": "Maps/CG/SDS.Maria4.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria4.2",
+            "FromMapFile": "Maps/CG/SDS.Maria4.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria6",
+            "FromMapFile": "Maps/CG/SDS.Maria6.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria8",
+            "FromMapFile": "Maps/CG/SDS.Maria8.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria10.1",
+            "FromMapFile": "Maps/CG/SDS.Maria10.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Maria10.2",
+            "FromMapFile": "Maps/CG/SDS.Maria10.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Pelette10.1",
+            "FromMapFile": "Maps/CG/SDS.Pelette10.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Pelette10.2",
+            "FromMapFile": "Maps/CG/SDS.Pelette10.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Pelette3",
+            "FromMapFile": "Maps/CG/SDS.Pelette3.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Pelette14",
+            "FromMapFile": "Maps/CG/SDS.Pelette14.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Ruigla.1",
+            "FromMapFile": "Maps/CG/SDS.Ruigla.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Ruigla.2",
+            "FromMapFile": "Maps/CG/SDS.Ruigla.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Uriel8",
+            "FromMapFile": "Maps/CG/SDS.Uriel8.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Uriel14.1",
+            "FromMapFile": "Maps/CG/SDS.Uriel14.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Uriel14.2",
+            "FromMapFile": "Maps/CG/SDS.Uriel14.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lane1",
+            "FromMapFile": "Maps/CG/SDS.Lane1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lane6.1",
+            "FromMapFile": "Maps/CG/SDS.Lane6.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lane6.2",
+            "FromMapFile": "Maps/CG/SDS.Lane6.2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lane10",
+            "FromMapFile": "Maps/CG/SDS.Lane10.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Rane1",
+            "FromMapFile": "Maps/CG/SDS.Rane1.tmx"
+        },
+        //声明
+        {
+            "Name": "Custom_SDS.statement1",
+            "FromMapFile": "Maps/CG/SDS.statement1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.statement2",
+            "FromMapFile": "Maps/CG/SDS.statement2.tmx"
+        },
+        {
+            "Name": "Custom_SDS.statement3",
+            "FromMapFile": "Maps/CG/SDS.statement3.tmx"
+        }
+    ],
+    "Changes": [
+        //依赖
+        //	{
+        //		"Action": "Include",
+        //		"FromFile": "assets/DependencyData/CJBCheats.json",
+        //		"When":
+        //		{
+        //				"HasMod |contains=CJBok.CheatsMenu": true,
+        //		}
+        //	},
+        {
+            "Action": "Include",
+            "FromFile": "assets/DependencyData/BundleDisposition.json"
+        },
+        //节日站位
+        {
+            "LogName": "NPC Festivals station",
+            "Action": "Include",
+            "FromFile": "assets/Festivals/station.json"
+        },
+        //节日对话
+        {
+            "LogName": "NPC Festivals Dialogue",
+            "Action": "Include",
+            "FromFile": "assets/Festivals/Dialogue.json"
+        },
+        //人物设定
+        {
+            "LogName": "NPC Manifestation1",
+            "Action": "Include",
+            "FromFile": "assets/Data/Disposition.json"
+        },
+        //人物喜好
+        {
+            "LogName": "NPC GiftTastes",
+            "Action": "Include",
+            "FromFile": "assets/Data/NPCGiftTastes.json"
+        },
+        //电影对话
+        {
+            "LogName": "NPC Movies",
+            "Action": "Include",
+            "FromFile": "assets/Data/Movies.json"
+        },
+        //地图描述
+        {
+            "LogName": "Map description",
+            "Action": "Include",
+            "FromFile": "assets/Data/Mapdescription.json"
+        },
+        //人物动作
+        {
+            "LogName": "NPCanimation",
+            "Action": "Include",
+            "FromFile": "assets/Data/NPCanimation.json"
+        },
+        //世界地图
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Map",
+            "FromFile": "assets/Maps/map_spring.png",
+            "Update": "OnLocationChange",
+            "PatchMode": "Replace"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Map_Summer",
+            "FromFile": "assets/Maps/map_Summer.png",
+            "Update": "OnLocationChange",
+            "PatchMode": "Replace"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Map_Fall",
+            "FromFile": "assets/Maps/map_Fall.png",
+            "Update": "OnLocationChange",
+            "PatchMode": "Replace"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Map_Winter",
+            "FromFile": "assets/Maps/map_Winter.png",
+            "Update": "OnLocationChange",
+            "PatchMode": "Replace"
+        },
+        //剧情信件
+        {
+            "LogName": "Eventsmail",
+            "Action": "Include",
+            "FromFile": "assets/Data/Eventsmail.json"
+        },
+        //剧情任务
+        {
+            "LogName": "Quests",
+            "Action": "Include",
+            "FromFile": "assets/Data/Quests.json"
+        },
+        //剧情行走图加载
+        {
+            "Action": "Load",
+            "Target": "Characters/Arvey_3",
+            "FromFile": "assets/Sprites/Arvey3.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Arvey_2",
+            "FromFile": "assets/Sprites/Arvey2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Arvey_1",
+            "FromFile": "assets/Sprites/Arvey.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Arvey_2",
+            "FromFile": "assets/Portraits/Arvey2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Arvey_1",
+            "FromFile": "assets/Portraits/Arvey.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/passer",
+            "FromFile": "assets/sprites/passer.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/passer2",
+            "FromFile": "assets/sprites/passer2.png"
+        },
+        //剧情加载
+        {
+            "Action": "Include",
+            "FromFile": "assets/ExtraData/Events_Load.json"
+        },
+        //人物立绘加载
+        {
+            "LogName": "NPC Portraits",
+            "Action": "Include",
+            "FromFile": "assets/Data/Portraits.json"
+        },
+        //人物行走图加载
+        {
+            "LogName": "NPC Sprites",
+            "Action": "Include",
+            "FromFile": "assets/Data/Sprites.json"
+        },
+        //人物对话加载
+        {
+            "LogName": "NPC Dialogue",
+            "Action": "Include",
+            "FromFile": "assets/Data/Dialogue.json"
+        },
+        {
+            "LogName": "NPC Marriage Dialogue",
+            "Action": "Include",
+            "FromFile": "assets/Data/MarriageDialogue.json"
+        },
+        //人物行程加载
+        {
+            "LogName": "NPC Schedules",
+            "Action": "Include",
+            "FromFile": "assets/Data/Schedules.json"
+        },
+        //伴侣房
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.SpouseRooms",
+            "FromFile": "Maps/SpouseRooms/{{TargetWithoutPath}}.tmx"
+        },
+        //伴侣房（户外）
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.SpousePatios",
+            "FromFile": "Maps/SpouseRooms/SDS.SpousePatios.tmx"
+        },
+        //贴图替换
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/Maps/Cursors_camper1.png",
+            "PatchMode": "Replace",
+            "ToArea": {
+                "X": 49,
+                "Y": 1423,
+                "Width": 95,
+                "Height": 29
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors",
+            "FromFile": "assets/Maps/Cursors_camper2.png",
+            "PatchMode": "Replace",
+            "ToArea": {
+                "X": 144,
+                "Y": 1381,
+                "Width": 109,
+                "Height": 71
+            }
+        },
+        //新增物品
+        //NPC用家具
+        {
+            "LogName": "NPC furniture",
+            "Action": "Include",
+            "FromFile": "assets/Data/NPCfurniture.json"
+        },
+        //新增物品
+        {
+            "LogName": "CookingRecipes",
+            "Action": "Include",
+            "FromFile": "assets/Items/CookingRecipes.json"
+        },
+        {
+            "LogName": "Objects",
+            "Action": "Include",
+            "FromFile": "assets/Items/Objects.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Crops.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/FruitTrees.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/BigCraftables.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Hats.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Pants.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Shirts.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/FishData.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Aquarium.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/FishPond.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Weapons.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Items/Furniture.json"
+        },
+        //商店
+        {
+            "LogName": "NPC Shop",
+            "Action": "Include",
+            "FromFile": "assets/Data/Shop.json"
+        },
+        //地图属性
+        {
+            "LogName": "MapWarps",
+            "Action": "Include",
+            "FromFile": "assets/Data/MapWarps.json"
+        },
+        //新增怪物
+        {
+            "LogName": "Monsters",
+            "Action": "Include",
+            "FromFile": "assets/Data/Monsters.json"
+        },
+        //图块加载
+        //室内家具
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture",
+            "FromFile": "Maps/TileSheets/SDSfurniture.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture2",
+            "FromFile": "Maps/TileSheets/SDSfurniture2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture3",
+            "FromFile": "Maps/TileSheets/SDSfurniture3.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSfurniture4",
+            "FromFile": "Maps/TileSheets/SDSfurniture4.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.church",
+            "FromFile": "Maps/TileSheets/SDS.church.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSSchoolfurniture",
+            "FromFile": "Maps/TileSheets/SDSSchoolfurniture.png"
+        },
+        //矿洞
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.cave",
+            "FromFile": "Maps/TileSheets/SDS.cave.png"
+        },
+        //整体室外
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_SDSmap",
+            "FromFile": "Maps/TileSheets/spring_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_SDSmap",
+            "FromFile": "Maps/TileSheets/summer_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_SDSmap",
+            "FromFile": "Maps/TileSheets/fall_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_SDSmap",
+            "FromFile": "Maps/TileSheets/winter_SDSmap.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Desert",
+            "FromFile": "Maps/TileSheets/SDS.Desert.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_SDS.City",
+            "FromFile": "Maps/TileSheets/spring_SDS.City.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/summer_SDS.City",
+            "FromFile": "Maps/TileSheets/spring_SDS.City.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/fall_SDS.City",
+            "FromFile": "Maps/TileSheets/spring_SDS.City.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/winter_SDS.City",
+            "FromFile": "Maps/TileSheets/winter_SDS.City.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.sea",
+            "FromFile": "Maps/TileSheets/SDS.sea.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.cliff.outdoorsTileSheet",
+            "FromFile": "Maps/TileSheets/SDS.cliff.outdoorsTileSheet.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSshadow",
+            "FromFile": "Maps/TileSheets/SDSshadow.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/spring_SDSindoor",
+            "FromFile": "Maps/TileSheets/spring_SDSindoor.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_SDSindoor",
+            "FromFile": "Maps/TileSheets/summer_SDSindoor.png",
+            "When": {
+                "Season": "summer"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_SDSindoor",
+            "FromFile": "Maps/TileSheets/fall_SDSindoor.png",
+            "When": {
+                "Season": "fall"
+            }
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Maps/spring_SDSindoor",
+            "FromFile": "Maps/TileSheets/winter_SDSindoor.png",
+            "When": {
+                "Season": "winter"
+            }
+        },
+        //背景动图
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.nigh_sky_1",
+            "FromFile": "Maps/TileSheets/SDS.nigh_sky_1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.seawave",
+            "FromFile": "Maps/TileSheets/SDS.seawave.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.nigh_sky2",
+            "FromFile": "Maps/TileSheets/SDS.nigh_sky2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSmeteor",
+            "FromFile": "Maps/TileSheets/SDSmeteor.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSstarrysky",
+            "FromFile": "Maps/TileSheets/SDSstarrysky.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.trends",
+            "FromFile": "Maps/TileSheets/SDS.trends.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.sky_1",
+            "FromFile": "Maps/TileSheets/SDS.sky_1.png"
+        },
+        //CG
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas4",
+            "FromFile": "Maps/CG/SDS.Lucas4.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas6",
+            "FromFile": "Maps/CG/SDS.Lucas6.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas9",
+            "FromFile": "Maps/CG/SDS.Lucas9.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas10",
+            "FromFile": "Maps/CG/SDS.Lucas10.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas14",
+            "FromFile": "Maps/CG/SDS.Lucas14.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria2",
+            "FromFile": "Maps/CG/SDS.Maria2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria4.1",
+            "FromFile": "Maps/CG/SDS.Maria4.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria4.2",
+            "FromFile": "Maps/CG/SDS.Maria4.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria6",
+            "FromFile": "Maps/CG/SDS.Maria6.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria8",
+            "FromFile": "Maps/CG/SDS.Maria8.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria10.1",
+            "FromFile": "Maps/CG/SDS.Maria10.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Maria10.2",
+            "FromFile": "Maps/CG/SDS.Maria10.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette10.1",
+            "FromFile": "Maps/CG/SDS.Pelette10.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette10.2",
+            "FromFile": "Maps/CG/SDS.Pelette10.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette3",
+            "FromFile": "Maps/CG/SDS.Pelette3.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Pelette14",
+            "FromFile": "Maps/CG/SDS.Pelette14.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Ruigla.1",
+            "FromFile": "Maps/CG/SDS.Ruigla.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Ruigla.2",
+            "FromFile": "Maps/CG/SDS.Ruigla.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Uriel8",
+            "FromFile": "Maps/CG/SDS.Uriel8.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Uriel14.1",
+            "FromFile": "Maps/CG/SDS.Uriel14.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Uriel14.2",
+            "FromFile": "Maps/CG/SDS.Uriel14.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lane1",
+            "FromFile": "Maps/CG/SDS.Lane1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lane6.1",
+            "FromFile": "Maps/CG/SDS.Lane6.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lane6.2",
+            "FromFile": "Maps/CG/SDS.Lane6.2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lane10",
+            "FromFile": "Maps/CG/SDS.Lane10.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Rane1",
+            "FromFile": "Maps/CG/SDS.Rane1.png"
+        },
+        //声明
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.statement1",
+            "FromFile": "Maps/CG/SDS.statement1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.statement2",
+            "FromFile": "Maps/CG/SDS.statement2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.statement3",
+            "FromFile": "Maps/CG/SDS.statement3.png"
+        }
+    ]
+}

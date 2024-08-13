@@ -1,0 +1,96 @@
+{
+    /* [Dialogue] Wendy */
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Wendy (Seen Event 19215130) Dialogue] Special
+    "Dialogue.Wendy.SeenEvent19215130.Introduction": "%她对陌生的你感到害怕，还是先不要太着急让她和你说话吧。",
+    "Dialogue.Wendy.SeenEvent19215130.spring_1_2": "新的一年...不敢相信我又活过了一年...$0#$b#这样美好的日子会持续到什么时候呢。$1",
+    "Dialogue.Wendy.SeenEvent19215130.spring_23": "......$1",
+    "Dialogue.Wendy.MovieInvitation": "谢谢你的邀请，我很期待。$1",
+    "Dialogue.Wendy.DumpsterDiveComment": "别碰！$2",
+    "Dialogue.Wendy.GreenRain": "有些害怕，但有大家陪着我…$2",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Wendy (Not Seen Event 19215130) Dialogue] Special
+    "Dialogue.Wendy.NotSeenEvent19215130.Introduction": "%她对陌生的你感到害怕，还是先不要太着急让她和你说话吧",
+    "Dialogue.Wendy.NotSeenEvent19215130.spring_1_2": "......$3",
+    "Dialogue.Wendy.NotSeenEvent19215130.spring_12": "......$0",
+    "Dialogue.Wendy.NotSeenEvent19215130.spring_23": "......$3",
+    "Dialogue.Wendy.NotSeenEvent19215130.summer_10": "......$3",
+    "Dialogue.Wendy.NotSeenEvent19215130.summer_27": "......$0",
+    "Dialogue.Wendy.NotSeenEvent19215130.fall_15": "......$3",
+    "Dialogue.Wendy.NotSeenEvent19215130.fall_26": "......$3",
+    "Dialogue.Wendy.NotSeenEvent19215130.winter_7": "......$0",
+    "Dialogue.Wendy.NotSeenEvent19215130.winter_24": "......$3",
+    "Dialogue.Wendy.NotSeenEvent19215130.spring_22": " ......$1",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Wendy Dialogue] Gift
+    "Dialogue.Wendy.AcceptBirthdayGift_Loved": "我很高兴...谢谢你先生。^我很高兴...谢谢你小姐。$1",
+    "Dialogue.Wendy.AcceptBirthdayGift_Liked": "谢谢你，谢谢...$1",
+    "Dialogue.Wendy.AcceptBirthdayGift_Neutral": "给...我？$0",
+    "Dialogue.Wendy.AcceptBirthdayGift_Disliked": "...$2",
+    "Dialogue.Wendy.AcceptBirthdayGift_Hated": "...$2",
+    "Dialogue.Wendy.AcceptGift_(O)StardropTea": "谢谢你，我很喜欢这份礼物。$1",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Wendy Dialogue] Resort
+    "Dialogue.Wendy.Resort": "这里很美…$1",
+    "Dialogue.Wendy.Resort_Bar": "格斯卖的饮品看起来很好喝，但我不能喝酒。$1",
+    "Dialogue.Wendy.Resort_Chair": "我想休息一会。$3",
+    "Dialogue.Wendy.Resort_Dance": "我不会跳舞…$3",
+    "Dialogue.Wendy.Resort_Entering": "你也来了。$1",
+    "Dialogue.Wendy.Resort_Leaving": "如果可以的话，我还想来…$1",
+    "Dialogue.Wendy.Resort_Shore": "我刚才看见了一只小螃蟹，它不见了。$3",
+    "Dialogue.Wendy.Resort_Towel": "刚刚有很漂亮的鸟飞了过去。$1",
+    "Dialogue.Wendy.Resort_Umbrella": "你好。$1",
+    "Dialogue.Wendy.Resort_Wander": "别担心，我不会乱跑，不会给大家添乱的。$3",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Wendy Dialogue] General/Spring
+    "Dialogue.Wendy.Mon": "......$3",
+    "Dialogue.Wendy.Mon2": "......$3",
+    "Dialogue.Wendy.Mon4": "你好……$3",
+    "Dialogue.Wendy.Mon6": "朋友这个词对以前的我来说遥不可及，但现在不一样了，我有很多的朋友了，先生。^朋友这个词对以前的我来说遥不可及，但现在不一样了，我有很多的朋友了，小姐你也是我的朋友。$1#$b#对吗？$1",
+    "Dialogue.Wendy.Mon8": "我对现在的生活其实挺满足的...我从未想过自己能够拥有这么多人的关心...$3#$b#你可以帮我谢谢艾伯特吗？他真的很照顾我...$1#$b#我不好意思和他说...$0",
+    "Dialogue.Wendy.Mon10": "你好先生，送给你。[613]^你好小姐，送给你。[613]#$b#没关系，我可以和艾伯特吃同一个苹果，艾伯特同意了。$1",
+    /*~*~*~*/
+    "Dialogue.Wendy.Tue": "......$3",
+    "Dialogue.Wendy.Tue2": "......$3",
+    "Dialogue.Wendy.Tue4": "嗯......$3",
+    "Dialogue.Wendy.Tue6": "你是个好人，神父告诉我和艾伯特不应该对你那么无礼。#$b#抱歉，请不要厌恶我和艾伯特。$1",
+    "Dialogue.Wendy.Tue8": "佩莱特先生人挺好的，就是容易生气。$1#$b#听他说他以前也经历过战争。$3",
+    "Dialogue.Wendy.Tue10": "潘妮小姐很有耐心，她会教我们读书写字。$0#$b#人很好。$1",
+    /*~*~*~*/
+    "Dialogue.Wendy.Wed": "......$0",
+    "Dialogue.Wendy.Wed2": "%孩子看了你一眼，转头就跑。",
+    "Dialogue.Wendy.Wed4": "……什么？",
+    "Dialogue.Wendy.Wed6": "先生...^小姐...$2#$b#%温蒂盯着你，不再言语。",
+    "Dialogue.Wendy.Wed8": "...#$b#%温蒂欲言又止，你鼓励他表达自己的想法#$b#我很喜欢你，先生。^我很喜欢你，小姐。$1",
+    "Dialogue.Wendy.Wed10": "给你的，先生。^给你的，小姐。[279]$1",
+    /*~*~*~*/
+    "Dialogue.Wendy.Thu": "......$2",
+    "Dialogue.Wendy.Thu2": "%温蒂看见你没有说话，只是默默地把头扭了过去。",
+    "Dialogue.Wendy.Thu4": "%温蒂默默地盯着你不说话，只是这次她似乎不打算跑开了。",
+    "Dialogue.Wendy.Thu6": "你好先生。^你好小姐。#$b#有什么事吗？$0#$b#或者你是来找艾伯特他们的？$1",
+    "Dialogue.Wendy.Thu8": "图书馆里有很多很多的书，但有些书的内容我看不懂...$3",
+    "Dialogue.Wendy.Thu10": "嗯...先生你的农场里都有些什么呢？^嗯...小姐你的农场里都有些什么呢？$0#$b#是不是有很多的作物，还有很多很多的小动物？$1",
+    /*~*~*~*/
+    "Dialogue.Wendy.Fri": "......$0",
+    "Dialogue.Wendy.Fri2": "%温蒂看了你一眼，没有说话。",
+    "Dialogue.Wendy.Fri4": "………$0",
+    "Dialogue.Wendy.Fri6": "我会主动打招呼很奇怪吗？$0#$b#因为我觉得先生是我的朋友。^因为我觉得小姐是我的朋友。$1",
+    "Dialogue.Wendy.Fri8": "比起其他人来说，我应该没什么特点吧...$0#$b#也不太会说话，神父他们总是安慰我。$3",
+    "Dialogue.Wendy.Fri10": "科菲和我说有什么想法要直白的表达出来，可是我觉得自己的想法没什么必要提出来。$3",
+    /*~*~*~*/
+    "Dialogue.Wendy.Sat": "......$0",
+    "Dialogue.Wendy.Sat2": "%温蒂看了你一会，随后移开了视线。",
+    "Dialogue.Wendy.Sat4": "%温蒂看着你，似乎想说些什么，不过最后也没开口。",
+    "Dialogue.Wendy.Sat6": "神父有时候也会给我们买一些小零食，我喜欢里面的小兔子饼干。$1",
+    "Dialogue.Wendy.Sat8": "知道吗，神父昨天还夸赞你了哦，他说先生人很好，还帮助了我们。^知道吗，神父昨天还夸赞你了哦，他说小姐人很好，还帮助了我们。$1",
+    "Dialogue.Wendy.Sat10": "其实，我很想吃冰激凌...$3#$b#但我一直不好意思说出来，最后总是艾伯特拉着我去买...$0#$b#为什么艾伯特总是能看出来我在想什么呢。$1",
+    /*~*~*~*/
+    "Dialogue.Wendy.Sun": "......$2",
+    "Dialogue.Wendy.Sun2": "%你看着温蒂，她看起来有些紧张。",
+    "Dialogue.Wendy.Sun4": "…………#$b#%温蒂看着你，没有说更多",
+    "Dialogue.Wendy.Sun6": "先生见过其他两个孩子了吗？^小姐见过其他两个孩子了吗？#$b#盖瑞特学习很厉害，科菲性格很开朗，对谁都笑呵呵的。$1",
+    "Dialogue.Wendy.Sun8": "先生觉得我怎么样呢？^小姐觉得我怎么样呢？$0#$b#艾伯特说我应该对自己有些自信...$1",
+    "Dialogue.Wendy.Sun10": "先生真厉害，感觉你什么都会做。^小姐真厉害，感觉你什么都会做。$1#$b#农场生活会不会很有意思？我也想去农场看看。$1"
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    /*-----------------------------------------------------------------------------------------------------------*/
+}

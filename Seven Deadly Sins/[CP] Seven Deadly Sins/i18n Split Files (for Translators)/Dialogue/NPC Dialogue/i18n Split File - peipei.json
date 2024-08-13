@@ -1,0 +1,98 @@
+{
+  /* [Dialogue] peipei */
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] Special
+  "Dialogue.peipei.joja_Begin": "嗷嗷！嗷？$1",
+  "Dialogue.peipei.movieTheater": "嗷嗷嗷！嗷嗷！$1",
+  "Dialogue.peipei.MovieInvitation": "嗷嗷！#$b#%呸呸看上去很开心。",
+  "Dialogue.peipei.DumpsterDiveComment": "%呸呸疑惑的看着你，似乎不理解你为什么这样做。",
+  "Dialogue.peipei.GreenRain": "%呸呸感到有些不适。#$b#嗷嗷……嗷？$2",
+  //"Dialogue.peipei.MovieInvitation": "嗷嗷~$1",
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] Gift
+  "Dialogue.peipei.AcceptBirthdayGift_Loved": "嗷嗷。$1",
+  "Dialogue.peipei.AcceptBirthdayGift_Liked": "嗷嗷。$1",
+  "Dialogue.peipei.AcceptBirthdayGift_Neutral": "嗷嗷。$0",
+  "Dialogue.peipei.AcceptBirthdayGift_Disliked": "嗷嗷。$2",
+  "Dialogue.peipei.AcceptBirthdayGift_Hated": "嗷嗷。$2",
+  "Dialogue.peipei.AcceptGift_(O)StardropTea": "嗷嗷。$1",
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] Resort
+  "Dialogue.peipei.Resort": "嗷嗷。$2",
+  "Dialogue.peipei.Resort_Bar": "嗷嗷。$2",
+  "Dialogue.peipei.Resort_Chair": "嗷嗷。$1",
+  "Dialogue.peipei.Resort_Dance": "嗷嗷。$0",
+  "Dialogue.peipei.Resort_Entering": "嗷嗷。$1",
+  "Dialogue.peipei.Resort_Leaving": "嗷嗷。$1",
+  "Dialogue.peipei.Resort_Shore": "嗷嗷。$1",
+  "Dialogue.peipei.Resort_Towel": "嗷嗷。$1",
+  "Dialogue.peipei.Resort_Umbrella": "嗷嗷。$4",
+  "Dialogue.peipei.Resort_Wander": "嗷嗷。$4",
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] Rejection
+  "Dialogue.peipei.refusal_knownA": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_knownB": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_botherA": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_botherB": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_no_heartsA": "嗷嗷。$2",
+  "Dialogue.peipei.refusal_no_heartsB": "嗷嗷。$2",
+  /*~*~*~*/
+  "Dialogue.peipei.rejectNPCA": "嗷嗷？$2",
+  "Dialogue.peipei.rejectNPCB": "嗷嗷。$2",
+  "Dialogue.peipei.reject_two_heartA": "嗷嗷。$2",
+  "Dialogue.peipei.reject_two_heartB": "嗷嗷。$2",
+  "Dialogue.peipei.reject_four_heartA": "嗷嗷。$2",
+  "Dialogue.peipei.reject_four_heartB": "嗷嗷。$2",
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  //[peipei Dialogue] General/Spring
+  "Dialogue.peipei.Mon": "嗷嗷，嗷呜。$0#$b#%呸呸正在翻垃圾桶。#$b#%它似乎翻到了什么。#$b#嗷嗷！！[194 195 196 197 198 199 200 201 202 203 204 206 207 208 209 210 211 212 213 214 220 221 227 228 230 231 233 232 234]$1",
+  "Dialogue.peipei.Mon2": "嗷，嗷嗷……$0#$b#%呸呸在你周围走来走去。",
+  "Dialogue.peipei.Mon4": "嗷嗷。$0#$b#%呸呸用头蹭了蹭你的手。",
+  "Dialogue.peipei.Mon6": "嗷，嗷嗷！！$1#$b#%呸呸给你带来了什么。#$b#嗷嗷……[224]$1",
+  "Dialogue.peipei.Mon8": "嗷呜呜……#$b#%呸呸似乎要睡觉了。",
+  "Dialogue.peipei.Mon10": "嗷……#$b#%呸呸正在舔毛，似乎没有注意你。",
+  /*~*~*~*/
+  "Dialogue.peipei.Tue": "嗷！$0#$b#呸呸正在晒太阳。",
+  "Dialogue.peipei.Tue2": "%你摸了摸呸呸的头。#$b#嗷嗷……嗷。$1#$b#%呸呸在你周围转圈。",
+  "Dialogue.peipei.Tue4": "%呸呸正在睡觉，它应该不想让人打扰。",
+  "Dialogue.peipei.Tue6": "%呸呸正在地上打滚。#$b#嗷嗷……!$1",
+  "Dialogue.peipei.Tue8": "嗷嗷，嗷呜！$1#$b#%呸呸用舌头舔了舔你的手。",
+  "Dialogue.peipei.Tue10": "%呸呸抖了抖身上的水。#$b#嗷呜！$1",
+  /*~*~*~*/
+  "Dialogue.peipei.Wed": "嗷嗷！$0#$b#%呸呸蹭了蹭你，它似乎很开心。",
+  "Dialogue.peipei.Wed2": "嗷呜……$0#$b#%呸呸正在啃竹子。",
+  "Dialogue.peipei.Wed4": "嗷嗷。$0#$b#%呸呸正在散步。",
+  "Dialogue.peipei.Wed6": "%呸呸正在河边舔河水喝。#$b#嗷嗷！$0",
+  "Dialogue.peipei.Wed8": "%呸呸正在树荫下乘凉。#$b#嗷呜……$0",
+  "Dialogue.peipei.Wed10": "%呸呸正在土里刨什么。#$b#嗷嗷！[546 547 548 549 550 551 552 553 554 555]$1#$b#%它将刨到的东西拱到你面前。",
+  /*~*~*~*/
+  "Dialogue.peipei.Thu": "%呸呸躺在草丛里晒太阳。#$b#嗷！嗷呜……$1",
+  "Dialogue.peipei.Thu2": "%呸呸正在翻垃圾桶。#$b#嗷嗷！[613 634 635 636 637 638]$1",
+  "Dialogue.peipei.Thu4": "%呸呸从佩莱特那里给你偷来了什么。#$b#嗷，嗷嗷！[224]$0#$b#%呸呸给你带来了意大利面。",
+  "Dialogue.peipei.Thu6": "嗷，嗷嗷嗷！嗷！$1#$b#%呸呸给你带来了什么。#$b#嗷嗷！[258 296 400 282 396 398 406 410 613 634 635 636 637 638]",
+  "Dialogue.peipei.Thu8": "%呸呸正在舔身上的毛。",
+  "Dialogue.peipei.Thu10": "嗷嗷，嗷！$1#$b#%呸呸在你的周围不停的叫。",
+  /*~*~*~*/
+  "Dialogue.peipei.Fri": "%呸呸撅了撅屁股，它似乎打算爬到树上。",
+  "Dialogue.peipei.Fri2": "嗷呜……嗷嗷[595]$1#$b#%呸呸给你叼来了花。",
+  "Dialogue.peipei.Fri4": "%呸呸蹭了蹭你的腿并舔了舔你的手。",
+  "Dialogue.peipei.Fri6": "%呸呸正在草地里打滚。#$b#嗷嗷!$3#$b#%它对着你抖了抖身上的土。",
+  "Dialogue.peipei.Fri8": "%呸呸正蹲在这里拉粑粑，还是当作没看见吧。",
+  "Dialogue.peipei.Fri10": "嗷嗷！嗷！$1#$b#%呸呸在地上滚来滚去。",
+  /*~*~*~*/
+  "Dialogue.peipei.Sat": "嗷嗷！嗷……[128 129 130 131 132 136 137]$1#$b#%呸呸给你叼来了一只鱼并对你抖了抖身上的水。",
+  "Dialogue.peipei.Sat2": "嗷嗷！$1#$b#%呸呸在你周围打转，似乎很想让你摸摸它。",
+  "Dialogue.peipei.Sat4": "%你摸了摸呸呸，它很开心的蹭了蹭你。#$b#嗷嗷……$1",
+  "Dialogue.peipei.Sat6": "%呸呸从卢卡斯那里给你偷来了什么。#$b#嗷嗷！嗷！[72]$3#$b#%是一颗钻石。",
+  "Dialogue.peipei.Sat8": "%呸呸正在翻垃圾桶。#$b#%它好像翻到了什么。#$b#嗷嗷！[114 299 301 302]$0",
+  "Dialogue.peipei.Sat10": "嗷呜，嗷……$1#$b#%呸呸很开心的在你周围转圈。",
+  /*~*~*~*/
+  "Dialogue.peipei.Sun": "嗷嗷！$1#$b#%呸呸舔了舔你的手。",
+  "Dialogue.peipei.Sun2": "%呸呸嗅了嗅你的身上，转身离开了。",
+  "Dialogue.peipei.Sun4": "%呸呸正在睡觉。#$b#嗷呜……$2。",
+  "Dialogue.peipei.Sun6": "嗷嗷嗷，嗷呜！$0#$b#%呸呸似乎很想你摸摸它。",
+  "Dialogue.peipei.Sun8": "嗷嗷……$0#$b#%呸呸正在刨土。",
+  "Dialogue.peipei.Sun10": "%呸呸正在草丛里快乐的奔跑，还是不要打扰他了。"
+  /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  /*-----------------------------------------------------------------------------------------------------------*/
+}

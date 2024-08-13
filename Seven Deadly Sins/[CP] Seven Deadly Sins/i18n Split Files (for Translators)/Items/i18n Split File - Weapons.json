@@ -1,0 +1,19 @@
+{
+    /* [Items] Weapons */
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    "SDS_Trident.DisplayName": "三叉戟",
+    "SDS_Trident.Description": "金光闪闪的三叉戟，在某些传说中是海神的武器，虽然不知道拿着这把武器能不能呼风唤雨，但是打架一定很痛...最好别对着人，除非对方是个坏蛋。",
+    "SDS_Bonechoppingknife.DisplayName": "斩骨刀",
+    "SDS_Bonechoppingknife.Description": "某些文学作品中的神器，斩骨刀一出，谁与争锋——当然不是，但拿上它会提升你的自信心，只是要小心自信过头。",
+    "SDS_Jadecutlass.DisplayName": "翡翠弯刀",
+    "SDS_Jadecutlass.Description": "一件带着异域风情的武器，翡翠色的刀身绝不脆弱，如果有人看不起它的杀伤力，它一定会好好告诉对方什么叫做再好看的武器也是武器。",
+    "SDS_Seasingingknife.DisplayName": "海鸣刀",
+    "SDS_Seasingingknife.Description": "蓝色的刀身上有着仿佛深海波纹般的暗纹，挥刀时的残影也像是一阵浪涛袭过，听见刀身嗡鸣的声音了吗？那是来自海潮的侵袭。",
+    "SDS_Iceaxe.DisplayName": "冰斧",
+    "SDS_Iceaxe.Description": "外形给人冷酷凛冽之感，锋锐斧刃足以令人望而生畏，对待敌人时也会如同寒冰一般寒凉——小心它袭来的冷意。",
+    "SDS_PeachSpiritSword.DisplayName": "桃灵剑",
+    "SDS_PeachSpiritSword.Description": "外表颇为无害，挥动间还能嗅到来自红梅的暗香，但请记住，随时都不要小瞧被握在手中的武器。",
+    "SDS_Metalfragmentsofunknownorigin.DisplayName": "来源不明的金属碎片",
+    "SDS_Metalfragmentsofunknownorigin.Description": "锋利尖锐的金属片，很难看出来自哪里，但似乎是从某个东西上分裂下来的，小心割伤。"
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+}

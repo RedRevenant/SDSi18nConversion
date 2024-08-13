@@ -1,0 +1,131 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/BigCraftables",
+            "Entries": {
+				//24k纯金兔子雕像
+                "SDS_Thegoldenrabbit": {
+                    "Name": "SDS_Thegoldenrabbit",
+                    "DisplayName":"{{i18n:SDS_Thegoldenrabbit.DisplayName}}",
+                    "Description":"{{i18n:SDS_Thegoldenrabbit.Description}}",
+                    "Price": 1,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/BigCraftables",
+                    "SpriteIndex": 0
+                },
+				//冰箱
+                "SDS_Icebox": {
+                    "Name": "SDS_Icebox",
+                    "DisplayName":"{{i18n:SDS_Icebox.DisplayName}}",
+                    "Description":"{{i18n:SDS_Icebox.Description}}",
+                    "Price": 600,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 0
+                },
+				//打磨机
+                "SDS_Sander": {
+                    "Name": "SDS_Sander",
+                    "DisplayName":"{{i18n:SDS_Sander.DisplayName}}",
+                    "Description":"{{i18n:SDS_Sander.Description}}",
+                    "Price": 200,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 8
+                },
+				//干花台
+                "SDS_Dryflowerplatform": {
+                    "Name": "SDS_Dryflowerplatform",
+                    "DisplayName":"{{i18n:SDS_Dryflowerplatform.DisplayName}}",
+                    "Description":"{{i18n:SDS_Dryflowerplatform.Description}}",
+                    "Price": 200,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 16
+                },
+				//搅拌机
+                "SDS_Agitator": {
+                    "Name": "SDS_Agitator",
+                    "DisplayName":"{{i18n:SDS_Agitator.DisplayName}}",
+                    "Description":"{{i18n:SDS_Agitator.Description}}",
+                    "Price": 500,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 24
+                },
+				//烤箱
+                "SDS_Coalscuttle": {
+                    "Name": "SDS_Coalscuttle",
+                    "DisplayName":"{{i18n:SDS_Coalscuttle.DisplayName}}",
+                    "Description":"{{i18n:SDS_Coalscuttle.Description}}",
+                    "Price": 500,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 32
+                },
+				//熔炉
+                "SDS_SmeltingFurnace": {
+                    "Name": "SDS_SmeltingFurnace",
+                    "DisplayName":"{{i18n:SDS_SmeltingFurnace.DisplayName}}",
+                    "Description":"{{i18n:SDS_SmeltingFurnace.Description}}",
+                    "Price": 500,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 40
+                },
+				//蒸馏器
+                "SDS_Distiller": {
+                    "Name": "SDS_Distiller",
+                    "DisplayName":"{{i18n:SDS_Distiller.DisplayName}}",
+                    "Description":"{{i18n:SDS_Distiller.Description}}",
+                    "Price": 700,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 48
+                },
+				//蒸笼
+                "SDS_Foodsteamer": {
+                    "Name": "SDS_Foodsteamer",
+                    "DisplayName":"{{i18n:SDS_Foodsteamer.DisplayName}}",
+                    "Description":"{{i18n:SDS_Foodsteamer.Description}}",
+                    "Price": 400,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 56
+                },
+				//煮锅
+                "SDS_Saucepan": {
+                    "Name": "SDS_Saucepan",
+                    "DisplayName":"{{i18n:SDS_Saucepan.DisplayName}}",
+                    "Description":"{{i18n:SDS_Saucepan.Description}}",
+                    "Price": 500,
+                    "CanBePlacedOutDoors": true,
+                    "CanBePlacedIndoors": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+                    "SpriteIndex": 64
+                }
+
+            }
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/ricehit.SevenDeadlySinsCP/BigCraftables",
+            "FromFile": "assets/Objects/BigCraftables.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Mods/ricehit.SevenDeadlySinsCP/Machines",
+            "FromFile": "assets/Objects/Machines.png"
+        }
+    ]
+}

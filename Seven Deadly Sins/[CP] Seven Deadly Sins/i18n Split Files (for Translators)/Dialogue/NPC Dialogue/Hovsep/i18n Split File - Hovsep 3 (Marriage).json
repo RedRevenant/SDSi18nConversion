@@ -1,0 +1,474 @@
+{
+      /* [Dialogue] Hovsep (Marriage) */
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Special
+      "Dialogue.Hovsep.Marriage.patio_Hovsep": "唔……$0#$b#%霍夫塞普在发呆。#$q 15300770/15300771 patio_Hovsep_H1old#……#$r 15300770 0 patio_Hovsep_15300770#回神了哦。#$r 15300771 0 patio_Hovsep_15300771#露出的表情有点傻呢。",
+      "Dialogue.Hovsep.Marriage.patio_Hovsep_15300770": "欸？啊，抱歉，有点走神……感觉自己好像处于幻觉一样，嘿嘿。$8",
+      "Dialogue.Hovsep.Marriage.patio_Hovsep_15300771": "有，有吗？！呜……要不去学习下面部表情管理好了……$3",
+      "Dialogue.Hovsep.Marriage.patio_Hovsep_H1old": "啊，抱歉，有点走神……感觉自己好像处于幻觉一样，嘿嘿。$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.funLeave_Hovsep": "唔，差不多到时候了呢……$0#$b#只是一些杂事而已。怎么样，要一起来吗？$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.funReturn_Hovsep": "唔，预定基本都搞定了……$0#$b#对了，我回来前看到了它，就想着带回家了，嗯...带回，家里。[22 90 128 129 130 131 132 136 138 143 148 152 150 156 161 166 201 231 232 233 242 281 344 393 394 397]$8#$b#%霍夫塞普轻轻重复了一遍家里，脸上泛起了一层红晕，他看起来很高兴。",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.spouseRoom_Hovsep": "房间里的装饰？唔，基本都是朋友送的呢。$0#$q 15300780/15300781 spouseRoom_Hovsep_H1old#……#$r 15300780 0 spouseRoom_Hovsep_15300780#人脉意外的广呢。#$r 15300781 0 spouseRoom_Hovsep_15300781#有好好表达感谢吗。",
+      "Dialogue.Hovsep.Marriage.spouseRoom_Hovsep_15300780": "不如说大家都很友好……？毕竟我也没怎么注意过社交这种事情……$87",
+      "Dialogue.Hovsep.Marriage.spouseRoom_Hovsep_15300781": "有哦！特意抽了个时间回去表达谢意的，毕竟这种事情，感觉亲自去会更好。$1",
+      "Dialogue.Hovsep.Marriage.spouseRoom_Hovsep_H1old": "我还特意抽了个时间回去表达谢意的，毕竟这种事情，感觉亲自去会更好。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.spring_Hovsep": "春天又来了呢！真好啊……$1#$b#%霍夫塞普捧住你的手，轻轻落下一吻。#$b#尤其是和@一起，没有比这更值得开心的事情了~$8#$q 15300940/15300941 spring_Hovsep_H1old#……#$r 15300940 0 spring_Hovsep_15300940#感觉你比以往要兴奋呢#$r 15300941 0 spring_Hovsep_15300941#虽然知道你很开心，但别忘了工作哦",
+      "Dialogue.Hovsep.Marriage.spring_Hovsep_15300940": "是、是这样吗？$4#$b#%霍夫塞普红着脸移开视线……有点可疑。#$b#只是能和@待在一起，很高兴而已啦……$11",
+      "Dialogue.Hovsep.Marriage.spring_Hovsep_15300941": "是、是这样呢……$1#$b#%霍夫塞普不好意思地揉揉头发。#$b#啊，农场的事情，我也会努力帮上@的！$4",
+      "Dialogue.Hovsep.Marriage.spring_Hovsep_H1old": "%霍夫塞普不好意思地揉揉头发。#$b#啊，农场的事情，我也会努力帮上@的！$4",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.summer_Hovsep": "夏天光是移动一小段路都想回水里泡泡呢……$3#$b#%霍夫塞普抱住你蹭了蹭。#$q 15300942/15300943 summer_Hovsep_H1old#……#$r 15300942 0 summer_Hovsep_15300942#这样不会更热吗#$r 15300943 0 summer_Hovsep_15300943#实在难受可以请假哦",
+      "Dialogue.Hovsep.Marriage.summer_Hovsep_15300942": "唔，是这样没错，但是因为很喜欢，所以还可以忍耐哦……$0#$b#%霍夫塞普的声音听起来带着几分倦意。",
+      "Dialogue.Hovsep.Marriage.summer_Hovsep_15300943": "其实还好哦？$1#$b#就是会更容易犯困，不想点和@一起的事情就有点很难清醒呢……$7",
+      "Dialogue.Hovsep.Marriage.summer_Hovsep_H1old": "其实还好哦？$1#$b#就是会更容易犯困，不想点和@一起的事情就有点很难清醒呢……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.fall_Hovsep": "这么快就过了半年？$0#$b#唔，果然在岸上，对时间的感官会更……快呢……$7#$q 15300944/15300945 fall_Hovsep_H1old#……#$r 15300944 0 fall_Hovsep_15300944#以前在海里呢#$r 15300945 0 fall_Hovsep_15300945#有什么这个季节想做的事情吗",
+      "Dialogue.Hovsep.Marriage.fall_Hovsep_15300944": "唔，以前的话，睡觉、被老师和塞壬叫醒、觅食、睡觉……说起来，是过了多久来着呢……$7",
+      "Dialogue.Hovsep.Marriage.fall_Hovsep_15300945": "限定是这个季节吗？$0#$b#那样的话……帮莱纳斯搜集过冬的资源吧？$1#$b#毕竟想和@待在一起好像是每个季节都会想的事情。$8",
+      "Dialogue.Hovsep.Marriage.fall_Hovsep_H1old": "唔，以前的话，睡觉、被老师和塞壬叫醒、觅食、睡觉……说起来，是过了多久来着呢……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.winter_Hovsep": "冬天了呢……真好，这下你也能多休息会儿了吧？$1#$b#%霍夫塞普握住你的手蹭了蹭。#$q 15300946/15300947 winter_Hovsep_H1old#……#$r 15300946 0 winter_Hovsep_15300946#就算不耕耘，也还有其他工作啦#$r 15300947 0 winter_Hovsep_15300947#看起来很高兴呢",
+      "Dialogue.Hovsep.Marriage.winter_Hovsep_15300946": "唔，但要比之前少吧？以后可以和你一起多呆一会儿吗？$8#$b#%霍夫塞普满脸期待地看着你。",
+      "Dialogue.Hovsep.Marriage.winter_Hovsep_15300947": "嘿嘿，毕竟这样你就可以空出一些时间了。$1#$b#既能看到你少一些辛苦，又可以多一些和你一起相处的时间……光是想想就忍不住笑出来了～$8",
+      "Dialogue.Hovsep.Marriage.winter_Hovsep_H1old": "嘿嘿，这样你就可以空出一些时间了。$1#$b#既能看到你少一些辛苦，又可以多一些和你一起相处的时间……光是想想就忍不住笑出来了～$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Day_Hovsep": "外面在下雨呢，出门要记得带雨具哦？$0#$q 15300948/15300949 Rainy_Day_Hovsep_H1old#……#$r 15300948 0 Rainy_Day_Hovsep_15300948#别担心，没什么大不了的#$r 15300949 0 Rainy_Day_Hovsep_15300949#那我想要你亲手做的",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_Hovsep_15300948": "唔，虽然确实是这样。$1#$b#但还是以防万一……我不想看见你生病难受的样子。$2",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_Hovsep_15300949": "哎？我、我来做吗！$4#$b#%霍夫塞普蓦地瞪大双眼，随即似乎陷入了某种认真的思考中。#$b#唔，那得先找材料和方法……$11#$b#总之，我知道了！我一定会尽快做好的！$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_Hovsep_H1old": "还是以防万一……我不想看见你生病难受的样子。$2",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_Hovsep": "你回来了！怎么样？觉不觉得冷？要不要喝点热的东西暖暖？$0#$b#%霍夫塞普一脸担忧地握住你的手。#$q 15300950/15300951 Rainy_Night_Hovsep_H1old#……#$r 15300950 0 Rainy_Night_Hovsep_15300950#没事，不用担心#$r 15300951 0 Rainy_Night_Hovsep_15300951#抱歉，让你担心了",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_Hovsep_15300950": "抱歉，虽然知道@很厉害，但是每到这种时候还是忍不住……$7#$b#%霍夫塞普看起来有点失落。",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_Hovsep_15300951": "@才不用道歉的，本来就是我太过担心的错……$9#$b##$b#霍夫塞普将你抱在怀里，看起来有点闷闷不乐。#$b#……身体好像有些凉呢，果然还是先去泡个澡比较好吧？$0",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_Hovsep_H1old": "抱歉，虽然知道@很厉害，但是每到这种时候还是忍不住……$7#$b#%霍夫塞普看起来有点失落。",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Day_Hovsep": "早，@，可以问问，你今天主要的工作是什么吗？$1#$q 15300952/15300953/15300954 Indoor_Day_Hovsep_H1old#……#$r 15300952 0 Indoor_Day_Hovsep_15300952#耕种#$r 15300953 0 Indoor_Day_Hovsep_15300953#挖矿#$r 15300954 0 Indoor_Day_Hovsep_15300954#钓鱼",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_Hovsep_15300952": "啊！那我可以帮忙呢！唔，应该，和种花的区别不大吧……？$7",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_Hovsep_15300953": "那就是要去矿洞那边……是不是带个看时间的工具会比较好？$9#$b#毕竟@之前就在矿洞累晕被搬回来过……$0#$b#%霍夫塞普有些担忧。",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_Hovsep_15300954": "这个，唔，虽然想帮忙，但果然还是自己钓上来会更开心，而且@的技艺也不需要额外的帮助……$7#$b#啊，不过需要我去扫荡一下的话可以找我哦？$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_Hovsep_H1old": "啊！那我可以帮忙呢！唔，应该。$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_Hovsep": "你回来了！$1#$b#%霍夫塞普惊喜地抱住你，并蹭了蹭。#$b#嘿嘿……果然还是这样，才更安心……$8#$q 15300955/15300956 Indoor_Night_Hovsep_H1old#……#$r 15300955 0 Indoor_Night_Hovsep_15300955#我还没洗澡哦#$r 15300956 0 Indoor_Night_Hovsep_15300956#（揉揉他的头）",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_Hovsep_15300955": "唔？我倒是觉得没什么……$7#$b#啊，那样的话，等会儿可以一起洗吗！$4",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_Hovsep_15300956": "？@？$0#$b#%霍夫塞普面上有些疑惑，但还是调整着姿势，以确保你的动作更省力。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_Hovsep_H1old": "%霍夫塞普面上有些疑惑，但还是调整着姿势，以确保你的动作更省力。",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Outdoor_Hovsep": "虽然有点习惯了，但每次像这样走在陆地上，就会觉得：果然和海底是两个世界啊，有这样的感觉呢。$7#$q 15300957/15300958 Outdoor_Hovsep_H1old#……#$r 15300957 0 Outdoor_Hovsep_15300957#不喜欢吗#$r 15300958 0 Outdoor_Hovsep_15300958#差别应该就是“变化”吧",
+      "Dialogue.Hovsep.Marriage.Outdoor_Hovsep_15300957": "？说不上喜欢和讨厌呢……$0#$b#只要能和@在一起，我觉得在哪里都没什么差别？$8",
+      "Dialogue.Hovsep.Marriage.Outdoor_Hovsep_15300958": "嘿嘿嘿，让我想到了刚上陆地那会儿。$1#$b#还会因为闭眼前是白天，睁眼后天就黑下来了而惊慌呢。$8#$b#%霍夫塞普不好意思地挠着脸颊。",
+      "Dialogue.Hovsep.Marriage.Outdoor_Hovsep_H1old": "？说不上喜欢和讨厌呢……$0#$b#只要能和@在一起，我觉得在哪里都没什么差别？$8",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Rainy
+      "Dialogue.Hovsep.Marriage.Rainy_Day_0": "外面似乎在下雨，你要出门吗？$2#$q 15300782/15300783 Rainy_Day_0_H1old#……#$r 15300782 0 Rainy_Day_0_15300782#毕竟还有工作要做。#$r 15300783 0 Rainy_Day_0_15300783#今天想休息一下。",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_0_15300782": "那，记得穿雨衣或者带伞哦？不然会生病的。$7",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_0_15300783": "要不要一起再睡一会儿？气温有点低呢，还是床上最暖和。$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_0_H1old": "出门记得穿雨衣或者带伞哦？不然会生病的。$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Day_1": "下雨的声音，真好呢。$8#$q 15300784/15300785 Rainy_Day_1_H1old#……#$r 15300784 0 Rainy_Day_1_15300784#毕竟你很喜欢雨声呢。#$r 15300785 0 Rainy_Day_1_15300785#不打算去散个步吗。",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_1_15300784": "要不要一起听一会儿？坏心情都会一扫而空哦。$1",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_1_15300785": "唔，不是很想动……如果你想去，那我就陪你一起去。$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_1_H1old": "要不要一起听一会儿？坏心情都会一扫而空哦。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Day_2": "在下雨吗……唔，总感觉困意又涌上来了啊……[614]$9#$q 15300786/15300787 Rainy_Day_2_H1old#……#$r 15300786 0 Rainy_Day_2_15300786#老毛病又犯了吗。#$r 15300787 0 Rainy_Day_2_15300787#（亲他一口）",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_2_15300786": "欸？！对，对不起，但是，但是我没有睡着哦？$3",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_2_15300787": "……！突，突然是怎么了？$11#$b#%霍夫塞普的脸变红了.",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_2_H1old": "但是，但是我没有睡着哦？$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Day_3": "雨天的气温都会比较低呢，记得早点回来哦？$0#$q 15300788/15300789 Rainy_Day_3_H1old#……#$r 15300788 0 Rainy_Day_3_15300788#知道了。#$r 15300789 0 Rainy_Day_3_15300789#记得想我哦。",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_3_15300788": "嗯，路上小心，毕竟雨天路滑呢。$0",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_3_15300789": "哎？！我，我知道了……$4#$b#%霍夫塞普的脸很红.#$b#工作加油……$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_3_H1old": "路上小心，毕竟雨天路滑呢。$0",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Day_4": "外面在下雨呢，今天要不就留在家里休息？$2#$q 15300790/15300791 Rainy_Day_4_H1old#……#$r 15300790 0 Rainy_Day_4_15300790#也行，就当放假了。#$r 15300791 0 Rainy_Day_4_15300791#算了，还有事情要做。",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_4_15300790": "太好了！$8#$b#%霍夫塞普抱了抱你.#$b#还以为你会拒绝呢，毕竟你以前一直都为了各种事四处跑，很少休息……$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_4_15300791": "……是吗，那路上小心，以及，注意不要着凉哦？$0",
+      "Dialogue.Hovsep.Marriage.Rainy_Day_4_H1old": "%霍夫塞普抱了抱你.#$b#还以为你会拒绝呢，毕竟你以前一直都为了各种事四处跑，很少休息……$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_0": "欢迎回来！今天的工作怎么样？有被下雨影响到吗？$8#$q 15300792/15300793 Rainy_Night_0_H1old#……#$r 15300792 0 Rainy_Night_0_15300792#没有。#$r 15300793 0 Rainy_Night_0_15300793#有，行动不太方便。",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_0_15300792": "那就好，喝点热饮怎么样？暖暖身子。$7",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_0_15300793": "是这样啊……辛苦了，先喝点甜的转换下心情怎么样？[220]$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_0_H1old": "辛苦了，先喝点甜的转换下心情怎么样？[220]$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_1": "今天去找老师聊了会儿，他看起来还是很精神呢。$1#$q 15300794/15300795 Rainy_Night_1_H1old#……#$r 15300794 0 Rainy_Night_1_15300794#你们都聊了什么。#$r 15300795 0 Rainy_Night_1_15300795#看起来你们聊的很愉快。",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_1_15300794": "唔，最近的生活状况，还有……啊，不，没，没了，就这些。$11#$b#%霍夫塞普眼神飘忽，耳尖隐隐泛红.",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_1_15300795": "嗯！他还问了你的事情，让我下次和你一起过去呢！$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_1_H1old": "他还问了你的事情，让我下次和你一起过去呢！$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_2": "嗯……果然还是多问问比较好吧。$9#$q 15300796/15300797 Rainy_Night_2_H1old#……#$r 15300796 0 Rainy_Night_2_15300796#在想什么呢。#$r 15300797 0 Rainy_Night_2_15300797#（抱住他）",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_2_15300796": "嗯？啊，在考虑要不要向艾芙琳奶奶多请教一些生活经验，毕竟这方面我始终不太懂……$0",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_2_15300797": "欸？！啊，欢迎回来！$8#$b#%霍夫塞普回抱住你.#$b#抱歉，刚才在想事情，没注意到你……$3",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_2_H1old": "啊，在考虑要不要向艾芙琳奶奶多请教一些生活经验，毕竟这方面我始终不太懂……$0",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_3": "欢迎回来。$8#$b#%霍夫塞普握住你的手。#$b#唔，手是不是有点凉？$9#$q 15300798/15300799 Rainy_Night_3_H1old#……#$r 15300798 0 Rainy_Night_3_15300798#没什么感觉。#$r 15300799 0 Rainy_Night_3_15300799#快冻僵了。",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_3_15300798": "嗯……以防万一，一起在壁炉边坐一会儿怎么样？虽然我不能靠太近……$8",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_3_15300799": "……辛苦你了。$1#$b#%霍夫塞普用双手将你的手盖住.#$b#先去壁炉边取暖吧？……如果我能多帮你分担些什么就好了……$37",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_3_H1old": "嗯……以防万一，一起在壁炉边坐一会儿怎么样？虽然我不能靠太近……$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_4": "你回来了！[232]$8#$b#%霍夫塞普轻轻抱住你。#$q 15300800/15300801 Rainy_Night_4_H1old#……#$r 15300800 0 Rainy_Night_4_15300800#又在撒娇了啊。#$r 15300801 0 Rainy_Night_4_15300801#（亲亲他）",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_4_15300800": "我很想你哦？白天的时候又不好打扰你，怕影响你工作……$3",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_4_15300801": "唔！$11#$b#%霍夫塞普的脸很红，他蓦地亲了下你的脸颊.#$b#是，是回礼！$11",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_4_H1old": "我很想你哦？白天的时候又不好打扰你，怕影响你工作……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Rainy_Night_5": "%霍夫塞普看起来有点恍惚。#$q 15300802/15300803 Rainy_Night_5_H1old#……#$r 15300802 0 Rainy_Night_5_15300802#你怎么了。#$r 15300803 0 Rainy_Night_5_15300803#发生什么了吗。",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_5_15300802": "欸？！啊，那，那个，没——唔……$3#$b#%霍夫塞普咬到了舌头.#$b#没，没什么……$3",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_5_15300803": "！没，没什么！只，只是和老师学了些新东西，还没缓过来……$8#$b#%霍夫塞普看起来很紧张.",
+      "Dialogue.Hovsep.Marriage.Rainy_Night_5_H1old": "！没，没什么！只，只是和老师学了些新东西，还没缓过来……$8#$b#%霍夫塞普看起来很紧张.",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Indoor
+      "Dialogue.Hovsep.Marriage.Indoor_Day_0": "那，那个……你，你的手……$4#$b#%霍夫塞普的脸很红，眼神飘忽。#$q 15300804/15300805 Indoor_Day_0_H1old#……#$r 15300804 0 Indoor_Day_0_15300804#手怎么了。#$r 15300805 0 Indoor_Day_0_15300805#是说昨晚的事吗。",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_0_15300804": "唔，就，就是昨晚那个……所，所以，现在，手会痛吗？$11",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_0_15300805": "哎？！是，嘶——$4#$b#%霍夫塞普咬到了舌头.#$b#……是的。$11#$b#%霍夫塞普的耳尖红透了.",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_0_H1old": "唔，就，就是昨晚那个……所，所以，现在，手会痛吗？$11",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Day_1": "...[233]#$b#%霍夫塞普在叹气。#$q 15300806/15300807 Indoor_Day_1_H1old#……#$r 15300806 0 Indoor_Day_1_15300806#发生什么了吗。#$r 15300807 0 Indoor_Day_1_15300807#你看起来很烦恼的样子。",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_1_15300806": "唔？不，没什么，只是有点小烦恼，没什么事，请不要担心。$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_1_15300807": "嗯……因为怕火，有很多菜谱都不能实践……有点挫败。$3",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_1_H1old": "嗯……因为怕火，有很多菜谱都不能实践……有点挫败。$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Day_2": "总是听艾芙琳奶奶说他们夫妻间的故事，没想到自己也有这一天啊……$8#$q 15300808/15300809 Indoor_Day_2_H1old#……#$r 15300808 0 Indoor_Day_2_15300808#奶奶都和你说了什么。#$r 15300809 0 Indoor_Day_2_15300809#现在是什么感觉。",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_2_15300808": "唔，是她和乔治先生年轻时的恋爱故事。如果你有兴趣，之后有空的时候，我就为你转述一下？$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_2_15300809": "很高兴！$8#$b#%霍夫塞普看起来很开心.#$b#真的很高兴，你愿意选择我这件事，那天的事情，现在还记忆犹新呢。$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_2_H1old": "说了什么？是她和乔治先生年轻时的恋爱故事。如果你有兴趣，之后有空的时候，我就为你转述一下？$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Day_3": "那，那个……昨晚，突然就哭了，抱歉……$11#$q 15300810/15300811 Indoor_Day_3_H1old#……#$r 15300810 0 Indoor_Day_3_15300810#这么在意吗。#$r 15300811 0 Indoor_Day_3_15300811#这么说来，为什么会哭呢。",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_3_15300810": "……说实话，现在想起来，还是很羞耻……$11#$b#%霍夫塞普的耳尖很红.",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_3_15300811": "欸？原，原因吗？！……太，太开心了……$11#$b#%霍夫塞普的声音越来越小，脸越来越红.",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_3_H1old": "……说实话，现在想起来，还是很羞耻……#$b#%霍夫塞普的耳尖很红.$11",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Day_4": "%霍夫塞普在思考什么的样子。#$q 15300812/15300813 Indoor_Day_4_H1old#……#$r 15300812 0 Indoor_Day_4_15300812#在想什么呢。#$r 15300813 0 Indoor_Day_4_15300813#难得在思考的样子呢。",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_4_15300812": "哎？只是在想好久没和塞壬聊天了，唔，之后有空要不要去找他聊聊呢……$0",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_4_15300813": "唔？有那么罕见吗？我还是有动脑的吧……应该……$7",
+      "Dialogue.Hovsep.Marriage.Indoor_Day_4_H1old": "只是在想好久没和塞壬聊天了，唔，之后有空要不要去找他聊聊呢……$0",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_0": "欢迎回来，今天过得怎么样？$8#$q 15300814/15300815 Indoor_Night_0_H1old#……#$r 15300814 0 Indoor_Night_0_15300814#是很充实的一天。#$r 15300815 0 Indoor_Night_0_15300815#一般般吧。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_0_15300814": "是吗，那太好了！#8#$b#%霍夫塞普轻轻抱住你.#$b#辛苦了，之后就好好休息吧？$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_0_15300815": "……辛苦你了。$8#$b#%霍夫塞普轻轻抱住你.#$b#等会儿一起去休息吧？毕竟劳累了一天，还是早点休息比较好。$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_0_H1old": "……辛苦你了。$8#$b#%霍夫塞普轻轻抱住你.#$b#等会儿一起去休息吧？毕竟劳累了一天，还是早点休息比较好。$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_1": "啊，欢迎回来！$8#$q 15300816/15300817 Indoor_Night_1_H1old#……#$r 15300816 0 Indoor_Night_1_15300816#怎么还不睡。#$r 15300817 0 Indoor_Night_1_15300817#我回来了。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_1_15300816": "因为想和你一起休息。啊，抱歉，让你觉得麻烦了吗？$3",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_1_15300817": "今天辛苦了！$0#$b#%霍夫塞普抱住你.#$b#等下一起休息吧？$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_1_H1old": "今天辛苦了！$0#$b#%霍夫塞普抱住你.#$b#等下一起休息吧？$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_2": "已经这么晚了啊……人类的一天过得还真快呢。$8#$q 15300818/15300819 Indoor_Night_2_H1old#……#$r 15300818 0 Indoor_Night_2_15300818#已经习惯这里的作息了呢。#$r 15300819 0 Indoor_Night_2_15300819#因为短暂，才能格外珍惜吧。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_2_15300818": "毕竟不适应的话，各种意义上都会很麻烦呢，也没办法和你一起正常生活了。$3",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_2_15300819": "……说的也是呢。那么，等会儿一起去休息吧？抱着你睡觉总是能更快入睡呢。$8",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_2_H1old": "不适应作息的话，各种意义上都会很麻烦呢，也没办法和你一起正常生活了。$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_3": "唔……#$b#%霍夫塞普神色很严肃。#$q 15300820/15300821 Indoor_Night_3_H1old#……#$r 15300820 0 Indoor_Night_3_15300820#遇到什么困难了吗。#$r 15300821 0 Indoor_Night_3_15300821#怎么这么严肃的表情。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_3_15300820": "欸？困难啊……确实也能说是困难吧，我在想要不要努力试试克服怕火来着……$7",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_3_15300821": "啊！抱歉，吓到你了吗？$0#$b#%霍夫塞普看起来很懊恼.#$b#抱歉，我只是在思考，怎样才能克服怕火，可能不知不觉就上头了……$3",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_3_H1old": "啊！抱歉，吓到你了吗？$0#$b#%霍夫塞普看起来很懊恼.#$b#抱歉，我只是在思考，怎样才能克服怕火，可能不知不觉就上头了……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_4": "听说夜晚等人回来的时候，开着的灯可以给人安心感，要不要试一试呢……$8#$q 15300822/15300823 Indoor_Night_4_H1old#……#$r 15300822 0 Indoor_Night_4_15300822#又是从小说里看来的吧。#$r 15300823 0 Indoor_Night_4_15300823#感觉会很浪费电。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_4_15300822": "欸？是这样没错……这么明显吗？$0",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_4_15300823": "……说的也是呢，果然还是算了吧……$7#$b#%霍夫塞普看起来有点失落.",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_4_H1old": "……但感觉会很浪费电，还是算了吧……$7#$b#%霍夫塞普看起来有点失落.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Indoor_Night_5": "你回来啦！$8#$b#%霍夫塞普一把抱住你。#$q 15300824/15300825 Indoor_Night_5_H1old#……#$r 15300824 0 Indoor_Night_5_15300824#又在等我吗。#$r 15300825 0 Indoor_Night_5_15300825#别总是撒娇啊。",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_5_15300824": "毕竟，你不在的话，总觉得没办法睡着……$8#$b#%霍夫塞普的脸有点红.",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_5_15300825": "唔，这算是撒娇吗……啊，抱歉，让你觉得麻烦了吗？$7#$b#%霍夫塞普看起来很失落.",
+      "Dialogue.Hovsep.Marriage.Indoor_Night_5_H1old": "你不在的话，总觉得没办法睡着……$8#$b#%霍夫塞普的脸有点红.",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Outdoor
+      "Dialogue.Hovsep.Marriage.Outdoor_0": "天气这么好，要不要一起出去走走？$8#$q 15300826/15300827 Outdoor_0_H1old#……#$r 15300826 0 Outdoor_0_15300826#你打算去哪。#$r 15300827 0 Outdoor_0_15300827#我还有工作要忙呢。",
+      "Dialogue.Hovsep.Marriage.Outdoor_0_15300826": "唔，说实话还没什么想法……不如就随便走走？就当做散心啦。$8",
+      "Dialogue.Hovsep.Marriage.Outdoor_0_15300827": "说的也是呢……那，等你忙完工作后，可以吗？$7",
+      "Dialogue.Hovsep.Marriage.Outdoor_0_H1old": "那，等你忙完工作后，可以吗？$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Outdoor_1": "虽然工作很多，但疲惫的时候最好休息一会儿哦？$0#$q 15300828/15300829 Outdoor_1_H1old#……#$r 15300828 0 Outdoor_1_15300828#如果工作完不成呢。#$r 15300829 0 Outdoor_1_15300829#知道啦，别操心太多了。",
+      "Dialogue.Hovsep.Marriage.Outdoor_1_15300828": "唔，可以找我帮忙？虽然我不确定能帮上多少……$3",
+      "Dialogue.Hovsep.Marriage.Outdoor_1_15300829": "真的是这样就好了……记得早点回家哦？$8",
+      "Dialogue.Hovsep.Marriage.Outdoor_1_H1old": "可以找我帮忙？虽然我不确定能帮上多少……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Outdoor_2": "%霍夫塞普在叹气。#$q 15300830/15300831 Outdoor_2_H1old#……#$r 15300830 0 Outdoor_2_15300830#有什么烦心事吗。#$r 15300831 0 Outdoor_2_15300831#难得见你这么发愁的样子。",
+      "Dialogue.Hovsep.Marriage.Outdoor_2_15300830": "欸？倒也不是，只是有点怀念Rane卖的蛋糕，好久没吃了啊……$7",
+      "Dialogue.Hovsep.Marriage.Outdoor_2_15300831": "唔？只是甜食瘾犯了，过一会儿就好了，请别担心。$1",
+      "Dialogue.Hovsep.Marriage.Outdoor_2_H1old": "唔？只是甜食瘾犯了，过一会儿就好了，请别担心。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Outdoor_3": "得找时间去谢谢塞壬呢……$0#$q 15300832/15300833 Outdoor_3_H1old#……#$r 15300832 0 Outdoor_3_15300832#这次又是为了什么。#$r 15300833 0 Outdoor_3_15300833#那顺便也帮我问声好吧。",
+      "Dialogue.Hovsep.Marriage.Outdoor_3_15300832": "唔？房间里的那堆装饰品就是塞壬送的啦，所以得好好感谢才行，何况一直以来都被关照着……$7#$b#%霍夫塞普看起来有点不好意思.",
+      "Dialogue.Hovsep.Marriage.Outdoor_3_15300833": "嗯！我知道了！不知道塞壬这次会不会拿小蛋糕来招待……$1",
+      "Dialogue.Hovsep.Marriage.Outdoor_3_H1old": "房间里的那堆装饰品就是塞壬送的啦，所以得好好感谢才行，何况一直以来都被关照着……$7#$b#%霍夫塞普看起来有点不好意思.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Outdoor_4": "唔？怎么突然来找我，莫非是……工作已经完成了吗？$8#$q 15300834/15300835 Outdoor_4_H1old#……#$r 15300834 0 Outdoor_4_15300834#是这样没错。#$r 15300835 0 Outdoor_4_15300835#不是，只是想先看看你。",
+      "Dialogue.Hovsep.Marriage.Outdoor_4_15300834": "！那，现在能不能和我一起四处逛逛？$1#$b#%霍夫塞普看起来很期待.",
+      "Dialogue.Hovsep.Marriage.Outdoor_4_15300835": "欸？是，是这样啊……$8#$b#%霍夫塞普的脸有点红.",
+      "Dialogue.Hovsep.Marriage.Outdoor_4_H1old": "！那，现在能不能和我一起四处逛逛？$1#$b#%霍夫塞普看起来很期待.",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Kids
+      "Dialogue.Hovsep.Marriage.OneKid_0": "%霍夫塞普在发呆。#$q 15300836/15300837 OneKid_0_H1old#……#$r 15300836 0 OneKid_0_15300836#怎么了。#$r 15300837 0 OneKid_0_15300837#都要当父亲了，可不能这样子哦。",
+      "Dialogue.Hovsep.Marriage.OneKid_0_15300836": "……欸？不好意思！我刚才在走神，有点担心自己能不能成为一个好父亲……$3",
+      "Dialogue.Hovsep.Marriage.OneKid_0_15300837": "啊，抱歉！$0#$b#%霍夫塞普似乎很慌张.#$b#也是呢，我会改正的！$1",
+      "Dialogue.Hovsep.Marriage.OneKid_0_H1old": "……欸？不好意思！我刚才在走神，有点担心自己能不能成为一个好父亲……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.OneKid_1": "小孩子真的是很不可思议的生物呢……长大以后又会变成什么样子呢？$1#$q 15300838/15300839 OneKid_1_H1old#……#$r 15300838 0 OneKid_1_15300838#现在担心这个，会不会太早了。#$r 15300839 0 OneKid_1_15300839#先考虑怎么把孩子好好养大吧。",
+      "Dialogue.Hovsep.Marriage.OneKid_1_15300838": "是吗？可是，感觉时间不知不觉中就会过的很快呢。$1",
+      "Dialogue.Hovsep.Marriage.OneKid_1_15300839": "确实，唔，要不要多找找这方面的书呢……$7",
+      "Dialogue.Hovsep.Marriage.OneKid_1_H1old": "感觉时间不知不觉中就会过的很快呢。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.OneKid_2": "小孩子，真的很有精力呢……$1#$q 15300840/15300841 OneKid_2_H1old#……#$r 15300840 0 OneKid_2_15300840#当父亲的感觉怎么样。#$r 15300841 0 OneKid_2_15300841#还能坚持下去吗。",
+      "Dialogue.Hovsep.Marriage.OneKid_2_15300840": "唔，很累，但是，也觉得很开心。$1#$b#%霍夫塞普一脸幸福的样子.",
+      "Dialogue.Hovsep.Marriage.OneKid_2_15300841": "嗯……可以哦？毕竟我是这孩子的父亲呢。$1",
+      "Dialogue.Hovsep.Marriage.OneKid_2_H1old": "唔，很累，但是，也觉得很开心。$1#$b#%霍夫塞普一脸幸福的样子.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.OneKid_3": "虽然不知道我能不能成为一个好父亲，但是我会努力的！$8#$q 15300842/15300843 OneKid_3_H1old#……#$r 15300842 0 OneKid_3_15300842#就是这股势头哦。#$r 15300843 0 OneKid_3_15300843#加油吧，“爸爸”。",
+      "Dialogue.Hovsep.Marriage.OneKid_3_15300842": "哎嘿嘿，这算是，被表扬了吗？$8#$b#%霍夫塞普有点不好意思的样子.",
+      "Dialogue.Hovsep.Marriage.OneKid_3_15300843": "欸？！唔，总感觉又被你调笑了……不过，是在为我声援吧，谢谢！$1",
+      "Dialogue.Hovsep.Marriage.OneKid_3_H1old": "%霍夫塞普有点不好意思的样子.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.OneKid_4": "养孩子有很多讲究呢，真的是甜蜜的烦恼啊……$1#$q 15300844/15300845 OneKid_4_H1old#……#$r 15300844 0 OneKid_4_15300844#加油啊。#$r 15300845 0 OneKid_4_15300845#就当做积累经验吧。",
+      "Dialogue.Hovsep.Marriage.OneKid_4_15300844": "我，我会努力的！唔，之后要不要多看些这方面的书呢……$7",
+      "Dialogue.Hovsep.Marriage.OneKid_4_15300845": "……说的也是呢，养下个孩子的时候，说不定会比现在顺利！$1",
+      "Dialogue.Hovsep.Marriage.OneKid_4_H1old": "我，我会努力的！唔，之后要不要多看些这方面的书呢……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.TwoKids_0": "虽然有了照顾孩子的经验……唔嗯……$0#$q 15300950/15300951 TwoKids_0_H1old#……#$r 15300950 0 TwoKids_0_15300950#作为父亲，可不能露出这种不像样的样子啊#$r 15300951 0 TwoKids_0_15300951#眼睛，睁开了哦",
+      "Dialogue.Hovsep.Marriage.TwoKids_0_15300950": "说、说的也是呢！我也得努力，成为可以让这孩子骄傲的父亲才行！$1",
+      "Dialogue.Hovsep.Marriage.TwoKids_0_15300951": "！抱、抱歉！一紧张就没控制住，唔，希望不会吓到孩子……$3",
+      "Dialogue.Hovsep.Marriage.TwoKids_0_H1old": "眼睛？！抱、抱歉！一紧张就没控制住，唔，希望不会吓到孩子……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.TwoKids_1": "没想到下个孩子来的这么快……$8#$q 15300846/15300847 TwoKids_1_H1old#……#$r 15300846 0 TwoKids_1_15300846#害怕吗。#$r 15300847 0 TwoKids_1_15300847#当父亲的这幅样子可不行哦。",
+      "Dialogue.Hovsep.Marriage.TwoKids_1_15300846": "有点……唔，但是，好歹都有经验了，不至于，不至于像之前那样手忙脚乱吧，嗯……$7",
+      "Dialogue.Hovsep.Marriage.TwoKids_1_15300847": "欸？说的也是呢。抱歉，一不注意就进入消极模式了……$3",
+      "Dialogue.Hovsep.Marriage.TwoKids_1_H1old": "……唔，但是，好歹都有经验了，不至于，不至于像之前那样手忙脚乱吧，嗯……$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.TwoKids_2": "我家孩子明明这么可爱……$3#$q 15300848/15300849 TwoKids_2_H1old#……#$r 15300848 0 TwoKids_2_15300848#怎么了。#$r 15300849 0 TwoKids_2_15300849#是孩子控的症状呢。",
+      "Dialogue.Hovsep.Marriage.TwoKids_2_15300848": "塞壬啦，塞壬！每次和他夸我家孩子的时候，总是一副忍受不了的样子……明明这么可爱啊。$7",
+      "Dialogue.Hovsep.Marriage.TwoKids_2_15300849": "孩子控？唔……是很喜欢自家孩子的意思吗？$1",
+      "Dialogue.Hovsep.Marriage.TwoKids_2_H1old": "孩子控？唔……是很喜欢自家孩子的意思吗？$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.TwoKids_3": "有照顾孩子的经验是真的轻松了些呢！$1#$q 15300850/15300851 TwoKids_3_H1old#……#$r 15300850 0 TwoKids_3_15300850#起码不像之前手忙脚乱了呢。#$r 15300851 0 TwoKids_3_15300851#已经变成优秀的奶爸了呢。",
+      "Dialogue.Hovsep.Marriage.TwoKids_3_15300850": "这倒确实呢，唔，起码，能够简单的理解孩子想要什么了。$7",
+      "Dialogue.Hovsep.Marriage.TwoKids_3_15300851": "“优秀”？有吗，我倒觉得我还要学习的还有很多呢……$1#$b#%霍夫塞普看起来很不好意思.",
+      "Dialogue.Hovsep.Marriage.TwoKids_3_H1old": "这倒确实呢，唔，起码，能够简单的理解孩子想要什么了。$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.TwoKids_4": "每次照顾孩子的时候，都忍不住会想象他们未来的模样呢……$8#$q 15300852/15300853 TwoKids_4_H1old#……#$r 15300852 0 TwoKids_4_15300852#这也算是为人父母的特殊经历吧。#$r 15300853 0 TwoKids_4_15300853#很期待吗。",
+      "Dialogue.Hovsep.Marriage.TwoKids_4_15300852": "是这样吗？这么一说确实……$7",
+      "Dialogue.Hovsep.Marriage.TwoKids_4_15300853": "唔，期待，又不期待，毕竟，我想要陪你的时间再久一点。$8",
+      "Dialogue.Hovsep.Marriage.TwoKids_4_H1old": "期待，又不期待，毕竟，我想要陪你的时间再久一点。$8",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Good
+      "Dialogue.Hovsep.Marriage.Good_0": "之前在花摊那边看到很漂亮的花！下次一起去看看，怎么样？$8#$q 15300854/15300855 Good_0_H1old#……#$r 15300854 0 Good_0_15300854#你真的很喜欢去那边呢。#$r 15300855 0 Good_0_15300855#可以哦。",
+      "Dialogue.Hovsep.Marriage.Good_0_15300854": "毕竟那边有很多漂亮的花呢！真想和你一起看！$8",
+      "Dialogue.Hovsep.Marriage.Good_0_15300855": "！太好了！之后有空的话，可以来找我哦！$1",
+      "Dialogue.Hovsep.Marriage.Good_0_H1old": "那边有很多漂亮的花呢！真想和你一起看！$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_1": "最近被莫里斯先生批评工作态度很消极呢……$2#$q 15300856/15300857 Good_1_H1old#……#$r 15300856 0 Good_1_15300856#（摸摸他的头）#$r 15300857 0 Good_1_15300857#态度消极的原因呢。",
+      "Dialogue.Hovsep.Marriage.Good_1_15300856": "哎嘿嘿……谢谢你，特意安慰我。$8",
+      "Dialogue.Hovsep.Marriage.Good_1_15300857": "……呜，对不起，因为工作中开小差，想着下班后去见你了……$3",
+      "Dialogue.Hovsep.Marriage.Good_1_H1old": "……呜，对不起，因为工作中开小差，想着下班后去见你了……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_2": "我最近找水母老师的频率变高了？唔，有，有吗？$4#$q 15300858/15300859 Good_2_H1old#……#$r 15300858 0 Good_2_15300858#老实交代哦。#$r 15300859 0 Good_2_15300859#你看起来很紧张。",
+      "Dialogue.Hovsep.Marriage.Good_2_15300858": "……对不起，我只是，和水母老师商量，怎么给你一个惊喜比较好……$3",
+      "Dialogue.Hovsep.Marriage.Good_2_15300859": "呜……果然瞒不过呢，抱歉，我只是，想给你一个惊喜，但是不知道该怎么做……$2",
+      "Dialogue.Hovsep.Marriage.Good_2_H1old": "……对不起，我只是，和水母老师商量，怎么给你一个惊喜比较好……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_3": "唔，听说人类的伴侣之间都会有一次蜜月旅行，我们之后也试一试，怎么样？$8#$q 15300860/15300861 Good_3_H1old#……#$r 15300860 0 Good_3_15300860#农场的事情不能丢下吧。#$r 15300861 0 Good_3_15300861#等有空再说吧。",
+      "Dialogue.Hovsep.Marriage.Good_3_15300860": "唔，说的也是呢……那，要不等冬天？$1",
+      "Dialogue.Hovsep.Marriage.Good_3_15300861": "！你同意了吗！嘿嘿嘿，那之后有空的时候就一起去吧！$8",
+      "Dialogue.Hovsep.Marriage.Good_3_H1old": "！你同意了吗！嘿嘿嘿，那之后有空的时候就一起去吧！$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_4": "卢卡斯先生好像很喜欢喝酒呢……$0#$q 15300862/15300863 Good_4_H1old#……#$r 15300862 0 Good_4_15300862#你要试一试吗。#$r 15300863 0 Good_4_15300863#不要学他哦。",
+      "Dialogue.Hovsep.Marriage.Good_4_15300862": "唔？可，可是，我没怎么喝过，不确定自己的酒量怎么样……如果喝醉了就不好了！$0",
+      "Dialogue.Hovsep.Marriage.Good_4_15300863": "欸？嗯，我知道了……不过果然还是有点好奇，酒是什么味道呢……$7",
+      "Dialogue.Hovsep.Marriage.Good_4_H1old": "不过果然还是有点好奇，酒是什么味道呢……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_5": "听说人类的料理里还有加入酒精的料理哎！$1#$q 15300864/15300865 Good_5_H1old#……#$r 15300864 0 Good_5_15300864#你又不能做。#$r 15300865 0 Good_5_15300865#想试一试吗。",
+      "Dialogue.Hovsep.Marriage.Good_5_15300864": "……好像，确实是这样，呜……$3",
+      "Dialogue.Hovsep.Marriage.Good_5_15300865": "想！啊，不过，我好像不能靠近火源……呜。$3",
+      "Dialogue.Hovsep.Marriage.Good_5_H1old": "啊，不过，我好像不能靠近火源……呜。$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_6": "鸟类里有一种叫“鸳鸯”的鸟类，好像总是成双成对在一起呢。$0#$q 15300866/15300867 Good_6_H1old#……#$r 15300866 0 Good_6_15300866#不会觉得讨厌吗。#$r 15300867 0 Good_6_15300867#你很喜欢吗。",
+      "Dialogue.Hovsep.Marriage.Good_6_15300866": "唔？还好吧，只是看图片的话也没什么事啦，而且我吃它的概率比较大呢。$1",
+      "Dialogue.Hovsep.Marriage.Good_6_15300867": "嗯！好像代表了很美好的东西呢，真好啊……$1",
+      "Dialogue.Hovsep.Marriage.Good_6_H1old": "好像代表了很美好的东西呢，真好啊……$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_7": "唔……怎么才能说服塞壬呢……$0#$q 15300868/15300869 Good_7_H1old#……#$r 15300868 0 Good_7_15300868#怎么突然提到塞壬。#$r 15300869 0 Good_7_15300869#又打算去麻烦人家啊。",
+      "Dialogue.Hovsep.Marriage.Good_7_15300868": "嘿嘿，其实，有点想让塞壬也试试最近听到的旧歌曲，但感觉他应该不会答应……$7",
+      "Dialogue.Hovsep.Marriage.Good_7_15300869": "……说，说的也是呢，果然这种想法，还是算了比较好吧。$7",
+      "Dialogue.Hovsep.Marriage.Good_7_H1old": "嘿嘿，其实，有点想让塞壬也试试最近听到的旧歌曲，但感觉他应该不会答应……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_8": "唔，不同国家对星星的解读都不一样呢……#$q 15300870/15300871 Good_8_H1old#……#$r 15300870 0 Good_8_15300870#海里也有这种东西吗。#$r 15300871 0 Good_8_15300871#对星座有兴趣吗。",
+      "Dialogue.Hovsep.Marriage.Good_8_15300870": "没有哦，而且也几乎没有亲眼见过，除了水母老师偶尔会讲一些关于星星的事情。$0",
+      "Dialogue.Hovsep.Marriage.Good_8_15300871": "只是一点点啦，而且，听说星座还可以拿来占卜！到底是怎么做到的呢……$0",
+      "Dialogue.Hovsep.Marriage.Good_8_H1old": "听说星座还可以拿来占卜！到底是怎么做到的呢……$0",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Good_9": "昨晚没哭……？唔，我，我也是会成长的哦？$11#$b#%霍夫塞普满脸通红。#$q 15300872/15300873 Good_9_H1old#……#$r 15300872 0 Good_9_15300872#但是眼睛红了哦。#$r 15300873 0 Good_9_15300873#但是你现在的脸很红哦。",
+      "Dialogue.Hovsep.Marriage.Good_9_15300872": "欸？！呜，被看到了啊……明明有很努力控制住的……$11",
+      "Dialogue.Hovsep.Marriage.Good_9_15300873": "唔，这，这不是很正常的事情吗？回忆起来的话，不好意思也很正常啦！$11",
+      "Dialogue.Hovsep.Marriage.Good_9_H1old": "脸很红吗？唔，这，这不是很正常的事情吗？回忆起来的话，不好意思也很正常啦！$11",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Neutral
+      "Dialogue.Hovsep.Marriage.Neutral_0": "我打算去找莱纳斯聊聊天，你要一起吗？$1#$q 15300874/15300875 Neutral_0_H1old#……#$r 15300874 0 Neutral_0_15300874#挺突然的呢。#$r 15300875 0 Neutral_0_15300875#为什么突然有这个想法。",
+      "Dialogue.Hovsep.Marriage.Neutral_0_15300874": "啊，抱歉，没有让你为难的意思……$3",
+      "Dialogue.Hovsep.Marriage.Neutral_0_15300875": "唔，只是想着最近，好像没怎么和他说话，作为朋友，这样是不是不太好，之类的。$7",
+      "Dialogue.Hovsep.Marriage.Neutral_0_H1old": "唔，只是想着最近，好像没怎么和他说话，作为朋友，这样是不是不太好，之类的。$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_1": "童话里的人鱼，似乎都很擅长唱歌呢……$0#$q 15300876/15300877 Neutral_1_H1old#……#$r 15300876 0 Neutral_1_15300876#塞壬也会吗。#$r 15300877 0 Neutral_1_15300877#你没听塞壬唱过吗。",
+      "Dialogue.Hovsep.Marriage.Neutral_1_15300876": "唔，说实话，没怎么关注过……下次去问问他好了！$1",
+      "Dialogue.Hovsep.Marriage.Neutral_1_15300877": "以前也没兴趣关注这些啦……不过现在真的，有点好奇呢。$1",
+      "Dialogue.Hovsep.Marriage.Neutral_1_H1old": "唔，说实话，没怎么关注过……下次去问问他好了！$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_2": "水母老师让我帮他多带些故事回去……但是要怎么做啦……$3#$q 15300878/15300879 Neutral_2_H1old#……#$r 15300878 0 Neutral_2_15300878#念给他听，怎么样。#$r 15300879 0 Neutral_2_15300879#找塞壬问一问如何。",
+      "Dialogue.Hovsep.Marriage.Neutral_2_15300878": "唔，好像也只能这么做呢……希望水母老师满意。$1",
+      "Dialogue.Hovsep.Marriage.Neutral_2_15300879": "啊，确实，说不定塞壬又会想出预料之外的办法呢！$1",
+      "Dialogue.Hovsep.Marriage.Neutral_2_H1old": "念给水母老师听吗？唔，好像也只能这么做呢……希望水母老师满意。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_3": "漂亮的蘑菇好像一般都有毒……真可惜啊……$2#$q 15300880/15300881 Neutral_3_H1old#……#$r 15300880 0 Neutral_3_15300880#还记得银杏果吗。#$r 15300881 0 Neutral_3_15300881#要是吃了，会被送去哈维医生那里哦。",
+      "Dialogue.Hovsep.Marriage.Neutral_3_15300880": "啊……对，对不起，总之，以后我吃东西的时候真的会注意啦！$3",
+      "Dialogue.Hovsep.Marriage.Neutral_3_15300881": "哈，哈维医生！唔，还是不要尝试好了……$3",
+      "Dialogue.Hovsep.Marriage.Neutral_3_H1old": "以后我吃东西的时候真的会注意啦！$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_4": "听说恋人和伴侣之间都比较流行送红玫瑰呢……你喜欢什么花呢？$8#$q 15300882/15300883 Neutral_4_H1old#……#$r 15300882 0 Neutral_4_15300882#居然不知道吗。#$r 15300883 0 Neutral_4_15300883#又打算送东西吗。",
+      "Dialogue.Hovsep.Marriage.Neutral_4_15300882": "欸？对，对不起？唔，是让我多观察观察你的意思吗？$8",
+      "Dialogue.Hovsep.Marriage.Neutral_4_15300883": "……啊，被，被看出来了吗？果然瞒不过啊……$7",
+      "Dialogue.Hovsep.Marriage.Neutral_4_H1old": "唔，是让我多观察观察你的意思吗？$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_5": "游戏……唔，可以了解更多人类的事情吗？$1#$q 15300884/15300885 Neutral_5_H1old#……#$r 15300884 0 Neutral_5_15300884#不准打游戏哦。#$r 15300885 0 Neutral_5_15300885#之后要一起试一试吗。",
+      "Dialogue.Hovsep.Marriage.Neutral_5_15300884": "欸？是担心我上瘾吗？唔，你这么说的话，那就不试了，反正也没什么兴趣。$1",
+      "Dialogue.Hovsep.Marriage.Neutral_5_15300885": "你也在打游戏吗？那就有尝试的价值……嗯！之后麻烦你了，毕竟我没玩过，可能会拖后腿……$7",
+      "Dialogue.Hovsep.Marriage.Neutral_5_H1old": "你也在打游戏吗？那就有尝试的价值……嗯！之后麻烦你了，毕竟我没玩过，可能会拖后腿……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_6": "捉迷藏，唔，果然还是跳绳？#$q 15300886/15300887 Neutral_6_H1old#……#$r 15300886 0 Neutral_6_15300886#怎么突然说起这些。#$r 15300887 0 Neutral_6_15300887#是要和其他人一起玩吗。",
+      "Dialogue.Hovsep.Marriage.Neutral_6_15300886": "嘿嘿，我想和贾斯与文森特打好关系啦，但是要这么做的话，果然还是得先学会这些游戏该怎么玩吧。$1",
+      "Dialogue.Hovsep.Marriage.Neutral_6_15300887": "是哦，毕竟想和那两个小孩子打好关系呢。唔，去找塞壬配合会不会比较好……$7",
+      "Dialogue.Hovsep.Marriage.Neutral_6_H1old": "嘿嘿，我想和贾斯与文森特打好关系啦，但是要这么做的话，果然还是得先学会这些游戏该怎么玩吧。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_7": "JOJA原来是那么了不起的企业吗……$0#$q 15300888/15300889 Neutral_7_H1old#……#$r 15300888 0 Neutral_7_15300888#你到现在才知道吗。#$r 15300889 0 Neutral_7_15300889#我倒不是很喜欢它的工作环境。",
+      "Dialogue.Hovsep.Marriage.Neutral_7_15300888": "毕竟，之前也没什么了解的需要嘛，只要能给工资就可以了……$1#$b#%霍夫塞普看起来有点不好意思.",
+      "Dialogue.Hovsep.Marriage.Neutral_7_15300889": "唔，是有什么不好的回忆吗？啊，抱歉，这个，不要问比较好吧……$7",
+      "Dialogue.Hovsep.Marriage.Neutral_7_H1old": "之前也没什么了解的需要嘛，只要能给工资就可以了……$1#$b#%霍夫塞普看起来有点不好意思.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_8": "听艾芙琳奶奶分享她年轻时候的故事，真的很有趣呢！$8#$q 15300890/15300891 Neutral_8_H1old#……#$r 15300890 0 Neutral_8_15300890#下次记得叫上我。#$r 15300891 0 Neutral_8_15300891#你很喜欢听故事呢。",
+      "Dialogue.Hovsep.Marriage.Neutral_8_15300890": "你也很感兴趣吗？那，下次找奶奶有空的时间去吧！$1",
+      "Dialogue.Hovsep.Marriage.Neutral_8_15300891": "毕竟水母老师之前也总是以叙事人的口吻讲故事呢……不如说，有点怀念吧？$7",
+      "Dialogue.Hovsep.Marriage.Neutral_8_H1old": "毕竟水母老师之前也总是以叙事人的口吻讲故事呢……不如说，有点怀念吧？$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Neutral_9": "唔，改天找时间回趟海底好了。$0#$q 15300892/15300893 Neutral_9_H1old#……#$r 15300892 0 Neutral_9_15300892#是要回去见朋友吗。#$r 15300893 0 Neutral_9_15300893#要去见水母老师吗。",
+      "Dialogue.Hovsep.Marriage.Neutral_9_15300892": "嗯，顺便也可以提醒下他们，尽量离海岸远点呢。$1",
+      "Dialogue.Hovsep.Marriage.Neutral_9_15300893": "唔，也算？啊，你要一起去吗？虽然交流上可能有点问题，但是没关系，我会好好担任起翻译的职责的！$8",
+      "Dialogue.Hovsep.Marriage.Neutral_9_H1old": "顺便也可以提醒下他们，尽量离海岸远点呢。$1",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Bad
+      "Dialogue.Hovsep.Marriage.Bad_0": "。唔，那个，完成工作之后能尽快回家吗？$2#$q 15300894/15300895 Bad_0_H1old#……#$r 15300894 0 Bad_0_15300894#怎么了。#$r 15300895 0 Bad_0_15300895#最近事情有点多。",
+      "Dialogue.Hovsep.Marriage.Bad_0_15300894": "……没什么，只是想早点看到你。$8",
+      "Dialogue.Hovsep.Marriage.Bad_0_15300895": "是这样啊，抱歉，提了任性的请求……$3",
+      "Dialogue.Hovsep.Marriage.Bad_0_H1old": "……没什么，只是想早点看到你。$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_1": "%霍夫塞普在发呆。#$q 15300896/15300897 Bad_1_H1old#……#$r 15300896 0 Bad_1_15300896#在想什么。#$r 15300897 0 Bad_1_15300897#你好像有心事。",
+      "Dialogue.Hovsep.Marriage.Bad_1_15300896": "欸？没，没什么，一点小事而已啦。$7",
+      "Dialogue.Hovsep.Marriage.Bad_1_15300897": "……抱歉，看起来很明显吗？请不用担心，不是什么重要的事啦……$7",
+      "Dialogue.Hovsep.Marriage.Bad_1_H1old": "没，没什么，一点小事而已啦。$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_2": "具体到底该怎么做呢……$0#$q 15300898/15300899 Bad_2_H1old#……#$r 15300898 0 Bad_2_15300898#你指什么。#$r 15300899 0 Bad_2_15300899#很烦恼的样子呢。",
+      "Dialogue.Hovsep.Marriage.Bad_2_15300898": "唔？！啊，没，没什么，是，类似于水母老师留的作业啦……$7",
+      "Dialogue.Hovsep.Marriage.Bad_2_15300899": "哎？啊！对，对不起，让你担心了吗？$0",
+      "Dialogue.Hovsep.Marriage.Bad_2_H1old": "唔？！啊，没，没什么，是，类似于水母老师留的作业啦……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_3": "%霍夫塞普在叹气。#$q 15300900/15300901 Bad_3_H1old#……#$r 15300900 0 Bad_3_15300900#发生什么了吗。#$r 15300901 0 Bad_3_15300901#在为什么发愁的样子呢。",
+      "Dialogue.Hovsep.Marriage.Bad_3_15300900": "唔？啊……什么事都没有哦？$1",
+      "Dialogue.Hovsep.Marriage.Bad_3_15300901": "看起来有那么明显吗……唔，只是感觉你在镇子上很受欢迎，有点，呜……抱歉，还请当我没说过这种话吧。$7",
+      "Dialogue.Hovsep.Marriage.Bad_3_H1old": "唔？啊……什么事都没有哦？$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_4": "那个，之后你有空的话，可以一起出去走走吗？$8#$q 15300902/15300903 Bad_4_H1old#……#$r 15300902 0 Bad_4_15300902#还有事要忙。#$r 15300903 0 Bad_4_15300903#可以是可以。",
+      "Dialogue.Hovsep.Marriage.Bad_4_15300902": "……果然呢。唔？没什么，抱歉，我好像有点太任性了。$6",
+      "Dialogue.Hovsep.Marriage.Bad_4_15300903": "真的吗？！嗯！那，之后有空的话就来找我吧，我一定会好好安排的！$1",
+      "Dialogue.Hovsep.Marriage.Bad_4_H1old": "唔？没什么，抱歉，我好像有点太任性了。$6",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_5": "%霍夫塞普一副闷闷不乐的样子。#$q 15300904/15300905 Bad_5_H1old#……#$r 15300904 0 Bad_5_15300904#发生什么了。#$r 15300905 0 Bad_5_15300905#遇到不顺心的事情了吗。",
+      "Dialogue.Hovsep.Marriage.Bad_5_15300904": "欸？……没什么啦，抱歉，让你替我担心了。$1",
+      "Dialogue.Hovsep.Marriage.Bad_5_15300905": "唔，也，也可以这么说？那，那个，你好像，经常给其他人送礼物？$7",
+      "Dialogue.Hovsep.Marriage.Bad_5_H1old": "……没什么啦，抱歉，让你替我担心了。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_6": "果然……海里……$0#$b#%霍夫塞普在嘟囔着什么。#$q 15300906/15300907 Bad_6_H1old#……#$r 15300906 0 Bad_6_15300906#在说什么。#$r 15300907 0 Bad_6_15300907#是在说海里的事情吗。",
+      "Dialogue.Hovsep.Marriage.Bad_6_15300906": "……！对，对不起，没什么的！唔，找我有什么事吗？$7#$b#%霍夫塞普有点慌张的样子.",
+      "Dialogue.Hovsep.Marriage.Bad_6_15300907": "欸？！嗯，嗯！差不多是那样子吧，啊哈哈……所以，找我有什么事吗？$7",
+      "Dialogue.Hovsep.Marriage.Bad_6_H1old": "……！对，对不起，没什么的！唔，找我有什么事吗？#$b#%霍夫塞普有点慌张的样子.$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_7": "%霍夫塞普看起来在思考什么。#$q 15300908/15300909 Bad_7_H1old#……#$r 15300908 0 Bad_7_15300908#在想什么。#$r 15300909 0 Bad_7_15300909#发生什么了。",
+      "Dialogue.Hovsep.Marriage.Bad_7_15300908": "嗯……没什么哦。比起这个，找我是有什么事情吗？能帮到你的话，还请尽管和我说。$1",
+      "Dialogue.Hovsep.Marriage.Bad_7_15300909": "欸？唔，被塞壬和水母老师教育了一顿，说让我认真想一想……$7#$b#%霍夫塞普叹了口气.",
+      "Dialogue.Hovsep.Marriage.Bad_7_H1old": "嗯……没什么哦。比起这个，找我是有什么事情吗？能帮到你的话，还请尽管和我说。$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_8": "%霍夫塞普在看一本花卉图鉴。#$q 15300910/15300911 Bad_8_H1old#……#$r 15300910 0 Bad_8_15300910#有看到喜欢的吗。#$r 15300911 0 Bad_8_15300911#（捂住他的眼睛）",
+      "Dialogue.Hovsep.Marriage.Bad_8_15300910": "……嗯！勿忘我，很漂亮呢！$8",
+      "Dialogue.Hovsep.Marriage.Bad_8_15300911": "……唔，手的感觉，是你吗？……呜。$8",
+      "Dialogue.Hovsep.Marriage.Bad_8_H1old": "勿忘我，很漂亮呢！$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.Bad_9": "%霍夫塞普在发呆。#$q 15300912/15300913 Bad_9_H1old#……#$r 15300912 0 Bad_9_15300912#怎么看起来这么惆怅。#$r 15300913 0 Bad_9_15300913#你发呆的时间好像变多了。",
+      "Dialogue.Hovsep.Marriage.Bad_9_15300912": "唔？有吗？啊，可能是想到海里的事情……抱歉，让你担心了。$1",
+      "Dialogue.Hovsep.Marriage.Bad_9_15300913": "……瞒不过你呢。抱歉，只是在想些事情而已，不用担心。$7",
+      "Dialogue.Hovsep.Marriage.Bad_9_H1old": "啊，可能是想到海里的事情……抱歉，让你担心了。$1",
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      //[Hovsep (Marriage) Dialogue] Holiday
+      "Dialogue.Hovsep.Marriage.spring_1": "新年快乐！要一起许愿吗？$8#$q 15300914/15300915 spring_1_H1old#……#$r 15300914 0 spring_1_15300914#有什么愿望吗。#$r 15300915 0 spring_1_15300915#还挺讲传统的嘛。",
+      "Dialogue.Hovsep.Marriage.spring_1_15300914": "有哦！但是听说，如果提前说出来，愿望会不灵的，所以等新年后再和你说，好吗？$8",
+      "Dialogue.Hovsep.Marriage.spring_1_15300915": "毕竟想要接下来的一年，也能够……啊，不行不行，差点把愿望说出来了……！$1",
+      "Dialogue.Hovsep.Marriage.spring_1_H1old": "接下来的一年，也能够……啊，不行不行，差点把愿望说出来了……！$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.spring_12": "复活节好像是庆祝新生命的节日？嗯……从寓意上来说，是很好的节日呢。$1#$q 15300916/15300917 spring_12_H1old#……#$r 15300916 0 spring_12_15300916#但你还是不打算参加，对吧。#$r 15300917 0 spring_12_15300917#不打算参加活动吗。",
+      "Dialogue.Hovsep.Marriage.spring_12_15300916": "……也不能这么说？如果你要参加的话，我也会去参观的。$8",
+      "Dialogue.Hovsep.Marriage.spring_12_15300917": "唔，太麻烦了，我还是想多看你一会儿。$8",
+      "Dialogue.Hovsep.Marriage.spring_12_H1old": "如果你要参加的话，我也会去参观的。$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.spring_23": "花舞节前一天 明天就是花舞节了……唔，你今年打算跳舞吗？$8#$q 15300918/15300919 spring_23_H1old#……#$r 15300918 0 spring_23_15300918#挺想试试的。#$r 15300919 0 spring_23_15300919#没什么兴趣。",
+      "Dialogue.Hovsep.Marriage.spring_23_15300918": "那，明天可以和我一起跳舞吗？啊，我保证不会拖后腿的！$8",
+      "Dialogue.Hovsep.Marriage.spring_23_15300919": "这样吗，那到时候可以一起四处走走？毕竟场地周边的景色也很棒呢。$1",
+      "Dialogue.Hovsep.Marriage.spring_23_H1old": "明天可以和我一起跳舞吗？啊，我保证不会拖后腿的！$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.summer_1": "又是夏天……呜，不想出门。$3#$q 15300920/15300921 summer_1_H1old#……#$r 15300920 0 summer_1_15300920#快醒醒，还有工作哦。#$r 15300921 0 summer_1_15300921#不出门不行，会发霉的哦。",
+      "Dialogue.Hovsep.Marriage.summer_1_15300920": "……是的呢，说的也是呢，呜……$3",
+      "Dialogue.Hovsep.Marriage.summer_1_15300921": "发，发霉……真的吗？！$0",
+      "Dialogue.Hovsep.Marriage.summer_1_H1old": "工作……是的呢，说的也是呢，呜……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.summer_10": "宴会？……啊，那位州长先生又来了啊。$0#$q 15300922/15300923 summer_10_H1old#……#$r 15300922 0 summer_10_15300922#嫌麻烦吗。#$r 15300923 0 summer_10_15300923#你也可以不去的。",
+      "Dialogue.Hovsep.Marriage.summer_10_15300922": "有点，不过州长先生不累吗？每年都要大老远跑过来一次什么的……$7",
+      "Dialogue.Hovsep.Marriage.summer_10_15300923": "唔，可是，我想和你待在一起。今年你也要去吗？$2",
+      "Dialogue.Hovsep.Marriage.summer_10_H1old": "州长先生不累吗？每年都要大老远跑过来一次什么的……$7",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.summer_28": "水母节，哎嘿嘿，真期待啊……$8#$q 15300924/15300925 summer_28_H1old#……#$r 15300924 0 summer_28_15300924#笑得这么傻，要不还是不去了吧。#$r 15300925 0 summer_28_15300925#很期待水母吗。",
+      "Dialogue.Hovsep.Marriage.summer_28_15300924": "哎哎哎！？抱歉，抱歉，我不笑了啦……$6#$b#%霍夫塞普看起来很慌张.",
+      "Dialogue.Hovsep.Marriage.summer_28_15300925": "唔，也有部分水母的原因。但是，能和你一起去，才是最值得开心的事情。$8",
+      "Dialogue.Hovsep.Marriage.summer_28_H1old": "能和你一起去，才是最值得开心的事情。$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.fall_1": "秋天的话，唔，又到了收获的季节啊……$0#$q 15300926/15300927 fall_1_H1old#……#$r 15300926 0 fall_1_15300926#今年秋天也打算来帮忙吗。#$r 15300927 0 fall_1_15300927#农场里的东西不能随便吃哦。",
+      "Dialogue.Hovsep.Marriage.fall_1_15300926": "哎嘿嘿，如果能帮上你的话，一定要来找我帮忙哦？$8",
+      "Dialogue.Hovsep.Marriage.fall_1_15300927": "不会吃的啦……！话说，为什么会觉得我会摘来吃啊……$7",
+      "Dialogue.Hovsep.Marriage.fall_1_H1old": "哎嘿嘿，如果能帮上你的话，一定要来找我帮忙哦？$8",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.fall_15": "你要参加展览会吗？要准备的东西好像还挺多的……$0#$q 15300928/15300929 fall_15_H1old#……#$r 15300928 0 fall_15_15300928#是有这个想法。#$r 15300929 0 fall_15_15300929#太麻烦了，不打算参加。",
+      "Dialogue.Hovsep.Marriage.fall_15_15300928": "那，搬东西的时候请叫上我，这样也可以减少来回跑的次数吧？$1",
+      "Dialogue.Hovsep.Marriage.fall_15_15300929": "这样吗，那明天可以空出点时间，和我一起逛逛吗？$8",
+      "Dialogue.Hovsep.Marriage.fall_15_H1old": "那，搬东西的时候请叫上我，这样也可以减少来回跑的次数吧？$1",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.fall_26": "迷宫，奖励……$0#$q 15300952/15300953 fall_26_H1old#……#$r 15300952 0 fall_26_15300952#为什么念叨这个#$r 15300953 0 fall_26_15300953#对迷宫感兴趣了吗",
+      "Dialogue.Hovsep.Marriage.fall_26_15300952": "嗯？只是，想试试能不能拿到迷宫的隐藏奖励……真的只是这样子哦？$7#$b#%霍夫塞普看起来有点慌乱",
+      "Dialogue.Hovsep.Marriage.fall_26_15300953": "唔，只是水母老师的建议……没、没什么哦，真的没什么哦？$0#$b#%霍夫塞普慌张的移开了视线",
+      "Dialogue.Hovsep.Marriage.fall_26_H1old": "嗯？只是，想试试能不能拿到迷宫的隐藏奖励……真的只是这样子哦？$7#$b#%霍夫塞普看起来有点慌乱",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.winter_1": "呜，冷的都不想出门了……干脆直接冬眠好了……$3#$q 15300930/15300931 winter_1_H1old#……#$r 15300930 0 winter_1_15300930#不行，你还有工作吧。#$r 15300931 0 winter_1_15300931#人类可没有冬眠现象哦。",
+      "Dialogue.Hovsep.Marriage.winter_1_15300930": "……对哦，还有工作，但是感觉会在工作的时候直接睡着，唔……$3",
+      "Dialogue.Hovsep.Marriage.winter_1_15300931": "呜，那干脆减少出门次数好了……气温太低的话，有时候可能真的忍不住……$7",
+      "Dialogue.Hovsep.Marriage.winter_1_H1old": "还有工作，但是感觉会在工作的时候直接睡着，唔……$3",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.winter_7": "冰雪节？啊……说起来，确实快到了呢。$0#$q 15300932/15300933 winter_7_H1old#……#$r 15300932 0 winter_7_15300932#你居然会对这个有印象。#$r 15300933 0 winter_7_15300933#你打算参加吗。",
+      "Dialogue.Hovsep.Marriage.winter_7_15300932": "唔，毕竟之前有听朋友们说过，而且你好像也会参加，所以就记了一点点……$8#$b#%霍夫塞普不好意思的笑着.",
+      "Dialogue.Hovsep.Marriage.winter_7_15300933": "哎？我、我吗，说实话光是在一边坐着，可能就会冷的想回家……所以，我大概不会参加吧，对不起……$7#$b#%霍夫塞普看起来有点沮丧.",
+      "Dialogue.Hovsep.Marriage.winter_7_H1old": "唔，之前有听朋友们说过，而且你好像也会参加，所以就记了一点点……$8#$b#%霍夫塞普不好意思的笑着.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.winter_23": "说到冬日星，果然就会想到送礼物吧？$1#$q 15300934/15300935 winter_23_H1old#……#$r 15300934 0 winter_23_15300934#决定好要放什么礼物了吗。#$r 15300935 0 winter_23_15300935#居然有印象啊。",
+      "Dialogue.Hovsep.Marriage.winter_23_15300934": "嗯！啊，不暂且要保密哦，抱歉……如果好奇的话，可以明天晚上和你说？$1",
+      "Dialogue.Hovsep.Marriage.winter_23_15300935": "哎嘿嘿，毕竟每年都很期待，今年的送礼对象如果是你就好了。$8#$b#%霍夫塞普有点难为情的样子.",
+      "Dialogue.Hovsep.Marriage.winter_23_H1old": "哎嘿嘿，每年都很期待，今年的送礼对象如果是你就好了。$8#$b#%霍夫塞普有点难为情的样子.",
+      /*~*~*~*/
+      "Dialogue.Hovsep.Marriage.winter_28": "冬天之后就是春天了吧……呼，终于可以暖和点了。$0#$q 15300936/15300937 winter_28_H1old#……#$r 15300936 0 winter_28_15300936#就这么讨厌冬天吗。#$r 15300937 0 winter_28_15300937#农场又要忙起来了呢。",
+      "Dialogue.Hovsep.Marriage.winter_28_15300936": "……倒也不能说是讨厌，毕竟是和你一起度过的冬天，只是相比起来，果然还是更喜欢春天！$7",
+      "Dialogue.Hovsep.Marriage.winter_28_15300937": "欸？啊！确实是这样……唔，我也会尽力帮忙多分担点工作的，忙不过来的时候一定要和我说哦？$1",
+      "Dialogue.Hovsep.Marriage.winter_28_H1old": "冬天……倒也不能说是讨厌，毕竟是和你一起度过的冬天，只是相比起来，果然还是更喜欢春天！$7"
+      /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+      /*-----------------------------------------------------------------------------------------------------------*/
+}
