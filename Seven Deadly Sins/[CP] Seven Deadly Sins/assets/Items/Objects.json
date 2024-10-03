@@ -94,6 +94,146 @@
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 103
                 },
+                //龙葵果
+                "SDS_Nightshadefruit": {
+                    "Name": "SDS_Nightshadefruit",
+                    "DisplayName": "{{i18n:SDS_Nightshadefruit.DisplayName}}",
+                    "Description": "{{i18n:SDS_Nightshadefruit.Description}}",
+                    "Type": "Basic",
+                    "Category": -79,
+                    "Price": 60,
+                    "Edibility": 10,
+                    "Buffs": [
+                        {
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 200,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 1.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 117
+                },
+                //幽灵花
+                "SDS_Ghostflower": {
+                    "Name": "SDS_Ghostflower",
+                    "DisplayName": "{{i18n:SDS_Ghostflower.DisplayName}}",
+                    "Description": "{{i18n:SDS_Ghostflower.Description}}",
+                    "Type": "Basic",
+                    "Category": -79,
+                    "Price": 150,
+                    "Edibility": 8,
+                    "Buffs": [
+                        {
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 200,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 3.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 118
+                },
+                //地果莓
+                "SDS_geoberry": {
+                    "Name": "SDS_geoberry",
+                    "DisplayName": "{{i18n:SDS_geoberry.DisplayName}}",
+                    "Description": "{{i18n:SDS_geoberry.Description}}",
+                    "Type": "Basic",
+                    "Category": -79,
+                    "Price": 80,
+                    "Edibility": 12,
+                    "Buffs": [
+                        {
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 300,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 2.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 119
+                },
+                //人参
+                "SDS_ginseng": {
+                    "Name": "SDS_ginseng",
+                    "DisplayName": "{{i18n:SDS_ginseng.DisplayName}}",
+                    "Description": "{{i18n:SDS_ginseng.Description}}",
+                    "Type": "Basic",
+                    "Category": -79,
+                    "Price": 500,
+                    "Edibility": 50,
+                    "Buffs": [
+                        {
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 80.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 0.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 120
+                },
                 //Lane商店的会员卡
                 "SDS_Membershipcard": {
                     "Name": "SDS_Membershipcard",
@@ -107,19 +247,30 @@
                     "SpriteIndex": 103
                 },
                 //未知凝体
-                /*
-                    SDS_Unknowncondensate": {
-                    "Name": "SDS_Unknowncondensate", 
-                    "DisplayName": "未知凝体",
-                    "Description": "击败怪物后得到的东西，触碰会感觉到凉意，不像气体也不是液体...它能做什么？它在哭泣吗？",
+                "SDS_Unknowncondensate": {
+                    "Name": "SDS_Unknowncondensate",
+                    "DisplayName": "{{i18n:SDS_Unknowncondensate.DisplayName}}",
+                    "Description": "{{i18n:SDS_Unknowncondensate.Description}}",
                     "Type": "objects",
                     "Category": -26,
                     "Price": 500,
-        			"Edibility": -300,
+                    "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 110
-                  }
-                */
+                },
+                //古老铜币
+                "SDS_Oldcoin": {
+                    "Name": "SDS_Oldcoin",
+                    "DisplayName": "{{i18n:SDS_Oldcoin.DisplayName}}",
+                    "Description": "{{i18n:SDS_Oldcoin.Description}}",
+                    "Type": "Basic",
+                    "Category": -26,
+                    "ExcludeFromFishingCollection": true,
+                    "ExcludeFromShippingCollection": true,
+                    "ExcludeFromRandomSale": true,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 160
+                },
                 //天堂券
                 "SDS_ParadiseTicket": {
                     "Name": "SDS_ParadiseTicket",
@@ -143,6 +294,990 @@
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 86
+                }
+            }
+        },
+        //果酱
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //彼岸花果酱
+                "SDS_HiganbanaJam": {
+                    "Name": "SDS_HiganbanaJam",
+                    "DisplayName": "{{i18n:SDS_HiganbanaJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_HiganbanaJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 720,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 121
+                },
+                //桂花果酱
+                "SDS_FragransJam": {
+                    "Name": "SDS_FragransJam",
+                    "DisplayName": "{{i18n:SDS_FragransJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_FragransJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 600,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 122
+                },
+                //曼陀罗果酱
+                "SDS_StramoniumJam": {
+                    "Name": "SDS_StramoniumJam",
+                    "DisplayName": "{{i18n:SDS_StramoniumJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_StramoniumJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 598,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 123
+                },
+                //玫瑰果酱
+                "SDS_RugosaroseJam": {
+                    "Name": "SDS_RugosaroseJam",
+                    "DisplayName": "{{i18n:SDS_RugosaroseJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_RugosaroseJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 680,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 124
+                },
+                //牡丹果酱
+                "SDS_TreepeonyJam": {
+                    "Name": "SDS_TreepeonyJam",
+                    "DisplayName": "{{i18n:SDS_TreepeonyJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_TreepeonyJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 770,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 125
+                },
+                //芍药果酱
+                "SDS_ChineseherbaceouspeonyJam": {
+                    "Name": "SDS_ChineseherbaceouspeonyJam",
+                    "DisplayName": "{{i18n:SDS_ChineseherbaceouspeonyJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_ChineseherbaceouspeonyJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 592,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 126
+                },
+                //薰衣草果酱
+                "SDS_lavenderJam": {
+                    "Name": "SDS_lavenderJam",
+                    "DisplayName": "{{i18n:SDS_lavenderJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_lavenderJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 690,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 127
+                },
+                //夜来香果酱
+                "SDS_NightwillowherbJam": {
+                    "Name": "SDS_NightwillowherbJam",
+                    "DisplayName": "{{i18n:SDS_NightwillowherbJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_NightwillowherbJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 643,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 128
+                },
+                //山竹果酱
+                "SDS_MangosteenJam": {
+                    "Name": "SDS_MangosteenJam",
+                    "DisplayName": "{{i18n:SDS_MangosteenJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_MangosteenJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 488,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 129
+                },
+                //奶油草莓果酱
+                "SDS_CreamstrawberryJam": {
+                    "Name": "SDS_CreamstrawberryJam",
+                    "DisplayName": "{{i18n:SDS_CreamstrawberryJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_CreamstrawberryJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 610,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 130
+                },
+                //蓝闪蝶酱
+                "SDS_BlueflashbutterflyJam": {
+                    "Name": "SDS_BlueflashbutterflyJam",
+                    "DisplayName": "{{i18n:SDS_BlueflashbutterflyJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_BlueflashbutterflyJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 250,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 131
+                },
+                //松子果酱
+                "SDS_PinenutJam": {
+                    "Name": "SDS_PinenutJam",
+                    "DisplayName": "{{i18n:SDS_PinenutJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_PinenutJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 250,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 132
+                },
+                //幽灵花果酱
+                "SDS_GhostflowerJam": {
+                    "Name": "SDS_GhostflowerJam",
+                    "DisplayName": "{{i18n:SDS_GhostflowerJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_GhostflowerJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 300,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 133
+                },
+                //龙葵果果酱
+                "SDS_NightshadefruitJam": {
+                    "Name": "SDS_NightshadefruitJam",
+                    "DisplayName": "{{i18n:SDS_NightshadefruitJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_NightshadefruitJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 210,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 134
+                },
+                //地果莓果酱
+                "SDS_geoberryJam": {
+                    "Name": "SDS_geoberryJam",
+                    "DisplayName": "{{i18n:SDS_geoberryJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_geoberryJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 230,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 155
+                },
+                //柠檬果酱
+                "SDS_lemonJam": {
+                    "Name": "SDS_lemonJam",
+                    "DisplayName": "{{i18n:SDS_lemonJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_lemonJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 400,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 159
+                },
+                //灯笼果果酱
+                "SDS_LanternfruitJam": {
+                    "Name": "SDS_LanternfruitJam",
+                    "DisplayName": "{{i18n:SDS_LanternfruitJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_LanternfruitJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 550,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 167
+                },
+                //玉露果果酱
+                "SDS_gynocarpJam": {
+                    "Name": "SDS_gynocarpJam",
+                    "DisplayName": "{{i18n:SDS_gynocarpJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_gynocarpJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 3150,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 168
+                },
+                //星空果果酱
+                "SDS_AstralfruitJam": {
+                    "Name": "SDS_AstralfruitJam",
+                    "DisplayName": "{{i18n:SDS_AstralfruitJam.DisplayName}}",
+                    "Description": "{{i18n:SDS_AstralfruitJam.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 950,
+                    "Edibility": 50,
+                    "IsDrink": false,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 2.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 169
+                }
+            }
+        },
+        //干花包
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //彼岸花干花包
+                "SDS_HiganbanaDried": {
+                    "Name": "SDS_HiganbanaDried",
+                    "DisplayName": "{{i18n:SDS_HiganbanaDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_HiganbanaDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 600,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 135
+                },
+                //桂花干花包
+                "SDS_FragransDried": {
+                    "Name": "SDS_FragransDried",
+                    "DisplayName": "{{i18n:SDS_FragransDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_FragransDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 500,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 136
+                },
+                //曼陀罗干花包
+                "SDS_StramoniumDried": {
+                    "Name": "SDS_StramoniumDried",
+                    "DisplayName": "{{i18n:SDS_StramoniumDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_StramoniumDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 498,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 137
+                },
+                //玫瑰干花包
+                "SDS_RugosaroseDried": {
+                    "Name": "SDS_RugosaroseDried",
+                    "DisplayName": "{{i18n:SDS_RugosaroseDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_RugosaroseDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 560,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 138
+                },
+                //牡丹干花包
+                "SDS_TreepeonyDried": {
+                    "Name": "SDS_TreepeonyDried",
+                    "DisplayName": "{{i18n:SDS_TreepeonyDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_TreepeonyDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 650,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 139
+                },
+                //芍药干花包
+                "SDS_ChineseherbaceouspeonyDried": {
+                    "Name": "SDS_ChineseherbaceouspeonyDried",
+                    "DisplayName": "{{i18n:SDS_ChineseherbaceouspeonyDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_ChineseherbaceouspeonyDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 472,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 140
+                },
+                //薰衣草干花包
+                "SDS_lavenderDried": {
+                    "Name": "SDS_lavenderDried",
+                    "DisplayName": "{{i18n:SDS_lavenderDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_lavenderDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 570,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 141
+                },
+                //夜来香干花包
+                "SDS_NightwillowherbDried": {
+                    "Name": "SDS_NightwillowherbDried",
+                    "DisplayName": "{{i18n:SDS_NightwillowherbDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_NightwillowherbDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 543,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 142
+                },
+                //蓝闪蝶干花包
+                "SDS_BlueflashbutterflyDried": {
+                    "Name": "SDS_BlueflashbutterflyDried",
+                    "DisplayName": "{{i18n:SDS_BlueflashbutterflyDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_BlueflashbutterflyDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 250,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 143
+                },
+                //幽灵花干花包
+                "SDS_GhostflowerDried": {
+                    "Name": "SDS_GhostflowerDried",
+                    "DisplayName": "{{i18n:SDS_GhostflowerDried.DisplayName}}",
+                    "Description": "{{i18n:SDS_GhostflowerDried.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 300,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 144
+                }
+            }
+        },
+        //香水
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "Entries": {
+                //彼岸花香水
+                "SDS_HiganbanaPerfume": {
+                    "Name": "SDS_HiganbanaPerfume",
+                    "DisplayName": "{{i18n:SDS_HiganbanaPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_HiganbanaPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2470,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 145
+                },
+                //桂花香水
+                "SDS_FragransPerfume": {
+                    "Name": "SDS_FragransPerfume",
+                    "DisplayName": "{{i18n:SDS_FragransPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_FragransPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2050,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 146
+                },
+                //曼陀罗香水
+                "SDS_StramoniumPerfume": {
+                    "Name": "SDS_StramoniumPerfume",
+                    "DisplayName": "{{i18n:SDS_StramoniumPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_StramoniumPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2048,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 147
+                },
+                //玫瑰香水
+                "SDS_RugosarosePerfume": {
+                    "Name": "SDS_RugosarosePerfume",
+                    "DisplayName": "{{i18n:SDS_RugosarosePerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_RugosarosePerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2430,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 148
+                },
+                //牡丹香水
+                "SDS_TreepeonyPerfume": {
+                    "Name": "SDS_TreepeonyPerfume",
+                    "DisplayName": "{{i18n:SDS_TreepeonyPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_TreepeonyPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2520,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 149
+                },
+                //芍药香水
+                "SDS_ChineseherbaceouspeonyPerfume": {
+                    "Name": "SDS_ChineseherbaceouspeonyPerfume",
+                    "DisplayName": "{{i18n:SDS_ChineseherbaceouspeonyPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_ChineseherbaceouspeonyPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2342,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 150
+                },
+                //薰衣草香水
+                "SDS_lavenderPerfume": {
+                    "Name": "SDS_lavenderPerfume",
+                    "DisplayName": "{{i18n:SDS_lavenderPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_lavenderPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2440,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 151
+                },
+                //夜来香香水
+                "SDS_NightwillowherbPerfume": {
+                    "Name": "SDS_NightwillowherbPerfume",
+                    "DisplayName": "{{i18n:SDS_NightwillowherbPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_NightwillowherbPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 2093,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 152
+                },
+                //蓝闪蝶香水
+                "SDS_BlueflashbutterflyPerfume": {
+                    "Name": "SDS_BlueflashbutterflyPerfume",
+                    "DisplayName": "{{i18n:SDS_BlueflashbutterflyPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_BlueflashbutterflyPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1850,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 153
+                },
+                //幽灵花香水
+                "SDS_GhostflowerPerfume": {
+                    "Name": "SDS_GhostflowerPerfume",
+                    "DisplayName": "{{i18n:SDS_GhostflowerPerfume.DisplayName}}",
+                    "Description": "{{i18n:SDS_GhostflowerPerfume.Description}}",
+                    "Type": "objects",
+                    "Category": -26,
+                    "Price": 1900,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 154
                 }
             }
         },
@@ -221,18 +1356,6 @@
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 48
                 }
-                //香菇
-                /*"SDS_Mushroom": {
-                    "Name": "SDS_Mushroom",
-                    "DisplayName": "香菇",
-                    "Description": "一颗巨大的香菇,肥厚的伞盖看上去是如此多汁,请放心,它是无毒的种类,真的。",
-                    "Type": "objects",
-                    "Category": -6,
-                    "Price": 150,
-                    "Edibility": -300,
-                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
-                    "SpriteIndex": 64
-                }*/
             }
         },
         //花
@@ -240,14 +1363,14 @@
             "Action": "EditData",
             "Target": "Data/Objects",
             "Entries": {
-                //彼岸花
+                //彼岸花 -- 15
                 "SDS_Higanbana": {
                     "Name": "SDS_Higanbana",
                     "DisplayName": "{{i18n:SDS_Higanbana.DisplayName}}",
                     "Description": "{{i18n:SDS_Higanbana.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 400,
+                    "Price": 370,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 4
@@ -259,20 +1382,20 @@
                     "Description": "{{i18n:SDS_HiganbanaSeeds.Description}}",
                     "Type": "Seeds",
                     "Category": -74,
-                    "Price": 300,
+                    "Price": 145,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 89
                 },
-                //桂花
+                //桂花 -- 40
                 "SDS_Fragrans": {
                     "Name": "SDS_Fragrans",
                     "DisplayName": "{{i18n:SDS_Fragrans.DisplayName}}",
                     "Description": "{{i18n:SDS_Fragrans.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 200,
+                    "Price": 300,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 20
@@ -284,13 +1407,13 @@
                     "Description": "{{i18n:SDS_FragransSapling.Description}}",
                     "Type": "Basic",
                     "Category": -74,
-                    "Price": 14000,
+                    "Price": 12000,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 95
                 },
-                //可可豆
+                //可可豆 -- 50
                 "SDS_Cocoabean": {
                     "Name": "SDS_Cocoabean",
                     "DisplayName": "{{i18n:SDS_Cocoabean.DisplayName}}",
@@ -315,14 +1438,14 @@
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 96
                 },
-                //曼陀罗
+                //曼陀罗 -- 42
                 "SDS_Stramonium": {
                     "Name": "SDS_Stramonium",
                     "DisplayName": "{{i18n:SDS_Stramonium.DisplayName}}",
                     "Description": "{{i18n:SDS_Stramonium.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 300,
+                    "Price": 298,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 38
@@ -334,20 +1457,20 @@
                     "Description": "{{i18n:SDS_StramoniumSapling.Description}}",
                     "Type": "Basic",
                     "Category": -74,
-                    "Price": 16000,
+                    "Price": 12500,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 97
                 },
-                //玫瑰
+                //玫瑰 -- 18
                 "SDS_Rugosarose": {
                     "Name": "SDS_Rugosarose",
                     "DisplayName": "{{i18n:SDS_Rugosarose.DisplayName}}",
                     "Description": "{{i18n:SDS_Rugosarose.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 300,
+                    "Price": 330,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 39
@@ -359,20 +1482,20 @@
                     "Description": "{{i18n:SDS_RugosaroseSeeds.Description}}",
                     "Type": "Seeds",
                     "Category": -74,
-                    "Price": 230,
+                    "Price": 150,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 90
                 },
-                //牡丹
+                //牡丹 -- 22
                 "SDS_Treepeony": {
                     "Name": "SDS_Treepeony",
                     "DisplayName": "{{i18n:SDS_Treepeony.DisplayName}}",
                     "Description": "{{i18n:SDS_Treepeony.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 300,
+                    "Price": 420,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 42
@@ -384,7 +1507,7 @@
                     "Description": "{{i18n:SDS_TreepeonySeeds.Description}}",
                     "Type": "Seeds",
                     "Category": -74,
-                    "Price": 210,
+                    "Price": 200,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
@@ -397,7 +1520,7 @@
                     "Description": "{{i18n:SDS_Creamstrawberry.Description}}",
                     "Type": "objects",
                     "Category": -79,
-                    "Price": 200,
+                    "Price": 260,
                     "Edibility": 20,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 43
@@ -415,14 +1538,14 @@
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 92
                 },
-                //山竹
+                //山竹 -- 40
                 "SDS_Mangosteen": {
                     "Name": "SDS_Mangosteen",
                     "DisplayName": "{{i18n:SDS_Mangosteen.DisplayName}}",
                     "Description": "{{i18n:SDS_Mangosteen.Description}}",
                     "Type": "objects",
                     "Category": -79,
-                    "Price": 150,
+                    "Price": 188,
                     "Edibility": 15,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 53
@@ -447,7 +1570,7 @@
                     "Description": "{{i18n:SDS_Chineseherbaceouspeony.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 220,
+                    "Price": 242,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 54
@@ -459,7 +1582,7 @@
                     "Description": "{{i18n:SDS_ChineseherbaceouspeonySeeds.Description}}",
                     "Type": "Seeds",
                     "Category": -74,
-                    "Price": 170,
+                    "Price": 130,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
@@ -472,7 +1595,7 @@
                     "Description": "{{i18n:SDS_lavender.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 200,
+                    "Price": 340,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 72
@@ -484,20 +1607,45 @@
                     "Description": "{{i18n:SDS_lavenderSeeds.Description}}",
                     "Type": "Seeds",
                     "Category": -74,
-                    "Price": 150,
+                    "Price": 180,
                     "Edibility": -300,
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 94
                 },
-                //夜来香
+                //柠檬
+                "SDS_lemon": {
+                    "Name": "SDS_lemon",
+                    "DisplayName": "{{i18n:SDS_lemon.DisplayName}}",
+                    "Description": "{{i18n:SDS_lemon.Description}}",
+                    "Type": "objects",
+                    "Category": -79,
+                    "Price": 50,
+                    "Edibility": 10,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 158
+                },
+                //柠檬种子
+                "SDS_lemonSeeds": {
+                    "Name": "SDS_lemonSeeds",
+                    "DisplayName": "{{i18n:SDS_lemonSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_lemonSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 157
+                },
+                //夜来香 -- 35
                 "SDS_Nightwillowherb": {
                     "Name": "SDS_Nightwillowherb",
                     "DisplayName": "{{i18n:SDS_Nightwillowherb.DisplayName}}",
                     "Description": "{{i18n:SDS_Nightwillowherb.Description}}",
                     "Type": "objects",
                     "Category": -80,
-                    "Price": 160,
+                    "Price": 343,
                     "Edibility": -300,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 74
@@ -514,6 +1662,81 @@
                     "IsDrink": false,
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 99
+                },
+                //灯笼果种子
+                "SDS_LanternfruitSeeds": {
+                    "Name": "SDS_LanternfruitSeeds",
+                    "DisplayName": "{{i18n:SDS_LanternfruitSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_LanternfruitSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 161
+                },
+                //灯笼果
+                "SDS_Lanternfruit": {
+                    "Name": "SDS_Lanternfruit",
+                    "DisplayName": "{{i18n:SDS_Lanternfruit.DisplayName}}",
+                    "Description": "{{i18n:SDS_Lanternfruit.Description}}",
+                    "Type": "objects",
+                    "Category": -79,
+                    "Price": 200,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 164
+                },
+                //玉露果种子
+                "SDS_gynocarpSeeds": {
+                    "Name": "SDS_gynocarpSeeds",
+                    "DisplayName": "{{i18n:SDS_gynocarpSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_gynocarpSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 162
+                },
+                //玉露果
+                "SDS_gynocarp": {
+                    "Name": "SDS_gynocarp",
+                    "DisplayName": "{{i18n:SDS_gynocarp.DisplayName}}",
+                    "Description": "{{i18n:SDS_gynocarp.Description}}",
+                    "Type": "objects",
+                    "Category": -79,
+                    "Price": 2800,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 165
+                },
+                //星空果种子
+                "SDS_AstralfruitSeeds": {
+                    "Name": "SDS_AstralfruitSeeds",
+                    "DisplayName": "{{i18n:SDS_AstralfruitSeeds.DisplayName}}",
+                    "Description": "{{i18n:SDS_AstralfruitSeeds.Description}}",
+                    "Type": "Seeds",
+                    "Category": -74,
+                    "Price": 100,
+                    "Edibility": -300,
+                    "IsDrink": false,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 163
+                },
+                //星空果
+                "SDS_Astralfruit": {
+                    "Name": "SDS_Astralfruit",
+                    "DisplayName": "{{i18n:SDS_Astralfruit.DisplayName}}",
+                    "Description": "{{i18n:SDS_Astralfruit.Description}}",
+                    "Type": "objects",
+                    "Category": -79,
+                    "Price": 600,
+                    "Edibility": -300,
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 166
                 }
             }
         },
@@ -3168,6 +4391,43 @@
                     ],
                     "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
                     "SpriteIndex": 88
+                },
+                //教堂特制柠檬水
+                "SDS_Specialchurchlemonade": {
+                    "Name": "SDS_Specialchurchlemonade",
+                    "DisplayName": "{{i18n:SDS_Specialchurchlemonade.DisplayName}}",
+                    "Description": "{{i18n:SDS_Specialchurchlemonade.Description}}",
+                    "Type": "objects",
+                    "Category": -7,
+                    "Price": 125,
+                    "Edibility": 5,
+                    "IsDrink": true,
+                    "Buffs": [
+                        {
+                            "Id": "Food",
+                            "BuffId": null,
+                            "IconTexture": null,
+                            "IconSpriteIndex": 0,
+                            "Duration": 500,
+                            "IsDebuff": false,
+                            "GlowColor": null,
+                            "CustomAttributes": {
+                                "FarmingLevel": 0.0,
+                                "FishingLevel": 0.0,
+                                "MiningLevel": 0.0,
+                                "LuckLevel": 0.0,
+                                "ForagingLevel": 0.0,
+                                "MaxStamina": 0.0,
+                                "MagneticRadius": 0.0,
+                                "Speed": 1.0,
+                                "Defense": 0.0,
+                                "Attack": 0.0
+                            },
+                            "CustomFields": null
+                        }
+                    ],
+                    "Texture": "Mods/ricehit.SevenDeadlySinsCP/Objects",
+                    "SpriteIndex": 156
                 }
             }
         },

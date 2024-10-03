@@ -246,7 +246,13 @@
 				"SDS.supermarket.48": "{{i18n:SDS.supermarket.48}}",
 				"SDS.supermarket.49": "{{i18n:SDS.supermarket.49}}",
 				"SDS.supermarket.50": "{{i18n:SDS.supermarket.50}}",
-				"SDS.supermarket.51": "{{i18n:SDS.supermarket.51}}"
+				"SDS.supermarket.51": "{{i18n:SDS.supermarket.51}}",
+				//天使休憩处大厅
+				"SDS.AngelRetreatHall.1": "{{i18n:SDS.AngelRetreatHall.1}}",
+				"SDS.AngelRetreatHall.2": "{{i18n:SDS.AngelRetreatHall.2}}",
+				"SDS.AngelRetreatHall.3": "{{i18n:SDS.AngelRetreatHall.3}}",
+				"SDS.AngelRetreatHall.4": "{{i18n:SDS.AngelRetreatHall.4}}",
+				"SDS.AngelRetreatHall.5": "{{i18n:SDS.AngelRetreatHall.5}}"
 			}
 		}
 	]

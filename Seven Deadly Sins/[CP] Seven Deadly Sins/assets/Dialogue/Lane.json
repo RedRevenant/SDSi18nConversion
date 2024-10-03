@@ -1778,6 +1778,26 @@
                         "When": {
                                 "Year |contains=2,4,6,8,10": "true"
                         }
+                },
+                {
+                        "Action": "EditData",
+                        "Target": "Characters/Dialogue/Lane",
+                        "Entries": {
+                                "AcceptGift_(O)SDS_Membershipcard": "{{i18n:Dialogue.Lane.AcceptGift_(O)SDS_Membershipcard}}"
+                        },
+                        "When": {
+                                "Hearts:Lane": "1,2,3"
+                        }
+                },
+                {
+                        "Action": "EditData",
+                        "Target": "Characters/Dialogue/Lane",
+                        "Entries": {
+                                "AcceptGift_(O)SDS_Membershipcard": "{{i18n:Dialogue.Lane.AcceptGift_(O)SDS_Membershipcard}}"
+                        },
+                        "When": {
+                                "Hearts:Lane": "4,5,6,7,8,9,10"
+                        }
                 }
         ]
 }

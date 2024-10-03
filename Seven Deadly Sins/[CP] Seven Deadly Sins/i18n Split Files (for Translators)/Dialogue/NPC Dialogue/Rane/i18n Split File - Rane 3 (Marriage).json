@@ -210,22 +210,22 @@
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Rane (Marriage) Dialogue] Kids
     ,
-    "Dialogue.Rane.Marriage.OneKid_0": "好吵、好吵、好吵！%Kids1跟La一起折磨我的耳朵！$7#$q 15400903/15400904 OneKid_0_R1old#……#$r 15400903 0 OneKid_0_15400903#（继续听）#$r 15400904 0 OneKid_0_15400904#（继续听Ra讲话）",
+    "Dialogue.Rane.Marriage.OneKid_0": "好吵、好吵、好吵！%kid1跟La一起折磨我的耳朵！$7#$q 15400903/15400904 OneKid_0_R1old#……#$r 15400903 0 OneKid_0_15400903#（继续听）#$r 15400904 0 OneKid_0_15400904#（继续听Ra讲话）",
     "Dialogue.Rane.Marriage.OneKid_0_15400903": "还一起打扰我做饭！都说了不要带着%kid1在地上爬……$7",
     "Dialogue.Rane.Marriage.OneKid_0_15400904": "……一定要最后变成三个人都在地上爬吗？！$6",
     "Dialogue.Rane.Marriage.OneKid_0_R1old": "……一定要最后变成三个人都在地上爬吗？！$6",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.OneKid_1": "今天我和La都有好好看护%Kids1。$1#$q 15400905/15400906 OneKid_1_R1old#……#$r 15400905 0 OneKid_1_15400905#辛苦了，Ra.#$r 15400906 0 OneKid_1_15400906#（亲亲他）",
+    "Dialogue.Rane.Marriage.OneKid_1": "今天我和La都有好好看护%kid1。$1#$q 15400905/15400906 OneKid_1_R1old#……#$r 15400905 0 OneKid_1_15400905#辛苦了，Ra.#$r 15400906 0 OneKid_1_15400906#（亲亲他）",
     "Dialogue.Rane.Marriage.OneKid_1_15400905": "我有时候会萌生出‘希望‘%kid1能够分辨谁是La，谁是Ra。$0",
     "Dialogue.Rane.Marriage.OneKid_1_15400906": "我想这点奖励还不够哦，@。晚上，要再多给我点辛苦费才行。$4",
     "Dialogue.Rane.Marriage.OneKid_1_R1old": "我有时候会萌生出‘希望‘%kid1能够分辨谁是La，谁是Ra。$0",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.OneKid_2": "在%Kids1抓住我手指的时候，我才恍然发现，他居然那么的小，而且…，……那么的脆弱。$7#$q 15400907/15400908 OneKid_2_R1old#……#$r 15400907 0 OneKid_2_15400907#所以我们要…….#$r 15400908 0 OneKid_2_15400908#很可爱吧.",
+    "Dialogue.Rane.Marriage.OneKid_2": "在%kid1抓住我手指的时候，我才恍然发现，他居然那么的小，而且…，……那么的脆弱。$7#$q 15400907/15400908 OneKid_2_R1old#……#$r 15400907 0 OneKid_2_15400907#所以我们要…….#$r 15400908 0 OneKid_2_15400908#很可爱吧.",
     "Dialogue.Rane.Marriage.OneKid_2_15400907": "我们要一起保护好他，就像保护@你一样。因为你俩真的很弱啦。$1",
     "Dialogue.Rane.Marriage.OneKid_2_15400908": "嗯嗯，那还是我更可爱一点吧！。——开个玩笑。%kid1很可爱。$1",
     "Dialogue.Rane.Marriage.OneKid_2_R1old": "我们要一起保护好他，就像保护@你一样。因为你俩真的很弱啦。$1",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.OneKid_3": "La总是在我耳边问%Kids1应该叫谁爸爸，有时候我一度怀疑他变成了白痴。$0#$q 15400909/15400910 OneKid_3_R1old#……#$r 15400909 0 OneKid_3_15400909#（继续听）#$r 15400910 0 OneKid_3_15400910#Ra现在的表情也傻傻的.",
+    "Dialogue.Rane.Marriage.OneKid_3": "La总是在我耳边问%kid1应该叫谁爸爸，有时候我一度怀疑他变成了白痴。$0#$q 15400909/15400910 OneKid_3_R1old#……#$r 15400909 0 OneKid_3_15400909#（继续听）#$r 15400910 0 OneKid_3_15400910#Ra现在的表情也傻傻的.",
     "Dialogue.Rane.Marriage.OneKid_3_15400909": "但其实，我知道……我们只是跟%kid1一起变幼稚了。谁叫我们现在很幸福呢。$1#$b#%说着说着，Rane不由得笑了起来。",
     "Dialogue.Rane.Marriage.OneKid_3_15400910": "？哎，是吗，我现在是什么表情。$0#$b#…，……。$1#$b#%Rane露出了有些呆呆的笑容。",
     "Dialogue.Rane.Marriage.OneKid_3_R1old": "但其实，我知道……我们只是跟%kid1一起变幼稚了。谁叫我们现在很幸福呢。$1#$b#%说着说着，Rane不由得笑了起来。",
@@ -235,12 +235,12 @@
     "Dialogue.Rane.Marriage.OneKid_4_15400912": "是吗？工作加油，不用担心家里。$1",
     "Dialogue.Rane.Marriage.OneKid_4_R1old": "%你看见了一本被Ra画满了红笔标注的育儿手册。",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.TwoKids_0": "不知不觉我已经习惯了%Kids1的存在，并且也拥有了处理相关事件的知识。所以不用担心%Kids2，我和La都会照顾好他们的。$1#$q 15400913/15400914 TwoKids_0_R1old#……#$r 15400913 0 TwoKids_0_15400913#那就拜托Ra了.#$r 15400914 0 TwoKids_0_15400914#已经成为有模有样的‘父亲’了.",
+    "Dialogue.Rane.Marriage.TwoKids_0": "不知不觉我已经习惯了%kid1的存在，并且也拥有了处理相关事件的知识。所以不用担心%kid2，我和La都会照顾好他们的。$1#$q 15400913/15400914 TwoKids_0_R1old#……#$r 15400913 0 TwoKids_0_15400913#那就拜托Ra了.#$r 15400914 0 TwoKids_0_15400914#已经成为有模有样的‘父亲’了.",
     "Dialogue.Rane.Marriage.TwoKids_0_15400913": "交给我吧。$1",
     "Dialogue.Rane.Marriage.TwoKids_0_15400914": "是啊，我从没想到会有这么一天。$4#$b#但，很有趣，我想我永远都不会觉得这样的生活无聊。$1",
     "Dialogue.Rane.Marriage.TwoKids_0_R1old": "交给我吧。$1",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.TwoKids_1": "%Kids1更喜欢我一些，%Kids2更加亲近La。不知道是不是分辨出了父亲们的不同之处。$1#$q 15400915/15400916 TwoKids_1_R1old#……#$r 15400915 0 TwoKids_1_15400915#我也能分辨你们！#$r 15400916 0 TwoKids_1_15400916#Ra期待的事情要发生了.",
+    "Dialogue.Rane.Marriage.TwoKids_1": "%kid1更喜欢我一些，%kid2更加亲近La。不知道是不是分辨出了父亲们的不同之处。$1#$q 15400915/15400916 TwoKids_1_R1old#……#$r 15400915 0 TwoKids_1_15400915#我也能分辨你们！#$r 15400916 0 TwoKids_1_15400916#Ra期待的事情要发生了.",
     "Dialogue.Rane.Marriage.TwoKids_1_15400915": "是吗？那下次让你和我们久违的玩一下‘猜猜我是谁’的游戏吧，亲爱的。$1",
     "Dialogue.Rane.Marriage.TwoKids_1_15400916": "……嘛，的确是有一些高兴。心里暖暖的。$0#$b#不过无论是%kid1还是%kid2，我都喜欢哦。$1",
     "Dialogue.Rane.Marriage.TwoKids_1_R1old": "……嘛，的确是有一些高兴。心里暖暖的。$0#$b#不过无论是%kid1还是%kid2，我都喜欢哦。$1",
@@ -250,12 +250,12 @@
     "Dialogue.Rane.Marriage.TwoKids_2_15400918": "%Rane紧紧抱住你，然后埋在了你的肩头。",
     "Dialogue.Rane.Marriage.TwoKids_2_R1old": "我并不希望%kid1和%kid2变得和我们一样。所以说……先顺其自然吧，或许我们该由他们自己决定未来。$1",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.TwoKids_3": "我现在偶尔会想：我不想失去%Kids1也不想失去%Kids2，更加不想失去你。$0#$q 15400919/15400920 TwoKids_3_R1old#……#$r 15400919 0 TwoKids_3_15400919#（安静听Ra讲话）#$r 15400920 0 TwoKids_3_15400920#不会的，Ra.",
+    "Dialogue.Rane.Marriage.TwoKids_3": "我现在偶尔会想：我不想失去%kid1也不想失去%kid2，更加不想失去你。$0#$q 15400919/15400920 TwoKids_3_R1old#……#$r 15400919 0 TwoKids_3_15400919#（安静听Ra讲话）#$r 15400920 0 TwoKids_3_15400920#不会的，Ra.",
     "Dialogue.Rane.Marriage.TwoKids_3_15400919": "所以我要更加强大。至于是那种强大，我目前还没有头绪。总之先设立一个目标吧！$1",
     "Dialogue.Rane.Marriage.TwoKids_3_15400920": "是的，我不会让你们离开我们的。我们要一直在一起哦？$4",
     "Dialogue.Rane.Marriage.TwoKids_3_R1old": "所以我要更加强大。至于是那种强大，我目前还没有头绪。总之先设立一个目标吧！$1",
     /*~*~*~*/
-    "Dialogue.Rane.Marriage.TwoKids_4": "La非要说%Kids1叫了爸爸。就我听来，他只是胡乱的啊啊了一句。而且啊！%Kids1要叫也是叫我爸爸吧！$7#$q 15400921/15400922 TwoKids_4_R1old#……#$r 15400921 0 TwoKids_4_15400921#（笑了一声）#$r 15400922 0 TwoKids_4_15400922#Ra为什么这么认为？",
+    "Dialogue.Rane.Marriage.TwoKids_4": "La非要说%kid1叫了爸爸。就我听来，他只是胡乱的啊啊了一句。而且啊！%kid1要叫也是叫我爸爸吧！$7#$q 15400921/15400922 TwoKids_4_R1old#……#$r 15400921 0 TwoKids_4_15400921#（笑了一声）#$r 15400922 0 TwoKids_4_15400922#Ra为什么这么认为？",
     "Dialogue.Rane.Marriage.TwoKids_4_15400921": "……是吧，在笑的孩子他妈·妈。$1",
     "Dialogue.Rane.Marriage.TwoKids_4_15400922": "这还用问吗，那当然是因为我比La靠谱！@不觉得吗？劝你最好说觉得是哦。$0",
     "Dialogue.Rane.Marriage.TwoKids_4_R1old": "那当然是因为我比La靠谱！@不觉得吗？劝你最好说觉得是哦。$0"

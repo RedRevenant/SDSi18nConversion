@@ -1,19 +1,57 @@
 {
 	"Changes": [
+		//图标加载
 		{
 			"Action": "Load",
-			"Target": "Mods/BundleDisposition/Town_eggshell1",
+			"Target": "Mods/SDS.Bundle/Town_eggshell1",
 			"FromFile": "assets/Objects/{{TargetWithoutPath}}.png"
 		},
+		{
+			"Action": "Load",
+			"Target": "Mods/SDS.Bundle/Cave",
+			"FromFile": "assets/Objects/{{TargetWithoutPath}}.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Mods/SDS.Bundle/Oldcoin",
+			"FromFile": "assets/Objects/SDS_Oldcoin.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Mods/SDS.Bundle/Parrots",
+			"FromFile": "assets/Objects/SDS_parrots.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Mods/SDS.Bundle/Perch",
+			"FromFile": "assets/Objects/SDS_Perch.png"
+		},
+		//地图加载
+		{
+			"Action": "Load",
+			"Target": "Maps/SDS.cliffroadopen",
+			"FromFile": "Maps/SDS.cliffroadopen.tmx"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/SDS.cliffopen",
+			"FromFile": "Maps/SDS.cliffopen.tmx"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/SDS.Cavebaseopen",
+			"FromFile": "Maps/SDS.Cavebaseopen.tmx"
+		},
+		//彩蛋献祭
 		{
 			"Action": "EditData",
 			"Target": "UnlockableBundles/Bundles",
 			"Entries": {
 				"TownFish.eggshell1": {
 					"Location": "Town",
-					"BundleName": "{{i18n:TownFish.eggshell1.BundleName}}",
-					"BundleDescription": "{{i18n:TownFish.eggshell1.BundleDescription}}",
-					"BundleIconAsset": "Mods/BundleDisposition/Town_eggshell1",
+					"BundleName": "{{i18n:eggshell.BundleName}}",
+					"BundleDescription": "{{i18n:eggshell.BundleDescription}}",
+					"BundleIconAsset": "Mods/SDS.Bundle/Town_eggshell1",
 					"ShopPosition": "158,21",
 					"ShopType": "CCBundle",
 					"Price": {
@@ -25,9 +63,9 @@
 				},
 				"WoodsTree.eggshell2": {
 					"Location": "Custom_Woods2",
-					"BundleName": "{{i18n:WoodsTree.eggshell2.BundleName}}",
-					"BundleDescription": "{{i18n:WoodsTree.eggshell2.BundleDescription}}",
-					"BundleIconAsset": "Mods/BundleDisposition/Town_eggshell1",
+					"BundleName": "{{i18n:eggshell.BundleName}}",
+					"BundleDescription": "{{i18n:eggshell.BundleDescription}}",
+					"BundleIconAsset": "Mods/SDS.Bundle/Town_eggshell1",
 					"ShopPosition": "30,3",
 					"ShopType": "CCBundle",
 					"Price": {
@@ -44,9 +82,9 @@
 				},
 				"ForestGarbage.eggshell3": {
 					"Location": "Forest",
-					"BundleName": "{{i18n:ForestGarbage.eggshell3.BundleName}}",
-					"BundleDescription": "{{i18n:ForestGarbage.eggshell3.BundleDescription}}",
-					"BundleIconAsset": "Mods/BundleDisposition/Town_eggshell1",
+					"BundleName": "{{i18n:eggshell.BundleName}}",
+					"BundleDescription": "{{i18n:eggshell.BundleDescription}}",
+					"BundleIconAsset": "Mods/SDS.Bundle/Town_eggshell1",
 					"ShopPosition": "113,92",
 					"ShopType": "CCBundle",
 					"Price": {
@@ -60,8 +98,204 @@
 					"BundleReward": {
 						"(W)SDS_Metalfragmentsofunknownorigin": 1
 					}
+				},
+				//天山开启
+				"SDScliffroad.roadopen": {
+					"Location": "Custom_SDS.cliffroad",
+					"BundleName": "{{i18n:SDScliffroad.BundleName}}",
+					"BundleDescription": "{{i18n:SDScliffroad.BundleDescription}}",
+					"ShopPosition": "16,10",
+					"ShopType": "ParrotPerch",
+					"ParrotTarget": {
+						"X": 9,
+						"Y": 0,
+						"Width": 9,
+						"Height": 4
+					},
+					"DrawQuestionMark": true,
+					"QuestionMarkOffset": "32,32",
+					"Price": {
+						"Money": 10000
+					},
+					"EditMap": "Maps/SDS.cliffroadopen",
+					"EditMapPosition": "9,0",
+					"EditMapMode": "Replace"
+				},
+				"SDScliff.open": {
+					"Location": "Custom_SDS.cliff",
+					"BundleName": "{{i18n:SDScliff.BundleName}}",
+					"BundleDescription": "{{i18n:SDScliff.BundleDescription}}",
+					"ShopPosition": "6,25",
+					"ShopType": "ParrotPerch",
+					"ShopTexture": "Mods/SDS.Bundle/Perch",
+					"ShopTextureWidth": 16,
+					"ParrotTarget": {
+						"X": 9,
+						"Y": 22,
+						"Width": 9,
+						"Height": 8
+					},
+					"DrawQuestionMark": true,
+					"QuestionMarkOffset": "32,32",
+					"Price": {
+						"768": 20
+					},
+					"EditMap": "Maps/SDS.cliffopen",
+					"EditMapPosition": "8,21",
+					"ParrotTexture": "Mods/SDS.Bundle/Parrots",
+					"ParrotIndex": 0,
+					"EditMapMode": "Replace"
+				},
+				//矿洞开启
+				"SDSCavebase.open": {
+					"Location": "Custom_SDS.Cavebase",
+					"BundleName": "{{i18n:SDSCavebase.BundleName}}",
+					"BundleDescription": "{{i18n:SDSCavebase.BundleDescription}}",
+					"ShopPosition": "25,15",
+					"ShopTexture": "Mods/SDS.Bundle/Cave",
+					"ShopType": "Dialogue",
+					"Price": {
+						"768": 99,
+						"769": 99,
+						"766": 99,
+						"767": 99
+					},
+					"EditMap": "Maps/SDS.Cavebaseopen",
+					"EditMapPosition": "21,15",
+					"EditMapMode": "Replace"
 				}
 			}
+		},
+		//卷
+		{
+			"Action": "EditData",
+			"Target": "UnlockableBundles/WalletCurrencies",
+			"Entries": {
+				"SDS.Oldcoin": {
+					"Shared": true,
+					"DrawOverheadPickupAnimation": true,
+					"OverheadPickupTexture": "Mods/SDS.Bundle/Oldcoin",
+					"OverheadPickupAnimation": "1-4@100, 1-4",
+					"OverheadPickupTextureSize": 16,
+					"BillboardTexture": "Mods/SDS.Bundle/Oldcoin",
+					"BillboardTextureSize": 16,
+					"BillboardDigits": 6,
+					"PickupSound": "goldenWalnut",
+					"PlayMoneyRollSound": false,
+					"Items": [
+						{
+							"ItemId": "(O)SDS_Oldcoin",
+							"Value": 1
+						}
+					],
+					"PowersData": {
+						"DisplayName": "{{i18n:Oldcoin.DisplayName}}",
+						"Description": "{{i18n:Oldcoin.Description}}",
+						"TexturePath": "Mods/SDS.Bundle/Oldcoin",
+						"TexturePosition": {
+							"X": 0,
+							"Y": 0
+						}
+					}
+				}
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "UnlockableBundles/PrizeTicketMachines",
+			"Entries": {
+				"SDS.MoorePrizeMachine": {
+					"Cost": {
+						"ItemId": "(O)SDS_Oldcoin",
+						"Amount": 1
+					},
+					"MenuTexture": "{{InternalAssetKey: assets/Objects/PrizeTicketMenu.png}}",
+					"GuarenteedRewards": {
+						"0": {
+							"ItemId": "(O)SDS_LanternfruitSeeds",
+							"Amount": 1
+						},
+						"3": {
+							"ItemId": "(W)SDS_Trident",
+							"Amount": 1
+						},
+						"5": {
+							"ItemId": "(W)SDS_Bonechoppingknife",
+							"Amount": 1
+						},
+						"6": {
+							"ItemId": "(O)SDS_LanternfruitSeeds",
+							"Amount": 1
+						},
+						"8": {
+							"ItemId": "(W)SDS_Iceaxe",
+							"Amount": 1
+						},
+						"10": {
+							"ItemId": "(O)SDS_gynocarpSeeds",
+							"Amount": 1
+						},
+						"12": {
+							"ItemId": "(O)SDS_AstralfruitSeeds",
+							"Amount": 1
+						}
+					},
+					"RandomRewards": {
+						"(O)SDS_LanternfruitSeeds ": 1,
+						"(O)SDS_AstralfruitSeeds ": 1,
+						"(O)SDS_gynocarpSeeds": 1,
+						"(O)SDS_Unknowncondensate": 5,
+						"(O)SDS_ginseng": 3,
+						"(O)621": 4,
+						"(O)645": 2,
+						"(O)275": 4,
+						"(O)72": 5,
+						"(O)337": 2,
+						"(O)253": 5,
+						"(O)288": 10,
+						"(O)166": 1,
+						"(O)373": 1,
+						"(O)279": 1,
+						"(O)SDS_FragransSapling": 1,
+						"(O)SDS_NightwillowherbSapling": 1,
+						"(O)SDS_Blueflashbutterfly": 10,
+						"(O)SDS_Icelingcolumn": 10,
+						"(O)SDS_Branch": 10,
+						"(O)SDS_Pinenut": 10,
+						"(O)SDS_Beautifullywrappedcandy": 1,
+						"(O)872": 2,
+						"(O)852": 10,
+						"(O)772": 1,
+						"(O)773": 1
+					}
+				}
+			}
+		},
+		{
+			"Action": "EditMap",
+			"Target": "Maps/Custom_SDS.Cavebase",
+			"MapTiles": [
+				{
+					"Position": {
+						"X": 13,
+						"Y": 17
+					},
+					"Layer": "Buildings",
+					"SetProperties": {
+						"Action": "UB_OpenPrizeMachine SDS.MoorePrizeMachine"
+					}
+				},
+				{
+					"Position": {
+						"X": 14,
+						"Y": 17
+					},
+					"Layer": "Buildings",
+					"SetProperties": {
+						"Action": "UB_OpenPrizeMachine SDS.MoorePrizeMachine"
+					}
+				}
+			]
 		}
 	]
 }

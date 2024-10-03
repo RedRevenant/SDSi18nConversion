@@ -12,6 +12,16 @@
         },
         {
             "Action": "Load",
+            "Target": "Data/Events/Custom_SDS.Hovsep4",
+            "FromFile": "assets/Data/empty.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Data/Events/Custom_SDS.Lucas13",
+            "FromFile": "assets/Data/empty.json"
+        },
+        {
+            "Action": "Load",
             "Target": "Data/Events/Custom_SDS.RLHouse",
             "FromFile": "assets/Data/empty.json"
         },
@@ -42,6 +52,11 @@
         },
         {
             "Action": "Load",
+            "Target": "Data/Events/Custom_SDS.supermarket",
+            "FromFile": "assets/Data/empty.json"
+        },
+        {
+            "Action": "Load",
             "Target": "Data/Events/Club",
             "FromFile": "assets/Data/empty.json"
         },
@@ -53,6 +68,11 @@
         {
             "Action": "Load",
             "Target": "Data/Events/Custom_Lucashouse",
+            "FromFile": "assets/Data/empty.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Data/Events/Custom_SDS.Apartment_lobby",
             "FromFile": "assets/Data/empty.json"
         },
         {
@@ -107,8 +127,8 @@
         {
             "Action": "Include",
             "FromFile": "assets/ExtraData/Events_VanillaLocations.json"
-        }
-        ,{
+        },
+        {
             "Action": "Include",
             "FromFile": "assets/ExtraData/Events_VanillaLocationsNew.json"
         }

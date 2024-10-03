@@ -192,8 +192,12 @@
         },
         //山
         {
-            "Name": "Custom_SDS.Ucourtyard",
-            "FromMapFile": "Maps/SDS.Ucourtyard.tmx"
+            "Name": "Custom_SDS.AngelRetreatHall",
+            "FromMapFile": "Maps/SDS.AngelRetreatHall.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Angelhouse_Uriel",
+            "FromMapFile": "Maps/SDS.Angelhouse_Uriel.tmx"
         },
         {
             "Name": "Custom_SDS.UrielHouse",
@@ -204,8 +208,8 @@
             "FromMapFile": "Maps/SDS.cliff.tmx"
         },
         {
-            "Name": "Custom_SDS.Paradise",
-            "FromMapFile": "Maps/SDS.Paradise.tmx"
+            "Name": "Custom_SDS.cliffroad",
+            "FromMapFile": "Maps/SDS.cliffroad.tmx"
         },
         //沙漠
         {
@@ -246,6 +250,10 @@
         {
             "Name": "Custom_SDS.Lucas14",
             "FromMapFile": "Maps/CG/SDS.Lucas14.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Sariel2",
+            "FromMapFile": "Maps/CG/SDS.Sariel2.tmx"
         },
         {
             "Name": "Custom_SDS.Maria2",
@@ -331,6 +339,14 @@
             "Name": "Custom_SDS.Rane1",
             "FromMapFile": "Maps/CG/SDS.Rane1.tmx"
         },
+        {
+            "Name": "Custom_SDS.Lucas13",
+            "FromMapFile": "Maps/CG/SDS.Lucas13.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Hovsep4",
+            "FromMapFile": "Maps/CG/SDS.Hovsep4.tmx"
+        },
         //声明
         {
             "Name": "Custom_SDS.statement1",
@@ -400,6 +416,12 @@
             "LogName": "NPCanimation",
             "Action": "Include",
             "FromFile": "assets/Data/NPCanimation.json"
+        },
+        //制作蓝图
+        {
+            "LogName": "Crafting Recipes",
+            "Action": "Include",
+            "FromFile": "assets/Items/CraftingRecipes.json"
         },
         //世界地图
         {
@@ -661,6 +683,16 @@
             "Target": "Maps/SDSSchoolfurniture",
             "FromFile": "Maps/TileSheets/SDSSchoolfurniture.png"
         },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Angel",
+            "FromFile": "Maps/TileSheets/SDS.Angel.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSUhouse",
+            "FromFile": "Maps/TileSheets/SDSUhouse.png"
+        },
         //矿洞
         {
             "Action": "Load",
@@ -760,18 +792,23 @@
         //背景动图
         {
             "Action": "Load",
-            "Target": "Maps/SDS.nigh_sky_1",
-            "FromFile": "Maps/TileSheets/SDS.nigh_sky_1.png"
-        },
-        {
-            "Action": "Load",
             "Target": "Maps/SDS.seawave",
             "FromFile": "Maps/TileSheets/SDS.seawave.png"
         },
         {
             "Action": "Load",
-            "Target": "Maps/SDS.nigh_sky2",
-            "FromFile": "Maps/TileSheets/SDS.nigh_sky2.png"
+            "Target": "Maps/SDSAngel_sky1",
+            "FromFile": "Maps/TileSheets/SDSAngel_sky1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSAngel_sky2",
+            "FromFile": "Maps/TileSheets/SDSAngel_sky2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSAngel_sky3",
+            "FromFile": "Maps/TileSheets/SDSAngel_sky3.png"
         },
         {
             "Action": "Load",
@@ -792,6 +829,16 @@
             "Action": "Load",
             "Target": "Maps/SDS.sky_1",
             "FromFile": "Maps/TileSheets/SDS.sky_1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSUhouse_sky1",
+            "FromFile": "Maps/TileSheets/SDSUhouse_sky1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDSUhouse_sky2",
+            "FromFile": "Maps/TileSheets/SDSUhouse_sky2.png"
         },
         //CG
         {
@@ -923,6 +970,21 @@
             "Action": "Load",
             "Target": "Maps/SDS.Rane1",
             "FromFile": "Maps/CG/SDS.Rane1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Sariel2",
+            "FromFile": "Maps/CG/SDS.Sariel2.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Hovsep4",
+            "FromFile": "Maps/CG/SDS.Hovsep4.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas13",
+            "FromFile": "Maps/CG/SDS.Lucas13.png"
         },
         //声明
         {

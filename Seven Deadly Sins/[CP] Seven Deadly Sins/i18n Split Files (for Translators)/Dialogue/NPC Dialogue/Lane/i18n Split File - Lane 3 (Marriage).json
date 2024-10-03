@@ -15,7 +15,7 @@
     /*~*~*~*/
     "Dialogue.Lane.Marriage.funReturn_Lane": "我回来咯~$1#$b#达令，这是我给你带得土特产！[128 129 130 131 132 136 137 138 139 140 141 151 149 155 156 279 281 280 278 305 347 373 394 417 645 728 732 733 233 234 235 236 223 222 221 220 399 400 404 422 433 459]$7",
     /*~*~*~*/
-    "Dialogue.Lane.Marriage.spouseRoom_Lane": "啊，你问我在做什么？这里有我之前晒干的制药材料——所以我今天打算制药哦！$5#$b#没准会给你做点什么~。所以这次、你有想要的药水吗？$1#$q 16400841/16400842/16400843 spouseRoom_Lane_L1old#……#$r 16400841 0 spouseRoom_Lane_16400841#回血.#$r 16400842 0 spouseRoom_Lane_16400842#回精力.#$r 16400843 0 spouseRoom_Lane_16400843#随便啦，Ra做什么我都想要！",
+    "Dialogue.Lane.Marriage.spouseRoom_Lane": "啊，你问我在做什么？这里有我之前晒干的制药材料——所以我今天打算制药哦！$5#$b#没准会给你做点什么~。所以这次、你有想要的药水吗？$1#$q 16400841/16400842/16400843 spouseRoom_Lane_L1old#……#$r 16400841 0 spouseRoom_Lane_16400841#回血.#$r 16400842 0 spouseRoom_Lane_16400842#回精力.#$r 16400843 0 spouseRoom_Lane_16400843#随便啦，La做什么我都想要！",
     "Dialogue.Lane.Marriage.spouseRoom_Lane_16400841": "是吗是吗。$1",
     "Dialogue.Lane.Marriage.spouseRoom_Lane_16400842": "哦~我知道了。$5",
     "Dialogue.Lane.Marriage.spouseRoom_Lane_16400843": "你真可爱……那做催情药水吧！开玩笑的啦！$5",

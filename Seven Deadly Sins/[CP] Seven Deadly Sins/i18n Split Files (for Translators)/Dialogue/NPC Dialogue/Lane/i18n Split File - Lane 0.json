@@ -37,6 +37,7 @@
     "Dialogue.Lane.AcceptGift_(O)StardropTea": "我最爱这个的事情，已经彻底暴露了呢~！$1",
     "Dialogue.Lane.DumpsterDiveComment": "呀，客人~！今天你捡到了什么？给我看看、给我看看！$5",
     "Dialogue.Lane.GreenRain": "呜啊，外面这个雨还真是有趣诶！$5#$b#诶~，客人不觉得吗。还真是胆小的家伙呢。$3",
+    "Dialogue.Lane.AcceptGift_(O)SDS_Membershipcard": "客人的意思是……要把它还给我？$0#$b#诶，真的假的啊？呜啊，把我送出去的东西原路返回什么的，您还真是会让我伤心呢！呜呜。$2",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Lane Dialogue] Birthday Gift
     "Dialogue.Lane.AcceptBirthdayGift_Loved": "你居然记得我的生日！哼哼，勉为其难给你加点好感度好啦，客人。但别想我给你回礼！$5",

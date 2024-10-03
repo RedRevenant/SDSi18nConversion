@@ -123,7 +123,7 @@
                     "MineBaseLevel": 0,
                     "MineMinLevel": -1,
                     "AreaOfEffect": -1,
-                    "CritChance": 0.7,
+                    "CritChance": 0.6,
                     "CritMultiplier": 2.0,
                     "CanBeLostOnDeath": true,
                     "Texture": "Mods\\ricehit.SevenDeadlySinsCP\\Objects\\Weapons",

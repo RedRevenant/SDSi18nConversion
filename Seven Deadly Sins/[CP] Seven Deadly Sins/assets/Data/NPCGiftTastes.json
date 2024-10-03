@@ -344,7 +344,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Uriel": "{{i18n:Gift.Uriel.Hearts0to3.Love}}/SDS_Coconutjuice 939/{{i18n:Gift.Uriel.Hearts0to3.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts0to3.Dislike}}/395/{{i18n:Gift.Uriel.Hearts0to3.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts0to3.Neutral}}/-12/"
+        "Uriel": "{{i18n:Gift.Uriel.Hearts0to3.Love}}/SDS_Coconutjuice SDS_Moonlayer/{{i18n:Gift.Uriel.Hearts0to3.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts0to3.Dislike}}/395/{{i18n:Gift.Uriel.Hearts0to3.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts0to3.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Uriel": "0,1,2,3"
@@ -354,7 +354,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Uriel": "{{i18n:Gift.Uriel.Hearts4to7.Love}}/SDS_Coconutjuice 939/{{i18n:Gift.Uriel.Hearts4to7.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts4to7.Dislike}}/395/{{i18n:Gift.Uriel.Hearts4to7.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts4to7.Neutral}}/-12/"
+        "Uriel": "{{i18n:Gift.Uriel.Hearts4to7.Love}}/SDS_Coconutjuice SDS_Moonlayer/{{i18n:Gift.Uriel.Hearts4to7.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts4to7.Dislike}}/395/{{i18n:Gift.Uriel.Hearts4to7.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts4to7.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Uriel": "4,5,6,7"
@@ -364,7 +364,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Uriel": "{{i18n:Gift.Uriel.Hearts8to9.Love}}/SDS_Coconutjuice 939/{{i18n:Gift.Uriel.Hearts8to9.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts8to9.Dislike}}/395/{{i18n:Gift.Uriel.Hearts8to9.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts8to9.Neutral}}/-12/"
+        "Uriel": "{{i18n:Gift.Uriel.Hearts8to9.Love}}/SDS_Coconutjuice SDS_Moonlayer/{{i18n:Gift.Uriel.Hearts8to9.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts8to9.Dislike}}/395/{{i18n:Gift.Uriel.Hearts8to9.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts8to9.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Uriel": "8,9"
@@ -374,7 +374,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Uriel": "{{i18n:Gift.Uriel.Hearts10.Love}}/SDS_Coconutjuice 939/{{i18n:Gift.Uriel.Hearts10.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts10.Dislike}}/395/{{i18n:Gift.Uriel.Hearts10.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts10.Neutral}}/-12/"
+        "Uriel": "{{i18n:Gift.Uriel.Hearts10.Love}}/SDS_Coconutjuice SDS_Moonlayer/{{i18n:Gift.Uriel.Hearts10.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts10.Dislike}}/395/{{i18n:Gift.Uriel.Hearts10.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts10.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Uriel": "10"
@@ -384,7 +384,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Uriel": "{{i18n:Gift.Uriel.Hearts11to14.Love}}/SDS_Coconutjuice 939/{{i18n:Gift.Uriel.Hearts11to14.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts11to14.Dislike}}/395/{{i18n:Gift.Uriel.Hearts11to14.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts11to14.Neutral}}/-12/"
+        "Uriel": "{{i18n:Gift.Uriel.Hearts11to14.Love}}/SDS_Coconutjuice SDS_Moonlayer/{{i18n:Gift.Uriel.Hearts11to14.Like}}/88 220 221/{{i18n:Gift.Uriel.Hearts11to14.Dislike}}/395/{{i18n:Gift.Uriel.Hearts11to14.Hate}}/-19 -20 253/{{i18n:Gift.Uriel.Hearts11to14.Neutral}}/-12/"
       },
       "When": {
         "Hearts:Uriel": "11,12,13,14"

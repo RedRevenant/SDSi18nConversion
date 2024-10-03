@@ -177,6 +177,22 @@
         ]
     },
     {
+        "Id": "SDS.present7",
+        "GroupId": "SDS.present7",
+        "Title": "SDS.present7.Title",
+        "Text": "SDS.present7.Text",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Albert",
+                "FriendshipLevel": 6
+            }
+        ],
+        "Recipe": "SDS_Specialchurchlemonade"
+    },
+    {
         "Id": "SDS.Untitled41",
         "GroupId": "SDS.Untitled41",
         "Title": "SDS.Untitled41.Title",

@@ -1,6 +1,46 @@
 {
     "Changes": [
         {
+            "Action": "EditMap",
+            "Target": "Maps/Town",
+            "MapTiles": [
+                {
+                    "Position": {
+                        "X": 17,
+                        "Y": 22
+                    },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "OpenShop SDLemonadestand down 1230 1600"
+                    }
+                },
+                {
+                    "Position": {
+                        "X": 18,
+                        "Y": 22
+                    },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "OpenShop SDLemonadestand down 1230 1600"
+                    }
+                },
+                {
+                    "Position": {
+                        "X": 19,
+                        "Y": 22
+                    },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "Action": "OpenShop SDLemonadestand down 1230 1600"
+                    }
+                }
+            ],
+            "When": {
+                "DayOfWeek": "Thursday,Sunday"
+            },
+            "Update": "OnTimeChange"
+        },
+        {
             "Action": "EditData",
             "Target": "Data/Shops",
             "Entries": {
@@ -1040,28 +1080,6 @@
                             "IsRecipe": true
                         },
                         {
-                            "Id": "SDS.Chocolatepulp",
-                            "Price": 210,
-                            "ItemId": "(O)SDS_Chocolatepulp"
-                        },
-                        {
-                            "Id": "SDS.ChocolatepulpRecipe",
-                            "Price": 500,
-                            "ItemId": "(O)SDS_Chocolatepulp",
-                            "IsRecipe": true
-                        },
-                        {
-                            "Id": "SDS.chocolate",
-                            "Price": 210,
-                            "ItemId": "(O)SDS_chocolate"
-                        },
-                        {
-                            "Id": "SDS.chocolateR",
-                            "Price": 500,
-                            "ItemId": "(O)SDS_chocolate",
-                            "IsRecipe": true
-                        },
-                        {
                             "Id": "SDS.Moonlayer",
                             "Price": 1500,
                             "ItemId": "(O)SDS_Moonlayer"
@@ -1082,59 +1100,68 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDCitysupermarketFOpen",
-                                    "Dialogue": "{{i18n:Shop.SDCitysupermarketF.Dialogue}}"
+                                    "Dialogue": "{{i18n:Shop.SDCitysupermarket.Dialogue}}"
                                 }
                             ]
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage": "{{i18n:Shop.SDCitysupermarketF.ClosedMessage}}"
+                            "ClosedMessage": "{{i18n:Shop.SDCitysupermarket.ClosedMessage}}"
                         }
                     ],
                     "Items": [
                         {
                             "Id": "SDS.Icebox",
                             "Price": 20000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Icebox"
                         },
                         {
                             "Id": "SDS.Sander",
                             "Price": 5000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Sander"
                         },
                         {
                             "Id": "SDS.Dryflowerplatform",
                             "Price": 5000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Dryflowerplatform"
                         },
                         {
                             "Id": "SDS.Agitator",
                             "Price": 10000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Agitator"
                         },
                         {
                             "Id": "SDS.Coalscuttle",
                             "Price": 11000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Coalscuttle"
                         },
                         {
                             "Id": "SDS.SmeltingFurnace",
                             "Price": 10000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_SmeltingFurnace"
                         },
                         {
                             "Id": "SDS.Distiller",
                             "Price": 12000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Distiller"
                         },
                         {
                             "Id": "SDS.Foodsteamer",
                             "Price": 7000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Foodsteamer"
                         },
                         {
                             "Id": "SDS.Saucepan",
-                            "Price": 10000,
+                            "Price": 8000,
+                            "IsRecipe": true,
                             "ItemId": "(BC)SDS_Saucepan"
                         }
                     ]
@@ -1147,13 +1174,13 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDCitysupermarketfurnitureOpen",
-                                    "Dialogue": "{{i18n:Shop.SDCitysupermarketfurniture.Dialogue}}"
+                                    "Dialogue": "{{i18n:Shop.SDCitysupermarket.Dialogue}}"
                                 }
                             ]
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage": "{{i18n:Shop.SDCitysupermarketfurniture.ClosedMessage}}"
+                            "ClosedMessage": "{{i18n:Shop.SDCitysupermarket.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -1634,13 +1661,13 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDIcecreamOpen",
-                                    "Dialogue": "{{i18n:Shop.SDIcecream.Dialogue}}"
+                                    "Dialogue":"{{i18n:Shop.SDIcecream.Dialogue}}"
                                 }
                             ]
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage": "{{i18n:Shop.SDIcecream.ClosedMessage}}"
+                            "ClosedMessage":"{{i18n:Shop.SDIcecream.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -1947,7 +1974,7 @@
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage": "{{i18n:Shop.SDSAccessory.ClosedMessage}}"
+                            "ClosedMessage":"{{i18n:Shop.SDSAccessory.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -2232,6 +2259,20 @@
                             "IsRecipe": true
                         },
                         {
+                            "Id": "SDS.ChocolatepulpRecipe",
+                            "Price": 10,
+                            "ItemId": "(O)SDS_Chocolatepulp",
+                            "TradeItemId": "SDS_Chocolatepulp",
+                            "IsRecipe": true
+                        },
+                        {
+                            "Id": "SDS.chocolateR",
+                            "Price": 10,
+                            "ItemId": "(O)SDS_chocolate",
+                            "TradeItemId": "SDS_chocolate",
+                            "IsRecipe": true
+                        },
+                        {
                             "Id": "SDS.StrawberryLoveCrisp",
                             "Price": 10,
                             "ItemId": "(O)SDS_StrawberryLoveCrisp",
@@ -2426,13 +2467,13 @@
                     "Items": [
                         {
                             "Id": "SDS.HiganbanaSeeds",
-                            "Price": 300,
+                            "Price": 145,
                             "ItemId": "(O)SDS_HiganbanaSeeds",
                             "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.RugosaroseSeeds",
-                            "Price": 230,
+                            "Price": 150,
                             "ItemId": "(O)SDS_RugosaroseSeeds",
                             "Condition": "SEASON summer"
                         },
@@ -2450,20 +2491,26 @@
                         },
                         {
                             "Id": "SDS.ChineseherbaceouspeonySeeds",
-                            "Price": 170,
+                            "Price": 130,
                             "ItemId": "(O)SDS_ChineseherbaceouspeonySeeds",
                             "Condition": "SEASON spring"
                         },
                         {
                             "Id": "SDS.lavenderSeeds",
-                            "Price": 150,
+                            "Price": 180,
                             "ItemId": "(O)SDS_lavenderSeeds",
                             "Condition": "SEASON summer"
+                        },
+                        {
+                            "Id": "SDS.lemonSeeds",
+                            "Price": 100,
+                            "ItemId": "(O)SDS_lemonSeeds",
+                            "Condition": "SEASON summer spring"
                         },
                         //树苗
                         {
                             "Id": "SDS.FragransSapling",
-                            "Price": 14000,
+                            "Price": 12000,
                             "ItemId": "(O)SDS_FragransSapling"
                         },
                         {
@@ -2473,7 +2520,7 @@
                         },
                         {
                             "Id": "SDS.StramoniumSapling",
-                            "Price": 16000,
+                            "Price": 12500,
                             "ItemId": "(O)SDS_StramoniumSapling"
                         },
                         {
@@ -2692,7 +2739,7 @@
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage": "{{i18n:Shop.SDNigel.ClosedMessage}}"
+                            "ClosedMessage":"{{i18n:Shop.SDNigel.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -2711,7 +2758,7 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDFivesongsOpen",
-                                    "Dialogue": "{{i18n:Shop.SDFivesongs.Dialogue}}"
+                                    "Dialogue":"{{i18n:Shop.SDFivesongs.Dialogue}}"
                                 }
                             ]
                         },
@@ -2761,13 +2808,13 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDSecretforestBearOpen",
-                                    "Dialogue": "{{i18n:SDSecretforestBear.Dialogue}}"
+                                    "Dialogue": "{{i18n:Shop.SDSecretforestBear.Dialogue}}"
                                 }
                             ]
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage": "{{i18n:SDSecretforestBear.ClosedMessage}}"
+                            "ClosedMessage": "{{i18n:Shop.SDSecretforestBear.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -2819,6 +2866,31 @@
                             "TradeItemId": "726",
                             "TradeItemAmount": 1,
                             "ItemId": "(O)725"
+                        }
+                    ]
+                },
+                //城镇柠檬水摊
+                "SDLemonadestand": {
+                    "Owners": [
+                        {
+                            "Name": "Albert",
+                            "Dialogues": [
+                                {
+                                    "Id": "SDS.SDLemonadestand",
+                                    "Dialogue": "{{i18n:Shop.SDLemonadestand.Dialogue}}"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "None",
+                            "ClosedMessage": "{{i18n:Shop.SDLemonadestand.ClosedMessage}}"
+                        }
+                    ],
+                    "Items": [
+                        {
+                            "Id": "SDS.Specialchurchlemonade",
+                            "Price": 125,
+                            "ItemId": "(O)SDS_Specialchurchlemonade"
                         }
                     ]
                 }

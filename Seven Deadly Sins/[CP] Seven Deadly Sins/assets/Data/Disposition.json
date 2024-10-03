@@ -125,10 +125,10 @@
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "Custom_SDS.UrielHouse",
+                            "Location": "Custom_SDS.Angelhouse_Uriel",
                             "Tile": {
-                                "X": 25,
-                                "Y": 8
+                                "X": 26,
+                                "Y": 28
                             },
                             "Direction": "Left"
                         }
@@ -153,7 +153,7 @@
                     }
                 },
                 "Moore": {
-                    "DisplayName": "莫尔",
+                    "DisplayName": "{{i18n:Moore.DisplayName}}",
                     "BirthSeason": "spring",
                     "BirthDay": 18,
                     "HomeRegion": "Other",

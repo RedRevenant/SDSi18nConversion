@@ -130,7 +130,7 @@
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "19215179/f Pelette 2500/x SDSPelette10": "null"
+        "19215179/f Pelette 2500/z winter/x SDSPelette10": "null"
       }
     },
     {
@@ -159,14 +159,14 @@
       "Action": "EditData",
       "Target": "Data/Events/Farm",
       "Entries": {
-        "19215198/f Lane 2000/x SDSLane8": "null"
+        "19215198/f Lane 2000/w sunny/y 1/F/d Sun/d Sat/x SDSLane8": "null"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "SDSLane10": "{{i18n:Maill.SDSLane10.text}}[#]{{i18n:Maill.SDSLane10.title}}"
+        "SDSLane10": "{{i18n:Mail.SDSLane10.text}}[#]{{i18n:Mail.SDSLane10.title}}"
       }
     },
     {
@@ -181,7 +181,7 @@
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "SDSRane1": "{{i18n:Maill.SDSRane1.text}}[#]{{i18n:Maill.SDSRane1.title}}"
+        "SDSRane1": "{{i18n:Mail.SDSRane1.text}}[#]{{i18n:Mail.SDSRane1.title}}"
       }
     },
     {
@@ -195,7 +195,7 @@
       "Action": "EditData",
       "Target": "Data/mail",
       "Entries": {
-        "SDSRane10": "{{i18n:Maill.SDSRane10.text}}[#]{{i18n:Maill.SDSRane10.title}}"
+        "SDSRane10": "{{i18n:Mail.SDSRane10.text}}[#]{{i18n:Mail.SDSRane10.title}}"
       }
     },
     {

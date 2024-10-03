@@ -16,7 +16,7 @@
 				"SDS_Strawberrymacaron": "400 1 SDS_Butter 1 -5 1/10 10/SDS_Strawberrymacaron/l 11/{{i18n:SDS_Strawberrymacaron.DisplayName}}",
 				"SDS_Chocolatestrawberry": "400 1 SDS_Chocolatepulp 1/10 10/SDS_Chocolatestrawberry/l 11/{{i18n:SDS_Chocolatestrawberry.DisplayName}}",
 				"SDS_StrawberryDonut": "400 1 262 1 245 1/10 10/SDS_StrawberryDonut/l 11/{{i18n:SDS_StrawberryDonut.DisplayName}}",
-				"SDS_StrawberryBunnyCake": "400 2 246 1 SDS_Butter 1 -5 1/10 10/SDS_StrawberryBunnyCake/l 11/{{i18n:SDS_StrawberryBunnyCake.DisplayName}}",
+				"SDS_StrawberryBunnyCake": "400 1 246 1 SDS_Butter 1 -5 1/10 10/SDS_StrawberryBunnyCake/l 11/{{i18n:SDS_StrawberryBunnyCake.DisplayName}}",
 				"SDS_Supersoftsweetbread": "246 1 245 1 SDS_Butter 1/10 10/SDS_Supersoftsweetbread/l 11/{{i18n:SDS_Supersoftsweetbread.DisplayName}}",
 				"SDS_Glutinousricecake": "423 2 815 1 245 1/10 10/SDS_Glutinousricecake/l 11/{{i18n:SDS_Glutinousricecake.DisplayName}}",
 				"SDS_EggYolkCrisp": "-5 1 246 1 245 1 SDS_Butter 1/10 10/SDS_EggYolkCrisp/l 11/{{i18n:SDS_EggYolkCrisp.DisplayName}}",
@@ -71,7 +71,8 @@
 				"SDS_PBiscuits": "247 1 246 1 245 1/10 10/SDS_PBiscuits/l 11/{{i18n:SDS_PBiscuits.DisplayName}}",
 				"SDS_OrangeCake": "246 1 245 1 SDS_Butter 1 635 3/10 10/SDS_OrangeCake/l 11/{{i18n:SDS_OrangeCake.DisplayName}}",
 				"SDS_Beautifullywrappedcandy": "245 5 348 1/10 10/SDS_Beautifullywrappedcandy/l 11/{{i18n:SDS_Beautifullywrappedcandy.DisplayName}}",
-				"SDS_Pelettespecialcuisine": "SDS_RawBeef 1 SDS_chocolate 1 247 1/10 10/SDS_Pelettespecialcuisine/l 11/{{i18n:SDS_Pelettespecialcuisine.DisplayName}}"
+				"SDS_Pelettespecialcuisine": "SDS_RawBeef 1 SDS_chocolate 1 247 1/10 10/SDS_Pelettespecialcuisine/l 11/{{i18n:SDS_Pelettespecialcuisine.DisplayName}}",
+				"SDS_Specialchurchlemonade": "SDS_lemon 1 340 1/10 10/SDS_Specialchurchlemonade/l 11/{{i18n:SDS_Specialchurchlemonade.DisplayName}}"
 			}
 		}
 	]
