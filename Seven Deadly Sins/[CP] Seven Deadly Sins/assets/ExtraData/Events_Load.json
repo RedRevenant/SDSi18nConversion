@@ -107,7 +107,7 @@
         },
         {
             "Action": "Load",
-            "Target": "Data/Events/Custom_SDS.UrielHouse",
+            "Target": "Data/Events/Custom_SDS.Angelhouse_Uriel",
             "FromFile": "assets/Data/empty.json"
         },
         {
@@ -118,6 +118,11 @@
         {
             "Action": "Load",
             "Target": "Data/Events/Custom_SDS.RuiglaHome",
+            "FromFile": "assets/Data/empty.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Data/Events/Custom_Woods2",
             "FromFile": "assets/Data/empty.json"
         },
         {

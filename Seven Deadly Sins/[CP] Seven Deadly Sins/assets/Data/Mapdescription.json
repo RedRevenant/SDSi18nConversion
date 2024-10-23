@@ -252,7 +252,24 @@
 				"SDS.AngelRetreatHall.2": "{{i18n:SDS.AngelRetreatHall.2}}",
 				"SDS.AngelRetreatHall.3": "{{i18n:SDS.AngelRetreatHall.3}}",
 				"SDS.AngelRetreatHall.4": "{{i18n:SDS.AngelRetreatHall.4}}",
-				"SDS.AngelRetreatHall.5": "{{i18n:SDS.AngelRetreatHall.5}}"
+				"SDS.AngelRetreatHall.5": "{{i18n:SDS.AngelRetreatHall.5}}",
+				//乌列家
+				"SDS.Uriel.1": "{{i18n:SDS.Uriel.1}}",
+				"SDS.Uriel.2": "{{i18n:SDS.Uriel.2}}",
+				"SDS.Uriel.3": "{{i18n:SDS.Uriel.3}}",
+				"SDS.Uriel.4": "{{i18n:SDS.Uriel.4}}",
+				"SDS.Uriel.5": "{{i18n:SDS.Uriel.5}}",
+				"SDS.Uriel.6": "{{i18n:SDS.Uriel.6}}"
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "Strings/StringsFromMaps",
+			"Entries": {
+				"SDS.Uriel.5": "{{i18n:SDS.Uriel.5.r}}"
+			},
+			"When": {
+				"Relationship:Uriel": "Dating,Engaged,Married"
 			}
 		}
 	]

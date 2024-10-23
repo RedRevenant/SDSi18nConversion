@@ -252,6 +252,14 @@
             "FromMapFile": "Maps/CG/SDS.Lucas14.tmx"
         },
         {
+            "Name": "Custom_SDS.Lucas6.1",
+            "FromMapFile": "Maps/CG/SDS.Lucas6.1.tmx"
+        },
+        {
+            "Name": "Custom_SDS.Lucas6.2",
+            "FromMapFile": "Maps/CG/SDS.Lucas6.2.tmx"
+        },
+        {
             "Name": "Custom_SDS.Sariel2",
             "FromMapFile": "Maps/CG/SDS.Sariel2.tmx"
         },
@@ -985,6 +993,16 @@
             "Action": "Load",
             "Target": "Maps/SDS.Lucas13",
             "FromFile": "Maps/CG/SDS.Lucas13.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas6.1",
+            "FromFile": "Maps/CG/SDS.Lucas6.1.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Maps/SDS.Lucas6.2",
+            "FromFile": "Maps/CG/SDS.Lucas6.2.png"
         },
         //声明
         {
