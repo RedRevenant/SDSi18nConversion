@@ -36,7 +36,8 @@
                 }
             ],
             "When": {
-                "DayOfWeek": "Thursday,Sunday"
+                "DayOfWeek": "Thursday,Sunday",
+                "HasMod |contains=FlashShifter.StardewValleyExpandedCP": false
             },
             "Update": "OnTimeChange"
         },
@@ -1661,13 +1662,13 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDIcecreamOpen",
-                                    "Dialogue":"{{i18n:Shop.SDIcecream.Dialogue}}"
+                                    "Dialogue": "{{i18n:Shop.SDIcecream.Dialogue}}"
                                 }
                             ]
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage":"{{i18n:Shop.SDIcecream.ClosedMessage}}"
+                            "ClosedMessage": "{{i18n:Shop.SDIcecream.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -1974,7 +1975,7 @@
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage":"{{i18n:Shop.SDSAccessory.ClosedMessage}}"
+                            "ClosedMessage": "{{i18n:Shop.SDSAccessory.ClosedMessage}}"
                         }
                     ],
                     "Items": [
@@ -2726,26 +2727,28 @@
                     ]
                 },
                 //天堂卷
-                "SDNigel": {
+                "SDMew": {
                     "Owners": [
                         {
-                            "Name": "Nigel",
+                            "Name": "Mew",
                             "Dialogues": [
                                 {
-                                    "Id": "SDS.SDNigelOpen",
-                                    "Dialogue": "{{i18n:Shop.SDNigel.Dialogue}}"
+                                    "Id": "SDS.SDMewOpen",
+                                    "Dialogue": "{{i18n:Shop.SDMew.Dialogue}}"
                                 }
                             ]
                         },
                         {
                             "Name": "None",
-                            "ClosedMessage":"{{i18n:Shop.SDNigel.ClosedMessage}}"
+                            "ClosedMessage": "{{i18n:Shop.SDMew.ClosedMessage}}"
                         }
                     ],
                     "Items": [
                         {
-                            "Id": "SDS.Nigel1",
-                            "Price": 100000,
+                            "Id": "SDS.Mew1",
+                            "Price": 0,
+                            "TradeItemId": "130",
+                            "TradeItemAmount": 10,
                             "ItemId": "(O)SDS_ParadiseTicket"
                         }
                     ]
@@ -2758,7 +2761,7 @@
                             "Dialogues": [
                                 {
                                     "Id": "SDS.SDFivesongsOpen",
-                                    "Dialogue":"{{i18n:Shop.SDFivesongs.Dialogue}}"
+                                    "Dialogue": "{{i18n:Shop.SDFivesongs.Dialogue}}"
                                 }
                             ]
                         },

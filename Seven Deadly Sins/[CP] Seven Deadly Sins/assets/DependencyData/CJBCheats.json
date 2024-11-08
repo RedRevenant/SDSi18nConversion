@@ -1,0 +1,98 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Mods/CJBok.CheatsMenu/WarpSections",
+            "Entries": {
+                "{{ModId}}_SDS_MapSections": {
+                    "Id": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.MapSections}}"
+                }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Mods/CJBok.CheatsMenu/Warps",
+            "Entries": {
+                //祖祖城中心
+                "{{ModId}}_SDS_City": {
+                    "Id": "{{ModId}}_SDS_Citys",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.City}}",
+                    "Location": "Custom_SDS.City",
+                    "Tile": "43,26"
+                },
+                //城镇
+                "{{ModId}}_SDS_Ecclesia": {
+                    "Id": "{{ModId}}_SDS_Ecclesia",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Ecclesia}}",
+                    "Location": "Town",
+                    "Tile": "160,85"
+                },
+                "{{ModId}}_SDS_PeletteHouse": {
+                    "Id": "{{ModId}}_SDS_PeletteHouse",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.PeletteHouse}}",
+                    "Location": "Town",
+                    "Tile": "142,40"
+                },
+                //废弃矿坑
+                "{{ModId}}_SDS_Cavebase": {
+                    "Id": "{{ModId}}_SDS_Cavebase",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Cavebase}}",
+                    "Location": "Custom_SDS.Cavebase",
+                    "Tile": "14,18"
+                },
+                "{{ModId}}_SDS_Cave7": {
+                    "Id": "{{ModId}}_SDS_Cave7",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Cave7}}",
+                    "Location": "Custom_SDS.Cave7",
+                    "Tile": "6,11"
+                },
+                //废弃观景台
+                "{{ModId}}_SDS_cliff": {
+                    "Id": "{{ModId}}_SDS_cliff",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Cliff}}",
+                    "Location": "Custom_SDS.cliff",
+                    "Tile": "5,30"
+                },
+                //隐秘森林
+                "{{ModId}}_SDS_Woods2": {
+                    "Id": "{{ModId}}_SDS_Woods2",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Woods2}}",
+                    "Location": "Custom_Woods2",
+                    "Tile": "19,6"
+                },
+                //海底沉船处
+                "{{ModId}}_SDS_sea": {
+                    "Id": "{{ModId}}_SDS_sea",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Sea}}",
+                    "Location": "Custom_SDS.sea",
+                    "Tile": "31,21"
+                },
+                //旅行货车
+                "{{ModId}}_SDS_Desert": {
+                    "Id": "{{ModId}}_SDS_Desert",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Desert}}",
+                    "Location": "Desert",
+                    "Tile": "14,23"
+                },
+                //彩蛋兔子
+                "{{ModId}}_SDS_ricehit": {
+                    "Id": "{{ModId}}_SDS_ricehit",
+                    "SectionId": "{{ModId}}_SDS_MapSections",
+                    "DisplayName": "{{i18n:CJB.Ricehit}}",
+                    "Location": "Custom_SDS.ricehit",
+                    "Tile": "6,6"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+  "transferData": {
+    "Apartment_Elevator1": {
+      "detailedInfos": [
+		//卢卡斯私人电梯
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 1,
+              "y": 4
+            },
+            {
+              "x": 2,
+              "y": 4
+            },
+            {
+              "x": 1,
+              "y": 3
+            },
+            {
+              "x": 2,
+              "y": 3
+            }
+          ],
+          "RelativeDistance": 1,
+          "MapName": "Custom_SDS.Elevator1",
+          "ButtonText": "GB",
+          "StandingTilePositon": {
+            "x": 2,
+            "y": 5
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 1,
+              "y": 4
+            },
+            {
+              "x": 2,
+              "y": 4
+            },
+            {
+              "x": 1,
+              "y": 3
+            },
+            {
+              "x": 2,
+              "y": 3
+            }
+          ],
+          "RelativeDistance": 2,
+          "MapName": "Custom_SDS.Elevator1.1",
+          "ButtonText": "35",
+          "StandingTilePositon": {
+            "x": 2,
+            "y": 5
+          },
+          "UnlockableRequirement": {
+            "type": "event",
+            "ID": "19215214"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 1,
+              "y": 4
+            },
+            {
+              "x": 2,
+              "y": 4
+            },
+            {
+              "x": 1,
+              "y": 3
+            },
+            {
+              "x": 2,
+              "y": 3
+            }
+          ],
+          "RelativeDistance": 3,
+          "MapName": "Custom_SDS.Elevator1.2",
+          "ButtonText": "36",
+          "StandingTilePositon": {
+            "x": 2,
+            "y": 5
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null"
+          }
+        }
+      ],
+      "TotalMaps": 3,
+      "UIBox": "assets/Apartment_Elevator_UIbox.png",
+      "ButtonUIBox": "assets/Apartment_Elevator_ButtonUIBox.png",
+      "CloseButtonBox": "assets/UpperRightCloseButtonBox.png",
+      "LockedButtonBox": "assets/Apartment_Elevator_LockedButtonUIBox",
+      "EachCost": 0,
+      "TextColor": [
+        0.80392,
+        0.78824,
+        0.78824
+      ],
+      "ShadowColor": [
+        0.43922,
+        0.50196,
+        0.56471
+      ]
+    },
+    "Apartment_Elevator2": {
+      "detailedInfos": [
+		//公寓普通电梯
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 5,
+              "y": 4
+            },
+            {
+              "x": 6,
+              "y": 4
+            },
+            {
+              "x": 5,
+              "y": 3
+            },
+            {
+              "x": 6,
+              "y": 3
+            }
+          ],
+          "RelativeDistance": 1,
+          "MapName": "Custom_SDS.Elevator2",
+          "ButtonText": "GB",
+          "StandingTilePositon": {
+            "x": 5,
+            "y": 5
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 5,
+              "y": 4
+            },
+            {
+              "x": 6,
+              "y": 4
+            },
+            {
+              "x": 5,
+              "y": 3
+            },
+            {
+              "x": 6,
+              "y": 3
+            }
+          ],
+          "RelativeDistance": 2,
+          "MapName": "Custom_SDS.Elevator2.1",
+          "ButtonText": "01",
+          "StandingTilePositon": {
+            "x": 5,
+            "y": 5
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 5,
+              "y": 4
+            },
+            {
+              "x": 6,
+              "y": 4
+            },
+            {
+              "x": 5,
+              "y": 3
+            },
+            {
+              "x": 6,
+              "y": 3
+            }
+          ],
+          "RelativeDistance": 3,
+          "MapName": "Custom_SDS.Elevator2.2",
+          "ButtonText": "02",
+          "StandingTilePositon": {
+            "x": 5,
+            "y": 5
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null"
+          }
+        }
+      ],
+      "TotalMaps": 3,
+      "UIBox": "assets/Apartment_Elevator_UIbox.png",
+      "ButtonUIBox": "assets/Apartment_Elevator_ButtonUIBox.png",
+      "CloseButtonBox": "assets/UpperRightCloseButtonBox.png",
+      "LockedButtonBox": "assets/Apartment_Elevator_LockedButtonUIBox",
+      "EachCost": 0,
+      "TextColor": [
+        0.80392,
+        0.78824,
+        0.78824
+      ],
+      "ShadowColor": [
+        0.43922,
+        0.50196,
+        0.56471
+      ]
+    },
+    "SDS_Transmit_City": {
+      "detailedInfos": [
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 4,
+              "y": 29
+            },
+            {
+              "x": 5,
+              "y": 29
+            }
+          ],
+          "RelativeDistance": 1,
+          "MapName": "Custom_SDS.cliff",
+          "ButtonText": "废弃观景台",
+          "StandingTilePositon": {
+            "x": 4,
+            "y": 30
+          },
+          "UnlockableRequirement": {
+            "type": "event",
+            "ID": "19215242"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 159,
+              "y": 84
+            },
+            {
+              "x": 160,
+              "y": 84
+            }
+          ],
+          "RelativeDistance": 2,
+          "MapName": "Town",
+          "ButtonText": "鹈鹕教堂",
+          "StandingTilePositon": {
+            "x": 159,
+            "y": 85
+          },
+          "UnlockableRequirement": {
+            "type": "event",
+            "ID": "19215238"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 31,
+              "y": 20
+            },
+            {
+              "x": 32,
+              "y": 20
+            }
+          ],
+          "RelativeDistance": 3,
+          "MapName": "Custom_SDS.sea",
+          "ButtonText": "海底沉船处",
+          "StandingTilePositon": {
+            "x": 31,
+            "y": 21
+          },
+          "UnlockableRequirement": {
+            "type": "event",
+            "ID": "19215241"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 19,
+              "y": 5
+            },
+            {
+              "x": 20,
+              "y": 5
+            }
+          ],
+          "RelativeDistance": 4,
+          "MapName": "Custom_Woods2",
+          "ButtonText": "隐秘森林",
+          "StandingTilePositon": {
+            "x": 19,
+            "y": 6
+          },
+          "UnlockableRequirement": {
+            "type": "event",
+            "ID": "19215240"
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 43,
+              "y": 25
+            },
+            {
+              "x": 44,
+              "y": 25
+            }
+          ],
+          "RelativeDistance": 5,
+          "MapName": "Custom_SDS.City",
+          "ButtonText": "祖祖城中心",
+          "StandingTilePositon": {
+            "x": 43,
+            "y": 26
+          },
+          "UnlockableRequirement": {
+            "type": "event",
+            "ID": "19215239"
+          }
+        }
+      ],
+      "TotalMaps": 5,
+      "UIBox": "assets/SDS_Transmit_UIbox.png",
+      "ButtonUIBox": "assets/SDS_Transmit_ButtonUIBox.png",
+      "CloseButtonBox": "assets/SDS_Transmit_UpperRightCloseButtonBox.png",
+      "LockedButtonBox": "assets/SDS_Transmit_LockedButtonUIBox.png",
+      "EachCost": 0,
+      "TextColor": [
+        0.80392,
+        0.78824,
+        0.78824
+      ],
+      "ShadowColor": [
+        0.43922,
+        0.50196,
+        0.56471
+      ]
+    }
+  }
+}

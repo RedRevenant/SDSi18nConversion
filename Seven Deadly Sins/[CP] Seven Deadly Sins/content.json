@@ -1,5 +1,5 @@
 ﻿{
-    "Format": "2.0.0",
+    "Format": "2.3.0",
     "CustomLocations": [
         //阿瓦利亚森林
         {
@@ -371,14 +371,13 @@
     ],
     "Changes": [
         //依赖
-        //	{
-        //		"Action": "Include",
-        //		"FromFile": "assets/DependencyData/CJBCheats.json",
-        //		"When":
-        //		{
-        //				"HasMod |contains=CJBok.CheatsMenu": true,
-        //		}
-        //	},
+        {
+            "Action": "Include",
+            "FromFile": "assets/DependencyData/CJBCheats.json",
+            "When": {
+                "HasMod |contains=CJBok.CheatsMenu": true
+            }
+        },
         {
             "Action": "Include",
             "FromFile": "assets/DependencyData/BundleDisposition.json"
@@ -652,6 +651,12 @@
             "LogName": "MapWarps",
             "Action": "Include",
             "FromFile": "assets/Data/MapWarps.json"
+        },
+        //兼容
+        {
+            "LogName": "Compatible",
+            "Action": "Include",
+            "FromFile": "assets/Data/Compatible.json"
         },
         //新增怪物
         {

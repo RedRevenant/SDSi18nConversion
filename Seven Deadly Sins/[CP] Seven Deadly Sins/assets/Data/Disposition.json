@@ -949,8 +949,8 @@
                         }
                     ]
                 },
-                "Flower": {
-                    "DisplayName": "{{i18n:Flower.DisplayName}}",
+                "Eleonora": {
+                    "DisplayName": "{{i18n:Eleonora.DisplayName}}",
                     "SocialTab": "HiddenAlways",
                     "CanSocialize": false,
                     "IntroductionsQuest": false,
@@ -959,17 +959,17 @@
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "Desert",
+                            "Location": "Custom_SDS.ice_cream_shop",
                             "Tile": {
-                                "X": 21,
-                                "Y": 8
+                                "X": 15,
+                                "Y": 10
                             },
                             "Direction": "down"
                         }
                     ]
                 },
-                "Nigel": {
-                    "DisplayName": "{{i18n:Nigel.DisplayName}}",
+                "Mew": {
+                    "DisplayName": "{{i18n:Mew.DisplayName}}",
                     "SocialTab": "HiddenAlways",
                     "CanSocialize": false,
                     "IntroductionsQuest": false,
@@ -987,8 +987,8 @@
                         }
                     ]
                 },
-                "Eleonora": {
-                    "DisplayName": "{{i18n:Eleonora.DisplayName}}",
+                "Coconut": {
+                    "DisplayName": "{{i18n:Coconut.DisplayName}}",
                     "SocialTab": "HiddenAlways",
                     "CanSocialize": false,
                     "IntroductionsQuest": false,
@@ -997,10 +997,10 @@
                     "Home": [
                         {
                             "Id": "Default",
-                            "Location": "Custom_SDS.ice_cream_shop",
+                            "Location": "Desert",
                             "Tile": {
-                                "X": 15,
-                                "Y": 10
+                                "X": 21,
+                                "Y": 8
                             },
                             "Direction": "down"
                         }

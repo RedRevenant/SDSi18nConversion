@@ -7,6 +7,18 @@
     "SDScliff.BundleName": "激活法阵",
     "SDScliff.BundleDescription": "献上你的祭品...",
     "SDSCavebase.BundleName": "废弃矿洞",
-    "SDSCavebase.BundleDescription": "献上你的祭品..."
+    "SDSCavebase.BundleDescription": "献上你的祭品...",
     /*-----------------------------------------------------------------------------------------------------------*/
+    /*+++++ CJB Cheats +++++*/
+    "CJB.MapSections": "七宗罪",
+    "CJB.City": "祖祖城中心",
+    "CJB.Ecclesia": "鹈鹕镇教堂",
+    "CJB.PeletteHouse": "佩莱特木屋",
+    "CJB.Cavebase": "废弃矿坑",
+    "CJB.Cave7": "废弃矿坑钓鱼处",
+    "CJB.Cliff": "废弃观景台",
+    "CJB.Woods2": "隐秘森林",
+    "CJB.Sea": "海底沉船处",
+    "CJB.Desert": "旅行货车",
+    "CJB.Ricehit": "彩蛋兔子"
 }

@@ -1,0 +1,32 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Mew",
+            "Entries": {
+                //节日
+                //	"spring_12": "",
+                //	"spring_23": "",
+                //	"summer_10": "",
+                //	"summer_27": "",
+                //	"fall_15": "",
+                //	"fall_26": "",
+                //	"winter_7":"",
+                //	"winter_24": "",
+                //一周的每天
+                "Mon": "{{i18n:Dialogue.Mew.Mon}}",
+                "Tue": "{{i18n:Dialogue.Mew.Tue}}",
+                "Wed": "{{i18n:Dialogue.Mew.Wed}}",
+                "Thu": "{{i18n:Dialogue.Mew.Thu}}",
+                "Fri": "{{i18n:Dialogue.Mew.Fri}}",
+                "Sat": "{{i18n:Dialogue.Mew.Sat}}",
+                "Sun": "{{i18n:Dialogue.Mew.Sun}}"
+                //	季节第一天
+                //	"spring_1_2": "",
+                //	"summer_1": "",
+                //	"fall_1": "",
+                //	"winter_1": "",
+            }
+        }
+    ]
+}
