@@ -7,4 +7,4 @@ Also, please give credit to me (or at least link to this github page) if you dec
  <br />
 A note: the default.json file is empty, so copy and paste text from the split files to the default.json file! <br />
 
-Will be rendered obsolete by the official i18n format update in a future update
+Will most likely be rendered obsolete by the official i18n format update in a future update
