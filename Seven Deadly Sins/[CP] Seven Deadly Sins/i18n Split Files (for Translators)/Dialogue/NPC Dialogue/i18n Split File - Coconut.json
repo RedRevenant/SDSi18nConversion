@@ -1,13 +1,43 @@
 {
-    /* [Dialogue] Coconut */
-    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-    "Dialogue.Coconut.Mon": "想喝点什么？还是说要我凭感觉给你调配一杯？口味随机，很有趣吧？$1",
-    "Dialogue.Coconut.Tue": "等一下等一下，马上就好…我想到了绝妙的新搭配！$1",
-    "Dialogue.Coconut.Wed": "你说…在果酒里加上蛋黄酱味道会如何？或者加在柠檬汁里？$0#$b#我得试试，等我做好了请你喝一杯。$1",
-    "Dialogue.Coconut.Thu": "我的新饮料味道明明很好啊，只不过端到那些路人面前推销的时候他们的表情都怪怪的，你问里面加了什么…秘密。$1",
-    "Dialogue.Coconut.Fri": "要不要买点特色的饮品带回去？还可以送给你的朋友们。",
-    "Dialogue.Coconut.Sat": "今天想喝点什么？你待会要是去干活还是别喝酒了，看看别的，我这里的饮品很多。",
-    "Dialogue.Coconut.Sun": "嗨！想喝点冰的吗？喝完会精神很多哦。$1"
-    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-    /*-----------------------------------------------------------------------------------------------------------*/
+	/* [Dialogue] Coconut */
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	"SDS.Dialogue.Coconut.spring_13": "镇上的节日还挺多的嘛，要是沙漠多来几个节日那我就能卖出更多饮品了。$1",
+	"SDS.Dialogue.Coconut.spring_24": "你想好邀请谁和你一起跳舞了吗？玩得开心。$0",
+	"SDS.Dialogue.Coconut.summer_11": "我不知道…把各种食材放进锅里之后汤还能变得美味也太奇怪了吧。$2",
+	"SDS.Dialogue.Coconut.summer_28": "这倒是给了我一些灵感…也许我可以调配一杯以水母为主题的饮品呢？$0",
+	"SDS.Dialogue.Coconut.fall_16": "如果沙漠也能多来几个节日就好了，人多了我的生意也会变好。$0",
+	"SDS.Dialogue.Coconut.fall_27": "你说…如果我打扮成熬药的女巫再制作一些节日特供的饮品销量会不会更高？$1",
+	"SDS.Dialogue.Coconut.winter_8": "听起来就很冷啊，冬天果然还是适合待在温暖的屋子里。$2",
+	"SDS.Dialogue.Coconut.winter_25": "你想在节日上收到什么礼物？$0",
+	"SDS.Dialogue.Coconut.spring_15": "很热闹对吧，我喜欢这个节日，营业额大增啊！你也来喝点什么吧？$1",
+	"SDS.Dialogue.Coconut.spring_Mon": "你好啊，来都来了要不要买点喝的？$0",
+	"SDS.Dialogue.Coconut.spring_Tue": "糟糕！我刚刚是不是放错了…还是重新来吧。$2",
+	"SDS.Dialogue.Coconut.spring_Wed": "我这里新运来了几箱很新鲜的水果，要不要来一杯鲜榨果汁呀？$1",
+	"SDS.Dialogue.Coconut.spring_Thu": "我的发色在沙漠里还挺显眼的对吧？绿绿的呢。$1",
+	"SDS.Dialogue.Coconut.spring_Fri": "嗨！最近怎么样啊，要不要来杯喝的？$0",
+	"SDS.Dialogue.Coconut.spring_Sat": "我的饮品推销还是挺成功的，可能顾客都被我真诚的眼神所打动了吧。$1",
+	"SDS.Dialogue.Coconut.spring_Sun": "今天想喝点什么？$0",
+	"SDS.Dialogue.Coconut.summer_Mon": "要喝点什么吗？$0",
+	"SDS.Dialogue.Coconut.summer_Tue": "天气这么热要多补充水分，所以你要不要来喝一杯呀？$1",
+	"SDS.Dialogue.Coconut.summer_Wed": "奇怪，今天怎么都没几个人来呢？$2#$b#不过这样倒是方便我摸鱼了。$1",
+	"SDS.Dialogue.Coconut.summer_Thu": "或许我可以扮成一棵树…这样会不会更引人注目呢？$0",
+	"SDS.Dialogue.Coconut.summer_Fri": "那个矿洞里面有什么好东西？总是看到你进去。$0",
+	"SDS.Dialogue.Coconut.summer_Sat": "靠嗓子喊也太累了，我还是拿个喇叭吧。$0",
+	"SDS.Dialogue.Coconut.summer_Sun": "要不要来喝一杯呀？在沙漠要多补充水分。$1",
+	"SDS.Dialogue.Coconut.fall_Mon": "早上好！$1#$b#或者说中午好比较恰当？$0",
+	"SDS.Dialogue.Coconut.fall_Tue": "你感兴趣的话可以试试摇一摇沙漠里的那些树，不过小心点，可能有东西会砸到你。*眨眼*$0",
+	"SDS.Dialogue.Coconut.fall_Wed": "你的工作很自由嘛，也不用定时去做些什么事情，如果你愿意的话岂不是想睡多久就睡多久？$0",
+	"SDS.Dialogue.Coconut.fall_Thu": "*哈欠*嗯…我昨晚睡的不太好，可能是因为昨天喝了太多咖啡。$2",
+	"SDS.Dialogue.Coconut.fall_Fri": "我喜欢调配各种不同的饮品，不过有时候加的材料有点奇怪就不会端给顾客喝了。$0#$b#你要是好奇下次我可以给你也来一杯。$1",
+	"SDS.Dialogue.Coconut.fall_Sat": "我在想等会吃点什么，你有推荐的吗？$1",
+	"SDS.Dialogue.Coconut.fall_Sun": "你是不是该为入冬做准备了？一般都要准备什么？$0",
+	"SDS.Dialogue.Coconut.winter_Mon": "哦你好！稍等一下，我在检查库存。$0",
+	"SDS.Dialogue.Coconut.winter_Tue": "今天的营业额不错，真开心。$1",
+	"SDS.Dialogue.Coconut.winter_Wed": "*哈欠*今天没什么人来，你想喝点什么吗？$0",
+	"SDS.Dialogue.Coconut.winter_Thu": "来颗糖果？你知道的，工作有时候真的很无聊啊。$2",
+	"SDS.Dialogue.Coconut.winter_Fri": "你的农场有温室吗？那样冬天也能种东西了。$0",
+	"SDS.Dialogue.Coconut.winter_Sat": "你说我要不要拿个喇叭宣传一下？还是算了吧。$2",
+	"SDS.Dialogue.Coconut.winter_Sun": "你会魔法吗？也没什么，只是突然就想问一问。毕竟你看起来很不一般。$0"
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	/*-----------------------------------------------------------------------------------------------------------*/
 }

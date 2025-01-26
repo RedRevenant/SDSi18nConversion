@@ -1,24 +1,24 @@
 {
     /*+++++ Bundle Data +++++*/
-    "eggshell.BundleName": "兔子的祝福",
-    "eggshell.BundleDescription": "呀！被你找到了",
-    "SDScliffroad.BundleName": "开启废弃观景台",
-    "SDScliffroad.BundleDescription": "献上你的祭品...",
-    "SDScliff.BundleName": "激活法阵",
-    "SDScliff.BundleDescription": "献上你的祭品...",
-    "SDSCavebase.BundleName": "废弃矿洞",
-    "SDSCavebase.BundleDescription": "献上你的祭品...",
+	"SDS.Bundles.TownFish.eggshell1.BundleName": "兔子的祝福",
+	"SDS.Bundles.TownFish.eggshell1.BundleDescription": "呀！被你找到了",
+	"SDS.Bundles.SDScliffroad.roadopen.BundleName": "开启废弃观景台",
+	"SDS.Bundles.SDScliffroad.roadopen.BundleDescription": "献上你的祭品...",
+	"SDS.Bundles.SDScliff.open.BundleName": "激活法阵",
+	"SDS.Bundles.SDSCavebase.open.BundleName": "废弃矿洞",
+	"SDS.Bundles.PowersData.DisplayName": "古老铜币",
+	"SDS.Bundles.PowersData.Description": "一枚锈迹斑斑的古老铜币，似乎雕刻着凹凸不平的骷髅纹样，在土壤与岩层中沉寂许久后重见天日，已经分辨不出是什么时期的造物。",
     /*-----------------------------------------------------------------------------------------------------------*/
-    /*+++++ CJB Cheats +++++*/
-    "CJB.MapSections": "七宗罪",
-    "CJB.City": "祖祖城中心",
-    "CJB.Ecclesia": "鹈鹕镇教堂",
-    "CJB.PeletteHouse": "佩莱特木屋",
-    "CJB.Cavebase": "废弃矿坑",
-    "CJB.Cave7": "废弃矿坑钓鱼处",
-    "CJB.Cliff": "废弃观景台",
-    "CJB.Woods2": "隐秘森林",
-    "CJB.Sea": "海底沉船处",
-    "CJB.Desert": "旅行货车",
-    "CJB.Ricehit": "彩蛋兔子"
+    /*+++++ CJB Cheats Warps +++++*/
+	"SDS.CJBok.CheatsMenu.SDS_MapSections.DisplayName": "七宗罪",
+	"SDS.CJBok.CheatsMenu.SDS_City.DisplayName": "祖祖城中心",
+	"SDS.CJBok.CheatsMenu.SDS_Ecclesia.DisplayName": "鹈鹕镇教堂",
+	"SDS.CJBok.CheatsMenu.SDS_PeletteHouse.DisplayName": "佩莱特木屋",
+	"SDS.CJBok.CheatsMenu.SDS_Cavebase.DisplayName": "废弃矿坑",
+	"SDS.CJBok.CheatsMenu.SDS_Cave7.DisplayName": "废弃矿坑钓鱼处",
+	"SDS.CJBok.CheatsMenu.SDS_cliff.DisplayName": "废弃观景台",
+	"SDS.CJBok.CheatsMenu.SDS_Woods2.DisplayName": "隐秘森林",
+	"SDS.CJBok.CheatsMenu.SDS_sea.DisplayName": "海底沉船处",
+	"SDS.CJBok.CheatsMenu.SDS_Desert.DisplayName": "旅行货车",
+	"SDS.CJBok.CheatsMenu.SDS_ricehit.DisplayName": "彩蛋兔子"
 }

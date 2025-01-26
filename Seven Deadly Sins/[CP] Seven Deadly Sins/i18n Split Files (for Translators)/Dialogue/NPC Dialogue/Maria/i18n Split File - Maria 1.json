@@ -1,108 +1,108 @@
 {
-        /* [Dialogue] Maria */
-        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-        //[Maria Dialogue] Special
-        "Dialogue.Maria.Introduction": "你是新来的吧？$1#$b#我也是哦，我叫玛利亚，让我们互相关照吧？$1",
-        "Dialogue.Maria.breakUp": "%玛利亚轻轻叹了口气。#$b#%尽管他什么也没说，但你还是能够从他美丽的脸上感觉到失望。",
-        "Dialogue.Maria.divorced": "@……你还有什么想要说的吗？$2#$b#%玛利亚移开视线。",
-        "Dialogue.Maria.dumped_Guys": "我认为我需要冷静下来……我暂时不想看见@。$2",
-        "Dialogue.Maria.secondChance_Guys": "无论@做错了什么我都会原谅@的。$1#$b#但是我不希望再发生这样的事情呢……。",
-        "Dialogue.Maria.joja_Begin": "@，你加入了JOJA吗？$0#$b#那么往后请加油哦。$1",
-        "Dialogue.Maria.movieTheater": "@会邀请我一同观看电影吗？$1",
-        "Dialogue.Maria.MovieInvitation": "我当然愿意与@同行！$1",
-        "Dialogue.Maria.AcceptBouquet": "我真开心我们是心意相通的，@。$4",
-        "Dialogue.Maria.give_pendant": "Darling，果然我们是天生一对，我爱你……。$4",
-        "Dialogue.Maria.SpouseStardrop": "请收下这个吧Darling，这是我特意为了你而准备的。$1#$b#我爱你，在这世间仅有你合适它。",
-        "Dialogue.Maria.DumpsterDiveComment": "你想要什么我可以帮你的。$2",
-        "Dialogue.Maria.GreenRain": "天气还真是多变……@不如在教堂里待到雨停吧？$1#$b#这样的天气什么都做不了不是吗？",
-        "Dialogue.Maria.AcceptGift_(O)StardropTea": "你要把这样的东西送给我吗？谢谢你@！$1",
-        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-        //[Maria Dialogue] Resort
-        "Dialogue.Maria.Resort_Entering": "@，你也来度假吗？需要我给你涂一些防晒霜吗？$1",
-        "Dialogue.Maria.Resort_Leaving": "不要在太阳下待太久哦，可是会被晒伤的。$0",
-        "Dialogue.Maria.Resort_Shore": "小心脚下会有碎石哦。$1#$b#要是被划伤了可不好呢，$2",
-        "Dialogue.Maria.Resort_Dance": "想要和我一起跳舞吗？$1",
-        "Dialogue.Maria.Resort_Chair": "这座岛有很多值得去看的地方呢，@要和我一起吗？$0",
-        "Dialogue.Maria.Resort_Bar": "嗯……请不要摄入太多的酒精哦，我并不想让旁人看见你脸红的模样。$1",
-        "Dialogue.Maria.Resort": "不要离开我太远哦，我怕会找不到你。$0",
-        "Dialogue.Maria.Resort_Towel": "@要和我在这里躺一会吗？$1",
-        "Dialogue.Maria.Resort_Umbrella": "在伞下就不怕被晒伤了呢，@要和我在这里待一会吗？$1",
-        "Dialogue.Maria.Resort_Wander": "想要和我四处走走吗？$1#$b#我想和@一起逛这座岛。$0",
-        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-        //[Maria Dialogue] Holiday
-        "Dialogue.Maria.danceRejection": "现在还不是我们共舞的时刻啊……$2#$b#希望我不会坏了你的兴致。$3",
-        "Dialogue.Maria.spring_1_2": "新年快乐，感谢你陪我度过的这一年", //新年
-        "Dialogue.Maria.spring_12": "你喜欢那些彩蛋吗？$1#$b#那么我会为你加油的$0", //蛋蛋节前一天
-        "Dialogue.Maria.spring_23": "你喜欢跳舞吗？$0#$b#我想我还不擅长那些舞步，", //花舞节前一天
-        "Dialogue.Maria.summer_10": "希望不会有人在锅里放奇怪的东西呢……$1", //宴会前一天
-        "Dialogue.Maria.summer_27": "真是神秘且梦幻的生物，还拥有转瞬即逝的美丽$1", //月光水母前一天
-        "Dialogue.Maria.fall_15": "你一定准备好展会要展示出来的东西了吧？$1#$b#我会为你加油的$0", //展览会前一天
-        "Dialogue.Maria.fall_26": "周围充斥着南瓜的气味呢$1#$b#很不错不是吗？$6", //万灵节前一天
-        "Dialogue.Maria.winter_7": "要多穿些衣服哦，生病了有人要担心的$1", //冰雪节前一天
-        "Dialogue.Maria.winter_24": "我为我的'秘密朋友'准备了一份神奇的礼物，真希望他会喜欢$6", //冬日星节日前一天
-        "Dialogue.Maria.SpouseFlowerDanceAccept_Maria": "如果是@的请求当然没问题哦。$1#$b#我十分愿意与你共舞。$4",
-        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-        //[Maria Dialogue] Rejection
-        "Dialogue.Maria.rejectNPCA": "@……请不要捉弄我好吗？$2",
-        "Dialogue.Maria.rejectNPCB": "@，我认为现在还不是时候，我会当作什么都没有发生的。$3",
-        "Dialogue.Maria.reject_two_heartA": "@，这真是美丽的花束，是用来做什么的呢？$0",
-        "Dialogue.Maria.reject_two_heartB": "你的想法，是真心的吗……？$3",
-        "Dialogue.Maria.reject_four_heartA": "请恕我无法认同这样的事情，抱歉。$3",
-        "Dialogue.Maria.reject_four_heartB": "@，你究竟是无意还是有意的呢？$3",
-        "Dialogue.Maria.engageA": "我不想做让@为难的事情，所以请@离开吧……？$3",
-        "Dialogue.Maria.engageB": "我会当真的@，所以请你不要再捉弄我了……。$2",
-        "Dialogue.Maria.marriedA": "我无法理解@想做什么。$3#$b#如果@的意思是不想持续目前的婚姻我可以帮助@，但这真的是@所想的吗……？$2",
-        "Dialogue.Maria.marriedB": "我们不应该是这样的，这和我所想的不一样……。$3#$b#我会当作没发生那样与@继续相处的，请不要再这样捉弄我好吗？$2",
-        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-        //[Maria Dialogue] General/Spring
-        "Dialogue.Maria.Mon": "教堂的钟声敲响时你会想些什么呢？听闻神的呓语吗？$0#$b#这个回答真可爱。$1",
-        "Dialogue.Maria.Mon2": "没什么比见到你还令我感到开心的了，@，你也是这样想的对吧？$1",
-        "Dialogue.Maria.Mon4": "你是特意来见我的吗？$1#$b#真让我开心，希望你能拥有美好的一天啊。$6",
-        "Dialogue.Maria.Mon6": "@?$0#$b#你愿意和我在这里共赏风景吗？$1#$b#很不错对吧？我也这样觉得。$4",
-        "Dialogue.Maria.Mon8": "@会相信神爱着世人这样的说法吗？$1#$b#或许在某些方面我与@的想法一致呢。$0#$b#%玛利亚捂嘴笑了起来",
-        "Dialogue.Maria.Mon10": "今天的太阳很耀眼对吧？$1#$b#我一直这样认为。$4",
-        /*~*~*~*/
-        "Dialogue.Maria.Tue": "@在想什么？$1#$b#或许我可以帮助@分担烦恼。$6",
-        "Dialogue.Maria.Tue2": "今天的阳光很温暖呢，很适合在同样温暖的草坪上小憩。$1",
-        "Dialogue.Maria.Tue4": "@一直都是那么精力充沛的样子。$0#$b#也要注意休息才行哦。$6",
-        "Dialogue.Maria.Tue6": "你有注意过森林里的那栋高塔吗？$0#$b#据说里面居住一个很神秘的人呢。$1",
-        "Dialogue.Maria.Tue8": "你会每天都来看我吗？$1#$b#我想每天都能见到可爱的@。$4",
-        "Dialogue.Maria.Tue10": "Darling，你喜欢我这样称呼你吗？$4#$b#希望不会让你觉得冒昧。$0",
-        /*~*~*~*/
-        "Dialogue.Maria.Wed": "能够看见@可爱的面容真是令我开心。$1",
-        "Dialogue.Maria.Wed2": "没什么能够比看见@还能让人开心的了。$0#$b#@也是因为想见我才来的吧？",
-        "Dialogue.Maria.Wed4": "今日的太阳真是夺目且绚丽。$1#$b#@你觉得呢？是不是和我所想的一样？$6",
-        "Dialogue.Maria.Wed6": "清风中充斥着泥土的味道。$1#$b#我并不讨厌这样的气味哦。$0",
-        "Dialogue.Maria.Wed8": "我总是很开心能见到你，不打算多来看看我吗？$1#$b#和你相处真的很愉快。$4",
-        "Dialogue.Maria.Wed10": "@，你在想些什么？$1#$b#希望不是除我之外的其他人。$0",
-        /*~*~*~*/
-        "Dialogue.Maria.Thu": "今天的天气真不错。$1#$b#希望你也能度过美好的一日",
-        "Dialogue.Maria.Thu2": "@和所有人都相处的很好呢。$0#$b#真让人羡慕，我都很少与人相处。$6",
-        "Dialogue.Maria.Thu4": "在矿洞的时候要小心哦。$1#$b#受伤了会有人要担心你的。$2",
-        "Dialogue.Maria.Thu6": "你有得到足够的休息吗？因为你看起来很疲惫。$2#$b#@要多注意休息啊",
-        "Dialogue.Maria.Thu8": "@看起来很喜欢小动物呢。$1#$b#我可以去你的农场里看看吗。$6",
-        "Dialogue.Maria.Thu10": "据说某些教义的信徒会为他们的神咏唱圣歌。$1#$b#@对这样的行为如何看待呢……？",
-        /*~*~*~*/
-        "Dialogue.Maria.Fri": "@，你想来些糖果吗？[612]$1#$b#我就知道你会喜欢的。$0",
-        "Dialogue.Maria.Fri2": "%玛利亚看起来在想什么，还是不要打扰到他比较好",
-        "Dialogue.Maria.Fri4": "很高兴看见你。$1#$b#每次你来看我都会让我很开心。$0#$b#你明天还会来的对吧？$6",
-        "Dialogue.Maria.Fri6": "@,你累了吧？要不要来一些点心缓解一下疲劳呢？[211]$1",
-        "Dialogue.Maria.Fri8": "见到你会让我一整天都开心起来。$1#$b#你是特意来见我的对吗？$0",
-        "Dialogue.Maria.Fri10": "你的人际交往真的很好呢@。$1#$b#但我更希望你能只在乎我一个……$2",
-        /*~*~*~*/
-        "Dialogue.Maria.Sat": "@你今天看起来真可爱。$1#$b#笑容也是。$0",
-        "Dialogue.Maria.Sat2": "你愿意告诉我你以前的生活吗?$0#$b#只是很好奇。$1",
-        "Dialogue.Maria.Sat4": "你有得到足够的休息对吧？$1#$b#你今天看起来很精神。$6",
-        "Dialogue.Maria.Sat6": "你今天过的怎么样？$1#$b#能够看见你对我来说就是美好的一天了.$1",
-        "Dialogue.Maria.Sat8": "我更希望你只与我一人相处。$2#$b#只是一些私心而已，但你不会想让你那些朋友消失吧？$1",
-        "Dialogue.Maria.Sat10": "Darling，你真可爱，愿意和我共处一天吗？$1#$b#不会有任何人打扰，只有我们二人的世间。$4",
-        /*~*~*~*/
-        "Dialogue.Maria.Sun": "这个周末你想怎样度过呢？$0#$b#要和我一起吗？$1",
-        "Dialogue.Maria.Sun2": "嗨，你在忙吗？$0#$b#那么要加油哦",
-        "Dialogue.Maria.Sun4": "能见到可爱的@真让我开心。$1#$b#连你面容露出的浅浅微笑也是那么动人。$4",
-        "Dialogue.Maria.Sun6": "真高兴你又来见我。$1#$b#和你待在一起总是会让我心情好起来。$0",
-        "Dialogue.Maria.Sun8": "如果你被什么人所烦扰可以和我说哦。$1#$b#我会为你解决他们，他们不会再让你面露愁色。$0",
-        "Dialogue.Maria.Sun10": "我会一直陪伴着你，@$1#$b#相信我，你并不需要除我之外的人陪伴着你。$4"
-        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-        /*-----------------------------------------------------------------------------------------------------------*/
+	/* [Dialogue] Maria */
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	//[Maria Dialogue] Special
+	"SDS.Dialogue.Maria.Introduction": "你是新来的吧？$1#$b#我也是哦，我叫玛利亚，让我们互相关照吧？$1",
+	"SDS.Dialogue.Maria.breakUp": "%玛利亚轻轻叹了口气。#$b#%尽管他什么也没说，但你还是能够从他美丽的脸上感觉到失望。",
+	"SDS.Dialogue.Maria.divorced": "@……你还有什么想要说的吗？$2#$b#%玛利亚移开视线。",
+	"SDS.Dialogue.Maria.dumped_Guys": "我认为我需要冷静下来……我暂时不想看见@。$2",
+	"SDS.Dialogue.Maria.secondChance_Guys": "无论@做错了什么我都会原谅@的。$1#$b#但是我不希望再发生这样的事情呢……。",
+	"SDS.Dialogue.Maria.joja_Begin": "@，你加入了JOJA吗？$0#$b#那么往后请加油哦。$1",
+	"SDS.Dialogue.Maria.movieTheater": "@会邀请我一同观看电影吗？$1",
+	"SDS.Dialogue.Maria.MovieInvitation": "我当然愿意与@同行！$1",
+	"SDS.Dialogue.Maria.AcceptBouquet": "我真开心我们是心意相通的，@。$4",
+	"SDS.Dialogue.Maria.give_pendant": "Darling，果然我们是天生一对，我爱你……。$4",
+	"SDS.Dialogue.Maria.SpouseStardrop": "请收下这个吧Darling，这是我特意为了你而准备的。$1#$b#我爱你，在这世间仅有你合适它。",
+	"SDS.Dialogue.Maria.DumpsterDiveComment": "你想要什么我可以帮你的。$2",
+	"SDS.Dialogue.Maria.GreenRain": "天气还真是多变……@不如在教堂里待到雨停吧？$1#$b#这样的天气什么都做不了不是吗？",
+	"SDS.Dialogue.Maria.AcceptGift_(O)StardropTea": "你要把这样的东西送给我吗？谢谢你@！$1",
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	//[Maria Dialogue] Resort
+	"SDS.Dialogue.Maria.Resort_Entering": "@，你也来度假吗？需要我给你涂一些防晒霜吗？$1",
+	"SDS.Dialogue.Maria.Resort_Leaving": "不要在太阳下待太久哦，可是会被晒伤的。$0",
+	"SDS.Dialogue.Maria.Resort_Shore": "小心脚下会有碎石哦。$1#$b#要是被划伤了可不好呢，$2",
+	"SDS.Dialogue.Maria.Resort_Dance": "想要和我一起跳舞吗？$1",
+	"SDS.Dialogue.Maria.Resort_Chair": "这座岛有很多值得去看的地方呢，@要和我一起吗？$0",
+	"SDS.Dialogue.Maria.Resort_Bar": "嗯……请不要摄入太多的酒精哦，我并不想让旁人看见你脸红的模样。$1",
+	"SDS.Dialogue.Maria.Resort": "不要离开我太远哦，我怕会找不到你。$0",
+	"SDS.Dialogue.Maria.Resort_Towel": "@要和我在这里躺一会吗？$1",
+	"SDS.Dialogue.Maria.Resort_Umbrella": "在伞下就不怕被晒伤了呢，@要和我在这里待一会吗？$1",
+	"SDS.Dialogue.Maria.Resort_Wander": "想要和我四处走走吗？$1#$b#我想和@一起逛这座岛。$0",
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	//[Maria Dialogue] Holiday
+	"SDS.Dialogue.Maria.danceRejection": "现在还不是我们共舞的时刻啊……$2#$b#希望我不会坏了你的兴致。$3",
+	"SDS.Dialogue.Maria.spring_1_2": "新年快乐，感谢你陪我度过的这一年", //新年
+	"SDS.Dialogue.Maria.spring_12": "你喜欢那些彩蛋吗？$1#$b#那么我会为你加油的$0", //蛋蛋节前一天
+	"SDS.Dialogue.Maria.spring_23": "你喜欢跳舞吗？$0#$b#我想我还不擅长那些舞步，", //花舞节前一天
+	"SDS.Dialogue.Maria.summer_10": "希望不会有人在锅里放奇怪的东西呢……$1", //宴会前一天
+	"SDS.Dialogue.Maria.summer_27": "真是神秘且梦幻的生物，还拥有转瞬即逝的美丽$1", //月光水母前一天
+	"SDS.Dialogue.Maria.fall_15": "你一定准备好展会要展示出来的东西了吧？$1#$b#我会为你加油的$0", //展览会前一天
+	"SDS.Dialogue.Maria.fall_26": "周围充斥着南瓜的气味呢$1#$b#很不错不是吗？$6", //万灵节前一天
+	"SDS.Dialogue.Maria.winter_7": "要多穿些衣服哦，生病了有人要担心的$1", //冰雪节前一天
+	"SDS.Dialogue.Maria.winter_24": "我为我的'秘密朋友'准备了一份神奇的礼物，真希望他会喜欢$6", //冬日星节日前一天
+	"SDS.Dialogue.Maria.SpouseFlowerDanceAccept_Maria": "如果是@的请求当然没问题哦。$1#$b#我十分愿意与你共舞。$4",
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	//[Maria Dialogue] Rejection
+	"SDS.Dialogue.Maria.rejectNPCA": "@……请不要捉弄我好吗？$2",
+	"SDS.Dialogue.Maria.rejectNPCB": "@，我认为现在还不是时候，我会当作什么都没有发生的。$3",
+	"SDS.Dialogue.Maria.reject_two_heartA": "@，这真是美丽的花束，是用来做什么的呢？$0",
+	"SDS.Dialogue.Maria.reject_two_heartB": "你的想法，是真心的吗……？$3",
+	"SDS.Dialogue.Maria.reject_four_heartA": "请恕我无法认同这样的事情，抱歉。$3",
+	"SDS.Dialogue.Maria.reject_four_heartB": "@，你究竟是无意还是有意的呢？$3",
+	"SDS.Dialogue.Maria.engageA": "我不想做让@为难的事情，所以请@离开吧……？$3",
+	"SDS.Dialogue.Maria.engageB": "我会当真的@，所以请你不要再捉弄我了……。$2",
+	"SDS.Dialogue.Maria.marriedA": "我无法理解@想做什么。$3#$b#如果@的意思是不想持续目前的婚姻我可以帮助@，但这真的是@所想的吗……？$2",
+	"SDS.Dialogue.Maria.marriedB": "我们不应该是这样的，这和我所想的不一样……。$3#$b#我会当作没发生那样与@继续相处的，请不要再这样捉弄我好吗？$2",
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	//[Maria Dialogue] General/Spring
+	"SDS.Dialogue.Maria.Mon": "教堂的钟声敲响时你会想些什么呢？听闻神的呓语吗？$0#$b#这个回答真可爱。$1",
+	"SDS.Dialogue.Maria.Mon2": "没什么比见到你还令我感到开心的了，@，你也是这样想的对吧？$1",
+	"SDS.Dialogue.Maria.Mon4": "你是特意来见我的吗？$1#$b#真让我开心，希望你能拥有美好的一天啊。$6",
+	"SDS.Dialogue.Maria.Mon6": "@?$0#$b#你愿意和我在这里共赏风景吗？$1#$b#很不错对吧？我也这样觉得。$4",
+	"SDS.Dialogue.Maria.Mon8": "@会相信神爱着世人这样的说法吗？$1#$b#或许在某些方面我与@的想法一致呢。$0#$b#%玛利亚捂嘴笑了起来",
+	"SDS.Dialogue.Maria.Mon10": "今天的太阳很耀眼对吧？$1#$b#我一直这样认为。$4",
+	/*~*~*~*/
+	"SDS.Dialogue.Maria.Tue": "@在想什么？$1#$b#或许我可以帮助@分担烦恼。$6",
+	"SDS.Dialogue.Maria.Tue2": "今天的阳光很温暖呢，很适合在同样温暖的草坪上小憩。$1",
+	"SDS.Dialogue.Maria.Tue4": "@一直都是那么精力充沛的样子。$0#$b#也要注意休息才行哦。$6",
+	"SDS.Dialogue.Maria.Tue6": "你有注意过森林里的那栋高塔吗？$0#$b#据说里面居住一个很神秘的人呢。$1",
+	"SDS.Dialogue.Maria.Tue8": "你会每天都来看我吗？$1#$b#我想每天都能见到可爱的@。$4",
+	"SDS.Dialogue.Maria.Tue10": "Darling，你喜欢我这样称呼你吗？$4#$b#希望不会让你觉得冒昧。$0",
+	/*~*~*~*/
+	"SDS.Dialogue.Maria.Wed": "能够看见@可爱的面容真是令我开心。$1",
+	"SDS.Dialogue.Maria.Wed2": "没什么能够比看见@还能让人开心的了。$0#$b#@也是因为想见我才来的吧？",
+	"SDS.Dialogue.Maria.Wed4": "今日的太阳真是夺目且绚丽。$1#$b#@你觉得呢？是不是和我所想的一样？$6",
+	"SDS.Dialogue.Maria.Wed6": "清风中充斥着泥土的味道。$1#$b#我并不讨厌这样的气味哦。$0",
+	"SDS.Dialogue.Maria.Wed8": "我总是很开心能见到你，不打算多来看看我吗？$1#$b#和你相处真的很愉快。$4",
+	"SDS.Dialogue.Maria.Wed10": "@，你在想些什么？$1#$b#希望不是除我之外的其他人。$0",
+	/*~*~*~*/
+	"SDS.Dialogue.Maria.Thu": "今天的天气真不错。$1#$b#希望你也能度过美好的一日",
+	"SDS.Dialogue.Maria.Thu2": "@和所有人都相处的很好呢。$0#$b#真让人羡慕，我都很少与人相处。$6",
+	"SDS.Dialogue.Maria.Thu4": "在矿洞的时候要小心哦。$1#$b#受伤了会有人要担心你的。$2",
+	"SDS.Dialogue.Maria.Thu6": "你有得到足够的休息吗？因为你看起来很疲惫。$2#$b#@要多注意休息啊",
+	"SDS.Dialogue.Maria.Thu8": "@看起来很喜欢小动物呢。$1#$b#我可以去你的农场里看看吗。$6",
+	"SDS.Dialogue.Maria.Thu10": "据说某些教义的信徒会为他们的神咏唱圣歌。$1#$b#@对这样的行为如何看待呢……？",
+	/*~*~*~*/
+	"SDS.Dialogue.Maria.Fri": "@，你想来些糖果吗？[612]$1#$b#我就知道你会喜欢的。$0",
+	"SDS.Dialogue.Maria.Fri2": "%玛利亚看起来在想什么，还是不要打扰到他比较好",
+	"SDS.Dialogue.Maria.Fri4": "很高兴看见你。$1#$b#每次你来看我都会让我很开心。$0#$b#你明天还会来的对吧？$6",
+	"SDS.Dialogue.Maria.Fri6": "@,你累了吧？要不要来一些点心缓解一下疲劳呢？[211]$1",
+	"SDS.Dialogue.Maria.Fri8": "见到你会让我一整天都开心起来。$1#$b#你是特意来见我的对吗？$0",
+	"SDS.Dialogue.Maria.Fri10": "你的人际交往真的很好呢@。$1#$b#但我更希望你能只在乎我一个……$2",
+	/*~*~*~*/
+	"SDS.Dialogue.Maria.Sat": "@你今天看起来真可爱。$1#$b#笑容也是。$0",
+	"SDS.Dialogue.Maria.Sat2": "你愿意告诉我你以前的生活吗?$0#$b#只是很好奇。$1",
+	"SDS.Dialogue.Maria.Sat4": "你有得到足够的休息对吧？$1#$b#你今天看起来很精神。$6",
+	"SDS.Dialogue.Maria.Sat6": "你今天过的怎么样？$1#$b#能够看见你对我来说就是美好的一天了$1",
+	"SDS.Dialogue.Maria.Sat8": "我更希望你只与我一人相处。$2#$b#只是一些私心而已，但你不会想让你那些朋友消失吧？$1",
+	"SDS.Dialogue.Maria.Sat10": "Darling，你真可爱，愿意和我共处一天吗？$1#$b#不会有任何人打扰，只有我们二人的世间。$4",
+	/*~*~*~*/
+	"SDS.Dialogue.Maria.Sun": "这个周末你想怎样度过呢？$0#$b#要和我一起吗？$1",
+	"SDS.Dialogue.Maria.Sun2": "嗨，你在忙吗？$0#$b#那么要加油哦",
+	"SDS.Dialogue.Maria.Sun4": "能见到可爱的@真让我开心。$1#$b#连你面容露出的浅浅微笑也是那么动人。$4",
+	"SDS.Dialogue.Maria.Sun6": "真高兴你又来见我。$1#$b#和你待在一起总是会让我心情好起来。$0",
+	"SDS.Dialogue.Maria.Sun8": "如果你被什么人所烦扰可以和我说哦。$1#$b#我会为你解决他们，他们不会再让你面露愁色。$0",
+	"SDS.Dialogue.Maria.Sun10": "我会一直陪伴着你，@$1#$b#相信我，你并不需要除我之外的人陪伴着你。$4"
+	/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+	/*-----------------------------------------------------------------------------------------------------------*/
 }

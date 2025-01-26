@@ -1,0 +1,40 @@
+{
+    /* [Dialogue] Yunmo */
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Yunmo Dialogue] General/Spring
+    "SDS.Dialogue.Yunmo.spring_Mon": "人类？找我有什么事吗？$0",
+    "SDS.Dialogue.Yunmo.spring_Tue": "不要告诉任何人我的位置，以及你见过我这件事。$0",
+    "SDS.Dialogue.Yunmo.spring_Wed": "你又来了，人类。希望你来的时候没有被一些奇怪的东西注意到。$0",
+    "SDS.Dialogue.Yunmo.spring_Thu": "……#$b#%它正忙着自己的事，没有注意到你。",
+    "SDS.Dialogue.Yunmo.spring_Fri": "在我生活的世界里，危险无处不在，所以我绝不敢掉以轻心。$0",
+    "SDS.Dialogue.Yunmo.spring_Sat": "我有一个苍狼手杖不知道放在哪了，如果你能帮我找到的话就归你了。$0",
+    "SDS.Dialogue.Yunmo.spring_Sun": "我不会轻易挑起争端，但如果有人肆意践踏我的领地那就另当别论了……$0#$b#别多想，我知道你没有恶意。$1",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Yunmo Dialogue] Summer
+    "SDS.Dialogue.Yunmo.summer_Mon": "想与我交好？$0#$b#……这听上去有些荒唐，我还从没和一个人类建立过友好关系。$0",
+    "SDS.Dialogue.Yunmo.summer_Tue": "你最好在夜晚降临前离开，谁也保不准晚上会出现什么。$0",
+    "SDS.Dialogue.Yunmo.summer_Wed": "你倒是和我印象中的人类不一样。#$b#当然，这并不代表我会对人类改观。",
+    "SDS.Dialogue.Yunmo.summer_Thu": "谢谢你送的一些礼物，如果你有什么想要的可以告诉我，我会尽可能帮你找到。$1",
+    "SDS.Dialogue.Yunmo.summer_Fri": "你的身上经常会有战斗过的气息和痕迹，我欣赏你的勇气，但也希望你不要因为一时失误而受伤。$0",
+    "SDS.Dialogue.Yunmo.summer_Sat": "我有时会思考人类的行为，越思考就越觉得，我们是永远不能互相理解的种族。$0",
+    "SDS.Dialogue.Yunmo.summer_Sun": "这个地方有很多奇怪的家伙，如果可以，还是别和他们打上交道为好。",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Yunmo Dialogue] Fall
+    "SDS.Dialogue.Yunmo.fall_Mon": "你好，人类，我正在打磨我的爪子，为接下来的捕猎做准备。",
+    "SDS.Dialogue.Yunmo.fall_Tue": "你送我的那些人类使用的东西……$0#$b#我想谢谢你的好意，但我并不需要，我们有自己的方式解决。",
+    "SDS.Dialogue.Yunmo.fall_Wed": "我必须时刻保持理智和清醒，不能让任何情绪影响我的判断和决策。#$b#我想你应该能理解这点。",
+    "SDS.Dialogue.Yunmo.fall_Thu": "如果你被一些奇怪的家伙缠上了……$0#$b#好吧，或许我可以帮帮你。$1",
+    "SDS.Dialogue.Yunmo.fall_Fri": "我有时会进入森林深处，那里是个不错的地方，同时也充满了危险，如果你要进去，千万要小心。$0",
+    "SDS.Dialogue.Yunmo.fall_Sat": "现在是最应该捕猎的时候，接下来可就是冬天了。",
+    "SDS.Dialogue.Yunmo.fall_Sun": "我能感受到你和其他人类不太一样，充满了勇气和力量……#$b#和你打交道我不会感到厌烦。$1",
+    /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    //[Yunmo Dialogue] Winter
+    "SDS.Dialogue.Yunmo.winter_Mon": "你好，人类，最近过得怎么样？$1",
+    "SDS.Dialogue.Yunmo.winter_Tue": "冬天到了，希望你囤了足够多的食物。$0",
+    "SDS.Dialogue.Yunmo.winter_Wed": "你和我们第一次见面时变了不少，你自己或许没有察觉，但我们是对变化是很敏感的种族。$1",
+    "SDS.Dialogue.Yunmo.winter_Thu": "雪会掩盖很多痕迹，但气味仍然能在风中寻找到，尽管它很微弱。",
+    "SDS.Dialogue.Yunmo.winter_Fri": "为了利益而互相残害这些事，我曾经见得不少，实在令人不齿。",
+    "SDS.Dialogue.Yunmo.winter_Sat": "你看上去比以前健壮不少，应该足以度过这个寒冬。",
+    "SDS.Dialogue.Yunmo.winter_Sun": "如果遇到进退两难的局面，不如诚实面对自己的内心，那些下意识的反应或许就是最优解。"
+    /*-----------------------------------------------------------------------------------------------------------*/
+}

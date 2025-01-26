@@ -20,7 +20,7 @@
             {
               "x": 2,
               "y": 3
-            }
+            },
           ],
           "RelativeDistance": 1,
           "MapName": "Custom_SDS.Elevator1",
@@ -31,7 +31,7 @@
           },
           "UnlockableRequirement": {
             "type": "null",
-            "ID": "null"
+            "ID": "null",
           }
         },
         {
@@ -51,7 +51,7 @@
             {
               "x": 2,
               "y": 3
-            }
+            },
           ],
           "RelativeDistance": 2,
           "MapName": "Custom_SDS.Elevator1.1",
@@ -62,7 +62,7 @@
           },
           "UnlockableRequirement": {
             "type": "event",
-            "ID": "19215214"
+            "ID": "19215275",
           }
         },
         {
@@ -82,7 +82,7 @@
             {
               "x": 2,
               "y": 3
-            }
+            },
           ],
           "RelativeDistance": 3,
           "MapName": "Custom_SDS.Elevator1.2",
@@ -93,9 +93,9 @@
           },
           "UnlockableRequirement": {
             "type": "null",
-            "ID": "null"
+            "ID": "null",
           }
-        }
+        },
       ],
       "TotalMaps": 3,
       "UIBox": "assets/Apartment_Elevator_UIbox.png",
@@ -112,7 +112,7 @@
         0.43922,
         0.50196,
         0.56471
-      ]
+      ],
     },
     "Apartment_Elevator2": {
       "detailedInfos": [
@@ -134,7 +134,7 @@
             {
               "x": 6,
               "y": 3
-            }
+            },
           ],
           "RelativeDistance": 1,
           "MapName": "Custom_SDS.Elevator2",
@@ -145,7 +145,7 @@
           },
           "UnlockableRequirement": {
             "type": "null",
-            "ID": "null"
+            "ID": "null",
           }
         },
         {
@@ -165,7 +165,7 @@
             {
               "x": 6,
               "y": 3
-            }
+            },
           ],
           "RelativeDistance": 2,
           "MapName": "Custom_SDS.Elevator2.1",
@@ -176,7 +176,7 @@
           },
           "UnlockableRequirement": {
             "type": "null",
-            "ID": "null"
+            "ID": "null",
           }
         },
         {
@@ -196,7 +196,7 @@
             {
               "x": 6,
               "y": 3
-            }
+            },
           ],
           "RelativeDistance": 3,
           "MapName": "Custom_SDS.Elevator2.2",
@@ -207,9 +207,9 @@
           },
           "UnlockableRequirement": {
             "type": "null",
-            "ID": "null"
+            "ID": "null",
           }
-        }
+        },
       ],
       "TotalMaps": 3,
       "UIBox": "assets/Apartment_Elevator_UIbox.png",
@@ -226,7 +226,7 @@
         0.43922,
         0.50196,
         0.56471
-      ]
+      ],
     },
     "SDS_Transmit_City": {
       "detailedInfos": [
@@ -239,7 +239,7 @@
             {
               "x": 5,
               "y": 29
-            }
+            },
           ],
           "RelativeDistance": 1,
           "MapName": "Custom_SDS.cliff",
@@ -250,7 +250,7 @@
           },
           "UnlockableRequirement": {
             "type": "event",
-            "ID": "19215242"
+            "ID": "19215242",
           }
         },
         {
@@ -262,7 +262,7 @@
             {
               "x": 160,
               "y": 84
-            }
+            },
           ],
           "RelativeDistance": 2,
           "MapName": "Town",
@@ -273,7 +273,7 @@
           },
           "UnlockableRequirement": {
             "type": "event",
-            "ID": "19215238"
+            "ID": "19215238",
           }
         },
         {
@@ -285,7 +285,7 @@
             {
               "x": 32,
               "y": 20
-            }
+            },
           ],
           "RelativeDistance": 3,
           "MapName": "Custom_SDS.sea",
@@ -296,7 +296,7 @@
           },
           "UnlockableRequirement": {
             "type": "event",
-            "ID": "19215241"
+            "ID": "19215241",
           }
         },
         {
@@ -308,7 +308,7 @@
             {
               "x": 20,
               "y": 5
-            }
+            },
           ],
           "RelativeDistance": 4,
           "MapName": "Custom_Woods2",
@@ -319,7 +319,7 @@
           },
           "UnlockableRequirement": {
             "type": "event",
-            "ID": "19215240"
+            "ID": "19215240",
           }
         },
         {
@@ -331,7 +331,7 @@
             {
               "x": 44,
               "y": 25
-            }
+            },
           ],
           "RelativeDistance": 5,
           "MapName": "Custom_SDS.City",
@@ -342,9 +342,9 @@
           },
           "UnlockableRequirement": {
             "type": "event",
-            "ID": "19215239"
+            "ID": "19215239",
           }
-        }
+        },
       ],
       "TotalMaps": 5,
       "UIBox": "assets/SDS_Transmit_UIbox.png",
@@ -361,7 +361,145 @@
         0.43922,
         0.50196,
         0.56471
-      ]
-    }
+      ],
+    },
+	//车站
+    "SDS_Station": {
+      "detailedInfos": [
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 14,
+              "y": 11
+            },
+            {
+              "x": 15,
+              "y": 11
+            },
+            {
+              "x": 16,
+              "y": 11
+            },
+            {
+              "x": 14,
+              "y": 10
+            },
+            {
+              "x": 15,
+              "y": 10
+            },
+            {
+              "x": 16,
+              "y": 10
+            },
+          ],
+          "RelativeDistance": 1,
+          "MapName": "BusStop",
+          "ButtonText": "  鹈鹕镇",
+          "StandingTilePositon": {
+            "x": 16,
+            "y": 12
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null",
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 60,
+              "y": 28
+            },
+            {
+              "x": 61,
+              "y": 28
+            },
+            {
+              "x": 62,
+              "y": 28
+            },
+            {
+              "x": 63,
+              "y": 28
+            },
+            {
+              "x": 60,
+              "y": 27
+            },
+            {
+              "x": 61,
+              "y": 27
+            },
+            {
+              "x": 62,
+              "y": 27
+            },
+            {
+              "x": 63,
+              "y": 27
+            },
+          ],
+          "RelativeDistance": 2,
+          "MapName": "Custom_SDS.City",
+          "ButtonText": "  祖祖城中心",
+          "StandingTilePositon": {
+            "x": 59,
+            "y": 28
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null",
+          }
+        },
+        {
+          "InteractiveTilePosition": [
+            {
+              "x": 73,
+              "y": 3
+            },
+            {
+              "x": 74,
+              "y": 3
+            },
+            {
+              "x": 75,
+              "y": 3
+            },
+            {
+              "x": 76,
+              "y": 3
+            },
+          ],
+          "RelativeDistance": 3,
+          "MapName": "Custom_SDS.CityBeach",
+          "ButtonText": "  祖祖城海港",
+          "StandingTilePositon": {
+            "x": 74,
+            "y": 4
+          },
+          "UnlockableRequirement": {
+            "type": "null",
+            "ID": "null",
+          }
+        },
+      ],
+      "TotalMaps": 3,
+      "UIBox": "assets/SDS_Station_UIbox.png",
+      "ButtonUIBox": "assets/SDS_Station_ButtonUIBox.png",
+      "CloseButtonBox": "assets/SDS_Station_UpperRightCloseButtonBox.png",
+      "LockedButtonBox": "assets/SDS_Station_LockedButtonUIBox.png",
+      "EachCost": 500,
+      "TextColor": [
+        0.09804,
+        0.09804,
+        0.43922
+      ],
+      "ShadowColor": [
+        0.43922,
+        0.50196,
+        0.56471
+      ],
+    },
   }
 }

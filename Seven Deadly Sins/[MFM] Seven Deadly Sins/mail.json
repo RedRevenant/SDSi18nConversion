@@ -193,6 +193,54 @@
         "Recipe": "SDS_Specialchurchlemonade"
     },
     {
+        "Id": "SDS.present8",
+        "GroupId": "SDS.present8",
+        "Title": "SDS.present8.Title",
+        "Text": "SDS.present8.Text",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Meowth",
+                "FriendshipLevel": 8
+            }
+        ],
+        "Recipe": "SDS_Demonfishfeast"
+    },
+    {
+        "Id": "SDS.present9",
+        "GroupId": "SDS.present9",
+        "Title": "SDS.present9.Title",
+        "Text": "SDS.present9.Text",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Theodor",
+                "FriendshipLevel": 10
+            }
+        ],
+        "Recipe": "SDS_Mushroomseasnakesoup"
+    },
+    {
+        "Id": "SDS.present10",
+        "GroupId": "SDS.present10",
+        "Title": "SDS.present10.Title",
+        "Text": "SDS.present10.Text",
+        "WhichBG": 0,
+        "TextColor": 8,
+        "UpperRightCloseButton": null,
+        "FriendshipConditions": [
+            {
+                "NpcName": "Wim",
+                "FriendshipLevel": 8
+            }
+        ],
+        "Recipe": "SDS_Goldshrimpballswithcheese"
+    },
+    {
         "Id": "SDS.Untitled41",
         "GroupId": "SDS.Untitled41",
         "Title": "SDS.Untitled41.Title",

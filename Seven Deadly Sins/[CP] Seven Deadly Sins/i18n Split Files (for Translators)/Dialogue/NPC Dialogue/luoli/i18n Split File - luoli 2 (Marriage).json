@@ -2,109 +2,109 @@
     /* [Dialogue] luoli (Marriage) */
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Special
-    "Dialogue.luoli.Marriage.patio_luoli": "这里能看见的东西真多呢，就是有些无聊。",
-    "Dialogue.luoli.Marriage.funLeave_luoli": "我出门咯，你想去哪里就去哪吧。",
-    "Dialogue.luoli.Marriage.funReturn_luoli": "你今天过的怎么样？#$b#等等你不会要说给我听吧？才不要听呢。$3",
-    "Dialogue.luoli.Marriage.spouseRoom_luoli": "我只是换了个地方继续制作衣服而已，不用管我。",
+    "SDS.MarriageDialogue.luoli.patio_luoli": "这里能看见的东西真多呢，就是有些无聊。",
+    "SDS.MarriageDialogue.luoli.funLeave_luoli": "我出门咯，你想去哪里就去哪吧。",
+    "SDS.MarriageDialogue.luoli.funReturn_luoli": "你今天过的怎么样？#$b#等等你不会要说给我听吧？才不要听呢。$3",
+    "SDS.MarriageDialogue.luoli.spouseRoom_luoli": "我只是换了个地方继续制作衣服而已，不用管我。",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Rainy
-    "Dialogue.luoli.Marriage.Rainy_Day_0": "天呐，今天下雨了！$3#$b#那我还是待在家里好了，晚安。$1",
-    "Dialogue.luoli.Marriage.Rainy_Day_1": "记得把我的衣服从外面拿回来哦，我就不出去。$1#$b#我要用上一整天去诅咒那些该死的人~，哇，想想就开心。$1",
-    "Dialogue.luoli.Marriage.Rainy_Day_2": "你出门吗？路挺滑的可别摔跟头。[728]$0#$b#我才不会给蠢蛋洗脏衣服呢。$2",
-    "Dialogue.luoli.Marriage.Rainy_Day_3": "我可不会到外面被淋成落汤鸡。$1#$b#那么是谁会被淋成落汤鸡呢，不会是你吧？$0",
-    "Dialogue.luoli.Marriage.Rainy_Day_4": "我想我要赶制一些衣服然后拿到我城市的店里售卖，可不要打扰我哦。$0",
+    "SDS.MarriageDialogue.luoli.Rainy_Day_0": "天呐，今天下雨了！$3#$b#那我还是待在家里好了，晚安。$1",
+    "SDS.MarriageDialogue.luoli.Rainy_Day_1": "记得把我的衣服从外面拿回来哦，我就不出去。$1#$b#我要用上一整天去诅咒那些该死的人~，哇，想想就开心。$1",
+    "SDS.MarriageDialogue.luoli.Rainy_Day_2": "你出门吗？路挺滑的可别摔跟头。[728]$0#$b#我才不会给蠢蛋洗脏衣服呢。$2",
+    "SDS.MarriageDialogue.luoli.Rainy_Day_3": "我可不会到外面被淋成落汤鸡。$1#$b#那么是谁会被淋成落汤鸡呢，不会是你吧？$0",
+    "SDS.MarriageDialogue.luoli.Rainy_Day_4": "我想我要赶制一些衣服然后拿到我城市的店里售卖，可不要打扰我哦。$0",
     /*~*~*~*/
-    "Dialogue.luoli.Marriage.Rainy_Night_0": "呜哇，落汤鸡@回来了，真可怜啊。$1",
-    "Dialogue.luoli.Marriage.Rainy_Night_1": "我猜你肯定喜欢我新做的衣服。$1#$b#亲情价这件就卖你20000G吧，原价可是40000G哦，我对你好吧？$0",
-    "Dialogue.luoli.Marriage.Rainy_Night_2": "你已经是一个成熟的人了，所以摔倒的脏衣服要自己去洗哦。$1#$b#我的手只做衣服不洗衣服哦。$3",
-    "Dialogue.luoli.Marriage.Rainy_Night_3": "我要睡觉了，晚饭在冰箱里哦。$1#$b#什么？你问晚饭是什么？$0#$b#诶呀……也就是一些'巧克力'味道的黑色饼干啦，你朋友送过来给你吃的。$2",
-    "Dialogue.luoli.Marriage.Rainy_Night_4": "你怎么湿成这样啊，真可怜。[727]$2#$e#你还打算站在这里多久？想将衣服自然风干吗？$3",
-    "Dialogue.luoli.Marriage.Rainy_Night_5": "你要是再晚回来点身上的钱就要没咯。$3#$b#诶呀，我该去睡觉咯，你要做什么就做什么去吧。$1",
+    "SDS.MarriageDialogue.luoli.Rainy_Night_0": "呜哇，落汤鸡@回来了，真可怜啊。$1",
+    "SDS.MarriageDialogue.luoli.Rainy_Night_1": "我猜你肯定喜欢我新做的衣服。$1#$b#亲情价这件就卖你20000G吧，原价可是40000G哦，我对你好吧？$0",
+    "SDS.MarriageDialogue.luoli.Rainy_Night_2": "你已经是一个成熟的人了，所以摔倒的脏衣服要自己去洗哦。$1#$b#我的手只做衣服不洗衣服哦。$3",
+    "SDS.MarriageDialogue.luoli.Rainy_Night_3": "我要睡觉了，晚饭在冰箱里哦。$1#$b#什么？你问晚饭是什么？$0#$b#诶呀……也就是一些'巧克力'味道的黑色饼干啦，你朋友送过来给你吃的。$2",
+    "SDS.MarriageDialogue.luoli.Rainy_Night_4": "你怎么湿成这样啊，真可怜。[727]$2#$e#你还打算站在这里多久？想将衣服自然风干吗？$3",
+    "SDS.MarriageDialogue.luoli.Rainy_Night_5": "你要是再晚回来点身上的钱就要没咯。$3#$b#诶呀，我该去睡觉咯，你要做什么就做什么去吧。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Indoor
-    "Dialogue.luoli.Marriage.Indoor_Day_0": "早上好。$1#$b#%洛离打了个哈欠。#$b#如果没什么需要我帮你的我就要回去睡觉了，这么早醒来还真不是我能做出来的。$2",
-    "Dialogue.luoli.Marriage.Indoor_Day_1": "这是我的爱心早餐。[194]$1#$b#你问这是什么？$2#$b#嗯……就叫它洛离招牌甜蜜鸡蛋羹吧，里面放入了满满一袋的糖哦，快吃吧。$1",
-    "Dialogue.luoli.Marriage.Indoor_Day_2": "让我想想今天做什么比较好呢。$0#$b#嗯？你说不让我靠近厨房是什么意思？$2#$b#……$2#$b#叽叽咕咕，叽叽咕咕。$3",
-    "Dialogue.luoli.Marriage.Indoor_Day_3": "嗯嗯。我要去工作了，今天晚上我想吃肉。$1",
-    "Dialogue.luoli.Marriage.Indoor_Day_4": "今天可真是一个好日子呢。$1#$b#不过我要开工了，我不是很想花你的钱啦……感觉没必要呢。$0",
+    "SDS.MarriageDialogue.luoli.Indoor_Day_0": "早上好。$1#$b#%洛离打了个哈欠。#$b#如果没什么需要我帮你的我就要回去睡觉了，这么早醒来还真不是我能做出来的。$2",
+    "SDS.MarriageDialogue.luoli.Indoor_Day_1": "这是我的爱心早餐。[194]$1#$b#你问这是什么？$2#$b#嗯……就叫它洛离招牌甜蜜鸡蛋羹吧，里面放入了满满一袋的糖哦，快吃吧。$1",
+    "SDS.MarriageDialogue.luoli.Indoor_Day_2": "让我想想今天做什么比较好呢。$0#$b#嗯？你说不让我靠近厨房是什么意思？$2#$b#……$2#$b#叽叽咕咕，叽叽咕咕。$3",
+    "SDS.MarriageDialogue.luoli.Indoor_Day_3": "嗯嗯。我要去工作了，今天晚上我想吃肉。$1",
+    "SDS.MarriageDialogue.luoli.Indoor_Day_4": "今天可真是一个好日子呢。$1#$b#不过我要开工了，我不是很想花你的钱啦……感觉没必要呢。$0",
     /*~*~*~*/
-    "Dialogue.luoli.Marriage.Indoor_Night_0": "欢迎回来……我很困啦，有什么问题就自己解决吧？$0",
-    "Dialogue.luoli.Marriage.Indoor_Night_1": "今天的晚上就吃我做的甜蜜晚餐吧？$1#$b#我就叫它洛离牌甜蜜海胆羹吧？快吃吧？$0",
-    "Dialogue.luoli.Marriage.Indoor_Night_2": "诶呀，我在想我下一次服装该怎么设计啦。$1#$b#你不要过来打扰我哦。$0",
-    "Dialogue.luoli.Marriage.Indoor_Night_3": "晚上你想吃什么呢？$1#$b#啊，你可不要误会，怎么可能是我做给你呢？$0#$b#当然是你去给我做晚餐啦！快去吧！$1",
-    "Dialogue.luoli.Marriage.Indoor_Night_4": "今天晚上能看见星星呢。$2#$b#嗯？我不想出去看那种东西啦，怪麻烦的，我只是要睡觉了。",
-    "Dialogue.luoli.Marriage.Indoor_Night_5": "晚餐在冰箱里哦，今天就让你品尝一下我的手艺。$0#$b#真是便宜小小的@了，竟然能吃到洛离大人制作的美食呢。$1",
+    "SDS.MarriageDialogue.luoli.Indoor_Night_0": "欢迎回来……我很困啦，有什么问题就自己解决吧？$0",
+    "SDS.MarriageDialogue.luoli.Indoor_Night_1": "今天的晚上就吃我做的甜蜜晚餐吧？$1#$b#我就叫它洛离牌甜蜜海胆羹吧？快吃吧？$0",
+    "SDS.MarriageDialogue.luoli.Indoor_Night_2": "诶呀，我在想我下一次服装该怎么设计啦。$1#$b#你不要过来打扰我哦。$0",
+    "SDS.MarriageDialogue.luoli.Indoor_Night_3": "晚上你想吃什么呢？$1#$b#啊，你可不要误会，怎么可能是我做给你呢？$0#$b#当然是你去给我做晚餐啦！快去吧！$1",
+    "SDS.MarriageDialogue.luoli.Indoor_Night_4": "今天晚上能看见星星呢。$2#$b#嗯？我不想出去看那种东西啦，怪麻烦的，我只是要睡觉了。",
+    "SDS.MarriageDialogue.luoli.Indoor_Night_5": "晚餐在冰箱里哦，今天就让你品尝一下我的手艺。$0#$b#真是便宜小小的@了，竟然能吃到洛离大人制作的美食呢。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Outdoor
-    "Dialogue.luoli.Marriage.Outdoor_0": "今天看起来天气不错，我就待会。#$b#忙你的去吧，可不要摔倒哦。",
-    "Dialogue.luoli.Marriage.Outdoor_1": "把你的菜送我一点。$1#$b#你问做什么？$2#$b#当然是染料了，衣服都是需要染料的啦。",
-    "Dialogue.luoli.Marriage.Outdoor_2": "你要自己去品尝你那些朋友送给你的美食啦，我才不要吃那些东西。$3",
-    "Dialogue.luoli.Marriage.Outdoor_3": "今天你去哪？#$b#我可能要去一趟城里呢。$1",
-    "Dialogue.luoli.Marriage.Outdoor_4": "呜哇，外面的风吹得我好冷，我要回去了。$3",
+    "SDS.MarriageDialogue.luoli.Outdoor_0": "今天看起来天气不错，我就待会。#$b#忙你的去吧，可不要摔倒哦。",
+    "SDS.MarriageDialogue.luoli.Outdoor_1": "把你的菜送我一点。$1#$b#你问做什么？$2#$b#当然是染料了，衣服都是需要染料的啦。",
+    "SDS.MarriageDialogue.luoli.Outdoor_2": "你要自己去品尝你那些朋友送给你的美食啦，我才不要吃那些东西。$3",
+    "SDS.MarriageDialogue.luoli.Outdoor_3": "今天你去哪？#$b#我可能要去一趟城里呢。$1",
+    "Outdoor_4": "呜哇，外面的风吹得我好冷，我要回去了。$3",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Kids
-    "Dialogue.luoli.Marriage.OneKid_0": "你管管他吧！他在地上乱爬呢！$3",
-    "Dialogue.luoli.Marriage.OneKid_1": "我才不要管啦，快去把他抱走喂饭啦！！$2",
-    "Dialogue.luoli.Marriage.OneKid_2": "呜呜……他在哭啦！$2#$b#果然我不擅长应付这种小孩……$2",
-    "Dialogue.luoli.Marriage.OneKid_3": "%洛离在睡觉。",
-    "Dialogue.luoli.Marriage.OneKid_4": "%洛离在装作没有看见脚边的小孩。",
+    "SDS.MarriageDialogue.luoli.OneKid_0": "你管管他吧！他在地上乱爬呢！$3", //%kid1
+    "SDS.MarriageDialogue.luoli.OneKid_1": "我才不要管啦，快去把他抱走喂饭啦！！$2",
+    "SDS.MarriageDialogue.luoli.OneKid_2": "呜呜……他在哭啦！$2#$b#果然我不擅长应付这种小孩……$2",
+    "SDS.MarriageDialogue.luoli.OneKid_3": "%洛离在睡觉。",
+    "SDS.MarriageDialogue.luoli.OneKid_4": "%洛离在装作没有看见脚边的小孩。",
     /*~*~*~*/
-    "Dialogue.luoli.Marriage.TwoKids_0": "一个还不够为什么要领养两个啦！！$2",
-    "Dialogue.luoli.Marriage.TwoKids_1": "悲鸣二重奏……我现在就要昏厥了。$2",
-    "Dialogue.luoli.Marriage.TwoKids_2": "好了！%kid1，我现在命令你去照顾%kid2！！$1",
-    "Dialogue.luoli.Marriage.TwoKids_3": "你说这么大点小孩都吃些什么呢？$0#$b#哦，对了，你的朋友今天给你送了些食物，我看着黏糊糊的应该是给小孩吃到吧。$1",
-    "Dialogue.luoli.Marriage.TwoKids_4": "他们在睡觉啦，别碰他们。#$b#他们要是醒了哇哇哭我就杀了你。$3",
+    "SDS.MarriageDialogue.luoli.TwoKids_0": "一个还不够为什么要领养两个啦！！$2", //%kid2
+    "SDS.MarriageDialogue.luoli.TwoKids_1": "悲鸣二重奏……我现在就要昏厥了。$2",
+    "SDS.MarriageDialogue.luoli.TwoKids_2": "好了！%kid1，我现在命令你去照顾%kid2！！$1",
+    "SDS.MarriageDialogue.luoli.TwoKids_3": "你说这么大点小孩都吃些什么呢？$0#$b#哦，对了，你的朋友今天给你送了些食物，我看着黏糊糊的应该是给小孩吃到吧。$1",
+    "SDS.MarriageDialogue.luoli.TwoKids_4": "他们在睡觉啦，别碰他们。#$b#他们要是醒了哇哇哭我就杀了你。$3",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Good
-    "Dialogue.luoli.Marriage.Good_0": "你的朋友对你真好呢，每次都送一些亲自做的食物来呢。#$b#对对，就是那个军人啦，放在冰箱里了你要记得吃哦。",
-    "Dialogue.luoli.Marriage.Good_1": "虽然我们结婚了但服装的价格还是单论哦。#$b#如果你想要一个婚后甜蜜价的话那么就原价1000G的衣服现在卖你5200G啦。$1",
-    "Dialogue.luoli.Marriage.Good_2": "对对，我猜你今天需要一件衣服来衬托你的气质，所以我为你特别制作了这个。$1#$b#我对你好吧？还不快换上？$0",
-    "Dialogue.luoli.Marriage.Good_3": "怎么？你想和我穿情侣装？$1#$b#呀啊……那么就去服装店把我的衣服买光吧？每一件都可以是和我的情侣装。",
-    "Dialogue.luoli.Marriage.Good_4": "我想要出去摸摸那只熊猫。#$b#如果能采集到它的毛就好了。",
-    "Dialogue.luoli.Marriage.Good_5": "你的黑商朋友上门来推荐东西了，所以我就用你的钱全买下来了。$1#$b#你知道吗？他们买的一颗小小种子竟然收2500G呢，但我猜你不会介意的啦。",
-    "Dialogue.luoli.Marriage.Good_6": "嗯嗯，我做的饭你一定要记得去吃哦，如果我下次打开冰箱还看见它摆在那里就有你好果子吃的。$1",
-    "Dialogue.luoli.Marriage.Good_7": "我原本做了巧克力给你哦。#$b#你问它在哪？当然是在垃圾桶里了。$3#$b#我不小心把咖喱酱做成巧克力了，虽然我想你应该也不会嫌弃。$1",
-    "Dialogue.luoli.Marriage.Good_8": "我要去买一些布料啊，装饰品啊去做一件新衣服。$0#$b#对对，当然是给你穿的，这里除了你还有其他人会换衣服吗？$1",
-    "Dialogue.luoli.Marriage.Good_9": "快把你的私房钱交到我手里吧？不然我真担心哪天你就都送给那两个奸商了。$1",
+    "SDS.MarriageDialogue.luoli.Good_0": "你的朋友对你真好呢，每次都送一些亲自做的食物来呢。#$b#对对，就是那个军人啦，放在冰箱里了你要记得吃哦。",
+    "SDS.MarriageDialogue.luoli.Good_1": "虽然我们结婚了但服装的价格还是单论哦。#$b#如果你想要一个婚后甜蜜价的话那么就原价1000G的衣服现在卖你5200G啦。$1",
+    "SDS.MarriageDialogue.luoli.Good_2": "对对，我猜你今天需要一件衣服来衬托你的气质，所以我为你特别制作了这个。$1#$b#我对你好吧？还不快换上？$0",
+    "SDS.MarriageDialogue.luoli.Good_3": "怎么？你想和我穿情侣装？$1#$b#呀啊……那么就去服装店把我的衣服买光吧？每一件都可以是和我的情侣装。",
+    "SDS.MarriageDialogue.luoli.Good_4": "我想要出去摸摸那只熊猫。#$b#如果能采集到它的毛就好了。",
+    "SDS.MarriageDialogue.luoli.Good_5": "你的黑商朋友上门来推荐东西了，所以我就用你的钱全买下来了。$1#$b#你知道吗？他们买的一颗小小种子竟然收2500G呢，但我猜你不会介意的啦。",
+    "SDS.MarriageDialogue.luoli.Good_6": "嗯嗯，我做的饭你一定要记得去吃哦，如果我下次打开冰箱还看见它摆在那里就有你好果子吃的。$1",
+    "SDS.MarriageDialogue.luoli.Good_7": "我原本做了巧克力给你哦。#$b#你问它在哪？当然是在垃圾桶里了。$3#$b#我不小心把咖喱酱做成巧克力了，虽然我想你应该也不会嫌弃。$1",
+    "SDS.MarriageDialogue.luoli.Good_8": "我要去买一些布料啊，装饰品啊去做一件新衣服。$0#$b#对对，当然是给你穿的，这里除了你还有其他人会换衣服吗？$1",
+    "SDS.MarriageDialogue.luoli.Good_9": "快把你的私房钱交到我手里吧？不然我真担心哪天你就都送给那两个奸商了。$1",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Neutral
-    "Dialogue.luoli.Marriage.Neutral_0": "你朋友真的很多呢，今天送食物明天送钱的，真让人意外。#$b#竟然还有上门搞推销的！",
-    "Dialogue.luoli.Marriage.Neutral_1": "今天做一件怎样的衣服好呢？#$b#你想穿什么呢，到时候可以去我的店里购买。$1",
-    "Dialogue.luoli.Marriage.Neutral_2": "我最近也会做一些新奇的服装了，如果有进步的话应该会放在店里售卖吧。",
-    "Dialogue.luoli.Marriage.Neutral_3": "今天想吃一些……咸的东西。#$b#快去做给我啦。",
-    "Dialogue.luoli.Marriage.Neutral_4": "我除了制作衣服还有一些别的爱好，但是不能告诉你就是了！$1",
-    "Dialogue.luoli.Marriage.Neutral_5": "今天我们吃……鲜榨海胆汁！#$b#你可不许觉得这奇怪，快吃就是了！$1",
-    "Dialogue.luoli.Marriage.Neutral_6": "我还挺喜欢你的，希望可以持续的久点。$1#$b#诶呀，反正我活得比你久，肯定也能爱你久一点。",
-    "Dialogue.luoli.Marriage.Neutral_7": "如果现在可以吃到蛋糕的话我一定有灵感可以做衣服啦！$1",
-    "Dialogue.luoli.Marriage.Neutral_8": "还不快快给我准备吃的东西，这样我好为你制作精美的服装！",
-    "Dialogue.luoli.Marriage.Neutral_9": "今天好想吃些平时吃不到的东西，那么可以在哪里买到呢？",
+    "SDS.MarriageDialogue.luoli.Neutral_0": "你朋友真的很多呢，今天送食物明天送钱的，真让人意外。#$b#竟然还有上门搞推销的！",
+    "SDS.MarriageDialogue.luoli.Neutral_1": "今天做一件怎样的衣服好呢？#$b#你想穿什么呢，到时候可以去我的店里购买。$1",
+    "SDS.MarriageDialogue.luoli.Neutral_2": "我最近也会做一些新奇的服装了，如果有进步的话应该会放在店里售卖吧。",
+    "SDS.MarriageDialogue.luoli.Neutral_3": "今天想吃一些……咸的东西。#$b#快去做给我啦。",
+    "SDS.MarriageDialogue.luoli.Neutral_4": "我除了制作衣服还有一些别的爱好，但是不能告诉你就是了！$1",
+    "SDS.MarriageDialogue.luoli.Neutral_5": "今天我们吃……鲜榨海胆汁！#$b#你可不许觉得这奇怪，快吃就是了！$1",
+    "SDS.MarriageDialogue.luoli.Neutral_6": "我还挺喜欢你的，希望可以持续的久点。$1#$b#诶呀，反正我活得比你久，肯定也能爱你久一点。",
+    "SDS.MarriageDialogue.luoli.Neutral_7": "如果现在可以吃到蛋糕的话我一定有灵感可以做衣服啦！$1",
+    "SDS.MarriageDialogue.luoli.Neutral_8": "还不快快给我准备吃的东西，这样我好为你制作精美的服装！",
+    "SDS.MarriageDialogue.luoli.Neutral_9": "今天好想吃些平时吃不到的东西，那么可以在哪里买到呢？",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Bad
-    "Dialogue.luoli.Marriage.Bad_0": "……叽叽咕咕。$3",
-    "Dialogue.luoli.Marriage.Bad_1": "讨厌讨厌，别靠近我啦，真讨厌！$3",
-    "Dialogue.luoli.Marriage.Bad_2": "今天没有准备晚饭哦，请去吃垃圾吧。$1",
-    "Dialogue.luoli.Marriage.Bad_3": "诶呀，是给你的东西吗你就拿。$2",
-    "Dialogue.luoli.Marriage.Bad_4": "我现在非常不想看见你，真该死啊。$3",
-    "Dialogue.luoli.Marriage.Bad_5": "你在我眼前走来走去的干什么呢？就没什么话想跟我说吗？$2",
-    "Dialogue.luoli.Marriage.Bad_6": "难道我们之间霸道农夫俏裁缝的故事都是假的吗？（抹眼泪）$2",
-    "Dialogue.luoli.Marriage.Bad_7": "%餐桌上摆放着不明食物。#$b#快吃吧，晚饭。$1#$b#怎么了，是没胃口吗？是天生就不爱吃吗？$3",
-    "Dialogue.luoli.Marriage.Bad_8": "叽叽咕咕，叽叽咕咕……$3",
-    "Dialogue.luoli.Marriage.Bad_9": "叽叽咕咕。$3#$b#不想看见你，离开我眼前。$2",
+    "SDS.MarriageDialogue.luoli.Bad_0": "……叽叽咕咕。$3",
+    "SDS.MarriageDialogue.luoli.Bad_1": "讨厌讨厌，别靠近我啦，真讨厌！$3",
+    "SDS.MarriageDialogue.luoli.Bad_2": "今天没有准备晚饭哦，请去吃垃圾吧。$1",
+    "SDS.MarriageDialogue.luoli.Bad_3": "诶呀，是给你的东西吗你就拿。$2",
+    "SDS.MarriageDialogue.luoli.Bad_4": "我现在非常不想看见你，真该死啊。$3",
+    "SDS.MarriageDialogue.luoli.Bad_5": "你在我眼前走来走去的干什么呢？就没什么话想跟我说吗？$2",
+    "SDS.MarriageDialogue.luoli.Bad_6": "难道我们之间霸道农夫俏裁缝的故事都是假的吗？（抹眼泪）$2",
+    "SDS.MarriageDialogue.luoli.Bad_7": "%餐桌上摆放着不明食物。#$b#快吃吧，晚饭。$1#$b#怎么了，是没胃口吗？是天生就不爱吃吗？$3",
+    "SDS.MarriageDialogue.luoli.Bad_8": "叽叽咕咕，叽叽咕咕……$3",
+    "SDS.MarriageDialogue.luoli.Bad_9": "叽叽咕咕。$3#$b#不想看见你，离开我眼前。$2",
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[luoli (Marriage) Dialogue] Holiday
-    "Dialogue.luoli.Marriage.spring_1": "新年快乐，快穿上我为你裁制的新衣吧？$1",
-    "Dialogue.luoli.Marriage.spring_12": "明天要找鸡蛋啊。#$b#哪怕这样也不能弄脏衣服哦。",
-    "Dialogue.luoli.Marriage.spring_23": "你明天会和我跳舞的，对吧？$1",
-    "Dialogue.luoli.Marriage.summer_1": "夏天是蚊子非常多的季节，真讨厌。",
-    "Dialogue.luoli.Marriage.summer_10": "不想喝那锅汤，你喜欢你喝去吧。",
-    "Dialogue.luoli.Marriage.summer_28": "对对，真的很想把水母抓回来做件新衣服。",
-    "Dialogue.luoli.Marriage.fall_1": "秋天凉凉的，总之还不错啦。",
-    "Dialogue.luoli.Marriage.fall_15": "要把明天展览的东西先拿出来哦，不然可能会忘记的啦。",
-    "Dialogue.luoli.Marriage.fall_26": "我连夜赶制了新衣服，快穿去节日中吧？",
-    "Dialogue.luoli.Marriage.winter_1": "感觉好冷啊，想在家里待一整天。",
-    "Dialogue.luoli.Marriage.winter_7": "不想看别人钓一整天鱼，真的很无聊啦。",
-    "Dialogue.luoli.Marriage.winter_23": "那么我们晚上的时间可以空出来，再交换一次礼物。",
-    "Dialogue.luoli.Marriage.winter_28": "马上就要春天了，真好啊。$1"
+    "SDS.MarriageDialogue.luoli.spring_1": "新年快乐，快穿上我为你裁制的新衣吧？$1",
+    "SDS.MarriageDialogue.luoli.spring_12": "明天要找鸡蛋啊。#$b#哪怕这样也不能弄脏衣服哦。", //复活节前一天
+    "SDS.MarriageDialogue.luoli.spring_23": "你明天会和我跳舞的，对吧？$1", //花舞节前一天
+    "SDS.MarriageDialogue.luoli.summer_1": "夏天是蚊子非常多的季节，真讨厌。",
+    "SDS.MarriageDialogue.luoli.summer_10": "不想喝那锅汤，你喜欢你喝去吧。", //夏威夷宴会前一天
+    "SDS.MarriageDialogue.luoli.summer_28": "对对，真的很想把水母抓回来做件新衣服。", //水母节当天
+    "SDS.MarriageDialogue.luoli.fall_1": "秋天凉凉的，总之还不错啦。",
+    "SDS.MarriageDialogue.luoli.fall_15": "要把明天展览的东西先拿出来哦，不然可能会忘记的啦。", //展览会前一天
+    "SDS.MarriageDialogue.luoli.fall_26": "我连夜赶制了新衣服，快穿去节日中吧？", //万灵节当天
+    "SDS.MarriageDialogue.luoli.winter_1": "感觉好冷啊，想在家里待一整天。",
+    "SDS.MarriageDialogue.luoli.winter_7": "不想看别人钓一整天鱼，真的很无聊啦。", //冰雪节前一天
+    "SDS.MarriageDialogue.luoli.winter_23": "那么我们晚上的时间可以空出来，再交换一次礼物。", //冬日星前一天
+    "SDS.MarriageDialogue.luoli.winter_28": "马上就要春天了，真好啊。$1"
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     /*-----------------------------------------------------------------------------------------------------------*/
 }
