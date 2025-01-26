@@ -14,14 +14,14 @@
     "SDS.Valentine.Hovsep.spring_14_15300952.2": "……是，是这样啊。$0#$b#%霍夫塞普呆滞一瞬，偏过头闭了闭眼，随后才转过来。#$b#说、说起来，毕竟是节日呢，@今天有什么打算？嗯…有什么需要我帮忙的吗？$9#$b#完了，什么都没准备……虽然习俗上不是让我准备，但这样感觉就像是在为自己开脱……$3",
     "SDS.Valentine.Hovsep.spring_14_15300953.2": "…好的？$0#$b#%霍夫塞普迷茫地点点头，没有拒绝你的好意。#$b#那，不管怎么样，也还是祝你今天能玩得开心？毕竟一到节日，周边似乎就会变得很热闹呢。$1",
     "SDS.Valentine.Hovsep.spring_14_H2old.2": "%霍夫塞普迷茫地点点头，没有拒绝你的好意。#$b#那，不管怎么样，也还是祝你今天能玩得开心？毕竟一到节日，周边似乎就会变得很热闹呢。$1",
-    "SDS.Valentine.Hovsep.spring_14.3": "啊，你来了，@！$1#$b#瓦伦汀节快乐！这是我准备的巧克力，虽然因为时间比较紧，味道没什么自信，但我还是向把它送给你……$4#$b#唔，就算不吃，收藏也是可以的……吧？[SDS_Chocolateforyourheart]$3#$q 15300954/15300955 spring_14_H3old#...#$r 15300954 0 spring_14_15300954#时间比较紧是什么意思#$r 15300955 0 spring_14_15300955#你怎么知道瓦伦汀节的", //（获得巧克力*1）
+    "SDS.Valentine.Hovsep.spring_14.3": "啊，你来了，@！$1#$b#瓦伦汀节快乐！这是我准备的巧克力，虽然因为时间比较紧，味道没什么自信，但我还是向把它送给你……$4#$b#唔，就算不吃，收藏也是可以的……吧？[SDS_Chocolateforyourheart1]$3#$q 15300954/15300955 spring_14_H3old#...#$r 15300954 0 spring_14_15300954#时间比较紧是什么意思#$r 15300955 0 spring_14_15300955#你怎么知道瓦伦汀节的", //（获得巧克力*1）
     "SDS.Valentine.Hovsep.spring_14_15300954.3": "额，实际上是被提点了几句……$11#$b#%霍夫塞普不好意思地挠了挠脸颊。#$b#然后才知道了瓦伦汀节的具体事项，于是匆匆准备起来，虽然是一段手忙脚乱的时间。$3#$b#但——很有意思。$8",
     "SDS.Valentine.Hovsep.spring_14_15300955.3": "嗯…其实过程还挺复杂的，但要说最开始的话，果然还是归功于莫里斯先生他们的商业头脑？$0#$b#说是瓦伦汀节将近、“韭菜”什么什么的，唔，看着他们忙手忙脚的样子。$9#$b#还……嗯，很有意思。$7",
     "SDS.Valentine.Hovsep.spring_14_H3old.3": "实际上是被提点了几句……$11#$b#%霍夫塞普不好意思地挠了挠脸颊。#$b#然后才知道了瓦伦汀节的具体事项，于是匆匆准备起来，虽然是一段手忙脚乱的时间。$3#$b#但——很有意思。$8",
     "SDS.Valentine.Hovsep.spring_14.4": "瓦伦汀节快乐，@，考虑到一点小小的惊喜和新鲜是有必要的，所以——要来查收一份瓦伦汀节快递吗？$8#$q 15300956/15300957 spring_14_H4old#...#$r 15300956 0 spring_14_15300956#要#$r 15300957 0 spring_14_15300957#不要",
-    "SDS.Valentine.Hovsep.spring_14_15300956.4": "呵呵，多谢@的完美配合。$8#$b#嗯…起码味道应该是有保证的，虽然我不确定我的味觉和你们的是否接近，但试吃过的人都没有异议…$1#$b#总之，希望它能让你满意。[SDS_Chocolateforyourheart]$8", //（获得巧克力*1）
+    "SDS.Valentine.Hovsep.spring_14_15300956.4": "呵呵，多谢@的完美配合。$8#$b#嗯…起码味道应该是有保证的，虽然我不确定我的味觉和你们的是否接近，但试吃过的人都没有异议…$1#$b#总之，希望它能让你满意。[SDS_Chocolateforyourheart1]$8", //（获得巧克力*1）
     "SDS.Valentine.Hovsep.spring_14_15300957.4": "——唔，真的不要吗？$2#$b#还是说，是我擅自做的把戏弄砸了……$3#$b#……总之我很抱歉，本来是想逗你开心的行为，却被我搞成完全相反的结果……$2#$b#真的很对不起。$3",
-    "SDS.Valentine.Hovsep.spring_14_H4old.4": "嗯…起码味道应该是有保证的，虽然我不确定我的味觉和你们的是否接近，但试吃过的人都没有异议…$1#$b#总之，希望它能让你满意。[SDS_Chocolateforyourheart]$8", //（获得巧克力*1）
+    "SDS.Valentine.Hovsep.spring_14_H4old.4": "嗯…起码味道应该是有保证的，虽然我不确定我的味觉和你们的是否接近，但试吃过的人都没有异议…$1#$b#总之，希望它能让你满意。[SDS_Chocolateforyourheart1]$8", //（获得巧克力*1）
     "SDS.Valentine.Hovsep.AcceptGift.1": "…欸，巧克力？$0#$b#%霍夫塞普迷茫地接过你送的礼物，宛若懵懂的稚子。#$b#谢、谢谢？嗯，不管怎么说，能收到你送的礼物真的非常开心！$8",
     "SDS.Valentine.Hovsep.AcceptGift.2": "巧克力？给、给我的吗？！$11#$b#%白皙的肌肤被染成艳红，霍夫塞普眼神飘忽不定，迟迟不敢正面看你。#$b#谢谢你，@！$8#$b#很抱歉，我现在没什么可以送你的东西…但，但是，我保证很快就会补上的！$3",
     "SDS.Valentine.Hovsep.AcceptGift.3": "——谢、谢谢@的巧克力！我一定会用心品尝的。$8#$b#呼……不知道这样，能否让你得到仪式感？我听说即便是恋人，也要注意这些，不然就……$3#$b#还是不说不吉利的事情好了，不过我没说谎哦？能收到@的巧克力，我真的很开心！$8",
@@ -29,10 +29,10 @@
     /*~*~*/
     "SDS.Valentine.Regla.spring_14.1": "瓦伦丁节吗？大致知道吧，虽然习俗不太一样。$0#$b#比起这个，既然是难得的节日，您与其在这里和我聊天，不如去找其他人，如何？说不定还能在其他人那里有意外收获呢。*笑*$10",
     "SDS.Valentine.Regla.spring_14.2": "…瓦伦汀节？知道又如何，反正与我无关，我宁愿闭门不出研究资料一整天，也不想被传染上奇奇怪怪的东西。$12#$b#——就是这样，所以，想有收获的话就去找其他人吧，在这里陪我聊多久，结果也不会产生什么变化的。$0",
-    "SDS.Valentine.Regla.spring_14.3": "瓦伦汀节快乐，你来的倒是及时。$7#$b#%芮格拉在一阵深呼吸后，面色不自然地将什么递给你。#$b#……随手做的罢了，不合口味的话直接把它丢掉就好。[SDS_Chocolateforyourheart]$0", //（获得巧克力*1）
-    "SDS.Valentine.Regla.spring_14.4": "…瓦伦汀节？确实又到这个时间了呢。$0#$b#换作以前可很难想象我会和这个节日有什么关联……现在？与其注意那个，不如先试试我新做的巧克力味道如何？[SDS_Chocolateforyourheart]$1", //（获得巧克力*1）
+    "SDS.Valentine.Regla.spring_14.3": "瓦伦汀节快乐，你来的倒是及时。$7#$b#%芮格拉在一阵深呼吸后，面色不自然地将什么递给你。#$b#……随手做的罢了，不合口味的话直接把它丢掉就好。[SDS_Chocolateforyourheart1]$0", //（获得巧克力*1）
+    "SDS.Valentine.Regla.spring_14.4": "…瓦伦汀节？确实又到这个时间了呢。$0#$b#换作以前可很难想象我会和这个节日有什么关联……现在？与其注意那个，不如先试试我新做的巧克力味道如何？[SDS_Chocolateforyourheart1]$1", //（获得巧克力*1）
     "SDS.Valentine.Regla.AcceptGift.1": "谢谢您的巧克力，不过居然会恰好在今天赠送可真让人意外，如果被您在意的人知道了，恐怕会很失落吧？$0",
-    "SDS.Valentine.Regla.AcceptGift.2": "…在今天送这东西可是会让人误会的哦？尤其是，如果你还有在意的人，就更糟糕了。$12#$b#我也不太喜欢苦甜掺半的东西，把它送给更适合的人吧？[SDS_ChocolateforValentineDay]$0", //（返还巧克力*1）
+    "SDS.Valentine.Regla.AcceptGift.2": "…在今天送这东西可是会让人误会的哦？尤其是，如果你还有在意的人，就更糟糕了。$12#$b#我也不太喜欢苦甜掺半的东西，把它送给更适合的人吧？[SDS_ChocolateforValentineDay1]$0", //（返还巧克力*1）
     "SDS.Valentine.Regla.AcceptGift.3": "…你亲手做的？真是服了你了，平日不是还有很多事要忙吗，怎么还给自己增加工作量？$14#$b#——不过，也不能说不开心……至少从这个层面上，谢谢你。$16",
     "SDS.Valentine.Regla.AcceptGift.4": "…结婚后还做这种行为的话，感觉就和还在热恋期的时候没什么区别。$7#$b#咳，不过我确实很开心……$4#$b#表情收一收，人类也是会有恼羞成怒这种行为的。$16",
     /*~*~*/
@@ -66,7 +66,7 @@
     /*~*~*/
     "SDS.Valentine.Meowth.spring_14.1": "瓦伦汀节快乐喵，有什么瓦伦汀节限定素材吗？$1",
     "SDS.Valentine.Meowth.spring_14.2": "瓦伦汀节快乐喵，听说人类会在这一天送巧克力，我们喵族都是送小鱼干的。$0",
-    "SDS.Valentine.Meowth.spring_14.3": "瓦伦汀节快乐喵，虽然本商人不吃巧克力，但是你们人类好像挺喜欢的。$0#$b#这个给你，拿去送给喜欢的小子吧。[SDS_Chocolateforyourheart]$1^这个给你，拿去送给喜欢的姑娘吧。[SDS_Chocolateforyourheart]$1", //送给玩家巧克力
+    "SDS.Valentine.Meowth.spring_14.3": "瓦伦汀节快乐喵，虽然本商人不吃巧克力，但是你们人类好像挺喜欢的。$0#$b#这个给你，拿去送给喜欢的小子吧。[SDS_Chocolateforyourheart1]$1^这个给你，拿去送给喜欢的姑娘吧。[SDS_Chocolateforyourheart1]$1", //送给玩家巧克力
     "SDS.Valentine.Meowth.AcceptGift.1": "喵族不能吃巧克力，但是谢谢你的好意。$0",
     "SDS.Valentine.Meowth.AcceptGift.2": "喵族不能吃巧克力，但是谢谢你的好意。$0",
     "SDS.Valentine.Meowth.AcceptGift.3": "喵族不能吃巧克力，但是谢谢你的好意。$0",
@@ -80,14 +80,14 @@
     "SDS.Valentine.Lucas.spring_14_16200963.2": "……当，当然，你若是乐意选择我的话，我肯定会收下的。$10",
     "SDS.Valentine.Lucas.spring_14_Lu2old.2": "……当，当然，你若是乐意选择我的话，我肯定会收下的。$10",
     "SDS.Valentine.Lucas.spring_14.3": "要是你选择我的话，就在这一天找个废墟教堂让死去的神为我们证婚吧。$3#$b#不过我也想为你举办一场华丽的婚礼呢…真难取舍。$0",
-    "SDS.Valentine.Lucas.spring_14.4": "%在你开口说话前，卢卡斯将一块巧克力塞进你的嘴里。#$b#先手必胜——这下你手里的礼物也不得不是我的了。$1#$b#你该不会给别人的，对吧？[SDS_Chocolateforyourheart]$3", //【玩家得到包装精致的巧克力】
-    "SDS.Valentine.Lucas.AcceptGift.1": "我很荣幸能成为你的选择对象，@。[SDS_Chocolateforyourheart]$3#$b#%卢卡斯牵起你的手，在手背上落下一吻。", //【玩家会得到包装精致的巧克力或者是糖果】
-    "SDS.Valentine.Lucas.AcceptGift.2": "甜心，我可以亲你么？$6#$b#%还没等你回答，嘴里被塞进一块带有酒味的软软的东西。#$b#……开玩笑的，这种事情我还是喜欢只有彼此的时候做。[SDS_Chocolateforyourheart]$3", //【玩家得到包装精致的巧克力】
+    "SDS.Valentine.Lucas.spring_14.4": "%在你开口说话前，卢卡斯将一块巧克力塞进你的嘴里。#$b#先手必胜——这下你手里的礼物也不得不是我的了。$1#$b#你该不会给别人的，对吧？[SDS_Chocolateforyourheart1]$3", //【玩家得到包装精致的巧克力】
+    "SDS.Valentine.Lucas.AcceptGift.1": "我很荣幸能成为你的选择对象，@。[SDS_Chocolateforyourheart1]$3#$b#%卢卡斯牵起你的手，在手背上落下一吻。", //【玩家会得到包装精致的巧克力或者是糖果】
+    "SDS.Valentine.Lucas.AcceptGift.2": "甜心，我可以亲你么？$6#$b#%还没等你回答，嘴里被塞进一块带有酒味的软软的东西。#$b#……开玩笑的，这种事情我还是喜欢只有彼此的时候做。[SDS_Chocolateforyourheart1]$3", //【玩家得到包装精致的巧克力】
     "SDS.Valentine.Lucas.AcceptGift.3": "%卢卡斯轻轻提起你的手。#$b#你想要的回礼是巧克力还是更带浪漫气息的首饰？恶趣味的饰品？$1#$b#…不论是什么都可以，我心甘情愿被你束缚，@。$6",
-    "SDS.Valentine.Lucas.AcceptGift.4": "亲爱的，把手伸出来——原本想我先送的，结果还是被你抢先了呢。$3#$b#这附近还有一家甜品店在做夫妻和情侣的双人打折活动，你有兴趣…一起去吗？$6#$q 16200962/16200963 AcceptGift_(O)223_Lu3old#...#$r 16200962 0 AcceptGift_(O)223_16200962#一起去吧#$r 16200963 0 AcceptGift_(O)223_16200963#今天一天都要陪着我",
-    "SDS.Valentine.Lucas.AcceptGift.1_16200962.4": "嗯，我想牵着你的手。$6",
-    "SDS.Valentine.Lucas.AcceptGift.1_16200963.4": "当然了，只要是你想要去的地方，就算是天涯海角我也奉陪到底。$3",
-    "SDS.Valentine.Lucas.AcceptGift.1_Lu3old.4": "只要是你想要去的地方，就算是天涯海角我也奉陪到底。$3",
+    "SDS.Valentine.Lucas.AcceptGift.4": "亲爱的，把手伸出来——[SDS_Chocolateforyourheart1]$3#$b#原本想我先送的，结果还是被你抢先了呢。$1#$b#这附近还有一家甜品店在做夫妻和情侣的双人打折活动，你有兴趣…一起去吗？$6#$q 16200962/16200963 AcceptGift_(O)SDS_ChocolateforValentineDay_Lu3old#...#$r 16200962 0 AcceptGift_(O)SDS_ChocolateforValentineDay_16200962#一起去吧#$r 16200963 0 AcceptGift_(O)SDS_ChocolateforValentineDay_16200963#今天一天都要陪着我",
+    "SDS.Valentine.Lucas.AcceptGift_16200962.4": "嗯，我想牵着你的手。$6",
+    "SDS.Valentine.Lucas.AcceptGift_16200963.4": "当然了，只要是你想要去的地方，就算是天涯海角我也奉陪到底。$3",
+    "SDS.Valentine.Lucas.AcceptGift_Lu3old.4": "只要是你想要去的地方，就算是天涯海角我也奉陪到底。$3",
     /*~*~*/
     "SDS.Valentine.Moore.spring_14.1": "哈，真是可笑。一群废物居然都聚在这个地方等待那弄虚作假的承诺，可真是一出好戏。$1",
     "SDS.Valentine.Moore.spring_14.2": "我为什么会在这里？你不需要知道。$0#$b#你可以当我是在看戏，毕竟这里可有一群被那唯一一人玩弄在掌心而不自知的废物在自娱自乐。$1#$b#…………。#$b#……手里的礼物，是给谁的？$2",
@@ -124,22 +124,22 @@
     "SDS.Valentine.Garnet.spring_14.2": "我在书上看到过关于瓦伦汀节的介绍，不过节日现场的氛围果然还是和书上感受到的完全不一样啊。$1",
     "SDS.Valentine.Garnet.spring_14.3": "神父先生说，等活动结束后我们要回教堂吃一顿丰盛的晚饭。本来大家想邀请@先生，但又考虑到毕竟是瓦伦汀节…$3^神父先生说，等活动结束后我们要回教堂吃一顿丰盛的晚饭。本来大家想邀请@小姐，但又考虑到毕竟是瓦伦汀节…$3#$b#就祝@先生和爱人度过愉快的一晚吧。$1^就祝@小姐和爱人度过愉快的一晚吧。$1",
     "SDS.Valentine.Garnet.AcceptGift.1": "谢谢你@先生，我可以和我的朋友们一起分享它吗？$1^谢谢你@小姐，我可以和我的朋友们一起分享它吗？$1",
-    "SDS.Valentine.Garnet.AcceptGift.2": "对了@先生，这个巧克力送给你，是我们攒钱给你买的，希望你能喜欢它的味道。[SDS_Chocolateforyourheart]$1^对了@小姐，这个巧克力送给你，是我们攒钱给你买的，希望你能喜欢它的味道。[SDS_Chocolateforyourheart]$1", //（获得巧克力*1）
-    "SDS.Valentine.Garnet.AcceptGift.3": "%盖瑞特小心翼翼地拆开包装纸，掰下一小块巧克力塞入嘴里咀嚼。#$b#……很好吃，@先生费心了。这是回礼，请收下吧。[SDS_Chocolateforyourheart]$1^……很好吃，@小姐费心了。这是回礼，请收下吧。[SDS_Chocolateforyourheart]$1", //（获得巧克力*1）
+    "SDS.Valentine.Garnet.AcceptGift.2": "对了@先生，这个巧克力送给你，是我们攒钱给你买的，希望你能喜欢它的味道。[SDS_Chocolateforyourheart1]$1^对了@小姐，这个巧克力送给你，是我们攒钱给你买的，希望你能喜欢它的味道。[SDS_Chocolateforyourheart1]$1", //（获得巧克力*1）
+    "SDS.Valentine.Garnet.AcceptGift.3": "%盖瑞特小心翼翼地拆开包装纸，掰下一小块巧克力塞入嘴里咀嚼。#$b#……很好吃，@先生费心了。这是回礼，请收下吧。[SDS_Chocolateforyourheart1]$1^……很好吃，@小姐费心了。这是回礼，请收下吧。[SDS_Chocolateforyourheart1]$1", //（获得巧克力*1）
     /*~*~*/
     "SDS.Valentine.Albert.spring_14.1": "这么多人…得看着点才行。$0",
     "SDS.Valentine.Albert.spring_14.2": "今年的活动和往年相比会不会有区别呢…总感觉人更多了。$2",
     "SDS.Valentine.Albert.spring_14.3": "这种时候是要说祝福语吧，那…瓦伦汀节快乐。$1",
     "SDS.Valentine.Albert.AcceptGift.1": "虽然我一般不会收陌生人送的东西，不过温蒂说你是个好人…谢谢。$1",
     "SDS.Valentine.Albert.AcceptGift.2": "给我？真的假的…谢了。$1",
-    "SDS.Valentine.Albert.AcceptGift.3": "谢谢你的礼物，神父先生说过，现在是要给回礼…$0#$b#是吗？这块巧克力给@先生吧。[SDS_Chocolateforyourheart]$1^是吗？这块巧克力给@小姐吧。[SDS_Chocolateforyourheart]$1", //（获得巧克力*1）
+    "SDS.Valentine.Albert.AcceptGift.3": "谢谢你的礼物，神父先生说过，现在是要给回礼…$0#$b#是吗？这块巧克力给@先生吧。[SDS_Chocolateforyourheart1]$1^是吗？这块巧克力给@小姐吧。[SDS_Chocolateforyourheart1]$1", //（获得巧克力*1）
     /*~*~*/
     "SDS.Valentine.Wendy.spring_14.1": "好多人，我不想呆在这儿…$2",
     "SDS.Valentine.Wendy.spring_14.2": "…你好，瓦伦汀节快乐。$1",
     "SDS.Valentine.Wendy.spring_14.3": "%温蒂偷偷拉着你的衣角。#$b#@先生可以陪我待一会么？我有些不适应嘈杂的环境……$2^@@小姐可以陪我待一会么？我有些不适应嘈杂的环境……$2",
     "SDS.Valentine.Wendy.AcceptGift.1": "…谢谢。$1",
     "SDS.Valentine.Wendy.AcceptGift.2": "居然是给我的吗？谢谢您。$1",
-    "SDS.Valentine.Wendy.AcceptGift.3": "这是@小姐的心意，我会好好珍惜它的。这份巧克力送给你，就当是回礼吧。[SDS_Chocolateforyourheart]$1^这是@小姐的心意，我会好好珍惜它的。这份巧克力送给你，就当是回礼吧。[SDS_Chocolateforyourheart]$1", //（获得巧克力*1）
+    "SDS.Valentine.Wendy.AcceptGift.3": "这是@小姐的心意，我会好好珍惜它的。这份巧克力送给你，就当是回礼吧。[SDS_Chocolateforyourheart1]$1^这是@小姐的心意，我会好好珍惜它的。这份巧克力送给你，就当是回礼吧。[SDS_Chocolateforyourheart1]$1", //（获得巧克力*1）
     /*~*~*/
     "SDS.Valentine.coffey.spring_14.1": "瓦伦汀节的祖祖城多了好多新装饰，这个爱心和小兔子的花束好可爱！还有那个气球……$1",
     "SDS.Valentine.coffey.spring_14.2": "@先生，看我这个发卡！是为贴合节日气氛特意挑选的哦，可爱吧？$1^@小姐，看我这个发卡！是为贴合节日气氛特意挑选的哦，可爱吧？$1",
@@ -150,7 +150,7 @@
     /*~*~*/
     "SDS.Valentine.Theodor.spring_14.1": "瓦伦汀节？人类总是会过无聊的节日。$0",
     "SDS.Valentine.Theodor.spring_14.2": "瓦伦汀节的时候到处都是粉色，如果把这天出炉的宝剑做成粉色的好像也不错？$1",
-    "SDS.Valentine.Theodor.spring_14.3": "瓦伦汀节啊，你有对象吗？有的话送他这块巧克力吧，节日快乐。[SDS_Chocolateforyourheart]$1^瓦伦汀节啊，你有对象吗？有的话送她这块巧克力吧，节日快乐。[SDS_Chocolateforyourheart]$1", //送给玩家巧克力
+    "SDS.Valentine.Theodor.spring_14.3": "瓦伦汀节啊，你有对象吗？有的话送他这块巧克力吧，节日快乐。[SDS_Chocolateforyourheart1]$1^瓦伦汀节啊，你有对象吗？有的话送她这块巧克力吧，节日快乐。[SDS_Chocolateforyourheart1]$1", //送给玩家巧克力
     "SDS.Valentine.Theodor.AcceptGift.1": "？谢谢。$0",
     "SDS.Valentine.Theodor.AcceptGift.2": "谢谢你的巧克力。$1",
     "SDS.Valentine.Theodor.AcceptGift.3": "谢谢你的巧克力，我会好好收起来的。$1",
@@ -168,8 +168,8 @@
     "SDS.Valentine.Sariel.spring_14.2": "无聊。人类创造的所有节日对我来说都很没意思。不过一些食物倒还合我心意。$2#$b#喂，人类，到该上供的时候了。$7",
     "SDS.Valentine.Sariel.spring_14.3": "噢，瓦伦汀节，一个可笑的节日，以前我在书上看到相关记载时都会跳过去，没想到现在居然在陪一个人类过这种节日……$2#$b#你准备准备，对此感恩戴德吧。$7#$b#%白井往你嘴里塞了一块草莓巧克力，盯着你吃完这一块之后又塞进另外一块不同的草莓巧克力。#$b#吃。吃完之后就该是你准备好的回礼了。$9",
     "SDS.Valentine.Sariel.spring_14.4": "又是一年一度的瓦伦汀节，我爱你，@，我们之间永远不会有尽头。$9#$b#……怎么了，你这是什么表情？$0#$b#……算了。$9#$b#%白丼快速地抚上你的后脑勺，咬了你一口。",
-    "SDS.Valentine.Sariel.AcceptGift.1": "这个口味看起来还不错，我想我可以好好感谢你。[SDS_Chocolateforyourheart]$9", //（给予玩家一个巧克力）
-    "SDS.Valentine.Sariel.AcceptGift.2": "作为供品来说还算不错，我就勉为其难奖励你一下吧。[SDS_Chocolateforyourheart]$9", //（给予玩家一个巧克力）
+    "SDS.Valentine.Sariel.AcceptGift.1": "这个口味看起来还不错，我想我可以好好感谢你。[SDS_Chocolateforyourheart1]$9", //（给予玩家一个巧克力）
+    "SDS.Valentine.Sariel.AcceptGift.2": "作为供品来说还算不错，我就勉为其难奖励你一下吧。[SDS_Chocolateforyourheart1]$9", //（给予玩家一个巧克力）
     "SDS.Valentine.Sariel.AcceptGift.3": "书上说，在瓦伦汀节给恋人送巧克力是必备的流程，我已经准备好了。$9#$b#好吧，其实我还记得一些。$7#$b#你知道人被锁起来后该如何把锁打开吗？$1#$b#……嘿，我开玩笑的，书里并不教这些。$9#$b#%白丼曲起手指，轻轻拂过你的脸颊，露出一个纯良无害的笑容。",
     "SDS.Valentine.Sariel.AcceptGift.4": "那，我就开吃了。$4#$b#%一块甜甜的巧克力闯进你欲要张开说话的唇，连带着白井细长的手指以草莓味涂抹你的舌头。#$b#手都被弄脏了，可以舔干净吧？$7",
     /*~*~*/
@@ -180,7 +180,7 @@
     "SDS.Valentine.Siren.AcceptGift.1": "巧克力呀？是姐姐我从来没有见过的食物呢！谢谢你啦。$4",
     "SDS.Valentine.Siren.AcceptGift.2": "谢谢你的礼物，小家伙，看来我也要好好准备了呢。$4",
     "SDS.Valentine.Siren.AcceptGift.3": "虽然不是第一次收了，但是这次的感觉很不一样呢，姐姐我感觉自己的心脏跳得好快！$4",
-    "SDS.Valentine.Siren.AcceptGift.4": "噢，亲爱的，我正在等待你的巧克力！那么现在该轮到姐姐我送给你了～[SDS_Chocolateforyourheart]$4", //给玩家一个巧克力
+    "SDS.Valentine.Siren.AcceptGift.4": "噢，亲爱的，我正在等待你的巧克力！那么现在该轮到姐姐我送给你了～[SDS_Chocolateforyourheart1]$4", //给玩家一个巧克力
     /*~*~*/
     "SDS.Valentine.EdwardSDS.spring_14.1": "瓦伦汀节这种节日对我来说没什么意义，但作为工作就不一样了。$0",
     "SDS.Valentine.EdwardSDS.spring_14.2": "往年瓦伦汀节的活动策划我都有参与，每次活动的反响都很好，老板也很满意。$1",
@@ -200,8 +200,8 @@
     "SDS.Valentine.Raymond.spring_14.2": "孩子们今天也会领到属于他们的小礼物——$0#$b#一份夹心巧克力。不过我得看着他们点，避免他们吃太多牙疼。$1",
     "SDS.Valentine.Raymond.spring_14.3": "孩子，瓦伦汀节快乐。$0#$b#老人家我就不多耽搁你的时间了，和自己的爱人多多待会吧。$1#$b#%雷蒙德神父对你眨眨眼。",
     "SDS.Valentine.Raymond.AcceptGift.1": "费心了，孩子，也祝你瓦伦汀节快乐。$1",
-    "SDS.Valentine.Raymond.AcceptGift.2": "哦孩子，谢谢你的巧克力。$1#$b#对了，先前我说过，孩子们在今天也会获得属于他们的小礼物——$0#$b#你也是孩子，所以这份给你。[SDS_Chocolateforyourheart]$1", //（获得巧克力*1）
-    "SDS.Valentine.Raymond.AcceptGift.3": "给，讨人喜爱的孩子理应得到属于他/她的奖励，不是吗？$1#$b#瓦伦汀节快乐，我们的好孩子。[SDS_Chocolateforyourheart]$0", //（获得巧克力*1）
+    "SDS.Valentine.Raymond.AcceptGift.2": "哦孩子，谢谢你的巧克力。$1#$b#对了，先前我说过，孩子们在今天也会获得属于他们的小礼物——$0#$b#你也是孩子，所以这份给你。[SDS_Chocolateforyourheart1]$1", //（获得巧克力*1）
+    "SDS.Valentine.Raymond.AcceptGift.3": "给，讨人喜爱的孩子理应得到属于他/她的奖励，不是吗？$1#$b#瓦伦汀节快乐，我们的好孩子。[SDS_Chocolateforyourheart1]$0", //（获得巧克力*1）
     /*~*~*/
     "SDS.Valentine.Wim.spring_14.1": "瓦伦汀节快乐@先生，要来杯特供粉红气泡水吗？$0^瓦伦汀节快乐@小姐，要来杯特供粉红气泡水吗？$0",
     "SDS.Valentine.Wim.spring_14.2": "瓦伦汀节快乐@先生。这是我为芝妮雅小姐准备的礼物，你说她会收下吗？$1^瓦伦汀节快乐@小姐。这是我为芝妮雅小姐准备的礼物，你说她会收下吗？$1#$b#好紧张啊希望她能喜欢。$4",
@@ -217,7 +217,7 @@
     "SDS.Valentine.Lane.AcceptGift.1": "哎呀，是礼物呢，谢谢你哦。$1#$b#...唔~我的反应太冷淡了吗？$0#$b#那，谢谢客人~送给我的礼物，我超——喜欢的！$1#$b#接下来，也要请客人支付这段表演的出场费哦，因为天底下没有免费的东西嘛~$1",
     "SDS.Valentine.Lane.AcceptGift.2": "虽然是被包装出来的节日，但收到礼物这件事情还是挺有意思的。$0#$b#毕竟免费的巧克力很难让人拒绝啊~作为回礼，就把客人从之前到现在欠我的债务减少一小部分好了。$1",
     "SDS.Valentine.Lane.AcceptGift.3": "诶~是瓦伦汀节限定的巧克力啊。$0#$b#客人送这个给我但是什么都不说，是想看我害羞脸红的表情吗？$1#$b#差——点就被客人得逞了！噗呼，真是心思阴险的大人呢。$0",
-    "SDS.Valentine.Lane.AcceptGift.4": "呜哇——是@送给我的饱含爱意~的巧克力~接下来就应该做那个了对吧！$0#$b#就是含情脉脉的看着我然后抱在一起接吻，嗯嗯，果然这就是节日存在的意义嘛。$1#$b#所以快给我吧，达·令~不然的话，就要一起吃巧克力了哦？怎么吃？嗯~[SDS_Chocolateforyourheart]$4", //【玩家收到回礼巧克力】
+    "SDS.Valentine.Lane.AcceptGift.4": "呜哇——是@送给我的饱含爱意~的巧克力~接下来就应该做那个了对吧！$0#$b#就是含情脉脉的看着我然后抱在一起接吻，嗯嗯，果然这就是节日存在的意义嘛。$1#$b#所以快给我吧，达·令~不然的话，就要一起吃巧克力了哦？怎么吃？嗯~[SDS_Chocolateforyourheart1]$4", //【玩家收到回礼巧克力】
     /*~*~*/
     "SDS.Valentine.Rane.spring_14.1": "巧克力和咖啡一样，在这星露谷里是种始终不会出错的礼物。不过小孩子会更偏爱甜一点的东西。$0#$b#……好了，今天的掉落结束了，你还准备偷听多久？$0",
     "SDS.Valentine.Rane.spring_14.2": "这里的商店居然没有卖金币巧克力的啊……$0#$q 154001020/154001021 spring_14_R1old#...#$r 154001020 0 spring_14_154001020#毕竟味道不好吃#$r 154001021 0 spring_14_154001021#那是用来哄小孩子的吧",
@@ -225,7 +225,7 @@
     "SDS.Valentine.Rane.spring_14_154001021.2": "哄小孩？诶，明明喜欢金钱的都是大人~？$2#$b#……大人用虚假的仿造物勾起孩童的兴趣，却将欲望的过错推卸成小孩不谙世事。@可真是狡猾呢。$1",
     "SDS.Valentine.Rane.spring_14_R1old.2": "巧克力的味道？这很重要吗，你在今天买的巧克力不会只拿来吃吧？$0#$b#抓人眼球的黄金色泽才是商品畅销的关键。$6",
     "SDS.Valentine.Rane.spring_14.3": "和沙漠比起来确实要热闹很多…怎么用这种眼神看着我，难道想要我的巧克力？$0#$b#那就继续努力讨好我吧，哪天心血来潮搞不好就会有你的份哦？$1",
-    "SDS.Valentine.Rane.spring_14.4": "亲爱的赌徒先生，不要再到处东张西望了，赶紧过来。$1^亲爱的赌徒小姐，不要再到处东张西望了，赶紧过来。$1#$b#这是你的“双倍”回礼。$4#$b#%Ra摘下帽子，嘴唇在你的脸颊轻轻停留，随后贴在你的耳边低语。#$b#但我们还想要更多…你会给我的吧？@？[SDS_Chocolateforyourheart]$4", //【玩家收到回礼巧克力】
+    "SDS.Valentine.Rane.spring_14.4": "亲爱的赌徒先生，不要再到处东张西望了，赶紧过来。$1^亲爱的赌徒小姐，不要再到处东张西望了，赶紧过来。$1#$b#这是你的“双倍”回礼。$4#$b#%Ra摘下帽子，嘴唇在你的脸颊轻轻停留，随后贴在你的耳边低语。#$b#但我们还想要更多…你会给我的吧？@？[SDS_Chocolateforyourheart1]$4", //【玩家收到回礼巧克力】
     "SDS.Valentine.Rane.AcceptGift.1": "比起未知的礼物来说，应该没有哪个人会讨厌巧克力吧，感觉还不错。$1#$b#要是摸清我的喜好了，下次见面的时候就记得多带点其他的给我。$7",
     "SDS.Valentine.Rane.AcceptGift.2": "这位赌徒是怀着什么样的心情来将巧克力赠与赌场老板的呢？只是出于好意？还是在想别的事情呢？$0#$b#……真是藏不住想法的变态呢。$1",
     "SDS.Valentine.Rane.AcceptGift.3": "终于学会讨好我了吗，进步了呢~不过啊…$1#$b#这是顺带着送给我的，还是特·地来送给我的？$0",
@@ -244,7 +244,7 @@
     "SDS.Valentine.Uriel.AcceptGift_16200963.2": "只是想给我的……既然如此，我收下了。$0#$b#%乌列接过了你的礼物。#$b#…看来我还需要再理解下你的思维方式，不管怎样，谢谢你。$1",
     "SDS.Valentine.Uriel.AcceptGift_U2old.2": "只是想给我的……既然如此，我收下了。$0#$b#%乌列接过了你的礼物。#$b#…看来我还需要再理解下你的思维方式，不管怎样，谢谢你。$1",
     "SDS.Valentine.Uriel.AcceptGift.3": "送给我的瓦伦汀节礼物？你亲手做的吗？谢谢你，我很开心。$4#$b#%乌列接过了你手中的礼物。#$b#巧克力…意料之中在这种节日，这是我应该收到的礼物，嗯…$0#$b#%乌列在你的注视下直接拆开了包装，吃掉了其中一颗。#$b#味道不错……谢谢你，还有瓦伦汀节快乐。$4",
-    "SDS.Valentine.Uriel.AcceptGift.4": "瓦伦汀节礼物？你一向很善于为你的爱人准备惊喜——而我想我也擅长这一点。$1#$b#%乌列拿出一个包装精美的礼物送给你。#$b#谢谢，瓦伦汀节快乐，我的伴侣@。$4#$b#这是我的回礼。$1#$b#以及…也愿圣瓦伦汀保佑我们，护佑我们的感情，愿我们面前永无障碍。$4#$b#若是你想要的话，我们也可以像以前的仪式那样，交换锁和钥匙，象征交换我们的真心。[SDS_Chocolateforyourheart]$4", //【玩家得到巧克力】
+    "SDS.Valentine.Uriel.AcceptGift.4": "瓦伦汀节礼物？你一向很善于为你的爱人准备惊喜——而我想我也擅长这一点。$1#$b#%乌列拿出一个包装精美的礼物送给你。#$b#谢谢，瓦伦汀节快乐，我的伴侣@。$4#$b#这是我的回礼。$1#$b#以及…也愿圣瓦伦汀保佑我们，护佑我们的感情，愿我们面前永无障碍。$4#$b#若是你想要的话，我们也可以像以前的仪式那样，交换锁和钥匙，象征交换我们的真心。[SDS_Chocolateforyourheart1]$4", //【玩家得到巧克力】
     /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     //[Festival Dialogue] Spring 13 - Egg Festival
     "SDS.Festivals.spring13.Hovsep": "你来啦！等会儿的活动，你也要参加吗？$1#$b#唔，我会为你加油的！不过重在参与呢，注意安全哦？$7",

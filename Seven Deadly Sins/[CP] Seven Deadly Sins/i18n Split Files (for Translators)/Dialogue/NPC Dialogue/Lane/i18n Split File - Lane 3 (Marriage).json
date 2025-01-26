@@ -9,7 +9,6 @@
     "SDS.MarriageDialogue.Lane.patio_Lane_L1old": "Ra把我捡回来的蔬菜都丢掉了！@~，你来给我评评理！$2",
     /*~*~*~*/
     "SDS.MarriageDialogue.Lane.funLeave_Lane": "今天我要在外面去捡点有意思的东西，你要和我一起吗？$5#$q 16400833/16400834 funLeave_Lane_L1old#……#$r 16400833 0 funLeave_Lane_16400833#好啊.#$r 16400834 0 funLeave_Lane_16400834#我今天还有工作.",
-    "SDS.MarriageDialogue.Lane.funLeave_Lane": "今天我要在外面去捡点有意思的东西，你要和我一起吗？$5#$q 16400833/16400834 funLeave_Lane_L1old#……#$r 16400833 0 funLeave_Lane_16400833#好啊.#$r 16400834 0 funLeave_Lane_16400834#我今天还有工作.",
     "SDS.MarriageDialogue.Lane.funLeave_Lane_16400833": "暗示成功☆。一定要来哦！别去找Ra！要~来~找~我~。$5",
     "SDS.MarriageDialogue.Lane.funLeave_Lane_16400834": "工作去死！$1",
     "SDS.MarriageDialogue.Lane.funLeave_Lane_L1old": "暗示成功☆。一定要来哦！别去找Ra！要~来~找~我~。$5",
